@@ -1,0 +1,481 @@
+reviewer_id,sub_aspect,first_cycle,second_cycle
+1,"['normal transaction', 'clear substance', 'everyone', 'someone spit']",other,other
+1,"['normal transaction', 'clear substance', 'everyone', 'someone spit']",normal,situation
+2,"['mcdonalds', 'food', 'atmosphere', 'staff']",mcdonalds,place
+2,"['mcdonalds', 'food', 'atmosphere', 'staff']",staff,service
+2,"['mcdonalds', 'food', 'atmosphere', 'staff']",other,other
+2,"['mcdonalds', 'food', 'atmosphere', 'staff']",food,food
+3,"['refund', 'money', 'line', 'mobile order']",other,other
+3,"['refund', 'money', 'line', 'mobile order']",line,situation
+3,"['refund', 'money', 'line', 'mobile order']",order,food
+4,"['chicken sandwich', 'customer', 'crispy chicken', 'customer service']",other,other
+4,"['chicken sandwich', 'customer', 'crispy chicken', 'customer service']",service,service
+4,"['chicken sandwich', 'customer', 'crispy chicken', 'customer service']",customer,service
+4,"['chicken sandwich', 'customer', 'crispy chicken', 'customer service']",chicken,food
+4,"['chicken sandwich', 'customer', 'crispy chicken', 'customer service']",sandwich,food
+5,"['double filet', 'close attention', 'order', 'large meal', 'english', 'large fry']",other,other
+5,"['double filet', 'close attention', 'order', 'large meal', 'english', 'large fry']",fry,food
+5,"['double filet', 'close attention', 'order', 'large meal', 'english', 'large fry']",order,food
+5,"['double filet', 'close attention', 'order', 'large meal', 'english', 'large fry']",meal,food
+5,"['double filet', 'close attention', 'order', 'large meal', 'english', 'large fry']",large,situation
+6,"['door dash', 'new job', 'long line', 'covid']",other,other
+6,"['door dash', 'new job', 'long line', 'covid']",line,situation
+6,"['door dash', 'new job', 'long line', 'covid']",new,other
+6,"['door dash', 'new job', 'long line', 'covid']",long,situation
+6,"['door dash', 'new job', 'long line', 'covid']",job,other
+7,"['cooky', 'simple order', 'location', 'regular hamburg', 'customer service', 'home']",other,other
+7,"['cooky', 'simple order', 'location', 'regular hamburg', 'customer service', 'home']",service,service
+7,"['cooky', 'simple order', 'location', 'regular hamburg', 'customer service', 'home']",location,place
+7,"['cooky', 'simple order', 'location', 'regular hamburg', 'customer service', 'home']",location,service
+7,"['cooky', 'simple order', 'location', 'regular hamburg', 'customer service', 'home']",customer,service
+7,"['cooky', 'simple order', 'location', 'regular hamburg', 'customer service', 'home']",order,food
+7,"['cooky', 'simple order', 'location', 'regular hamburg', 'customer service', 'home']",regular,situation
+7,"['cooky', 'simple order', 'location', 'regular hamburg', 'customer service', 'home']",regular,service
+8,"['large coffee', 'full cup', 'coffee w', 'cup']",other,other
+8,"['large coffee', 'full cup', 'coffee w', 'cup']",cup,drink
+8,"['large coffee', 'full cup', 'coffee w', 'cup']",large,situation
+8,"['large coffee', 'full cup', 'coffee w', 'cup']",coffee,drink
+9,"['order', 'restaurant', 'piece nugget', 'hard time', 'lady', 'extra sauce', 'nugget']",time,service
+9,"['order', 'restaurant', 'piece nugget', 'hard time', 'lady', 'extra sauce', 'nugget']",other,other
+9,"['order', 'restaurant', 'piece nugget', 'hard time', 'lady', 'extra sauce', 'nugget']",extra,other
+9,"['order', 'restaurant', 'piece nugget', 'hard time', 'lady', 'extra sauce', 'nugget']",lady,service
+9,"['order', 'restaurant', 'piece nugget', 'hard time', 'lady', 'extra sauce', 'nugget']",order,food
+9,"['order', 'restaurant', 'piece nugget', 'hard time', 'lady', 'extra sauce', 'nugget']",restaurant,place
+9,"['order', 'restaurant', 'piece nugget', 'hard time', 'lady', 'extra sauce', 'nugget']",nugget,food
+10,"['quality people', 'best mcds', 'quality service']",people,situation
+10,"['quality people', 'best mcds', 'quality service']",best,emotion
+10,"['quality people', 'best mcds', 'quality service']",other,other
+10,"['quality people', 'best mcds', 'quality service']",service,service
+11,"['mcdonalds', 'golden globe', 'mcdonald mcdonald', 'effort', 'series']",mcdonald,place
+11,"['mcdonalds', 'golden globe', 'mcdonald mcdonald', 'effort', 'series']",mcdonalds,place
+11,"['mcdonalds', 'golden globe', 'mcdonald mcdonald', 'effort', 'series']",other,other
+12,"['order', 'task', 'food item', 'husband', 'lady']",other,other
+12,"['order', 'task', 'food item', 'husband', 'lady']",lady,service
+12,"['order', 'task', 'food item', 'husband', 'lady']",item,food
+12,"['order', 'task', 'food item', 'husband', 'lady']",item,drink
+12,"['order', 'task', 'food item', 'husband', 'lady']",order,food
+12,"['order', 'task', 'food item', 'husband', 'lady']",food,food
+13,"['long wait', 'staff', 'different experience', 'night crew', 'hour', 'car', 'line', 'morning crew']",staff,service
+13,"['long wait', 'staff', 'different experience', 'night crew', 'hour', 'car', 'line', 'morning crew']",line,situation
+13,"['long wait', 'staff', 'different experience', 'night crew', 'hour', 'car', 'line', 'morning crew']",other,other
+13,"['long wait', 'staff', 'different experience', 'night crew', 'hour', 'car', 'line', 'morning crew']",experience,service
+13,"['long wait', 'staff', 'different experience', 'night crew', 'hour', 'car', 'line', 'morning crew']",night,situation
+13,"['long wait', 'staff', 'different experience', 'night crew', 'hour', 'car', 'line', 'morning crew']",long,situation
+13,"['long wait', 'staff', 'different experience', 'night crew', 'hour', 'car', 'line', 'morning crew']",wait,situation
+13,"['long wait', 'staff', 'different experience', 'night crew', 'hour', 'car', 'line', 'morning crew']",crew,service
+13,"['long wait', 'staff', 'different experience', 'night crew', 'hour', 'car', 'line', 'morning crew']",hour,situation
+13,"['long wait', 'staff', 'different experience', 'night crew', 'hour', 'car', 'line', 'morning crew']",car,place
+14,"['condiment', 'full order', 'hot cake', 'big breakfast', 'regular thing', 'restaurant #']",other,other
+14,"['condiment', 'full order', 'hot cake', 'big breakfast', 'regular thing', 'restaurant #']",order,food
+14,"['condiment', 'full order', 'hot cake', 'big breakfast', 'regular thing', 'restaurant #']",regular,situation
+14,"['condiment', 'full order', 'hot cake', 'big breakfast', 'regular thing', 'restaurant #']",regular,service
+14,"['condiment', 'full order', 'hot cake', 'big breakfast', 'regular thing', 'restaurant #']",restaurant,place
+15,"['lid lid', 'order food', 'burger wrong', 'drink cup', 'part', 'girl hand', 'cup lid', 'hand order', 'food burger', 'service girl', 'poor service']",other,other
+15,"['lid lid', 'order food', 'burger wrong', 'drink cup', 'part', 'girl hand', 'cup lid', 'hand order', 'food burger', 'service girl', 'poor service']",service,service
+15,"['lid lid', 'order food', 'burger wrong', 'drink cup', 'part', 'girl hand', 'cup lid', 'hand order', 'food burger', 'service girl', 'poor service']",food,food
+15,"['lid lid', 'order food', 'burger wrong', 'drink cup', 'part', 'girl hand', 'cup lid', 'hand order', 'food burger', 'service girl', 'poor service']",wrong,situation
+15,"['lid lid', 'order food', 'burger wrong', 'drink cup', 'part', 'girl hand', 'cup lid', 'hand order', 'food burger', 'service girl', 'poor service']",order,food
+15,"['lid lid', 'order food', 'burger wrong', 'drink cup', 'part', 'girl hand', 'cup lid', 'hand order', 'food burger', 'service girl', 'poor service']",cup,drink
+15,"['lid lid', 'order food', 'burger wrong', 'drink cup', 'part', 'girl hand', 'cup lid', 'hand order', 'food burger', 'service girl', 'poor service']",burger,food
+15,"['lid lid', 'order food', 'burger wrong', 'drink cup', 'part', 'girl hand', 'cup lid', 'hand order', 'food burger', 'service girl', 'poor service']",drink,drink
+15,"['lid lid', 'order food', 'burger wrong', 'drink cup', 'part', 'girl hand', 'cup lid', 'hand order', 'food burger', 'service girl', 'poor service']",lid,other
+16,"['chicken sandwich', 'food', 'sandwich', 'restaurant', 'table', 'minute']",other,other
+16,"['chicken sandwich', 'food', 'sandwich', 'restaurant', 'table', 'minute']",chicken,food
+16,"['chicken sandwich', 'food', 'sandwich', 'restaurant', 'table', 'minute']",minute,situation
+16,"['chicken sandwich', 'food', 'sandwich', 'restaurant', 'table', 'minute']",restaurant,place
+16,"['chicken sandwich', 'food', 'sandwich', 'restaurant', 'table', 'minute']",sandwich,food
+16,"['chicken sandwich', 'food', 'sandwich', 'restaurant', 'table', 'minute']",food,food
+17,"['substitute cinnabun', 'apple pie', 'cream pie', 'strawberry cream', 'staff']",staff,service
+17,"['substitute cinnabun', 'apple pie', 'cream pie', 'strawberry cream', 'staff']",other,other
+17,"['substitute cinnabun', 'apple pie', 'cream pie', 'strawberry cream', 'staff']",strawberry,food
+17,"['substitute cinnabun', 'apple pie', 'cream pie', 'strawberry cream', 'staff']",strawberry,drink
+17,"['substitute cinnabun', 'apple pie', 'cream pie', 'strawberry cream', 'staff']",cream,food
+17,"['substitute cinnabun', 'apple pie', 'cream pie', 'strawberry cream', 'staff']",cream,drink
+18,"['bag', 'drink', 'boy']",drink,drink
+18,"['bag', 'drink', 'boy']",other,other
+18,"['bag', 'drink', 'boy']",bag,other
+19,"['strawberry banana', 'hash', 'smoothie disappointed', 'fact', 'smoothy taste', 'strawberry', 'water smh', 'straight ice']",taste,other
+19,"['strawberry banana', 'hash', 'smoothie disappointed', 'fact', 'smoothy taste', 'strawberry', 'water smh', 'straight ice']",other,other
+19,"['strawberry banana', 'hash', 'smoothie disappointed', 'fact', 'smoothy taste', 'strawberry', 'water smh', 'straight ice']",strawberry,food
+19,"['strawberry banana', 'hash', 'smoothie disappointed', 'fact', 'smoothy taste', 'strawberry', 'water smh', 'straight ice']",strawberry,drink
+19,"['strawberry banana', 'hash', 'smoothie disappointed', 'fact', 'smoothy taste', 'strawberry', 'water smh', 'straight ice']",ice,other
+20,"['perpetual learning', 'order', 'staff', 'lobby']",staff,service
+20,"['perpetual learning', 'order', 'staff', 'lobby']",order,food
+20,"['perpetual learning', 'order', 'staff', 'lobby']",other,other
+21,"['more item', 'car place', 'experience', 'place order', 'name', 'order taker', 'take order', 'other car', 'rush']",other,other
+21,"['more item', 'car place', 'experience', 'place order', 'name', 'order taker', 'take order', 'other car', 'rush']",experience,service
+21,"['more item', 'car place', 'experience', 'place order', 'name', 'order taker', 'take order', 'other car', 'rush']",item,food
+21,"['more item', 'car place', 'experience', 'place order', 'name', 'order taker', 'take order', 'other car', 'rush']",item,drink
+21,"['more item', 'car place', 'experience', 'place order', 'name', 'order taker', 'take order', 'other car', 'rush']",place,place
+21,"['more item', 'car place', 'experience', 'place order', 'name', 'order taker', 'take order', 'other car', 'rush']",order,food
+21,"['more item', 'car place', 'experience', 'place order', 'name', 'order taker', 'take order', 'other car', 'rush']",car,place
+22,"['order', 'morning staff', 'evening staff', 'past year', 'lot', 'large fry']",lot,other
+22,"['order', 'morning staff', 'evening staff', 'past year', 'lot', 'large fry']",staff,service
+22,"['order', 'morning staff', 'evening staff', 'past year', 'lot', 'large fry']",other,other
+22,"['order', 'morning staff', 'evening staff', 'past year', 'lot', 'large fry']",fry,food
+22,"['order', 'morning staff', 'evening staff', 'past year', 'lot', 'large fry']",order,food
+22,"['order', 'morning staff', 'evening staff', 'past year', 'lot', 'large fry']",large,situation
+23,"['caffeine', 'drink', 'staff']",drink,drink
+23,"['caffeine', 'drink', 'staff']",other,other
+23,"['caffeine', 'drink', 'staff']",staff,service
+24,"['cold fry', 'microwave nugget', 'bad meal', 'minute wait', 'minute', 'meal']",other,other
+24,"['cold fry', 'microwave nugget', 'bad meal', 'minute wait', 'minute', 'meal']",bad,emotion
+24,"['cold fry', 'microwave nugget', 'bad meal', 'minute wait', 'minute', 'meal']",fry,food
+24,"['cold fry', 'microwave nugget', 'bad meal', 'minute wait', 'minute', 'meal']",wait,situation
+24,"['cold fry', 'microwave nugget', 'bad meal', 'minute wait', 'minute', 'meal']",minute,situation
+24,"['cold fry', 'microwave nugget', 'bad meal', 'minute wait', 'minute', 'meal']",nugget,food
+24,"['cold fry', 'microwave nugget', 'bad meal', 'minute wait', 'minute', 'meal']",meal,food
+25,['card'],other,other
+26,"['mcdonalds', 'cream machine', 'broken ice', 'lady reply', 'ice cream']",mcdonalds,place
+26,"['mcdonalds', 'cream machine', 'broken ice', 'lady reply', 'ice cream']",other,other
+26,"['mcdonalds', 'cream machine', 'broken ice', 'lady reply', 'ice cream']",lady,service
+26,"['mcdonalds', 'cream machine', 'broken ice', 'lady reply', 'ice cream']",cream,food
+26,"['mcdonalds', 'cream machine', 'broken ice', 'lady reply', 'ice cream']",cream,drink
+26,"['mcdonalds', 'cream machine', 'broken ice', 'lady reply', 'ice cream']",ice,other
+27,"['great staff', 'staff clean great', 'manager', 'everything']",staff,service
+27,"['great staff', 'staff clean great', 'manager', 'everything']",manager,service
+27,"['great staff', 'staff clean great', 'manager', 'everything']",other,other
+27,"['great staff', 'staff clean great', 'manager', 'everything']",great,emotion
+28,"['weekly travel', 'next friday', 'cnn ireport.com/travel', 'cnn.com', 'best shot', 'new gallery', 'travel snapshot', 'snapshot gallery', 'visit cnn', 'next week', 'ireporter photo']",other,other
+28,"['weekly travel', 'next friday', 'cnn ireport.com/travel', 'cnn.com', 'best shot', 'new gallery', 'travel snapshot', 'snapshot gallery', 'visit cnn', 'next week', 'ireporter photo']",next,other
+28,"['weekly travel', 'next friday', 'cnn ireport.com/travel', 'cnn.com', 'best shot', 'new gallery', 'travel snapshot', 'snapshot gallery', 'visit cnn', 'next week', 'ireporter photo']",best,emotion
+28,"['weekly travel', 'next friday', 'cnn ireport.com/travel', 'cnn.com', 'best shot', 'new gallery', 'travel snapshot', 'snapshot gallery', 'visit cnn', 'next week', 'ireporter photo']",new,other
+29,"['lazy employee', 'horrible service', 'unqualified people']",other,other
+29,"['lazy employee', 'horrible service', 'unqualified people']",employee,service
+29,"['lazy employee', 'horrible service', 'unqualified people']",service,service
+29,"['lazy employee', 'horrible service', 'unqualified people']",horrible,emotion
+29,"['lazy employee', 'horrible service', 'unqualified people']",people,situation
+30,"['sausage biscuit', 'last time', 'double quarter', 'quarter pounder', 'plain sausage']",time,service
+30,"['sausage biscuit', 'last time', 'double quarter', 'quarter pounder', 'plain sausage']",other,other
+31,"['temperature caramel', 'minute wait', 'room temperature', 'sarcasm', 'caramel mocha']",wait,situation
+31,"['temperature caramel', 'minute wait', 'room temperature', 'sarcasm', 'caramel mocha']",other,other
+31,"['temperature caramel', 'minute wait', 'room temperature', 'sarcasm', 'caramel mocha']",minute,situation
+32,"['people', 'parking lot', 'order', 'location', 'minute', 'dinner food']",lot,other
+32,"['people', 'parking lot', 'order', 'location', 'minute', 'dinner food']",other,other
+32,"['people', 'parking lot', 'order', 'location', 'minute', 'dinner food']",location,place
+32,"['people', 'parking lot', 'order', 'location', 'minute', 'dinner food']",location,service
+32,"['people', 'parking lot', 'order', 'location', 'minute', 'dinner food']",people,situation
+32,"['people', 'parking lot', 'order', 'location', 'minute', 'dinner food']",order,food
+32,"['people', 'parking lot', 'order', 'location', 'minute', 'dinner food']",minute,situation
+32,"['people', 'parking lot', 'order', 'location', 'minute', 'dinner food']",food,food
+33,"['usual thing', 'advertised price', 'pickle pickle', 'extra pickle']",pickle,food
+33,"['usual thing', 'advertised price', 'pickle pickle', 'extra pickle']",other,other
+33,"['usual thing', 'advertised price', 'pickle pickle', 'extra pickle']",extra,other
+33,"['usual thing', 'advertised price', 'pickle pickle', 'extra pickle']",price,service
+34,"['accord', 'employee seat', 'anyone', 'minute wait', 'window', 'open 24/7']",other,other
+34,"['accord', 'employee seat', 'anyone', 'minute wait', 'window', 'open 24/7']",employee,service
+34,"['accord', 'employee seat', 'anyone', 'minute wait', 'window', 'open 24/7']",window,place
+34,"['accord', 'employee seat', 'anyone', 'minute wait', 'window', 'open 24/7']",wait,situation
+34,"['accord', 'employee seat', 'anyone', 'minute wait', 'window', 'open 24/7']",minute,situation
+35,"['service', 'everything']",other,other
+35,"['service', 'everything']",service,service
+36,"['location', 'general manger', 'manger omar', 'store', 'omar delgado', 'eduardo', 'horrible store']",horrible,emotion
+36,"['location', 'general manger', 'manger omar', 'store', 'omar delgado', 'eduardo', 'horrible store']",location,place
+36,"['location', 'general manger', 'manger omar', 'store', 'omar delgado', 'eduardo', 'horrible store']",location,service
+36,"['location', 'general manger', 'manger omar', 'store', 'omar delgado', 'eduardo', 'horrible store']",other,other
+36,"['location', 'general manger', 'manger omar', 'store', 'omar delgado', 'eduardo', 'horrible store']",store,place
+37,"['ups ups', 'long line', '3rd time', 'third time']",other,other
+37,"['ups ups', 'long line', '3rd time', 'third time']",time,service
+37,"['ups ups', 'long line', '3rd time', 'third time']",line,situation
+37,"['ups ups', 'long line', '3rd time', 'third time']",3rd,other
+37,"['ups ups', 'long line', '3rd time', 'third time']",long,situation
+38,"['centre', 'job', 'staff']",staff,service
+38,"['centre', 'job', 'staff']",other,other
+38,"['centre', 'job', 'staff']",job,other
+39,"['awesome food', 'awesome service', 'food']",food,food
+39,"['awesome food', 'awesome service', 'food']",other,other
+39,"['awesome food', 'awesome service', 'food']",service,service
+40,"['chicken sandwich', 'pay window', 'crispy chicken', 'spicey chicken', 'deluxe sandwich', 'large fry']",other,other
+40,"['chicken sandwich', 'pay window', 'crispy chicken', 'spicey chicken', 'deluxe sandwich', 'large fry']",fry,food
+40,"['chicken sandwich', 'pay window', 'crispy chicken', 'spicey chicken', 'deluxe sandwich', 'large fry']",window,place
+40,"['chicken sandwich', 'pay window', 'crispy chicken', 'spicey chicken', 'deluxe sandwich', 'large fry']",chicken,food
+40,"['chicken sandwich', 'pay window', 'crispy chicken', 'spicey chicken', 'deluxe sandwich', 'large fry']",sandwich,food
+40,"['chicken sandwich', 'pay window', 'crispy chicken', 'spicey chicken', 'deluxe sandwich', 'large fry']",large,situation
+41,"['few order', 'disgust br', 'minute', 'normal menu', 'br br', 'order id']",other,other
+41,"['few order', 'disgust br', 'minute', 'normal menu', 'br br', 'order id']",order,food
+41,"['few order', 'disgust br', 'minute', 'normal menu', 'br br', 'order id']",minute,situation
+41,"['few order', 'disgust br', 'minute', 'normal menu', 'br br', 'order id']",normal,situation
+42,"['drive', 'worst mcdonald', 'order', 'bad leadership', 'leadership bad']",other,other
+42,"['drive', 'worst mcdonald', 'order', 'bad leadership', 'leadership bad']",bad,emotion
+42,"['drive', 'worst mcdonald', 'order', 'bad leadership', 'leadership bad']",mcdonald,place
+42,"['drive', 'worst mcdonald', 'order', 'bad leadership', 'leadership bad']",order,food
+42,"['drive', 'worst mcdonald', 'order', 'bad leadership', 'leadership bad']",drive,place
+43,"['food', 'good system', 'food taste', 'girlfriend', 'deal', 'tonight', 'mobile order']",good,emotion
+43,"['food', 'good system', 'food taste', 'girlfriend', 'deal', 'tonight', 'mobile order']",other,other
+43,"['food', 'good system', 'food taste', 'girlfriend', 'deal', 'tonight', 'mobile order']",order,food
+43,"['food', 'good system', 'food taste', 'girlfriend', 'deal', 'tonight', 'mobile order']",taste,other
+43,"['food', 'good system', 'food taste', 'girlfriend', 'deal', 'tonight', 'mobile order']",food,food
+44,"['few year', 'food']",food,food
+44,"['few year', 'food']",other,other
+45,"['employee', 'drink']",drink,drink
+45,"['employee', 'drink']",employee,service
+46,"['management need', 'customer']",management,service
+46,"['management need', 'customer']",customer,service
+46,"['management need', 'customer']",other,other
+47,"['mess', 'call', 'time']",time,service
+47,"['mess', 'call', 'time']",other,other
+47,"['mess', 'call', 'time']",mess,situation
+48,"['wrong', 'wait', 'shift manager', 'great day', 'major attitude']",attitude,service
+48,"['wrong', 'wait', 'shift manager', 'great day', 'major attitude']",other,other
+48,"['wrong', 'wait', 'shift manager', 'great day', 'major attitude']",day,situation
+48,"['wrong', 'wait', 'shift manager', 'great day', 'major attitude']",great,emotion
+48,"['wrong', 'wait', 'shift manager', 'great day', 'major attitude']",wrong,situation
+48,"['wrong', 'wait', 'shift manager', 'great day', 'major attitude']",wait,situation
+48,"['wrong', 'wait', 'shift manager', 'great day', 'major attitude']",manager,service
+49,"['meal fry', 'horrible service', 'work horrible', 'stank attitude', 'long hair', 'fry happy', 'service worker', 'extra fry', 'window', 'phone', 'happy meal', 'worker horrible', 'reason work']",attitude,service
+49,"['meal fry', 'horrible service', 'work horrible', 'stank attitude', 'long hair', 'fry happy', 'service worker', 'extra fry', 'window', 'phone', 'happy meal', 'worker horrible', 'reason work']",other,other
+49,"['meal fry', 'horrible service', 'work horrible', 'stank attitude', 'long hair', 'fry happy', 'service worker', 'extra fry', 'window', 'phone', 'happy meal', 'worker horrible', 'reason work']",extra,other
+49,"['meal fry', 'horrible service', 'work horrible', 'stank attitude', 'long hair', 'fry happy', 'service worker', 'extra fry', 'window', 'phone', 'happy meal', 'worker horrible', 'reason work']",service,service
+49,"['meal fry', 'horrible service', 'work horrible', 'stank attitude', 'long hair', 'fry happy', 'service worker', 'extra fry', 'window', 'phone', 'happy meal', 'worker horrible', 'reason work']",horrible,emotion
+49,"['meal fry', 'horrible service', 'work horrible', 'stank attitude', 'long hair', 'fry happy', 'service worker', 'extra fry', 'window', 'phone', 'happy meal', 'worker horrible', 'reason work']",work,service
+49,"['meal fry', 'horrible service', 'work horrible', 'stank attitude', 'long hair', 'fry happy', 'service worker', 'extra fry', 'window', 'phone', 'happy meal', 'worker horrible', 'reason work']",fry,food
+49,"['meal fry', 'horrible service', 'work horrible', 'stank attitude', 'long hair', 'fry happy', 'service worker', 'extra fry', 'window', 'phone', 'happy meal', 'worker horrible', 'reason work']",long,situation
+49,"['meal fry', 'horrible service', 'work horrible', 'stank attitude', 'long hair', 'fry happy', 'service worker', 'extra fry', 'window', 'phone', 'happy meal', 'worker horrible', 'reason work']",window,place
+49,"['meal fry', 'horrible service', 'work horrible', 'stank attitude', 'long hair', 'fry happy', 'service worker', 'extra fry', 'window', 'phone', 'happy meal', 'worker horrible', 'reason work']",phone,other
+49,"['meal fry', 'horrible service', 'work horrible', 'stank attitude', 'long hair', 'fry happy', 'service worker', 'extra fry', 'window', 'phone', 'happy meal', 'worker horrible', 'reason work']",happy,emotion
+49,"['meal fry', 'horrible service', 'work horrible', 'stank attitude', 'long hair', 'fry happy', 'service worker', 'extra fry', 'window', 'phone', 'happy meal', 'worker horrible', 'reason work']",meal,food
+50,"['order', 'hour', 'last night', 'location', 'line']",other,other
+50,"['order', 'hour', 'last night', 'location', 'line']",line,situation
+50,"['order', 'hour', 'last night', 'location', 'line']",night,situation
+50,"['order', 'hour', 'last night', 'location', 'line']",location,place
+50,"['order', 'hour', 'last night', 'location', 'line']",location,service
+50,"['order', 'hour', 'last night', 'location', 'line']",order,food
+50,"['order', 'hour', 'last night', 'location', 'line']",hour,situation
+51,"['ice cream', 'oreo mcflurry', 'different mcdonalds']",mcdonalds,place
+51,"['ice cream', 'oreo mcflurry', 'different mcdonalds']",other,other
+51,"['ice cream', 'oreo mcflurry', 'different mcdonalds']",cream,food
+51,"['ice cream', 'oreo mcflurry', 'different mcdonalds']",cream,drink
+51,"['ice cream', 'oreo mcflurry', 'different mcdonalds']",ice,other
+52,"['rude customer', 'unprofessional attitude', 'cold', 'complimentary item', 'negative review', 'overcook food', 'review negative', 'job', 'customer service']",attitude,service
+52,"['rude customer', 'unprofessional attitude', 'cold', 'complimentary item', 'negative review', 'overcook food', 'review negative', 'job', 'customer service']",other,other
+52,"['rude customer', 'unprofessional attitude', 'cold', 'complimentary item', 'negative review', 'overcook food', 'review negative', 'job', 'customer service']",rude,emotion
+52,"['rude customer', 'unprofessional attitude', 'cold', 'complimentary item', 'negative review', 'overcook food', 'review negative', 'job', 'customer service']",service,service
+52,"['rude customer', 'unprofessional attitude', 'cold', 'complimentary item', 'negative review', 'overcook food', 'review negative', 'job', 'customer service']",item,food
+52,"['rude customer', 'unprofessional attitude', 'cold', 'complimentary item', 'negative review', 'overcook food', 'review negative', 'job', 'customer service']",item,drink
+52,"['rude customer', 'unprofessional attitude', 'cold', 'complimentary item', 'negative review', 'overcook food', 'review negative', 'job', 'customer service']",customer,service
+52,"['rude customer', 'unprofessional attitude', 'cold', 'complimentary item', 'negative review', 'overcook food', 'review negative', 'job', 'customer service']",job,other
+52,"['rude customer', 'unprofessional attitude', 'cold', 'complimentary item', 'negative review', 'overcook food', 'review negative', 'job', 'customer service']",food,food
+53,"['representative', 'order', 'manager pretend']",other,other
+53,"['representative', 'order', 'manager pretend']",order,food
+53,"['representative', 'order', 'manager pretend']",manager,service
+54,"['finish order', 'food place', 'fast food']",place,place
+54,"['finish order', 'food place', 'fast food']",order,food
+54,"['finish order', 'food place', 'fast food']",other,other
+54,"['finish order', 'food place', 'fast food']",food,food
+55,"['quick drive', 'great line', 'service', 'long line']",other,other
+55,"['quick drive', 'great line', 'service', 'long line']",line,situation
+55,"['quick drive', 'great line', 'service', 'long line']",service,service
+55,"['quick drive', 'great line', 'service', 'long line']",great,emotion
+55,"['quick drive', 'great line', 'service', 'long line']",long,situation
+55,"['quick drive', 'great line', 'service', 'long line']",drive,place
+56,"['bad guy', 'good guy']",good,emotion
+56,"['bad guy', 'good guy']",other,other
+56,"['bad guy', 'good guy']",bad,emotion
+57,"['food', 'line wrap', 'nvr', 'customer service', 'star']",other,other
+57,"['food', 'line wrap', 'nvr', 'customer service', 'star']",line,situation
+57,"['food', 'line wrap', 'nvr', 'customer service', 'star']",service,service
+57,"['food', 'line wrap', 'nvr', 'customer service', 'star']",customer,service
+57,"['food', 'line wrap', 'nvr', 'customer service', 'star']",food,food
+58,"['order', 'hour', 'one']",order,food
+58,"['order', 'hour', 'one']",one,other
+58,"['order', 'hour', 'one']",hour,situation
+59,"['people', 'hour', 'place', 'teeth', 'clothes', 'open eleventeen']",people,situation
+59,"['people', 'hour', 'place', 'teeth', 'clothes', 'open eleventeen']",place,place
+59,"['people', 'hour', 'place', 'teeth', 'clothes', 'open eleventeen']",other,other
+59,"['people', 'hour', 'place', 'teeth', 'clothes', 'open eleventeen']",hour,situation
+60,"['order', 'person']",other,other
+60,"['order', 'person']",order,food
+61,"['blvd.in north', 'research blvd.in', 'north austin', 'manager', '3rd time', 'austin tx']",other,other
+61,"['blvd.in north', 'research blvd.in', 'north austin', 'manager', '3rd time', 'austin tx']",time,service
+61,"['blvd.in north', 'research blvd.in', 'north austin', 'manager', '3rd time', 'austin tx']",3rd,other
+61,"['blvd.in north', 'research blvd.in', 'north austin', 'manager', '3rd time', 'austin tx']",manager,service
+62,"['woman rude fat', 'mother', 'lady', 'fat woman']",other,other
+62,"['woman rude fat', 'mother', 'lady', 'fat woman']",rude,emotion
+62,"['woman rude fat', 'mother', 'lady', 'fat woman']",lady,service
+63,"['item', 'little bit', 'issue', 'second window', 'young lady', 'order', 'keep', 'fry', 'huge bag']",other,other
+63,"['item', 'little bit', 'issue', 'second window', 'young lady', 'order', 'keep', 'fry', 'huge bag']",issue,service
+63,"['item', 'little bit', 'issue', 'second window', 'young lady', 'order', 'keep', 'fry', 'huge bag']",lady,service
+63,"['item', 'little bit', 'issue', 'second window', 'young lady', 'order', 'keep', 'fry', 'huge bag']",item,food
+63,"['item', 'little bit', 'issue', 'second window', 'young lady', 'order', 'keep', 'fry', 'huge bag']",item,drink
+63,"['item', 'little bit', 'issue', 'second window', 'young lady', 'order', 'keep', 'fry', 'huge bag']",fry,food
+63,"['item', 'little bit', 'issue', 'second window', 'young lady', 'order', 'keep', 'fry', 'huge bag']",window,place
+63,"['item', 'little bit', 'issue', 'second window', 'young lady', 'order', 'keep', 'fry', 'huge bag']",order,food
+63,"['item', 'little bit', 'issue', 'second window', 'young lady', 'order', 'keep', 'fry', 'huge bag']",bag,other
+64,"['order', 'employee', 'other location', 'price', 'lot', 'welcome change']",lot,other
+64,"['order', 'employee', 'other location', 'price', 'lot', 'welcome change']",other,other
+64,"['order', 'employee', 'other location', 'price', 'lot', 'welcome change']",employee,service
+64,"['order', 'employee', 'other location', 'price', 'lot', 'welcome change']",price,service
+64,"['order', 'employee', 'other location', 'price', 'lot', 'welcome change']",location,place
+64,"['order', 'employee', 'other location', 'price', 'lot', 'welcome change']",location,service
+64,"['order', 'employee', 'other location', 'price', 'lot', 'welcome change']",order,food
+65,"['dining room', 'fry', 'fry container', 'huge part', 'sauce']",other,other
+65,"['dining room', 'fry', 'fry container', 'huge part', 'sauce']",fry,food
+66,"['fountain drink', 'funky taste', 'tea', 'issue', 'dish soap', 'staff']",staff,service
+66,"['fountain drink', 'funky taste', 'tea', 'issue', 'dish soap', 'staff']",issue,service
+66,"['fountain drink', 'funky taste', 'tea', 'issue', 'dish soap', 'staff']",other,other
+66,"['fountain drink', 'funky taste', 'tea', 'issue', 'dish soap', 'staff']",taste,other
+66,"['fountain drink', 'funky taste', 'tea', 'issue', 'dish soap', 'staff']",drink,drink
+67,['wrong order'],wrong,situation
+67,['wrong order'],order,food
+68,"['self', 'mcdonald']",mcdonald,place
+68,"['self', 'mcdonald']",other,other
+69,"['mcdonalds', 'uber', 'order', 'tone', 'phone', 'issue', 'connectivity issue']",mcdonalds,place
+69,"['mcdonalds', 'uber', 'order', 'tone', 'phone', 'issue', 'connectivity issue']",issue,service
+69,"['mcdonalds', 'uber', 'order', 'tone', 'phone', 'issue', 'connectivity issue']",other,other
+69,"['mcdonalds', 'uber', 'order', 'tone', 'phone', 'issue', 'connectivity issue']",phone,other
+69,"['mcdonalds', 'uber', 'order', 'tone', 'phone', 'issue', 'connectivity issue']",order,food
+70,"['ticket', 'little bit', 'large drink', 'medium drink', 'unhealthy food', 'sized meal', 'single parent', 'large fry']",other,other
+70,"['ticket', 'little bit', 'large drink', 'medium drink', 'unhealthy food', 'sized meal', 'single parent', 'large fry']",fry,food
+70,"['ticket', 'little bit', 'large drink', 'medium drink', 'unhealthy food', 'sized meal', 'single parent', 'large fry']",drink,drink
+70,"['ticket', 'little bit', 'large drink', 'medium drink', 'unhealthy food', 'sized meal', 'single parent', 'large fry']",food,food
+70,"['ticket', 'little bit', 'large drink', 'medium drink', 'unhealthy food', 'sized meal', 'single parent', 'large fry']",meal,food
+70,"['ticket', 'little bit', 'large drink', 'medium drink', 'unhealthy food', 'sized meal', 'single parent', 'large fry']",large,situation
+71,"['play game', 'night', 'money', 'jock', 'management', 'phone', 'customer service', 'staff play', 'next visit']",staff,service
+71,"['play game', 'night', 'money', 'jock', 'management', 'phone', 'customer service', 'staff play', 'next visit']",next,other
+71,"['play game', 'night', 'money', 'jock', 'management', 'phone', 'customer service', 'staff play', 'next visit']",other,other
+71,"['play game', 'night', 'money', 'jock', 'management', 'phone', 'customer service', 'staff play', 'next visit']",service,service
+71,"['play game', 'night', 'money', 'jock', 'management', 'phone', 'customer service', 'staff play', 'next visit']",night,situation
+71,"['play game', 'night', 'money', 'jock', 'management', 'phone', 'customer service', 'staff play', 'next visit']",customer,service
+71,"['play game', 'night', 'money', 'jock', 'management', 'phone', 'customer service', 'staff play', 'next visit']",phone,other
+71,"['play game', 'night', 'money', 'jock', 'management', 'phone', 'customer service', 'staff play', 'next visit']",management,service
+72,"['food', 'cashier', 'fry', 'affordable price', 'place good', 'good place', 'nugget']",good,emotion
+72,"['food', 'cashier', 'fry', 'affordable price', 'place good', 'good place', 'nugget']",other,other
+72,"['food', 'cashier', 'fry', 'affordable price', 'place good', 'good place', 'nugget']",price,service
+72,"['food', 'cashier', 'fry', 'affordable price', 'place good', 'good place', 'nugget']",fry,food
+72,"['food', 'cashier', 'fry', 'affordable price', 'place good', 'good place', 'nugget']",place,place
+72,"['food', 'cashier', 'fry', 'affordable price', 'place good', 'good place', 'nugget']",nugget,food
+72,"['food', 'cashier', 'fry', 'affordable price', 'place good', 'good place', 'nugget']",food,food
+73,['total silence'],other,other
+74,"['dozen soda', 'second window', 'trouble']",other,other
+74,"['dozen soda', 'second window', 'trouble']",window,place
+75,"['face', 'bag', 'cheese', 'nothing', 'hamburger wrapper']",other,other
+75,"['face', 'bag', 'cheese', 'nothing', 'hamburger wrapper']",bag,other
+76,"['buyer', 'incorrect item', 'mistake', 'location love', 'something', 'order incorrect']",other,other
+76,"['buyer', 'incorrect item', 'mistake', 'location love', 'something', 'order incorrect']",location,place
+76,"['buyer', 'incorrect item', 'mistake', 'location love', 'something', 'order incorrect']",location,service
+76,"['buyer', 'incorrect item', 'mistake', 'location love', 'something', 'order incorrect']",order,food
+76,"['buyer', 'incorrect item', 'mistake', 'location love', 'something', 'order incorrect']",item,food
+76,"['buyer', 'incorrect item', 'mistake', 'location love', 'something', 'order incorrect']",item,drink
+77,"['service', 'quick bite', 'lake creek', 'good place', 'most location']",good,emotion
+77,"['service', 'quick bite', 'lake creek', 'good place', 'most location']",other,other
+77,"['service', 'quick bite', 'lake creek', 'good place', 'most location']",service,service
+77,"['service', 'quick bite', 'lake creek', 'good place', 'most location']",location,place
+77,"['service', 'quick bite', 'lake creek', 'good place', 'most location']",location,service
+77,"['service', 'quick bite', 'lake creek', 'good place', 'most location']",place,place
+78,"['food', 'cashier']",food,food
+78,"['food', 'cashier']",other,other
+79,"['manager', 'satisfied customer', 'customer service', 'great customer']",other,other
+79,"['manager', 'satisfied customer', 'customer service', 'great customer']",great,emotion
+79,"['manager', 'satisfied customer', 'customer service', 'great customer']",service,service
+79,"['manager', 'satisfied customer', 'customer service', 'great customer']",customer,service
+79,"['manager', 'satisfied customer', 'customer service', 'great customer']",manager,service
+80,['drive'],drive,place
+81,"['sandwich', 'proper way', 'new help', 'nice person', 'evening manager', 'order', 'everytime', 'crew']",other,other
+81,"['sandwich', 'proper way', 'new help', 'nice person', 'evening manager', 'order', 'everytime', 'crew']",new,other
+81,"['sandwich', 'proper way', 'new help', 'nice person', 'evening manager', 'order', 'everytime', 'crew']",order,food
+81,"['sandwich', 'proper way', 'new help', 'nice person', 'evening manager', 'order', 'everytime', 'crew']",sandwich,food
+81,"['sandwich', 'proper way', 'new help', 'nice person', 'evening manager', 'order', 'everytime', 'crew']",crew,service
+81,"['sandwich', 'proper way', 'new help', 'nice person', 'evening manager', 'order', 'everytime', 'crew']",manager,service
+82,"['food', 'preferred location', 'timely manner', 'staff', 'entrance']",staff,service
+82,"['food', 'preferred location', 'timely manner', 'staff', 'entrance']",location,place
+82,"['food', 'preferred location', 'timely manner', 'staff', 'entrance']",location,service
+82,"['food', 'preferred location', 'timely manner', 'staff', 'entrance']",other,other
+82,"['food', 'preferred location', 'timely manner', 'staff', 'entrance']",food,food
+83,"['attendant scream', 'attendant']",other,other
+84,"['regular meal', 'normal meal', 'store', 'meal period', 'fresher food']",other,other
+84,"['regular meal', 'normal meal', 'store', 'meal period', 'fresher food']",store,place
+84,"['regular meal', 'normal meal', 'store', 'meal period', 'fresher food']",regular,situation
+84,"['regular meal', 'normal meal', 'store', 'meal period', 'fresher food']",regular,service
+84,"['regular meal', 'normal meal', 'store', 'meal period', 'fresher food']",food,food
+84,"['regular meal', 'normal meal', 'store', 'meal period', 'fresher food']",meal,food
+84,"['regular meal', 'normal meal', 'store', 'meal period', 'fresher food']",normal,situation
+85,"['best coffee', 'great time', 'coffee shop', 'machine best', 'good day', 'great coffee', 'great day']",good,emotion
+85,"['best coffee', 'great time', 'coffee shop', 'machine best', 'good day', 'great coffee', 'great day']",time,service
+85,"['best coffee', 'great time', 'coffee shop', 'machine best', 'good day', 'great coffee', 'great day']",other,other
+85,"['best coffee', 'great time', 'coffee shop', 'machine best', 'good day', 'great coffee', 'great day']",day,situation
+85,"['best coffee', 'great time', 'coffee shop', 'machine best', 'good day', 'great coffee', 'great day']",great,emotion
+85,"['best coffee', 'great time', 'coffee shop', 'machine best', 'good day', 'great coffee', 'great day']",best,emotion
+85,"['best coffee', 'great time', 'coffee shop', 'machine best', 'good day', 'great coffee', 'great day']",coffee,drink
+86,"['great service', 'order', 'hour location', 'place', 'yourselves']",other,other
+86,"['great service', 'order', 'hour location', 'place', 'yourselves']",great,emotion
+86,"['great service', 'order', 'hour location', 'place', 'yourselves']",service,service
+86,"['great service', 'order', 'hour location', 'place', 'yourselves']",location,place
+86,"['great service', 'order', 'hour location', 'place', 'yourselves']",location,service
+86,"['great service', 'order', 'hour location', 'place', 'yourselves']",place,place
+86,"['great service', 'order', 'hour location', 'place', 'yourselves']",order,food
+86,"['great service', 'order', 'hour location', 'place', 'yourselves']",hour,situation
+87,"['grandkids', 'burger', 'happy meal', 'plain cheeseburger']",happy,emotion
+87,"['grandkids', 'burger', 'happy meal', 'plain cheeseburger']",other,other
+87,"['grandkids', 'burger', 'happy meal', 'plain cheeseburger']",meal,food
+87,"['grandkids', 'burger', 'happy meal', 'plain cheeseburger']",burger,food
+88,"['mcdonalds', 'kitchen staff', 'fast food', 'job', 'food company', 'line', 'robot']",mcdonalds,place
+88,"['mcdonalds', 'kitchen staff', 'fast food', 'job', 'food company', 'line', 'robot']",line,situation
+88,"['mcdonalds', 'kitchen staff', 'fast food', 'job', 'food company', 'line', 'robot']",staff,service
+88,"['mcdonalds', 'kitchen staff', 'fast food', 'job', 'food company', 'line', 'robot']",other,other
+88,"['mcdonalds', 'kitchen staff', 'fast food', 'job', 'food company', 'line', 'robot']",job,other
+88,"['mcdonalds', 'kitchen staff', 'fast food', 'job', 'food company', 'line', 'robot']",food,food
+89,"['mcdonalds', 'window shove', 'new one', 'complete order', 'single time', 'manager', 'order wrong']",time,service
+89,"['mcdonalds', 'window shove', 'new one', 'complete order', 'single time', 'manager', 'order wrong']",mcdonalds,place
+89,"['mcdonalds', 'window shove', 'new one', 'complete order', 'single time', 'manager', 'order wrong']",new,other
+89,"['mcdonalds', 'window shove', 'new one', 'complete order', 'single time', 'manager', 'order wrong']",other,other
+89,"['mcdonalds', 'window shove', 'new one', 'complete order', 'single time', 'manager', 'order wrong']",wrong,situation
+89,"['mcdonalds', 'window shove', 'new one', 'complete order', 'single time', 'manager', 'order wrong']",one,other
+89,"['mcdonalds', 'window shove', 'new one', 'complete order', 'single time', 'manager', 'order wrong']",window,place
+89,"['mcdonalds', 'window shove', 'new one', 'complete order', 'single time', 'manager', 'order wrong']",order,food
+89,"['mcdonalds', 'window shove', 'new one', 'complete order', 'single time', 'manager', 'order wrong']",manager,service
+90,"['extra fry', 'difference', 'night', 'fry', 'team', 'night time', 'meal', 'food window']",time,service
+90,"['extra fry', 'difference', 'night', 'fry', 'team', 'night time', 'meal', 'food window']",other,other
+90,"['extra fry', 'difference', 'night', 'fry', 'team', 'night time', 'meal', 'food window']",extra,other
+90,"['extra fry', 'difference', 'night', 'fry', 'team', 'night time', 'meal', 'food window']",night,situation
+90,"['extra fry', 'difference', 'night', 'fry', 'team', 'night time', 'meal', 'food window']",fry,food
+90,"['extra fry', 'difference', 'night', 'fry', 'team', 'night time', 'meal', 'food window']",window,place
+90,"['extra fry', 'difference', 'night', 'fry', 'team', 'night time', 'meal', 'food window']",food,food
+90,"['extra fry', 'difference', 'night', 'fry', 'team', 'night time', 'meal', 'food window']",meal,food
+91,"['drive', 'lesson', '3rd time', 'mess', 'location suck', 'youd', 'number']",time,service
+91,"['drive', 'lesson', '3rd time', 'mess', 'location suck', 'youd', 'number']",other,other
+91,"['drive', 'lesson', '3rd time', 'mess', 'location suck', 'youd', 'number']",3rd,other
+91,"['drive', 'lesson', '3rd time', 'mess', 'location suck', 'youd', 'number']",location,place
+91,"['drive', 'lesson', '3rd time', 'mess', 'location suck', 'youd', 'number']",location,service
+91,"['drive', 'lesson', '3rd time', 'mess', 'location suck', 'youd', 'number']",drive,place
+91,"['drive', 'lesson', '3rd time', 'mess', 'location suck', 'youd', 'number']",mess,situation
+92,"['worst experience', 'regular size', 'coffee ground', 'size coffee']",other,other
+92,"['worst experience', 'regular size', 'coffee ground', 'size coffee']",regular,situation
+92,"['worst experience', 'regular size', 'coffee ground', 'size coffee']",regular,service
+92,"['worst experience', 'regular size', 'coffee ground', 'size coffee']",coffee,drink
+92,"['worst experience', 'regular size', 'coffee ground', 'size coffee']",experience,service
+93,"['one', 'attempt', 'sign', 'employee', 'attention']",one,other
+93,"['one', 'attempt', 'sign', 'employee', 'attention']",other,other
+93,"['one', 'attempt', 'sign', 'employee', 'attention']",employee,service
+94,"['someone', 'food', 'place', 'kiosk', 'number']",place,place
+94,"['someone', 'food', 'place', 'kiosk', 'number']",other,other
+94,"['someone', 'food', 'place', 'kiosk', 'number']",food,food
+95,"['raw burger', 'counter', 'lady']",other,other
+95,"['raw burger', 'counter', 'lady']",lady,service
+95,"['raw burger', 'counter', 'lady']",burger,food
+96,"['corporate need', 'basic manor', 'staff', 'work ethic', 'time management']",time,service
+96,"['corporate need', 'basic manor', 'staff', 'work ethic', 'time management']",staff,service
+96,"['corporate need', 'basic manor', 'staff', 'work ethic', 'time management']",other,other
+96,"['corporate need', 'basic manor', 'staff', 'work ethic', 'time management']",work,service
+96,"['corporate need', 'basic manor', 'staff', 'work ethic', 'time management']",management,service
+97,"['order food', 'microphone', 'employee', 'mess']",other,other
+97,"['order food', 'microphone', 'employee', 'mess']",employee,service
+97,"['order food', 'microphone', 'employee', 'mess']",order,food
+97,"['order food', 'microphone', 'employee', 'mess']",food,food
+97,"['order food', 'microphone', 'employee', 'mess']",mess,situation
+98,"['location', 'place', 'rude service', 'order wrong']",rude,emotion
+98,"['location', 'place', 'rude service', 'order wrong']",service,service
+98,"['location', 'place', 'rude service', 'order wrong']",wrong,situation
+98,"['location', 'place', 'rude service', 'order wrong']",location,place
+98,"['location', 'place', 'rude service', 'order wrong']",location,service
+98,"['location', 'place', 'rude service', 'order wrong']",place,place
+98,"['location', 'place', 'rude service', 'order wrong']",order,food
+99,"['allways', 'best fry', 'ice cream']",other,other
+99,"['allways', 'best fry', 'ice cream']",fry,food
+99,"['allways', 'best fry', 'ice cream']",best,emotion
+99,"['allways', 'best fry', 'ice cream']",cream,food
+99,"['allways', 'best fry', 'ice cream']",cream,drink
+99,"['allways', 'best fry', 'ice cream']",ice,other
+100,"['mcdonalds', 'order', 'people', 'english']",mcdonalds,place
+100,"['mcdonalds', 'order', 'people', 'english']",order,food
+100,"['mcdonalds', 'order', 'people', 'english']",other,other
+100,"['mcdonalds', 'order', 'people', 'english']",people,situation
