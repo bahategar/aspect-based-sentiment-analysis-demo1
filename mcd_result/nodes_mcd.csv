@@ -1,477 +1,501 @@
-node_id,reviewer_id,first_cycle,second_cycle,residu,category
-0,1,normal,situation,"{'transaction', 'substance', 'someone', 'everyone', 'clear', 'spit'}",place and service
-1,1,other,other,"{'transaction', 'substance', 'someone', 'everyone', 'clear', 'spit'}",other
-2,2,mcdonalds,place,{'atmosphere'},place and service
-3,2,food,food,{'atmosphere'},food and drink
-4,2,staff,service,{'atmosphere'},place and service
-5,2,other,other,{'atmosphere'},other
-6,3,order,food,"{'refund', 'money', 'mobile'}",food and drink
-7,3,line,situation,"{'refund', 'money', 'mobile'}",place and service
-8,3,other,other,"{'refund', 'money', 'mobile'}",other
-9,4,service,service,{'crispy'},place and service
-10,4,sandwich,food,{'crispy'},food and drink
-11,4,chicken,food,{'crispy'},food and drink
-12,4,customer,service,{'crispy'},place and service
-13,4,other,other,{'crispy'},other
-14,5,fry,food,"{'filet', 'close', 'english', 'attention', 'double'}",food and drink
-15,5,large,situation,"{'filet', 'close', 'english', 'attention', 'double'}",place and service
-16,5,meal,food,"{'filet', 'close', 'english', 'attention', 'double'}",food and drink
-17,5,other,other,"{'filet', 'close', 'english', 'attention', 'double'}",other
-18,5,order,food,"{'filet', 'close', 'english', 'attention', 'double'}",food and drink
-19,6,long,situation,"{'door', 'covid', 'dash'}",place and service
-20,6,job,other,"{'door', 'covid', 'dash'}",other
-21,6,other,other,"{'door', 'covid', 'dash'}",other
-22,6,line,situation,"{'door', 'covid', 'dash'}",place and service
-23,6,new,other,"{'door', 'covid', 'dash'}",other
-24,7,location,place,"{'simple', 'hamburg', 'cooky', 'home'}",place and service
-25,7,location,service,"{'simple', 'hamburg', 'cooky', 'home'}",place and service
-26,7,service,service,"{'simple', 'hamburg', 'cooky', 'home'}",place and service
-27,7,customer,service,"{'simple', 'hamburg', 'cooky', 'home'}",place and service
-28,7,other,other,"{'simple', 'hamburg', 'cooky', 'home'}",other
-29,7,regular,situation,"{'simple', 'hamburg', 'cooky', 'home'}",place and service
-30,7,regular,service,"{'simple', 'hamburg', 'cooky', 'home'}",place and service
-31,7,order,food,"{'simple', 'hamburg', 'cooky', 'home'}",food and drink
-32,8,cup,drink,"{'full', 'w'}",food and drink
-33,8,coffee,drink,"{'full', 'w'}",food and drink
-34,8,large,situation,"{'full', 'w'}",place and service
-35,8,other,other,"{'full', 'w'}",other
-36,9,extra,other,"{'hard', 'sauce', 'piece'}",other
-37,9,lady,service,"{'hard', 'sauce', 'piece'}",place and service
-38,9,restaurant,place,"{'hard', 'sauce', 'piece'}",place and service
-39,9,nugget,food,"{'hard', 'sauce', 'piece'}",food and drink
-40,9,other,other,"{'hard', 'sauce', 'piece'}",other
-41,9,order,food,"{'hard', 'sauce', 'piece'}",food and drink
-42,9,time,service,"{'hard', 'sauce', 'piece'}",place and service
-43,10,people,situation,"{'quality', 'mcds'}",place and service
-44,10,service,service,"{'quality', 'mcds'}",place and service
-45,10,best,emotion,"{'quality', 'mcds'}",sentiment
-46,10,other,other,"{'quality', 'mcds'}",other
-47,11,mcdonald,place,"{'globe', 'effort', 'golden', 'series'}",place and service
-48,11,mcdonalds,place,"{'globe', 'effort', 'golden', 'series'}",place and service
-49,11,other,other,"{'globe', 'effort', 'golden', 'series'}",other
-50,12,lady,service,"{'husband', 'task'}",place and service
-51,12,food,food,"{'husband', 'task'}",food and drink
-52,12,item,food,"{'husband', 'task'}",food and drink
-53,12,item,drink,"{'husband', 'task'}",food and drink
-54,12,other,other,"{'husband', 'task'}",other
-55,12,order,food,"{'husband', 'task'}",food and drink
-56,13,car,place,"{'morning', 'different'}",place and service
-57,13,crew,service,"{'morning', 'different'}",place and service
-58,13,long,situation,"{'morning', 'different'}",place and service
-59,13,hour,situation,"{'morning', 'different'}",place and service
-60,13,night,situation,"{'morning', 'different'}",place and service
-61,13,staff,service,"{'morning', 'different'}",place and service
-62,13,other,other,"{'morning', 'different'}",other
-63,13,wait,situation,"{'morning', 'different'}",place and service
-64,13,line,situation,"{'morning', 'different'}",place and service
-65,13,experience,service,"{'morning', 'different'}",place and service
-66,14,regular,situation,"{'thing', 'breakfast', 'condiment', '#', 'cake', 'big', 'full', 'hot'}",place and service
-67,14,regular,service,"{'thing', 'breakfast', 'condiment', '#', 'cake', 'big', 'full', 'hot'}",place and service
-68,14,order,food,"{'thing', 'breakfast', 'condiment', '#', 'cake', 'big', 'full', 'hot'}",food and drink
-69,14,restaurant,place,"{'thing', 'breakfast', 'condiment', '#', 'cake', 'big', 'full', 'hot'}",place and service
-70,14,other,other,"{'thing', 'breakfast', 'condiment', '#', 'cake', 'big', 'full', 'hot'}",other
-71,15,lid,other,"{'part', 'poor', 'girl', 'hand'}",other
-72,15,drink,drink,"{'part', 'poor', 'girl', 'hand'}",food and drink
-73,15,food,food,"{'part', 'poor', 'girl', 'hand'}",food and drink
-74,15,service,service,"{'part', 'poor', 'girl', 'hand'}",place and service
-75,15,burger,food,"{'part', 'poor', 'girl', 'hand'}",food and drink
-76,15,wrong,situation,"{'part', 'poor', 'girl', 'hand'}",place and service
-77,15,other,other,"{'part', 'poor', 'girl', 'hand'}",other
-78,15,order,food,"{'part', 'poor', 'girl', 'hand'}",food and drink
-79,15,cup,drink,"{'part', 'poor', 'girl', 'hand'}",food and drink
-80,16,minute,situation,{'table'},place and service
-81,16,food,food,{'table'},food and drink
-82,16,sandwich,food,{'table'},food and drink
-83,16,restaurant,place,{'table'},place and service
-84,16,chicken,food,{'table'},food and drink
-85,16,other,other,{'table'},other
-86,17,cream,food,"{'cinnabun', 'substitute', 'strawberry', 'pie', 'apple'}",food and drink
-87,17,cream,drink,"{'cinnabun', 'substitute', 'strawberry', 'pie', 'apple'}",food and drink
-88,17,staff,service,"{'cinnabun', 'substitute', 'strawberry', 'pie', 'apple'}",place and service
-89,17,other,other,"{'cinnabun', 'substitute', 'strawberry', 'pie', 'apple'}",other
-90,18,bag,other,{'boy'},other
-91,18,drink,drink,{'boy'},food and drink
-92,18,other,other,{'boy'},other
-93,19,other,other,"{'straight', 'hash', 'strawberry', 'smoothie', 'fact', 'water', 'banana', 'disappointed', 'smh', 'smoothy'}",other
-94,19,ice,drink,"{'straight', 'hash', 'strawberry', 'smoothie', 'fact', 'water', 'banana', 'disappointed', 'smh', 'smoothy'}",food and drink
-95,19,taste,other,"{'straight', 'hash', 'strawberry', 'smoothie', 'fact', 'water', 'banana', 'disappointed', 'smh', 'smoothy'}",other
-96,20,order,food,"{'learning', 'perpetual', 'lobby'}",food and drink
-97,20,staff,service,"{'learning', 'perpetual', 'lobby'}",place and service
-98,20,other,other,"{'learning', 'perpetual', 'lobby'}",other
-99,21,car,place,"{'rush', 'taker', 'take', 'name', 'more', 'other'}",place and service
-100,21,place,place,"{'rush', 'taker', 'take', 'name', 'more', 'other'}",place and service
-101,21,item,food,"{'rush', 'taker', 'take', 'name', 'more', 'other'}",food and drink
-102,21,item,drink,"{'rush', 'taker', 'take', 'name', 'more', 'other'}",food and drink
-103,21,other,other,"{'rush', 'taker', 'take', 'name', 'more', 'other'}",other
-104,21,order,food,"{'rush', 'taker', 'take', 'name', 'more', 'other'}",food and drink
-105,21,experience,service,"{'rush', 'taker', 'take', 'name', 'more', 'other'}",place and service
-106,22,fry,food,"{'morning', 'past', 'year', 'evening'}",food and drink
-107,22,staff,service,"{'morning', 'past', 'year', 'evening'}",place and service
-108,22,large,situation,"{'morning', 'past', 'year', 'evening'}",place and service
-109,22,other,other,"{'morning', 'past', 'year', 'evening'}",other
-110,22,order,food,"{'morning', 'past', 'year', 'evening'}",food and drink
-111,22,lot,other,"{'morning', 'past', 'year', 'evening'}",other
-112,23,staff,service,{'caffeine'},place and service
-113,23,drink,drink,{'caffeine'},food and drink
-114,23,other,other,{'caffeine'},other
-115,24,bad,emotion,"{'microwave', 'cold'}",sentiment
-116,24,minute,situation,"{'microwave', 'cold'}",place and service
-117,24,fry,food,"{'microwave', 'cold'}",food and drink
-118,24,nugget,food,"{'microwave', 'cold'}",food and drink
-119,24,meal,food,"{'microwave', 'cold'}",food and drink
-120,24,other,other,"{'microwave', 'cold'}",other
-121,24,wait,situation,"{'microwave', 'cold'}",place and service
-122,25,other,other,{'card'},other
-123,26,cream,food,"{'broken', 'machine', 'reply'}",food and drink
-124,26,cream,drink,"{'broken', 'machine', 'reply'}",food and drink
-125,26,ice,drink,"{'broken', 'machine', 'reply'}",food and drink
-126,26,lady,service,"{'broken', 'machine', 'reply'}",place and service
-127,26,mcdonalds,place,"{'broken', 'machine', 'reply'}",place and service
-128,26,other,other,"{'broken', 'machine', 'reply'}",other
-129,27,other,other,"{'everything', 'clean'}",other
-130,27,manager,service,"{'everything', 'clean'}",place and service
-131,27,staff,service,"{'everything', 'clean'}",place and service
-132,27,great,emotion,"{'everything', 'clean'}",sentiment
-133,28,other,other,"{'snapshot', 'travel', 'visit', 'friday', 'shot', 'photo', 'cnn', 'ireporter', 'cnn.com', 'ireport.com/travel', 'week', 'gallery', 'weekly'}",other
-134,28,best,emotion,"{'snapshot', 'travel', 'visit', 'friday', 'shot', 'photo', 'cnn', 'ireporter', 'cnn.com', 'ireport.com/travel', 'week', 'gallery', 'weekly'}",sentiment
-135,28,next,other,"{'snapshot', 'travel', 'visit', 'friday', 'shot', 'photo', 'cnn', 'ireporter', 'cnn.com', 'ireport.com/travel', 'week', 'gallery', 'weekly'}",other
-136,28,new,other,"{'snapshot', 'travel', 'visit', 'friday', 'shot', 'photo', 'cnn', 'ireporter', 'cnn.com', 'ireport.com/travel', 'week', 'gallery', 'weekly'}",other
-137,29,service,service,"{'lazy', 'unqualified'}",place and service
-138,29,people,situation,"{'lazy', 'unqualified'}",place and service
-139,29,employee,service,"{'lazy', 'unqualified'}",place and service
-140,29,other,other,"{'lazy', 'unqualified'}",other
-141,29,horrible,emotion,"{'lazy', 'unqualified'}",sentiment
-142,30,time,service,"{'sausage', 'biscuit', 'last', 'plain', 'pounder', 'double', 'quarter'}",place and service
-143,30,other,other,"{'sausage', 'biscuit', 'last', 'plain', 'pounder', 'double', 'quarter'}",other
-144,31,wait,situation,"{'sarcasm', 'mocha', 'caramel', 'room', 'temperature'}",place and service
-145,31,minute,situation,"{'sarcasm', 'mocha', 'caramel', 'room', 'temperature'}",place and service
-146,31,other,other,"{'sarcasm', 'mocha', 'caramel', 'room', 'temperature'}",other
-147,32,location,place,"{'dinner', 'parking'}",place and service
-148,32,location,service,"{'dinner', 'parking'}",place and service
-149,32,minute,situation,"{'dinner', 'parking'}",place and service
-150,32,food,food,"{'dinner', 'parking'}",food and drink
-151,32,people,situation,"{'dinner', 'parking'}",place and service
-152,32,other,other,"{'dinner', 'parking'}",other
-153,32,order,food,"{'dinner', 'parking'}",food and drink
-154,32,lot,other,"{'dinner', 'parking'}",other
-155,33,pickle,food,"{'advertised', 'thing', 'usual'}",food and drink
-156,33,extra,other,"{'advertised', 'thing', 'usual'}",other
-157,33,price,service,"{'advertised', 'thing', 'usual'}",place and service
-158,33,other,other,"{'advertised', 'thing', 'usual'}",other
-159,34,minute,situation,"{'24/7', 'open', 'anyone', 'seat', 'accord'}",place and service
-160,34,employee,service,"{'24/7', 'open', 'anyone', 'seat', 'accord'}",place and service
-161,34,window,place,"{'24/7', 'open', 'anyone', 'seat', 'accord'}",place and service
-162,34,other,other,"{'24/7', 'open', 'anyone', 'seat', 'accord'}",other
-163,34,wait,situation,"{'24/7', 'open', 'anyone', 'seat', 'accord'}",place and service
-164,35,service,service,{'everything'},place and service
-165,35,other,other,{'everything'},other
-166,36,horrible,emotion,"{'eduardo', 'delgado', 'general', 'manger', 'omar'}",sentiment
-167,36,location,place,"{'eduardo', 'delgado', 'general', 'manger', 'omar'}",place and service
-168,36,location,service,"{'eduardo', 'delgado', 'general', 'manger', 'omar'}",place and service
-169,36,store,place,"{'eduardo', 'delgado', 'general', 'manger', 'omar'}",place and service
-170,36,other,other,"{'eduardo', 'delgado', 'general', 'manger', 'omar'}",other
-171,37,long,situation,"{'third', 'ups'}",place and service
-172,37,3rd,other,"{'third', 'ups'}",other
-173,37,other,other,"{'third', 'ups'}",other
-174,37,line,situation,"{'third', 'ups'}",place and service
-175,37,time,service,"{'third', 'ups'}",place and service
-176,38,staff,service,{'centre'},place and service
-177,38,job,other,{'centre'},other
-178,38,other,other,{'centre'},other
-179,39,food,food,{'awesome'},food and drink
-180,39,service,service,{'awesome'},place and service
-181,39,other,other,{'awesome'},other
-182,40,sandwich,food,"{'pay', 'spicey', 'crispy', 'deluxe'}",food and drink
-183,40,fry,food,"{'pay', 'spicey', 'crispy', 'deluxe'}",food and drink
-184,40,window,place,"{'pay', 'spicey', 'crispy', 'deluxe'}",place and service
-185,40,large,situation,"{'pay', 'spicey', 'crispy', 'deluxe'}",place and service
-186,40,chicken,food,"{'pay', 'spicey', 'crispy', 'deluxe'}",food and drink
-187,40,other,other,"{'pay', 'spicey', 'crispy', 'deluxe'}",other
-188,41,minute,situation,"{'disgust', 'few', 'menu', 'br', 'id'}",place and service
-189,41,order,food,"{'disgust', 'few', 'menu', 'br', 'id'}",food and drink
-190,41,normal,situation,"{'disgust', 'few', 'menu', 'br', 'id'}",place and service
-191,41,other,other,"{'disgust', 'few', 'menu', 'br', 'id'}",other
-192,42,mcdonald,place,"{'worst', 'leadership'}",place and service
-193,42,bad,emotion,"{'worst', 'leadership'}",sentiment
-194,42,drive,place,"{'worst', 'leadership'}",place and service
-195,42,other,other,"{'worst', 'leadership'}",other
-196,42,order,food,"{'worst', 'leadership'}",food and drink
-197,43,food,food,"{'system', 'deal', 'girlfriend', 'tonight', 'mobile'}",food and drink
-198,43,taste,other,"{'system', 'deal', 'girlfriend', 'tonight', 'mobile'}",other
-199,43,good,emotion,"{'system', 'deal', 'girlfriend', 'tonight', 'mobile'}",sentiment
-200,43,other,other,"{'system', 'deal', 'girlfriend', 'tonight', 'mobile'}",other
-201,43,order,food,"{'system', 'deal', 'girlfriend', 'tonight', 'mobile'}",food and drink
-202,44,food,food,"{'few', 'year'}",food and drink
-203,44,other,other,"{'few', 'year'}",other
-204,45,employee,service,set(),place and service
-205,45,drink,drink,set(),food and drink
-206,46,management,service,{'need'},place and service
-207,46,customer,service,{'need'},place and service
-208,46,other,other,{'need'},other
-209,47,mess,situation,{'call'},place and service
-210,47,time,service,{'call'},place and service
-211,47,other,other,{'call'},other
-212,48,manager,service,"{'major', 'shift'}",place and service
-213,48,attitude,service,"{'major', 'shift'}",place and service
-214,48,wrong,situation,"{'major', 'shift'}",place and service
-215,48,other,other,"{'major', 'shift'}",other
-216,48,wait,situation,"{'major', 'shift'}",place and service
-217,48,great,emotion,"{'major', 'shift'}",sentiment
-218,48,day,situation,"{'major', 'shift'}",place and service
-219,49,extra,other,"{'hair', 'stank', 'worker', 'reason'}",other
-220,49,attitude,service,"{'hair', 'stank', 'worker', 'reason'}",place and service
-221,49,service,service,"{'hair', 'stank', 'worker', 'reason'}",place and service
-222,49,long,situation,"{'hair', 'stank', 'worker', 'reason'}",place and service
-223,49,happy,emotion,"{'hair', 'stank', 'worker', 'reason'}",sentiment
-224,49,fry,food,"{'hair', 'stank', 'worker', 'reason'}",food and drink
-225,49,window,place,"{'hair', 'stank', 'worker', 'reason'}",place and service
-226,49,work,service,"{'hair', 'stank', 'worker', 'reason'}",place and service
-227,49,meal,food,"{'hair', 'stank', 'worker', 'reason'}",food and drink
-228,49,other,other,"{'hair', 'stank', 'worker', 'reason'}",other
-229,49,horrible,emotion,"{'hair', 'stank', 'worker', 'reason'}",sentiment
-230,49,phone,other,"{'hair', 'stank', 'worker', 'reason'}",other
-231,50,location,place,{'last'},place and service
-232,50,location,service,{'last'},place and service
-233,50,hour,situation,{'last'},place and service
-234,50,night,situation,{'last'},place and service
-235,50,other,other,{'last'},other
-236,50,order,food,{'last'},food and drink
-237,50,line,situation,{'last'},place and service
-238,51,cream,food,"{'oreo', 'different', 'mcflurry'}",food and drink
-239,51,cream,drink,"{'oreo', 'different', 'mcflurry'}",food and drink
-240,51,ice,drink,"{'oreo', 'different', 'mcflurry'}",food and drink
-241,51,mcdonalds,place,"{'oreo', 'different', 'mcflurry'}",place and service
-242,51,other,other,"{'oreo', 'different', 'mcflurry'}",other
-243,52,rude,emotion,"{'cold', 'unprofessional', 'complimentary', 'negative', 'review', 'overcook'}",sentiment
-244,52,attitude,service,"{'cold', 'unprofessional', 'complimentary', 'negative', 'review', 'overcook'}",place and service
-245,52,food,food,"{'cold', 'unprofessional', 'complimentary', 'negative', 'review', 'overcook'}",food and drink
-246,52,service,service,"{'cold', 'unprofessional', 'complimentary', 'negative', 'review', 'overcook'}",place and service
-247,52,item,food,"{'cold', 'unprofessional', 'complimentary', 'negative', 'review', 'overcook'}",food and drink
-248,52,item,drink,"{'cold', 'unprofessional', 'complimentary', 'negative', 'review', 'overcook'}",food and drink
-249,52,job,other,"{'cold', 'unprofessional', 'complimentary', 'negative', 'review', 'overcook'}",other
-250,52,customer,service,"{'cold', 'unprofessional', 'complimentary', 'negative', 'review', 'overcook'}",place and service
-251,52,other,other,"{'cold', 'unprofessional', 'complimentary', 'negative', 'review', 'overcook'}",other
-252,53,order,food,"{'representative', 'pretend'}",food and drink
-253,53,manager,service,"{'representative', 'pretend'}",place and service
-254,53,other,other,"{'representative', 'pretend'}",other
-255,54,place,place,"{'finish', 'fast'}",place and service
-256,54,food,food,"{'finish', 'fast'}",food and drink
-257,54,order,food,"{'finish', 'fast'}",food and drink
-258,54,other,other,"{'finish', 'fast'}",other
-259,55,service,service,{'quick'},place and service
-260,55,long,situation,{'quick'},place and service
-261,55,great,emotion,{'quick'},sentiment
-262,55,drive,place,{'quick'},place and service
-263,55,other,other,{'quick'},other
-264,55,line,situation,{'quick'},place and service
-265,56,good,emotion,{'guy'},sentiment
-266,56,bad,emotion,{'guy'},sentiment
-267,56,other,other,{'guy'},other
-268,57,food,food,"{'wrap', 'star', 'nvr'}",food and drink
-269,57,service,service,"{'wrap', 'star', 'nvr'}",place and service
-270,57,customer,service,"{'wrap', 'star', 'nvr'}",place and service
-271,57,other,other,"{'wrap', 'star', 'nvr'}",other
-272,57,line,situation,"{'wrap', 'star', 'nvr'}",place and service
-273,58,one,other,set(),other
-274,58,order,food,set(),food and drink
-275,58,hour,situation,set(),place and service
-276,59,place,place,"{'eleventeen', 'teeth', 'clothes', 'open'}",place and service
-277,59,people,situation,"{'eleventeen', 'teeth', 'clothes', 'open'}",place and service
-278,59,hour,situation,"{'eleventeen', 'teeth', 'clothes', 'open'}",place and service
-279,59,other,other,"{'eleventeen', 'teeth', 'clothes', 'open'}",other
-280,60,order,food,{'person'},food and drink
-281,60,other,other,{'person'},other
-282,61,other,other,"{'austin', 'research', 'blvd.in', 'north', 'tx'}",other
-283,61,manager,service,"{'austin', 'research', 'blvd.in', 'north', 'tx'}",place and service
-284,61,time,service,"{'austin', 'research', 'blvd.in', 'north', 'tx'}",place and service
-285,61,3rd,other,"{'austin', 'research', 'blvd.in', 'north', 'tx'}",other
-286,62,rude,emotion,"{'mother', 'woman', 'fat'}",sentiment
-287,62,other,other,"{'mother', 'woman', 'fat'}",other
-288,62,lady,service,"{'mother', 'woman', 'fat'}",place and service
-289,63,bag,other,"{'young', 'keep', 'second', 'huge', 'bit', 'little'}",other
-290,63,lady,service,"{'young', 'keep', 'second', 'huge', 'bit', 'little'}",place and service
-291,63,issue,service,"{'young', 'keep', 'second', 'huge', 'bit', 'little'}",place and service
-292,63,item,food,"{'young', 'keep', 'second', 'huge', 'bit', 'little'}",food and drink
-293,63,item,drink,"{'young', 'keep', 'second', 'huge', 'bit', 'little'}",food and drink
-294,63,fry,food,"{'young', 'keep', 'second', 'huge', 'bit', 'little'}",food and drink
-295,63,window,place,"{'young', 'keep', 'second', 'huge', 'bit', 'little'}",place and service
-296,63,other,other,"{'young', 'keep', 'second', 'huge', 'bit', 'little'}",other
-297,63,order,food,"{'young', 'keep', 'second', 'huge', 'bit', 'little'}",food and drink
-298,64,location,place,"{'welcome', 'other', 'change'}",place and service
-299,64,location,service,"{'welcome', 'other', 'change'}",place and service
-300,64,price,service,"{'welcome', 'other', 'change'}",place and service
-301,64,employee,service,"{'welcome', 'other', 'change'}",place and service
-302,64,other,other,"{'welcome', 'other', 'change'}",other
-303,64,order,food,"{'welcome', 'other', 'change'}",food and drink
-304,64,lot,other,"{'welcome', 'other', 'change'}",other
-305,65,fry,food,"{'container', 'huge', 'room', 'dining', 'sauce', 'part'}",food and drink
-306,65,other,other,"{'container', 'huge', 'room', 'dining', 'sauce', 'part'}",other
-307,66,drink,drink,"{'funky', 'dish', 'tea', 'soap', 'fountain'}",food and drink
-308,66,taste,other,"{'funky', 'dish', 'tea', 'soap', 'fountain'}",other
-309,66,issue,service,"{'funky', 'dish', 'tea', 'soap', 'fountain'}",place and service
-310,66,staff,service,"{'funky', 'dish', 'tea', 'soap', 'fountain'}",place and service
-311,66,other,other,"{'funky', 'dish', 'tea', 'soap', 'fountain'}",other
-312,67,order,food,set(),food and drink
-313,67,wrong,situation,set(),place and service
-314,68,mcdonald,place,{'self'},place and service
-315,68,other,other,{'self'},other
-316,69,mcdonalds,place,"{'connectivity', 'uber', 'tone'}",place and service
-317,69,issue,service,"{'connectivity', 'uber', 'tone'}",place and service
-318,69,other,other,"{'connectivity', 'uber', 'tone'}",other
-319,69,order,food,"{'connectivity', 'uber', 'tone'}",food and drink
-320,69,phone,other,"{'connectivity', 'uber', 'tone'}",other
-321,70,drink,drink,"{'parent', 'single', 'unhealthy', 'ticket', 'bit', 'little', 'medium', 'sized'}",food and drink
-322,70,food,food,"{'parent', 'single', 'unhealthy', 'ticket', 'bit', 'little', 'medium', 'sized'}",food and drink
-323,70,fry,food,"{'parent', 'single', 'unhealthy', 'ticket', 'bit', 'little', 'medium', 'sized'}",food and drink
-324,70,large,situation,"{'parent', 'single', 'unhealthy', 'ticket', 'bit', 'little', 'medium', 'sized'}",place and service
-325,70,meal,food,"{'parent', 'single', 'unhealthy', 'ticket', 'bit', 'little', 'medium', 'sized'}",food and drink
-326,70,other,other,"{'parent', 'single', 'unhealthy', 'ticket', 'bit', 'little', 'medium', 'sized'}",other
-327,71,management,service,"{'jock', 'game', 'visit', 'money', 'play'}",place and service
-328,71,service,service,"{'jock', 'game', 'visit', 'money', 'play'}",place and service
-329,71,next,other,"{'jock', 'game', 'visit', 'money', 'play'}",other
-330,71,night,situation,"{'jock', 'game', 'visit', 'money', 'play'}",place and service
-331,71,staff,service,"{'jock', 'game', 'visit', 'money', 'play'}",place and service
-332,71,customer,service,"{'jock', 'game', 'visit', 'money', 'play'}",place and service
-333,71,other,other,"{'jock', 'game', 'visit', 'money', 'play'}",other
-334,71,phone,other,"{'jock', 'game', 'visit', 'money', 'play'}",other
-335,72,place,place,"{'cashier', 'affordable'}",place and service
-336,72,food,food,"{'cashier', 'affordable'}",food and drink
-337,72,price,service,"{'cashier', 'affordable'}",place and service
-338,72,fry,food,"{'cashier', 'affordable'}",food and drink
-339,72,nugget,food,"{'cashier', 'affordable'}",food and drink
-340,72,good,emotion,"{'cashier', 'affordable'}",sentiment
-341,72,other,other,"{'cashier', 'affordable'}",other
-342,73,other,other,"{'silence', 'total'}",other
-343,74,window,place,"{'trouble', 'dozen', 'soda', 'second'}",place and service
-344,74,other,other,"{'trouble', 'dozen', 'soda', 'second'}",other
-345,75,bag,other,"{'nothing', 'wrapper', 'face', 'cheese', 'hamburger'}",other
-346,75,other,other,"{'nothing', 'wrapper', 'face', 'cheese', 'hamburger'}",other
-347,76,location,place,"{'something', 'buyer', 'love', 'incorrect', 'mistake'}",place and service
-348,76,location,service,"{'something', 'buyer', 'love', 'incorrect', 'mistake'}",place and service
-349,76,item,food,"{'something', 'buyer', 'love', 'incorrect', 'mistake'}",food and drink
-350,76,item,drink,"{'something', 'buyer', 'love', 'incorrect', 'mistake'}",food and drink
-351,76,order,food,"{'something', 'buyer', 'love', 'incorrect', 'mistake'}",food and drink
-352,76,other,other,"{'something', 'buyer', 'love', 'incorrect', 'mistake'}",other
-353,77,location,place,"{'creek', 'quick', 'most', 'lake', 'bite'}",place and service
-354,77,location,service,"{'creek', 'quick', 'most', 'lake', 'bite'}",place and service
-355,77,place,place,"{'creek', 'quick', 'most', 'lake', 'bite'}",place and service
-356,77,service,service,"{'creek', 'quick', 'most', 'lake', 'bite'}",place and service
-357,77,good,emotion,"{'creek', 'quick', 'most', 'lake', 'bite'}",sentiment
-358,77,other,other,"{'creek', 'quick', 'most', 'lake', 'bite'}",other
-359,78,food,food,{'cashier'},food and drink
-360,78,other,other,{'cashier'},other
-361,79,manager,service,{'satisfied'},place and service
-362,79,service,service,{'satisfied'},place and service
-363,79,customer,service,{'satisfied'},place and service
-364,79,other,other,{'satisfied'},other
-365,79,great,emotion,{'satisfied'},sentiment
-366,80,drive,place,set(),place and service
-367,81,manager,service,"{'help', 'evening', 'everytime', 'nice', 'way', 'proper', 'person'}",place and service
-368,81,sandwich,food,"{'help', 'evening', 'everytime', 'nice', 'way', 'proper', 'person'}",food and drink
-369,81,crew,service,"{'help', 'evening', 'everytime', 'nice', 'way', 'proper', 'person'}",place and service
-370,81,other,other,"{'help', 'evening', 'everytime', 'nice', 'way', 'proper', 'person'}",other
-371,81,order,food,"{'help', 'evening', 'everytime', 'nice', 'way', 'proper', 'person'}",food and drink
-372,81,new,other,"{'help', 'evening', 'everytime', 'nice', 'way', 'proper', 'person'}",other
-373,82,location,place,"{'manner', 'preferred', 'entrance', 'timely'}",place and service
-374,82,location,service,"{'manner', 'preferred', 'entrance', 'timely'}",place and service
-375,82,food,food,"{'manner', 'preferred', 'entrance', 'timely'}",food and drink
-376,82,staff,service,"{'manner', 'preferred', 'entrance', 'timely'}",place and service
-377,82,other,other,"{'manner', 'preferred', 'entrance', 'timely'}",other
-378,83,other,other,"{'attendant', 'scream'}",other
-379,84,food,food,"{'period', 'fresher'}",food and drink
-380,84,normal,situation,"{'period', 'fresher'}",place and service
-381,84,meal,food,"{'period', 'fresher'}",food and drink
-382,84,other,other,"{'period', 'fresher'}",other
-383,84,regular,situation,"{'period', 'fresher'}",place and service
-384,84,regular,service,"{'period', 'fresher'}",place and service
-385,84,store,place,"{'period', 'fresher'}",place and service
-386,85,best,emotion,"{'shop', 'machine'}",sentiment
-387,85,coffee,drink,"{'shop', 'machine'}",food and drink
-388,85,good,emotion,"{'shop', 'machine'}",sentiment
-389,85,other,other,"{'shop', 'machine'}",other
-390,85,great,emotion,"{'shop', 'machine'}",sentiment
-391,85,day,situation,"{'shop', 'machine'}",place and service
-392,85,time,service,"{'shop', 'machine'}",place and service
-393,86,location,place,{'yourselves'},place and service
-394,86,location,service,{'yourselves'},place and service
-395,86,place,place,{'yourselves'},place and service
-396,86,service,service,{'yourselves'},place and service
-397,86,hour,situation,{'yourselves'},place and service
-398,86,other,other,{'yourselves'},other
-399,86,order,food,{'yourselves'},food and drink
-400,86,great,emotion,{'yourselves'},sentiment
-401,87,happy,emotion,"{'cheeseburger', 'grandkids', 'plain'}",sentiment
-402,87,burger,food,"{'cheeseburger', 'grandkids', 'plain'}",food and drink
-403,87,meal,food,"{'cheeseburger', 'grandkids', 'plain'}",food and drink
-404,87,other,other,"{'cheeseburger', 'grandkids', 'plain'}",other
-405,88,mcdonalds,place,"{'company', 'fast', 'kitchen', 'robot'}",place and service
-406,88,food,food,"{'company', 'fast', 'kitchen', 'robot'}",food and drink
-407,88,staff,service,"{'company', 'fast', 'kitchen', 'robot'}",place and service
-408,88,job,other,"{'company', 'fast', 'kitchen', 'robot'}",other
-409,88,other,other,"{'company', 'fast', 'kitchen', 'robot'}",other
-410,88,line,situation,"{'company', 'fast', 'kitchen', 'robot'}",place and service
-411,89,manager,service,"{'shove', 'complete', 'single'}",place and service
-412,89,one,other,"{'shove', 'complete', 'single'}",other
-413,89,mcdonalds,place,"{'shove', 'complete', 'single'}",place and service
-414,89,wrong,situation,"{'shove', 'complete', 'single'}",place and service
-415,89,window,place,"{'shove', 'complete', 'single'}",place and service
-416,89,other,other,"{'shove', 'complete', 'single'}",other
-417,89,order,food,"{'shove', 'complete', 'single'}",food and drink
-418,89,time,service,"{'shove', 'complete', 'single'}",place and service
-419,89,new,other,"{'shove', 'complete', 'single'}",other
-420,90,extra,other,"{'team', 'difference'}",other
-421,90,food,food,"{'team', 'difference'}",food and drink
-422,90,night,situation,"{'team', 'difference'}",place and service
-423,90,window,place,"{'team', 'difference'}",place and service
-424,90,fry,food,"{'team', 'difference'}",food and drink
-425,90,meal,food,"{'team', 'difference'}",food and drink
-426,90,other,other,"{'team', 'difference'}",other
-427,90,time,service,"{'team', 'difference'}",place and service
-428,91,location,place,"{'number', 'youd', 'suck', 'lesson'}",place and service
-429,91,location,service,"{'number', 'youd', 'suck', 'lesson'}",place and service
-430,91,drive,place,"{'number', 'youd', 'suck', 'lesson'}",place and service
-431,91,3rd,other,"{'number', 'youd', 'suck', 'lesson'}",other
-432,91,other,other,"{'number', 'youd', 'suck', 'lesson'}",other
-433,91,mess,situation,"{'number', 'youd', 'suck', 'lesson'}",place and service
-434,91,time,service,"{'number', 'youd', 'suck', 'lesson'}",place and service
-435,92,regular,situation,"{'worst', 'size', 'ground'}",place and service
-436,92,regular,service,"{'worst', 'size', 'ground'}",place and service
-437,92,coffee,drink,"{'worst', 'size', 'ground'}",food and drink
-438,92,experience,service,"{'worst', 'size', 'ground'}",place and service
-439,92,other,other,"{'worst', 'size', 'ground'}",other
-440,93,one,other,"{'attempt', 'attention', 'sign'}",other
-441,93,employee,service,"{'attempt', 'attention', 'sign'}",place and service
-442,93,other,other,"{'attempt', 'attention', 'sign'}",other
-443,94,place,place,"{'kiosk', 'someone', 'number'}",place and service
-444,94,food,food,"{'kiosk', 'someone', 'number'}",food and drink
-445,94,other,other,"{'kiosk', 'someone', 'number'}",other
-446,95,other,other,"{'counter', 'raw'}",other
-447,95,burger,food,"{'counter', 'raw'}",food and drink
-448,95,lady,service,"{'counter', 'raw'}",place and service
-449,96,management,service,"{'manor', 'corporate', 'basic', 'ethic', 'need'}",place and service
-450,96,staff,service,"{'manor', 'corporate', 'basic', 'ethic', 'need'}",place and service
-451,96,work,service,"{'manor', 'corporate', 'basic', 'ethic', 'need'}",place and service
-452,96,other,other,"{'manor', 'corporate', 'basic', 'ethic', 'need'}",other
-453,96,time,service,"{'manor', 'corporate', 'basic', 'ethic', 'need'}",place and service
-454,97,food,food,{'microphone'},food and drink
-455,97,employee,service,{'microphone'},place and service
-456,97,other,other,{'microphone'},other
-457,97,order,food,{'microphone'},food and drink
-458,97,mess,situation,{'microphone'},place and service
-459,98,rude,emotion,set(),sentiment
-460,98,location,place,set(),place and service
-461,98,location,service,set(),place and service
-462,98,place,place,set(),place and service
-463,98,service,service,set(),place and service
-464,98,wrong,situation,set(),place and service
-465,98,order,food,set(),food and drink
-466,99,cream,food,{'allways'},food and drink
-467,99,cream,drink,{'allways'},food and drink
-468,99,ice,drink,{'allways'},food and drink
-469,99,best,emotion,{'allways'},sentiment
-470,99,fry,food,{'allways'},food and drink
-471,99,other,other,{'allways'},other
-472,100,order,food,{'english'},food and drink
-473,100,people,situation,{'english'},place and service
-474,100,mcdonalds,place,{'english'},place and service
-475,100,other,other,{'english'},other
+node_id,reviewer_id,first_cycle,second_cycle,category
+0,1,normal,situation,place and service
+1,1,other,drink,food and drink
+2,2,mcdonalds,place,place and service
+3,2,other,place,place and service
+4,2,food,food,food and drink
+5,2,staff,service,place and service
+6,3,line,situation,place and service
+7,3,other,service,place and service
+8,3,order,food,food and drink
+9,4,service,service,place and service
+10,4,other,other,other
+11,4,sandwich,food,food and drink
+12,4,chicken,food,food and drink
+13,4,customer,service,place and service
+14,5,other,place,place and service
+15,5,order,food,food and drink
+16,5,fry,food,food and drink
+17,5,large,situation,place and service
+18,5,meal,food,food and drink
+19,6,job,other,other
+20,6,line,situation,place and service
+21,6,long,situation,place and service
+22,6,other,other,other
+23,6,new,other,other
+24,7,regular,service,place and service
+25,7,regular,situation,place and service
+26,7,service,service,place and service
+27,7,other,place,place and service
+28,7,order,food,food and drink
+29,7,location,service,place and service
+30,7,location,place,place and service
+31,7,customer,service,place and service
+32,8,other,drink,food and drink
+33,8,coffee,drink,food and drink
+34,8,cup,drink,food and drink
+35,8,large,situation,place and service
+36,9,extra,other,other
+37,9,lady,service,place and service
+38,9,time,service,place and service
+39,9,other,place,place and service
+40,9,order,food,food and drink
+41,9,nugget,food,food and drink
+42,9,restaurant,place,place and service
+43,10,service,service,place and service
+44,10,best,emotion,sentiment
+45,10,people,situation,place and service
+46,10,other,service,place and service
+47,10,other,food,food and drink
+48,11,mcdonald,place,place and service
+49,11,mcdonalds,place,place and service
+50,11,other,other,other
+51,12,item,drink,food and drink
+52,12,item,food,food and drink
+53,12,lady,service,place and service
+54,12,other,other,other
+55,12,order,food,food and drink
+56,12,food,food,food and drink
+57,13,line,situation,place and service
+58,13,long,situation,place and service
+59,13,staff,service,place and service
+60,13,other,situation,place and service
+61,13,car,place,place and service
+62,13,wait,situation,place and service
+63,13,hour,situation,place and service
+64,13,crew,service,place and service
+65,13,night,situation,place and service
+66,13,experience,service,place and service
+67,14,restaurant,place,place and service
+68,14,other,drink,food and drink
+69,14,other,food,food and drink
+70,14,other,place,place and service
+71,14,regular,service,place and service
+72,14,regular,situation,place and service
+73,14,order,food,food and drink
+74,15,drink,drink,food and drink
+75,15,cup,drink,food and drink
+76,15,service,service,place and service
+77,15,lid,other,other
+78,15,burger,food,food and drink
+79,15,other,service,place and service
+80,15,other,place,place and service
+81,15,order,food,food and drink
+82,15,wrong,situation,place and service
+83,15,food,food,food and drink
+84,16,minute,situation,place and service
+85,16,other,other,other
+86,16,sandwich,food,food and drink
+87,16,chicken,food,food and drink
+88,16,food,food,food and drink
+89,16,restaurant,place,place and service
+90,17,strawberry,drink,food and drink
+91,17,strawberry,food,food and drink
+92,17,cream,drink,food and drink
+93,17,cream,food,food and drink
+94,17,staff,service,place and service
+95,17,other,other,other
+96,18,drink,drink,food and drink
+97,18,bag,other,other
+98,18,other,other,other
+99,19,ice,drink,food and drink
+100,19,strawberry,drink,food and drink
+101,19,strawberry,food,food and drink
+102,19,taste,other,other
+103,19,other,drink,food and drink
+104,19,other,situation,place and service
+105,20,staff,service,place and service
+106,20,other,other,other
+107,20,order,food,food and drink
+108,21,item,drink,food and drink
+109,21,item,food,food and drink
+110,21,place,place,place and service
+111,21,other,place,place and service
+112,21,order,food,food and drink
+113,21,car,place,place and service
+114,21,experience,service,place and service
+115,22,staff,service,place and service
+116,22,other,service,place and service
+117,22,large,situation,place and service
+118,22,fry,food,food and drink
+119,22,order,food,food and drink
+120,22,lot,other,other
+121,23,drink,drink,food and drink
+122,23,staff,service,place and service
+123,23,other,drink,food and drink
+124,24,minute,situation,place and service
+125,24,other,food,food and drink
+126,24,fry,food,food and drink
+127,24,bad,emotion,sentiment
+128,24,nugget,food,food and drink
+129,24,meal,food,food and drink
+130,24,wait,situation,place and service
+131,25,other,other,other
+132,26,ice,drink,food and drink
+133,26,lady,service,place and service
+134,26,other,other,other
+135,26,mcdonalds,place,place and service
+136,26,cream,drink,food and drink
+137,26,cream,food,food and drink
+138,27,great,emotion,sentiment
+139,27,manager,service,place and service
+140,27,staff,service,place and service
+141,27,other,service,place and service
+142,27,other,place,place and service
+143,28,next,other,other
+144,28,best,emotion,sentiment
+145,28,other,food,food and drink
+146,28,other,place,place and service
+147,28,new,other,other
+148,29,service,service,place and service
+149,29,other,other,other
+150,29,horrible,emotion,sentiment
+151,29,employee,service,place and service
+152,29,people,situation,place and service
+153,30,time,service,place and service
+154,30,other,food,food and drink
+155,30,other,place,place and service
+156,31,minute,situation,place and service
+157,31,wait,situation,place and service
+158,31,other,emotion,sentiment
+159,32,other,food,food and drink
+160,32,order,food,food and drink
+161,32,people,situation,place and service
+162,32,lot,other,other
+163,32,location,service,place and service
+164,32,location,place,place and service
+165,32,minute,situation,place and service
+166,32,food,food,food and drink
+167,33,price,service,place and service
+168,33,extra,other,other
+169,33,other,other,other
+170,33,pickle,food,food and drink
+171,34,window,place,place and service
+172,34,other,other,other
+173,34,employee,service,place and service
+174,34,minute,situation,place and service
+175,34,wait,situation,place and service
+176,35,service,service,place and service
+177,35,other,place,place and service
+178,36,location,service,place and service
+179,36,location,place,place and service
+180,36,horrible,emotion,sentiment
+181,36,store,place,place and service
+182,36,other,other,other
+183,37,3rd,other,other
+184,37,line,situation,place and service
+185,37,time,service,place and service
+186,37,long,situation,place and service
+187,37,other,place,place and service
+188,38,job,other,other
+189,38,staff,service,place and service
+190,38,other,other,other
+191,39,service,service,place and service
+192,39,food,food,food and drink
+193,39,other,service,place and service
+194,39,other,food,food and drink
+195,40,window,place,place and service
+196,40,other,food,food and drink
+197,40,large,situation,place and service
+198,40,fry,food,food and drink
+199,40,sandwich,food,food and drink
+200,40,chicken,food,food and drink
+201,41,minute,situation,place and service
+202,41,normal,situation,place and service
+203,41,other,food,food and drink
+204,41,other,place,place and service
+205,41,order,food,food and drink
+206,42,drive,place,place and service
+207,42,other,situation,place and service
+208,42,order,food,food and drink
+209,42,mcdonald,place,place and service
+210,42,bad,emotion,sentiment
+211,43,good,emotion,sentiment
+212,43,other,service,place and service
+213,43,other,situation,place and service
+214,43,order,food,food and drink
+215,43,food,food,food and drink
+216,43,taste,other,other
+217,44,food,food,food and drink
+218,44,other,other,other
+219,45,drink,drink,food and drink
+220,45,employee,service,place and service
+221,46,other,situation,place and service
+222,46,customer,service,place and service
+223,46,management,service,place and service
+224,47,time,service,place and service
+225,47,mess,situation,place and service
+226,47,other,other,other
+227,48,great,emotion,sentiment
+228,48,manager,service,place and service
+229,48,attitude,service,place and service
+230,48,day,situation,place and service
+231,48,other,other,other
+232,48,wrong,situation,place and service
+233,48,wait,situation,place and service
+234,49,window,place,place and service
+235,49,extra,other,other
+236,49,attitude,service,place and service
+237,49,service,service,place and service
+238,49,happy,emotion,sentiment
+239,49,long,situation,place and service
+240,49,other,service,place and service
+241,49,fry,food,food and drink
+242,49,horrible,emotion,sentiment
+243,49,meal,food,food and drink
+244,49,phone,other,other
+245,49,work,service,place and service
+246,50,line,situation,place and service
+247,50,other,place,place and service
+248,50,order,food,food and drink
+249,50,hour,situation,place and service
+250,50,location,service,place and service
+251,50,location,place,place and service
+252,50,night,situation,place and service
+253,51,ice,drink,food and drink
+254,51,mcdonalds,place,place and service
+255,51,cream,drink,food and drink
+256,51,cream,food,food and drink
+257,51,other,food,food and drink
+258,52,item,drink,food and drink
+259,52,item,food,food and drink
+260,52,job,other,other
+261,52,attitude,service,place and service
+262,52,service,service,place and service
+263,52,other,food,food and drink
+264,52,other,situation,place and service
+265,52,food,food,food and drink
+266,52,rude,emotion,sentiment
+267,52,customer,service,place and service
+268,53,manager,service,place and service
+269,53,other,other,other
+270,53,order,food,food and drink
+271,54,place,place,place and service
+272,54,food,food,food and drink
+273,54,other,place,place and service
+274,54,other,food,food and drink
+275,54,order,food,food and drink
+276,55,great,emotion,sentiment
+277,55,drive,place,place and service
+278,55,service,service,place and service
+279,55,line,situation,place and service
+280,55,long,situation,place and service
+281,55,other,other,other
+282,56,bad,emotion,sentiment
+283,56,good,emotion,sentiment
+284,56,other,other,other
+285,57,service,service,place and service
+286,57,line,situation,place and service
+287,57,other,other,other
+288,57,customer,service,place and service
+289,57,food,food,food and drink
+290,58,one,other,other
+291,58,hour,situation,place and service
+292,58,order,food,food and drink
+293,59,other,food,food and drink
+294,59,people,situation,place and service
+295,59,place,place,place and service
+296,59,hour,situation,place and service
+297,60,other,other,other
+298,60,order,food,food and drink
+299,61,other,other,other
+300,61,manager,service,place and service
+301,61,time,service,place and service
+302,61,3rd,other,other
+303,62,rude,emotion,sentiment
+304,62,lady,service,place and service
+305,62,other,other,other
+306,63,item,drink,food and drink
+307,63,item,food,food and drink
+308,63,window,place,place and service
+309,63,issue,service,place and service
+310,63,lady,service,place and service
+311,63,other,other,other
+312,63,order,food,food and drink
+313,63,fry,food,food and drink
+314,63,bag,other,other
+315,64,price,service,place and service
+316,64,other,place,place and service
+317,64,order,food,food and drink
+318,64,employee,service,place and service
+319,64,lot,other,other
+320,64,location,service,place and service
+321,64,location,place,place and service
+322,65,fry,food,food and drink
+323,65,other,food,food and drink
+324,66,drink,drink,food and drink
+325,66,issue,service,place and service
+326,66,staff,service,place and service
+327,66,other,drink,food and drink
+328,66,other,food,food and drink
+329,66,taste,other,other
+330,67,wrong,situation,place and service
+331,67,order,food,food and drink
+332,68,mcdonald,place,place and service
+333,68,other,other,other
+334,69,issue,service,place and service
+335,69,other,situation,place and service
+336,69,order,food,food and drink
+337,69,mcdonalds,place,place and service
+338,69,phone,other,other
+339,70,drink,drink,food and drink
+340,70,other,drink,food and drink
+341,70,other,food,food and drink
+342,70,large,situation,place and service
+343,70,fry,food,food and drink
+344,70,meal,food,food and drink
+345,70,food,food,food and drink
+346,71,next,other,other
+347,71,night,situation,place and service
+348,71,service,service,place and service
+349,71,staff,service,place and service
+350,71,management,service,place and service
+351,71,other,place,place and service
+352,71,phone,other,other
+353,71,customer,service,place and service
+354,72,place,place,place and service
+355,72,good,emotion,sentiment
+356,72,price,service,place and service
+357,72,other,service,place and service
+358,72,fry,food,food and drink
+359,72,nugget,food,food and drink
+360,72,food,food,food and drink
+361,73,other,other,other
+362,74,window,place,place and service
+363,74,other,drink,food and drink
+364,74,other,situation,place and service
+365,75,bag,other,other
+366,75,other,food,food and drink
+367,76,item,drink,food and drink
+368,76,item,food,food and drink
+369,76,location,service,place and service
+370,76,location,place,place and service
+371,76,other,place,place and service
+372,76,order,food,food and drink
+373,77,good,emotion,sentiment
+374,77,service,service,place and service
+375,77,other,place,place and service
+376,77,location,service,place and service
+377,77,location,place,place and service
+378,77,place,place,place and service
+379,78,food,food,food and drink
+380,78,other,other,other
+381,79,great,emotion,sentiment
+382,79,manager,service,place and service
+383,79,service,service,place and service
+384,79,other,service,place and service
+385,79,customer,service,place and service
+386,80,drive,place,place and service
+387,81,manager,service,place and service
+388,81,other,service,place and service
+389,81,other,place,place and service
+390,81,order,food,food and drink
+391,81,new,other,other
+392,81,sandwich,food,food and drink
+393,81,crew,service,place and service
+394,82,location,service,place and service
+395,82,location,place,place and service
+396,82,food,food,food and drink
+397,82,staff,service,place and service
+398,82,other,place,place and service
+399,83,other,service,place and service
+400,84,normal,situation,place and service
+401,84,regular,service,place and service
+402,84,regular,situation,place and service
+403,84,store,place,place and service
+404,84,other,food,food and drink
+405,84,meal,food,food and drink
+406,84,food,food,food and drink
+407,85,great,emotion,sentiment
+408,85,good,emotion,sentiment
+409,85,day,situation,place and service
+410,85,time,service,place and service
+411,85,other,drink,food and drink
+412,85,other,place,place and service
+413,85,best,emotion,sentiment
+414,85,coffee,drink,food and drink
+415,86,great,emotion,sentiment
+416,86,service,service,place and service
+417,86,other,other,other
+418,86,order,food,food and drink
+419,86,hour,situation,place and service
+420,86,location,service,place and service
+421,86,location,place,place and service
+422,86,place,place,place and service
+423,87,meal,food,food and drink
+424,87,happy,emotion,sentiment
+425,87,burger,food,food and drink
+426,87,other,other,other
+427,88,job,other,other
+428,88,line,situation,place and service
+429,88,staff,service,place and service
+430,88,other,service,place and service
+431,88,other,food,food and drink
+432,88,mcdonalds,place,place and service
+433,88,food,food,food and drink
+434,89,one,other,other
+435,89,window,place,place and service
+436,89,manager,service,place and service
+437,89,time,service,place and service
+438,89,other,place,place and service
+439,89,order,food,food and drink
+440,89,new,other,other
+441,89,wrong,situation,place and service
+442,89,mcdonalds,place,place and service
+443,90,window,place,place and service
+444,90,extra,other,other
+445,90,time,service,place and service
+446,90,other,other,other
+447,90,fry,food,food and drink
+448,90,meal,food,food and drink
+449,90,night,situation,place and service
+450,90,food,food,food and drink
+451,91,3rd,other,other
+452,91,drive,place,place and service
+453,91,time,service,place and service
+454,91,mess,situation,place and service
+455,91,other,other,other
+456,91,location,service,place and service
+457,91,location,place,place and service
+458,92,other,drink,food and drink
+459,92,other,situation,place and service
+460,92,experience,service,place and service
+461,92,coffee,drink,food and drink
+462,92,regular,service,place and service
+463,92,regular,situation,place and service
+464,93,one,other,other
+465,93,employee,service,place and service
+466,93,other,other,other
+467,94,food,food,food and drink
+468,94,place,place,place and service
+469,94,other,other,other
+470,95,lady,service,place and service
+471,95,burger,food,food and drink
+472,95,other,food,food and drink
+473,96,time,service,place and service
+474,96,staff,service,place and service
+475,96,other,other,other
+476,96,management,service,place and service
+477,96,work,service,place and service
+478,97,mess,situation,place and service
+479,97,other,other,other
+480,97,order,food,food and drink
+481,97,employee,service,place and service
+482,97,food,food,food and drink
+483,98,service,service,place and service
+484,98,order,food,food and drink
+485,98,wrong,situation,place and service
+486,98,rude,emotion,sentiment
+487,98,location,service,place and service
+488,98,location,place,place and service
+489,98,place,place,place and service
+490,99,ice,drink,food and drink
+491,99,other,other,other
+492,99,fry,food,food and drink
+493,99,best,emotion,sentiment
+494,99,cream,drink,food and drink
+495,99,cream,food,food and drink
+496,100,mcdonalds,place,place and service
+497,100,people,situation,place and service
+498,100,other,other,other
+499,100,order,food,food and drink
