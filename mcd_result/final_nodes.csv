@@ -1,501 +1,497 @@
-node_id,reviewer_id,first_cycle,second_cycle,category,sentiment,first_cycle_sentiment_positive_rate,second_cycle_sentiment_positive_rate,category_sentiment_positive_rate,overall_sentiment_positive_rate,first_cycle_rating,secpnd_cycle_rating,overall_rating
-0,1,normal,situation,place and service,1,1.0,0.348,0.385,0.424,1.667,1.565,1.94
-1,1,other,drink,food and drink,0,0.583,0.389,0.336,0.424,2.139,1.833,2.007
-2,2,mcdonalds,place,place and service,1,0.5,0.408,0.385,0.424,1.75,2.014,1.94
-3,2,other,place,place and service,1,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-4,2,food,food,food and drink,1,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-5,2,staff,service,place and service,1,0.462,0.393,0.385,0.424,2.615,2.125,1.94
-6,3,line,situation,place and service,0,0.25,0.348,0.385,0.424,1.75,1.565,1.94
-7,3,other,service,place and service,0,0.583,0.393,0.385,0.424,2.139,2.125,1.94
-8,3,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-9,4,service,service,place and service,1,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-10,4,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-11,4,sandwich,food,food and drink,0,0.0,0.319,0.336,0.424,3.0,2.062,2.007
-12,4,chicken,food,food and drink,0,0.0,0.319,0.336,0.424,2.667,2.062,2.007
-13,4,customer,service,place and service,1,0.429,0.393,0.385,0.424,2.571,2.125,1.94
-14,5,other,place,place and service,0,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-15,5,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-16,5,fry,food,food and drink,1,0.455,0.319,0.336,0.424,1.818,2.062,2.007
-17,5,large,situation,place and service,1,0.8,0.348,0.385,0.424,1.0,1.565,1.94
-18,5,meal,food,food and drink,1,0.571,0.319,0.336,0.424,1.286,2.062,2.007
-19,6,job,other,other,1,0.75,0.653,0.653,0.424,2.0,1.944,1.944
-20,6,line,situation,place and service,0,0.25,0.348,0.385,0.424,1.75,1.565,1.94
-21,6,long,situation,place and service,0,0.2,0.348,0.385,0.424,1.6,1.565,1.94
-22,6,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-23,6,new,other,other,1,0.75,0.653,0.653,0.424,2.0,1.944,1.944
-24,7,regular,service,place and service,0,0.5,0.393,0.385,0.424,2.0,2.125,1.94
-25,7,regular,situation,place and service,0,0.5,0.348,0.385,0.424,2.0,1.565,1.94
-26,7,service,service,place and service,0,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-27,7,other,place,place and service,0,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-28,7,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-29,7,location,service,place and service,0,0.273,0.393,0.385,0.424,2.182,2.125,1.94
-30,7,location,place,place and service,0,0.273,0.408,0.385,0.424,2.182,2.014,1.94
-31,7,customer,service,place and service,0,0.429,0.393,0.385,0.424,2.571,2.125,1.94
-32,8,other,drink,food and drink,1,0.583,0.389,0.336,0.424,2.139,1.833,2.007
-33,8,coffee,drink,food and drink,1,1.0,0.389,0.336,0.424,2.333,1.833,2.007
-34,8,cup,drink,food and drink,1,0.5,0.389,0.336,0.424,1.0,1.833,2.007
-35,8,large,situation,place and service,1,0.8,0.348,0.385,0.424,1.0,1.565,1.94
-36,9,extra,other,other,0,0.25,0.653,0.653,0.424,1.0,1.944,1.944
-37,9,lady,service,place and service,0,0.167,0.393,0.385,0.424,1.333,2.125,1.94
-38,9,time,service,place and service,0,0.3,0.393,0.385,0.424,1.4,2.125,1.94
-39,9,other,place,place and service,0,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-40,9,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-41,9,nugget,food,food and drink,0,0.0,0.319,0.336,0.424,1.667,2.062,2.007
-42,9,restaurant,place,place and service,0,0.333,0.408,0.385,0.424,2.0,2.014,1.94
-43,10,service,service,place and service,1,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-44,10,best,emotion,sentiment,1,1.0,0.667,0.667,0.424,4.0,2.556,2.556
-45,10,people,situation,place and service,1,0.4,0.348,0.385,0.424,3.0,1.565,1.94
-46,10,other,service,place and service,1,0.583,0.393,0.385,0.424,2.139,2.125,1.94
-47,10,other,food,food and drink,1,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-48,11,mcdonald,place,place and service,0,0.0,0.408,0.385,0.424,1.333,2.014,1.94
-49,11,mcdonalds,place,place and service,1,0.5,0.408,0.385,0.424,1.75,2.014,1.94
-50,11,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-51,12,item,drink,food and drink,0,0.4,0.389,0.336,0.424,1.4,1.833,2.007
-52,12,item,food,food and drink,0,0.4,0.319,0.336,0.424,1.4,2.062,2.007
-53,12,lady,service,place and service,0,0.167,0.393,0.385,0.424,1.333,2.125,1.94
-54,12,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-55,12,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-56,12,food,food,food and drink,0,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-57,13,line,situation,place and service,0,0.25,0.348,0.385,0.424,1.75,1.565,1.94
-58,13,long,situation,place and service,0,0.2,0.348,0.385,0.424,1.6,1.565,1.94
-59,13,staff,service,place and service,0,0.462,0.393,0.385,0.424,2.615,2.125,1.94
-60,13,other,situation,place and service,1,0.583,0.348,0.385,0.424,2.139,1.565,1.94
-61,13,car,place,place and service,0,0.0,0.408,0.385,0.424,1.0,2.014,1.94
-62,13,wait,situation,place and service,0,0.2,0.348,0.385,0.424,1.0,1.565,1.94
-63,13,hour,situation,place and service,0,0.2,0.348,0.385,0.424,2.0,1.565,1.94
-64,13,crew,service,place and service,1,1.0,0.393,0.385,0.424,2.5,2.125,1.94
-65,13,night,situation,place and service,1,0.5,0.348,0.385,0.424,1.0,1.565,1.94
-66,13,experience,service,place and service,1,0.333,0.393,0.385,0.424,1.0,2.125,1.94
-67,14,restaurant,place,place and service,1,0.333,0.408,0.385,0.424,2.0,2.014,1.94
-68,14,other,drink,food and drink,0,0.583,0.389,0.336,0.424,2.139,1.833,2.007
-69,14,other,food,food and drink,0,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-70,14,other,place,place and service,1,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-71,14,regular,service,place and service,1,0.5,0.393,0.385,0.424,2.0,2.125,1.94
-72,14,regular,situation,place and service,1,0.5,0.348,0.385,0.424,2.0,1.565,1.94
-73,14,order,food,food and drink,1,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-74,15,drink,drink,food and drink,0,0.167,0.389,0.336,0.424,1.333,1.833,2.007
-75,15,cup,drink,food and drink,0,0.5,0.389,0.336,0.424,1.0,1.833,2.007
-76,15,service,service,place and service,0,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-77,15,lid,other,other,0,0.0,0.653,0.653,0.424,1.0,1.944,1.944
-78,15,burger,food,food and drink,0,0.333,0.319,0.336,0.424,1.0,2.062,2.007
-79,15,other,service,place and service,0,0.583,0.393,0.385,0.424,2.139,2.125,1.94
-80,15,other,place,place and service,0,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-81,15,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-82,15,wrong,situation,place and service,0,0.0,0.348,0.385,0.424,1.0,1.565,1.94
-83,15,food,food,food and drink,0,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-84,16,minute,situation,place and service,0,0.333,0.348,0.385,0.424,1.333,1.565,1.94
-85,16,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-86,16,sandwich,food,food and drink,0,0.0,0.319,0.336,0.424,3.0,2.062,2.007
-87,16,chicken,food,food and drink,0,0.0,0.319,0.336,0.424,2.667,2.062,2.007
-88,16,food,food,food and drink,0,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-89,16,restaurant,place,place and service,0,0.333,0.408,0.385,0.424,2.0,2.014,1.94
-90,17,strawberry,drink,food and drink,0,0.0,0.389,0.336,0.424,2.5,1.833,2.007
-91,17,strawberry,food,food and drink,0,0.0,0.319,0.336,0.424,2.5,2.062,2.007
-92,17,cream,drink,food and drink,0,0.5,0.389,0.336,0.424,2.75,1.833,2.007
-93,17,cream,food,food and drink,0,0.5,0.319,0.336,0.424,2.75,2.062,2.007
-94,17,staff,service,place and service,0,0.462,0.393,0.385,0.424,2.615,2.125,1.94
-95,17,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-96,18,drink,drink,food and drink,0,0.167,0.389,0.336,0.424,1.333,1.833,2.007
-97,18,bag,other,other,0,0.333,0.653,0.653,0.424,1.333,1.944,1.944
-98,18,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-99,19,ice,drink,food and drink,0,0.5,0.389,0.336,0.424,2.0,1.833,2.007
-100,19,strawberry,drink,food and drink,0,0.0,0.389,0.336,0.424,2.5,1.833,2.007
-101,19,strawberry,food,food and drink,0,0.0,0.319,0.336,0.424,2.5,2.062,2.007
-102,19,taste,other,other,0,0.333,0.653,0.653,0.424,2.0,1.944,1.944
-103,19,other,drink,food and drink,0,0.583,0.389,0.336,0.424,2.139,1.833,2.007
-104,19,other,situation,place and service,0,0.583,0.348,0.385,0.424,2.139,1.565,1.94
-105,20,staff,service,place and service,0,0.462,0.393,0.385,0.424,2.615,2.125,1.94
-106,20,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-107,20,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-108,21,item,drink,food and drink,1,0.4,0.389,0.336,0.424,1.4,1.833,2.007
-109,21,item,food,food and drink,1,0.4,0.319,0.336,0.424,1.4,2.062,2.007
-110,21,place,place,place and service,0,0.625,0.408,0.385,0.424,2.75,2.014,1.94
-111,21,other,place,place and service,0,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-112,21,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-113,21,car,place,place and service,0,0.0,0.408,0.385,0.424,1.0,2.014,1.94
-114,21,experience,service,place and service,0,0.333,0.393,0.385,0.424,1.0,2.125,1.94
-115,22,staff,service,place and service,1,0.462,0.393,0.385,0.424,2.615,2.125,1.94
-116,22,other,service,place and service,1,0.583,0.393,0.385,0.424,2.139,2.125,1.94
-117,22,large,situation,place and service,1,0.8,0.348,0.385,0.424,1.0,1.565,1.94
-118,22,fry,food,food and drink,1,0.455,0.319,0.336,0.424,1.818,2.062,2.007
-119,22,order,food,food and drink,1,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-120,22,lot,other,other,0,0.333,0.653,0.653,0.424,2.667,1.944,1.944
-121,23,drink,drink,food and drink,0,0.167,0.389,0.336,0.424,1.333,1.833,2.007
-122,23,staff,service,place and service,1,0.462,0.393,0.385,0.424,2.615,2.125,1.94
-123,23,other,drink,food and drink,0,0.583,0.389,0.336,0.424,2.139,1.833,2.007
-124,24,minute,situation,place and service,0,0.333,0.348,0.385,0.424,1.333,1.565,1.94
-125,24,other,food,food and drink,0,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-126,24,fry,food,food and drink,0,0.455,0.319,0.336,0.424,1.818,2.062,2.007
-127,24,bad,emotion,sentiment,0,0.0,0.667,0.667,0.424,1.667,2.556,2.556
-128,24,nugget,food,food and drink,0,0.0,0.319,0.336,0.424,1.667,2.062,2.007
-129,24,meal,food,food and drink,0,0.571,0.319,0.336,0.424,1.286,2.062,2.007
-130,24,wait,situation,place and service,0,0.2,0.348,0.385,0.424,1.0,1.565,1.94
-131,25,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-132,26,ice,drink,food and drink,1,0.5,0.389,0.336,0.424,2.0,1.833,2.007
-133,26,lady,service,place and service,0,0.167,0.393,0.385,0.424,1.333,2.125,1.94
-134,26,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-135,26,mcdonalds,place,place and service,1,0.5,0.408,0.385,0.424,1.75,2.014,1.94
-136,26,cream,drink,food and drink,1,0.5,0.389,0.336,0.424,2.75,1.833,2.007
-137,26,cream,food,food and drink,1,0.5,0.319,0.336,0.424,2.75,2.062,2.007
-138,27,great,emotion,sentiment,1,1.0,0.667,0.667,0.424,3.5,2.556,2.556
-139,27,manager,service,place and service,1,0.429,0.393,0.385,0.424,2.286,2.125,1.94
-140,27,staff,service,place and service,1,0.462,0.393,0.385,0.424,2.615,2.125,1.94
-141,27,other,service,place and service,1,0.583,0.393,0.385,0.424,2.139,2.125,1.94
-142,27,other,place,place and service,1,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-143,28,next,other,other,1,0.5,0.653,0.653,0.424,1.5,1.944,1.944
-144,28,best,emotion,sentiment,1,1.0,0.667,0.667,0.424,4.0,2.556,2.556
-145,28,other,food,food and drink,0,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-146,28,other,place,place and service,1,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-147,28,new,other,other,0,0.75,0.653,0.653,0.424,2.0,1.944,1.944
-148,29,service,service,place and service,0,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-149,29,other,other,other,0,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-150,29,horrible,emotion,sentiment,0,0.0,0.667,0.667,0.424,1.0,2.556,2.556
-151,29,employee,service,place and service,0,0.333,0.393,0.385,0.424,1.667,2.125,1.94
-152,29,people,situation,place and service,0,0.4,0.348,0.385,0.424,3.0,1.565,1.94
-153,30,time,service,place and service,1,0.3,0.393,0.385,0.424,1.4,2.125,1.94
-154,30,other,food,food and drink,0,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-155,30,other,place,place and service,1,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-156,31,minute,situation,place and service,1,0.333,0.348,0.385,0.424,1.333,1.565,1.94
-157,31,wait,situation,place and service,1,0.2,0.348,0.385,0.424,1.0,1.565,1.94
-158,31,other,emotion,sentiment,1,0.583,0.667,0.667,0.424,2.139,2.556,2.556
-159,32,other,food,food and drink,0,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-160,32,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-161,32,people,situation,place and service,0,0.4,0.348,0.385,0.424,3.0,1.565,1.94
-162,32,lot,other,other,0,0.333,0.653,0.653,0.424,2.667,1.944,1.944
-163,32,location,service,place and service,0,0.273,0.393,0.385,0.424,2.182,2.125,1.94
-164,32,location,place,place and service,0,0.273,0.408,0.385,0.424,2.182,2.014,1.94
-165,32,minute,situation,place and service,0,0.333,0.348,0.385,0.424,1.333,1.565,1.94
-166,32,food,food,food and drink,0,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-167,33,price,service,place and service,0,0.333,0.393,0.385,0.424,3.0,2.125,1.94
-168,33,extra,other,other,0,0.25,0.653,0.653,0.424,1.0,1.944,1.944
-169,33,other,other,other,0,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-170,33,pickle,food,food and drink,0,0.0,0.319,0.336,0.424,1.0,2.062,2.007
-171,34,window,place,place and service,1,0.286,0.408,0.385,0.424,1.143,2.014,1.94
-172,34,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-173,34,employee,service,place and service,1,0.333,0.393,0.385,0.424,1.667,2.125,1.94
-174,34,minute,situation,place and service,0,0.333,0.348,0.385,0.424,1.333,1.565,1.94
-175,34,wait,situation,place and service,0,0.2,0.348,0.385,0.424,1.0,1.565,1.94
-176,35,service,service,place and service,0,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-177,35,other,place,place and service,1,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-178,36,location,service,place and service,0,0.273,0.393,0.385,0.424,2.182,2.125,1.94
-179,36,location,place,place and service,0,0.273,0.408,0.385,0.424,2.182,2.014,1.94
-180,36,horrible,emotion,sentiment,0,0.0,0.667,0.667,0.424,1.0,2.556,2.556
-181,36,store,place,place and service,0,0.5,0.408,0.385,0.424,2.0,2.014,1.94
-182,36,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-183,37,3rd,other,other,0,0.0,0.653,0.653,0.424,1.0,1.944,1.944
-184,37,line,situation,place and service,0,0.25,0.348,0.385,0.424,1.75,1.565,1.94
-185,37,time,service,place and service,0,0.3,0.393,0.385,0.424,1.4,2.125,1.94
-186,37,long,situation,place and service,0,0.2,0.348,0.385,0.424,1.6,1.565,1.94
-187,37,other,place,place and service,0,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-188,38,job,other,other,1,0.75,0.653,0.653,0.424,2.0,1.944,1.944
-189,38,staff,service,place and service,1,0.462,0.393,0.385,0.424,2.615,2.125,1.94
-190,38,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-191,39,service,service,place and service,1,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-192,39,food,food,food and drink,1,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-193,39,other,service,place and service,1,0.583,0.393,0.385,0.424,2.139,2.125,1.94
-194,39,other,food,food and drink,1,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-195,40,window,place,place and service,0,0.286,0.408,0.385,0.424,1.143,2.014,1.94
-196,40,other,food,food and drink,0,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-197,40,large,situation,place and service,0,0.8,0.348,0.385,0.424,1.0,1.565,1.94
-198,40,fry,food,food and drink,0,0.455,0.319,0.336,0.424,1.818,2.062,2.007
-199,40,sandwich,food,food and drink,0,0.0,0.319,0.336,0.424,3.0,2.062,2.007
-200,40,chicken,food,food and drink,0,0.0,0.319,0.336,0.424,2.667,2.062,2.007
-201,41,minute,situation,place and service,1,0.333,0.348,0.385,0.424,1.333,1.565,1.94
-202,41,normal,situation,place and service,1,1.0,0.348,0.385,0.424,1.667,1.565,1.94
-203,41,other,food,food and drink,1,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-204,41,other,place,place and service,1,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-205,41,order,food,food and drink,1,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-206,42,drive,place,place and service,0,0.5,0.408,0.385,0.424,1.75,2.014,1.94
-207,42,other,situation,place and service,0,0.583,0.348,0.385,0.424,2.139,1.565,1.94
-208,42,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-209,42,mcdonald,place,place and service,0,0.0,0.408,0.385,0.424,1.333,2.014,1.94
-210,42,bad,emotion,sentiment,0,0.0,0.667,0.667,0.424,1.667,2.556,2.556
-211,43,good,emotion,sentiment,1,1.0,0.667,0.667,0.424,3.6,2.556,2.556
-212,43,other,service,place and service,1,0.583,0.393,0.385,0.424,2.139,2.125,1.94
-213,43,other,situation,place and service,1,0.583,0.348,0.385,0.424,2.139,1.565,1.94
-214,43,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-215,43,food,food,food and drink,1,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-216,43,taste,other,other,1,0.333,0.653,0.653,0.424,2.0,1.944,1.944
-217,44,food,food,food and drink,1,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-218,44,other,other,other,0,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-219,45,drink,drink,food and drink,0,0.167,0.389,0.336,0.424,1.333,1.833,2.007
-220,45,employee,service,place and service,0,0.333,0.393,0.385,0.424,1.667,2.125,1.94
-221,46,other,situation,place and service,0,0.583,0.348,0.385,0.424,2.139,1.565,1.94
-222,46,customer,service,place and service,0,0.429,0.393,0.385,0.424,2.571,2.125,1.94
-223,46,management,service,place and service,0,0.0,0.393,0.385,0.424,1.333,2.125,1.94
-224,47,time,service,place and service,0,0.3,0.393,0.385,0.424,1.4,2.125,1.94
-225,47,mess,situation,place and service,0,0.0,0.348,0.385,0.424,1.0,1.565,1.94
-226,47,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-227,48,great,emotion,sentiment,1,1.0,0.667,0.667,0.424,3.5,2.556,2.556
-228,48,manager,service,place and service,0,0.429,0.393,0.385,0.424,2.286,2.125,1.94
-229,48,attitude,service,place and service,0,0.0,0.393,0.385,0.424,1.0,2.125,1.94
-230,48,day,situation,place and service,1,1.0,0.348,0.385,0.424,3.0,1.565,1.94
-231,48,other,other,other,0,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-232,48,wrong,situation,place and service,0,0.0,0.348,0.385,0.424,1.0,1.565,1.94
-233,48,wait,situation,place and service,0,0.2,0.348,0.385,0.424,1.0,1.565,1.94
-234,49,window,place,place and service,0,0.286,0.408,0.385,0.424,1.143,2.014,1.94
-235,49,extra,other,other,1,0.25,0.653,0.653,0.424,1.0,1.944,1.944
-236,49,attitude,service,place and service,0,0.0,0.393,0.385,0.424,1.0,2.125,1.94
-237,49,service,service,place and service,0,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-238,49,happy,emotion,sentiment,1,1.0,0.667,0.667,0.424,1.0,2.556,2.556
-239,49,long,situation,place and service,1,0.2,0.348,0.385,0.424,1.6,1.565,1.94
-240,49,other,service,place and service,0,0.583,0.393,0.385,0.424,2.139,2.125,1.94
-241,49,fry,food,food and drink,1,0.455,0.319,0.336,0.424,1.818,2.062,2.007
-242,49,horrible,emotion,sentiment,0,0.0,0.667,0.667,0.424,1.0,2.556,2.556
-243,49,meal,food,food and drink,1,0.571,0.319,0.336,0.424,1.286,2.062,2.007
-244,49,phone,other,other,0,0.0,0.653,0.653,0.424,1.0,1.944,1.944
-245,49,work,service,place and service,0,0.0,0.393,0.385,0.424,1.0,2.125,1.94
-246,50,line,situation,place and service,0,0.25,0.348,0.385,0.424,1.75,1.565,1.94
-247,50,other,place,place and service,0,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-248,50,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-249,50,hour,situation,place and service,0,0.2,0.348,0.385,0.424,2.0,1.565,1.94
-250,50,location,service,place and service,1,0.273,0.393,0.385,0.424,2.182,2.125,1.94
-251,50,location,place,place and service,1,0.273,0.408,0.385,0.424,2.182,2.014,1.94
-252,50,night,situation,place and service,0,0.5,0.348,0.385,0.424,1.0,1.565,1.94
-253,51,ice,drink,food and drink,0,0.5,0.389,0.336,0.424,2.0,1.833,2.007
-254,51,mcdonalds,place,place and service,0,0.5,0.408,0.385,0.424,1.75,2.014,1.94
-255,51,cream,drink,food and drink,0,0.5,0.389,0.336,0.424,2.75,1.833,2.007
-256,51,cream,food,food and drink,0,0.5,0.319,0.336,0.424,2.75,2.062,2.007
-257,51,other,food,food and drink,0,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-258,52,item,drink,food and drink,0,0.4,0.389,0.336,0.424,1.4,1.833,2.007
-259,52,item,food,food and drink,0,0.4,0.319,0.336,0.424,1.4,2.062,2.007
-260,52,job,other,other,1,0.75,0.653,0.653,0.424,2.0,1.944,1.944
-261,52,attitude,service,place and service,0,0.0,0.393,0.385,0.424,1.0,2.125,1.94
-262,52,service,service,place and service,0,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-263,52,other,food,food and drink,0,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-264,52,other,situation,place and service,0,0.583,0.348,0.385,0.424,2.139,1.565,1.94
-265,52,food,food,food and drink,0,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-266,52,rude,emotion,sentiment,0,0.0,0.667,0.667,0.424,1.0,2.556,2.556
-267,52,customer,service,place and service,0,0.429,0.393,0.385,0.424,2.571,2.125,1.94
-268,53,manager,service,place and service,0,0.429,0.393,0.385,0.424,2.286,2.125,1.94
-269,53,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-270,53,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-271,54,place,place,place and service,1,0.625,0.408,0.385,0.424,2.75,2.014,1.94
-272,54,food,food,food and drink,1,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-273,54,other,place,place and service,0,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-274,54,other,food,food and drink,1,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-275,54,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-276,55,great,emotion,sentiment,1,1.0,0.667,0.667,0.424,3.5,2.556,2.556
-277,55,drive,place,place and service,1,0.5,0.408,0.385,0.424,1.75,2.014,1.94
-278,55,service,service,place and service,1,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-279,55,line,situation,place and service,1,0.25,0.348,0.385,0.424,1.75,1.565,1.94
-280,55,long,situation,place and service,0,0.2,0.348,0.385,0.424,1.6,1.565,1.94
-281,55,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-282,56,bad,emotion,sentiment,0,0.0,0.667,0.667,0.424,1.667,2.556,2.556
-283,56,good,emotion,sentiment,1,1.0,0.667,0.667,0.424,3.6,2.556,2.556
-284,56,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-285,57,service,service,place and service,1,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-286,57,line,situation,place and service,1,0.25,0.348,0.385,0.424,1.75,1.565,1.94
-287,57,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-288,57,customer,service,place and service,1,0.429,0.393,0.385,0.424,2.571,2.125,1.94
-289,57,food,food,food and drink,1,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-290,58,one,other,other,0,0.333,0.653,0.653,0.424,1.0,1.944,1.944
-291,58,hour,situation,place and service,1,0.2,0.348,0.385,0.424,2.0,1.565,1.94
-292,58,order,food,food and drink,1,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-293,59,other,food,food and drink,0,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-294,59,people,situation,place and service,0,0.4,0.348,0.385,0.424,3.0,1.565,1.94
-295,59,place,place,place and service,0,0.625,0.408,0.385,0.424,2.75,2.014,1.94
-296,59,hour,situation,place and service,0,0.2,0.348,0.385,0.424,2.0,1.565,1.94
-297,60,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-298,60,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-299,61,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-300,61,manager,service,place and service,0,0.429,0.393,0.385,0.424,2.286,2.125,1.94
-301,61,time,service,place and service,0,0.3,0.393,0.385,0.424,1.4,2.125,1.94
-302,61,3rd,other,other,0,0.0,0.653,0.653,0.424,1.0,1.944,1.944
-303,62,rude,emotion,sentiment,0,0.0,0.667,0.667,0.424,1.0,2.556,2.556
-304,62,lady,service,place and service,0,0.167,0.393,0.385,0.424,1.333,2.125,1.94
-305,62,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-306,63,item,drink,food and drink,0,0.4,0.389,0.336,0.424,1.4,1.833,2.007
-307,63,item,food,food and drink,0,0.4,0.319,0.336,0.424,1.4,2.062,2.007
-308,63,window,place,place and service,1,0.286,0.408,0.385,0.424,1.143,2.014,1.94
-309,63,issue,service,place and service,1,0.333,0.393,0.385,0.424,1.667,2.125,1.94
-310,63,lady,service,place and service,1,0.167,0.393,0.385,0.424,1.333,2.125,1.94
-311,63,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-312,63,order,food,food and drink,1,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-313,63,fry,food,food and drink,0,0.455,0.319,0.336,0.424,1.818,2.062,2.007
-314,63,bag,other,other,1,0.333,0.653,0.653,0.424,1.333,1.944,1.944
-315,64,price,service,place and service,0,0.333,0.393,0.385,0.424,3.0,2.125,1.94
-316,64,other,place,place and service,0,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-317,64,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-318,64,employee,service,place and service,1,0.333,0.393,0.385,0.424,1.667,2.125,1.94
-319,64,lot,other,other,1,0.333,0.653,0.653,0.424,2.667,1.944,1.944
-320,64,location,service,place and service,0,0.273,0.393,0.385,0.424,2.182,2.125,1.94
-321,64,location,place,place and service,0,0.273,0.408,0.385,0.424,2.182,2.014,1.94
-322,65,fry,food,food and drink,0,0.455,0.319,0.336,0.424,1.818,2.062,2.007
-323,65,other,food,food and drink,1,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-324,66,drink,drink,food and drink,0,0.167,0.389,0.336,0.424,1.333,1.833,2.007
-325,66,issue,service,place and service,0,0.333,0.393,0.385,0.424,1.667,2.125,1.94
-326,66,staff,service,place and service,0,0.462,0.393,0.385,0.424,2.615,2.125,1.94
-327,66,other,drink,food and drink,0,0.583,0.389,0.336,0.424,2.139,1.833,2.007
-328,66,other,food,food and drink,0,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-329,66,taste,other,other,0,0.333,0.653,0.653,0.424,2.0,1.944,1.944
-330,67,wrong,situation,place and service,0,0.0,0.348,0.385,0.424,1.0,1.565,1.94
-331,67,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-332,68,mcdonald,place,place and service,0,0.0,0.408,0.385,0.424,1.333,2.014,1.94
-333,68,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-334,69,issue,service,place and service,0,0.333,0.393,0.385,0.424,1.667,2.125,1.94
-335,69,other,situation,place and service,0,0.583,0.348,0.385,0.424,2.139,1.565,1.94
-336,69,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-337,69,mcdonalds,place,place and service,0,0.5,0.408,0.385,0.424,1.75,2.014,1.94
-338,69,phone,other,other,0,0.0,0.653,0.653,0.424,1.0,1.944,1.944
-339,70,drink,drink,food and drink,1,0.167,0.389,0.336,0.424,1.333,1.833,2.007
-340,70,other,drink,food and drink,0,0.583,0.389,0.336,0.424,2.139,1.833,2.007
-341,70,other,food,food and drink,0,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-342,70,large,situation,place and service,1,0.8,0.348,0.385,0.424,1.0,1.565,1.94
-343,70,fry,food,food and drink,1,0.455,0.319,0.336,0.424,1.818,2.062,2.007
-344,70,meal,food,food and drink,0,0.571,0.319,0.336,0.424,1.286,2.062,2.007
-345,70,food,food,food and drink,0,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-346,71,next,other,other,0,0.5,0.653,0.653,0.424,1.5,1.944,1.944
-347,71,night,situation,place and service,0,0.5,0.348,0.385,0.424,1.0,1.565,1.94
-348,71,service,service,place and service,0,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-349,71,staff,service,place and service,0,0.462,0.393,0.385,0.424,2.615,2.125,1.94
-350,71,management,service,place and service,0,0.0,0.393,0.385,0.424,1.333,2.125,1.94
-351,71,other,place,place and service,0,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-352,71,phone,other,other,0,0.0,0.653,0.653,0.424,1.0,1.944,1.944
-353,71,customer,service,place and service,0,0.429,0.393,0.385,0.424,2.571,2.125,1.94
-354,72,place,place,place and service,1,0.625,0.408,0.385,0.424,2.75,2.014,1.94
-355,72,good,emotion,sentiment,1,1.0,0.667,0.667,0.424,3.6,2.556,2.556
-356,72,price,service,place and service,1,0.333,0.393,0.385,0.424,3.0,2.125,1.94
-357,72,other,service,place and service,1,0.583,0.393,0.385,0.424,2.139,2.125,1.94
-358,72,fry,food,food and drink,0,0.455,0.319,0.336,0.424,1.818,2.062,2.007
-359,72,nugget,food,food and drink,0,0.0,0.319,0.336,0.424,1.667,2.062,2.007
-360,72,food,food,food and drink,1,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-361,73,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-362,74,window,place,place and service,0,0.286,0.408,0.385,0.424,1.143,2.014,1.94
-363,74,other,drink,food and drink,0,0.583,0.389,0.336,0.424,2.139,1.833,2.007
-364,74,other,situation,place and service,0,0.583,0.348,0.385,0.424,2.139,1.565,1.94
-365,75,bag,other,other,0,0.333,0.653,0.653,0.424,1.333,1.944,1.944
-366,75,other,food,food and drink,0,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-367,76,item,drink,food and drink,1,0.4,0.389,0.336,0.424,1.4,1.833,2.007
-368,76,item,food,food and drink,1,0.4,0.319,0.336,0.424,1.4,2.062,2.007
-369,76,location,service,place and service,1,0.273,0.393,0.385,0.424,2.182,2.125,1.94
-370,76,location,place,place and service,1,0.273,0.408,0.385,0.424,2.182,2.014,1.94
-371,76,other,place,place and service,1,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-372,76,order,food,food and drink,1,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-373,77,good,emotion,sentiment,1,1.0,0.667,0.667,0.424,3.6,2.556,2.556
-374,77,service,service,place and service,0,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-375,77,other,place,place and service,1,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-376,77,location,service,place and service,1,0.273,0.393,0.385,0.424,2.182,2.125,1.94
-377,77,location,place,place and service,1,0.273,0.408,0.385,0.424,2.182,2.014,1.94
-378,77,place,place,place and service,1,0.625,0.408,0.385,0.424,2.75,2.014,1.94
-379,78,food,food,food and drink,1,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-380,78,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-381,79,great,emotion,sentiment,1,1.0,0.667,0.667,0.424,3.5,2.556,2.556
-382,79,manager,service,place and service,0,0.429,0.393,0.385,0.424,2.286,2.125,1.94
-383,79,service,service,place and service,1,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-384,79,other,service,place and service,1,0.583,0.393,0.385,0.424,2.139,2.125,1.94
-385,79,customer,service,place and service,1,0.429,0.393,0.385,0.424,2.571,2.125,1.94
-386,80,drive,place,place and service,1,0.5,0.408,0.385,0.424,1.75,2.014,1.94
-387,81,manager,service,place and service,1,0.429,0.393,0.385,0.424,2.286,2.125,1.94
-388,81,other,service,place and service,1,0.583,0.393,0.385,0.424,2.139,2.125,1.94
-389,81,other,place,place and service,1,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-390,81,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-391,81,new,other,other,1,0.75,0.653,0.653,0.424,2.0,1.944,1.944
-392,81,sandwich,food,food and drink,0,0.0,0.319,0.336,0.424,3.0,2.062,2.007
-393,81,crew,service,place and service,1,1.0,0.393,0.385,0.424,2.5,2.125,1.94
-394,82,location,service,place and service,0,0.273,0.393,0.385,0.424,2.182,2.125,1.94
-395,82,location,place,place and service,0,0.273,0.408,0.385,0.424,2.182,2.014,1.94
-396,82,food,food,food and drink,1,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-397,82,staff,service,place and service,1,0.462,0.393,0.385,0.424,2.615,2.125,1.94
-398,82,other,place,place and service,0,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-399,83,other,service,place and service,1,0.583,0.393,0.385,0.424,2.139,2.125,1.94
-400,84,normal,situation,place and service,1,1.0,0.348,0.385,0.424,1.667,1.565,1.94
-401,84,regular,service,place and service,1,0.5,0.393,0.385,0.424,2.0,2.125,1.94
-402,84,regular,situation,place and service,1,0.5,0.348,0.385,0.424,2.0,1.565,1.94
-403,84,store,place,place and service,1,0.5,0.408,0.385,0.424,2.0,2.014,1.94
-404,84,other,food,food and drink,1,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-405,84,meal,food,food and drink,1,0.571,0.319,0.336,0.424,1.286,2.062,2.007
-406,84,food,food,food and drink,1,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-407,85,great,emotion,sentiment,1,1.0,0.667,0.667,0.424,3.5,2.556,2.556
-408,85,good,emotion,sentiment,1,1.0,0.667,0.667,0.424,3.6,2.556,2.556
-409,85,day,situation,place and service,1,1.0,0.348,0.385,0.424,3.0,1.565,1.94
-410,85,time,service,place and service,1,0.3,0.393,0.385,0.424,1.4,2.125,1.94
-411,85,other,drink,food and drink,1,0.583,0.389,0.336,0.424,2.139,1.833,2.007
-412,85,other,place,place and service,1,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-413,85,best,emotion,sentiment,1,1.0,0.667,0.667,0.424,4.0,2.556,2.556
-414,85,coffee,drink,food and drink,1,1.0,0.389,0.336,0.424,2.333,1.833,2.007
-415,86,great,emotion,sentiment,1,1.0,0.667,0.667,0.424,3.5,2.556,2.556
-416,86,service,service,place and service,1,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-417,86,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-418,86,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-419,86,hour,situation,place and service,0,0.2,0.348,0.385,0.424,2.0,1.565,1.94
-420,86,location,service,place and service,0,0.273,0.393,0.385,0.424,2.182,2.125,1.94
-421,86,location,place,place and service,0,0.273,0.408,0.385,0.424,2.182,2.014,1.94
-422,86,place,place,place and service,1,0.625,0.408,0.385,0.424,2.75,2.014,1.94
-423,87,meal,food,food and drink,1,0.571,0.319,0.336,0.424,1.286,2.062,2.007
-424,87,happy,emotion,sentiment,1,1.0,0.667,0.667,0.424,1.0,2.556,2.556
-425,87,burger,food,food and drink,1,0.333,0.319,0.336,0.424,1.0,2.062,2.007
-426,87,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-427,88,job,other,other,0,0.75,0.653,0.653,0.424,2.0,1.944,1.944
-428,88,line,situation,place and service,0,0.25,0.348,0.385,0.424,1.75,1.565,1.94
-429,88,staff,service,place and service,0,0.462,0.393,0.385,0.424,2.615,2.125,1.94
-430,88,other,service,place and service,0,0.583,0.393,0.385,0.424,2.139,2.125,1.94
-431,88,other,food,food and drink,0,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-432,88,mcdonalds,place,place and service,0,0.5,0.408,0.385,0.424,1.75,2.014,1.94
-433,88,food,food,food and drink,0,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-434,89,one,other,other,1,0.333,0.653,0.653,0.424,1.0,1.944,1.944
-435,89,window,place,place and service,0,0.286,0.408,0.385,0.424,1.143,2.014,1.94
-436,89,manager,service,place and service,1,0.429,0.393,0.385,0.424,2.286,2.125,1.94
-437,89,time,service,place and service,0,0.3,0.393,0.385,0.424,1.4,2.125,1.94
-438,89,other,place,place and service,0,0.583,0.408,0.385,0.424,2.139,2.014,1.94
-439,89,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-440,89,new,other,other,1,0.75,0.653,0.653,0.424,2.0,1.944,1.944
-441,89,wrong,situation,place and service,0,0.0,0.348,0.385,0.424,1.0,1.565,1.94
-442,89,mcdonalds,place,place and service,0,0.5,0.408,0.385,0.424,1.75,2.014,1.94
-443,90,window,place,place and service,0,0.286,0.408,0.385,0.424,1.143,2.014,1.94
-444,90,extra,other,other,0,0.25,0.653,0.653,0.424,1.0,1.944,1.944
-445,90,time,service,place and service,1,0.3,0.393,0.385,0.424,1.4,2.125,1.94
-446,90,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-447,90,fry,food,food and drink,0,0.455,0.319,0.336,0.424,1.818,2.062,2.007
-448,90,meal,food,food and drink,0,0.571,0.319,0.336,0.424,1.286,2.062,2.007
-449,90,night,situation,place and service,1,0.5,0.348,0.385,0.424,1.0,1.565,1.94
-450,90,food,food,food and drink,0,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-451,91,3rd,other,other,0,0.0,0.653,0.653,0.424,1.0,1.944,1.944
-452,91,drive,place,place and service,0,0.5,0.408,0.385,0.424,1.75,2.014,1.94
-453,91,time,service,place and service,0,0.3,0.393,0.385,0.424,1.4,2.125,1.94
-454,91,mess,situation,place and service,0,0.0,0.348,0.385,0.424,1.0,1.565,1.94
-455,91,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-456,91,location,service,place and service,0,0.273,0.393,0.385,0.424,2.182,2.125,1.94
-457,91,location,place,place and service,0,0.273,0.408,0.385,0.424,2.182,2.014,1.94
-458,92,other,drink,food and drink,1,0.583,0.389,0.336,0.424,2.139,1.833,2.007
-459,92,other,situation,place and service,0,0.583,0.348,0.385,0.424,2.139,1.565,1.94
-460,92,experience,service,place and service,0,0.333,0.393,0.385,0.424,1.0,2.125,1.94
-461,92,coffee,drink,food and drink,1,1.0,0.389,0.336,0.424,2.333,1.833,2.007
-462,92,regular,service,place and service,0,0.5,0.393,0.385,0.424,2.0,2.125,1.94
-463,92,regular,situation,place and service,0,0.5,0.348,0.385,0.424,2.0,1.565,1.94
-464,93,one,other,other,0,0.333,0.653,0.653,0.424,1.0,1.944,1.944
-465,93,employee,service,place and service,0,0.333,0.393,0.385,0.424,1.667,2.125,1.94
-466,93,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-467,94,food,food,food and drink,0,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-468,94,place,place,place and service,1,0.625,0.408,0.385,0.424,2.75,2.014,1.94
-469,94,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-470,95,lady,service,place and service,0,0.167,0.393,0.385,0.424,1.333,2.125,1.94
-471,95,burger,food,food and drink,0,0.333,0.319,0.336,0.424,1.0,2.062,2.007
-472,95,other,food,food and drink,0,0.583,0.319,0.336,0.424,2.139,2.062,2.007
-473,96,time,service,place and service,0,0.3,0.393,0.385,0.424,1.4,2.125,1.94
-474,96,staff,service,place and service,0,0.462,0.393,0.385,0.424,2.615,2.125,1.94
-475,96,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-476,96,management,service,place and service,0,0.0,0.393,0.385,0.424,1.333,2.125,1.94
-477,96,work,service,place and service,0,0.0,0.393,0.385,0.424,1.0,2.125,1.94
-478,97,mess,situation,place and service,0,0.0,0.348,0.385,0.424,1.0,1.565,1.94
-479,97,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-480,97,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-481,97,employee,service,place and service,0,0.333,0.393,0.385,0.424,1.667,2.125,1.94
-482,97,food,food,food and drink,0,0.5,0.319,0.336,0.424,2.7,2.062,2.007
-483,98,service,service,place and service,0,0.438,0.393,0.385,0.424,2.625,2.125,1.94
-484,98,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
-485,98,wrong,situation,place and service,0,0.0,0.348,0.385,0.424,1.0,1.565,1.94
-486,98,rude,emotion,sentiment,0,0.0,0.667,0.667,0.424,1.0,2.556,2.556
-487,98,location,service,place and service,0,0.273,0.393,0.385,0.424,2.182,2.125,1.94
-488,98,location,place,place and service,0,0.273,0.408,0.385,0.424,2.182,2.014,1.94
-489,98,place,place,place and service,0,0.625,0.408,0.385,0.424,2.75,2.014,1.94
-490,99,ice,drink,food and drink,1,0.5,0.389,0.336,0.424,2.0,1.833,2.007
-491,99,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-492,99,fry,food,food and drink,1,0.455,0.319,0.336,0.424,1.818,2.062,2.007
-493,99,best,emotion,sentiment,1,1.0,0.667,0.667,0.424,4.0,2.556,2.556
-494,99,cream,drink,food and drink,1,0.5,0.389,0.336,0.424,2.75,1.833,2.007
-495,99,cream,food,food and drink,1,0.5,0.319,0.336,0.424,2.75,2.062,2.007
-496,100,mcdonalds,place,place and service,1,0.5,0.408,0.385,0.424,1.75,2.014,1.94
-497,100,people,situation,place and service,1,0.4,0.348,0.385,0.424,3.0,1.565,1.94
-498,100,other,other,other,1,0.583,0.653,0.653,0.424,2.139,1.944,1.944
-499,100,order,food,food and drink,0,0.2,0.319,0.336,0.424,1.9,2.062,2.007
+node_id,reviewer_id,first_cycle,second_cycle,category,first_cycle_sentiment_positive_rate,second_cycle_sentiment_positive_rate,category_sentiment_positive_rate,overall_sentiment_positive_rate,first_cycle_rating,second_cycle_rating,category_rating,overall_rating
+0,1,other,drink,food and drink,0.574,0.412,0.345,0.425,2.139,1.794,1.993,1.99
+1,1,normal,situation,place and service,1.0,0.348,0.381,0.425,1.667,1.565,1.94,1.99
+2,2,mcdonalds,place,place and service,0.5,0.408,0.381,0.425,1.75,2.014,1.94,1.99
+3,2,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+4,2,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+5,2,staff,service,place and service,0.462,0.384,0.381,0.425,2.615,2.125,1.94,1.99
+6,3,other,service,place and service,0.574,0.384,0.381,0.425,2.139,2.125,1.94,1.99
+7,3,line,situation,place and service,0.25,0.348,0.381,0.425,1.75,1.565,1.94,1.99
+8,3,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+9,4,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+10,4,sandwich,food,food and drink,0.0,0.324,0.345,0.425,3.0,2.054,1.993,1.99
+11,4,customer,service,place and service,0.429,0.384,0.381,0.425,2.571,2.125,1.94,1.99
+12,4,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+13,4,chicken,food,food and drink,0.0,0.324,0.345,0.425,2.667,2.054,1.993,1.99
+14,5,large,situation,place and service,0.8,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+15,5,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+16,5,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+17,5,meal,food,food and drink,0.571,0.324,0.345,0.425,1.286,2.054,1.993,1.99
+18,5,fry,food,food and drink,0.455,0.324,0.345,0.425,1.818,2.054,1.993,1.99
+19,6,new,other,other,0.75,0.653,0.653,0.425,2.0,1.944,1.944,1.99
+20,6,job,other,other,0.75,0.653,0.653,0.425,2.0,1.944,1.944,1.99
+21,6,line,situation,place and service,0.25,0.348,0.381,0.425,1.75,1.565,1.94,1.99
+22,6,long,situation,place and service,0.2,0.348,0.381,0.425,1.6,1.565,1.94,1.99
+23,6,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+24,7,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+25,7,regular,service,place and service,0.5,0.384,0.381,0.425,2.0,2.125,1.94,1.99
+26,7,regular,situation,place and service,0.5,0.348,0.381,0.425,2.0,1.565,1.94,1.99
+27,7,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+28,7,location,service,place and service,0.273,0.384,0.381,0.425,2.182,2.125,1.94,1.99
+29,7,location,place,place and service,0.273,0.408,0.381,0.425,2.182,2.014,1.94,1.99
+30,7,customer,service,place and service,0.429,0.384,0.381,0.425,2.571,2.125,1.94,1.99
+31,7,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+32,8,large,situation,place and service,0.8,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+33,8,cup,drink,food and drink,0.5,0.412,0.345,0.425,1.0,1.794,1.993,1.99
+34,8,other,drink,food and drink,0.574,0.412,0.345,0.425,2.139,1.794,1.993,1.99
+35,8,coffee,drink,food and drink,1.0,0.412,0.345,0.425,2.333,1.794,1.993,1.99
+36,9,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+37,9,time,service,place and service,0.3,0.384,0.381,0.425,1.4,2.125,1.94,1.99
+38,9,lady,service,place and service,0.167,0.384,0.381,0.425,1.333,2.125,1.94,1.99
+39,9,nugget,food,food and drink,0.0,0.324,0.345,0.425,1.667,2.054,1.993,1.99
+40,9,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+41,9,restaurant,place,place and service,0.333,0.408,0.381,0.425,2.0,2.014,1.94,1.99
+42,9,extra,other,other,0.25,0.653,0.653,0.425,1.0,1.944,1.944,1.99
+43,10,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+44,10,people,situation,place and service,0.4,0.348,0.381,0.425,3.0,1.565,1.94,1.99
+45,10,other,service,place and service,0.574,0.384,0.381,0.425,2.139,2.125,1.94,1.99
+46,10,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+47,10,best,emotion,sentiment,1.0,0.667,0.667,0.425,4.0,2.556,2.556,1.99
+48,11,mcdonalds,place,place and service,0.5,0.408,0.381,0.425,1.75,2.014,1.94,1.99
+49,11,mcdonald,place,place and service,0.0,0.408,0.381,0.425,1.333,2.014,1.94,1.99
+50,11,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+51,12,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+52,12,item,food,food and drink,0.4,0.324,0.345,0.425,1.4,2.054,1.993,1.99
+53,12,item,drink,food and drink,0.4,0.412,0.345,0.425,1.4,1.794,1.993,1.99
+54,12,lady,service,place and service,0.167,0.384,0.381,0.425,1.333,2.125,1.94,1.99
+55,12,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+56,12,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+57,13,wait,situation,place and service,0.2,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+58,13,night,situation,place and service,0.5,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+59,13,line,situation,place and service,0.25,0.348,0.381,0.425,1.75,1.565,1.94,1.99
+60,13,long,situation,place and service,0.2,0.348,0.381,0.425,1.6,1.565,1.94,1.99
+61,13,car,place,place and service,0.0,0.408,0.381,0.425,1.0,2.014,1.94,1.99
+62,13,hour,situation,place and service,0.2,0.348,0.381,0.425,2.0,1.565,1.94,1.99
+63,13,staff,service,place and service,0.462,0.384,0.381,0.425,2.615,2.125,1.94,1.99
+64,13,crew,service,place and service,1.0,0.384,0.381,0.425,2.5,2.125,1.94,1.99
+65,13,other,situation,place and service,0.574,0.348,0.381,0.425,2.139,1.565,1.94,1.99
+66,13,experience,service,place and service,0.333,0.384,0.381,0.425,1.0,2.125,1.94,1.99
+67,14,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+68,14,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+69,14,other,drink,food and drink,0.574,0.412,0.345,0.425,2.139,1.794,1.993,1.99
+70,14,restaurant,place,place and service,0.333,0.408,0.381,0.425,2.0,2.014,1.94,1.99
+71,14,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+72,14,regular,service,place and service,0.5,0.384,0.381,0.425,2.0,2.125,1.94,1.99
+73,14,regular,situation,place and service,0.5,0.348,0.381,0.425,2.0,1.565,1.94,1.99
+74,15,wrong,situation,place and service,0.0,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+75,15,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+76,15,drink,drink,food and drink,0.167,0.412,0.345,0.425,1.333,1.794,1.993,1.99
+77,15,lid,other,other,0.0,0.653,0.653,0.425,1.0,1.944,1.944,1.99
+78,15,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+79,15,burger,food,food and drink,0.333,0.324,0.345,0.425,1.0,2.054,1.993,1.99
+80,15,cup,drink,food and drink,0.5,0.412,0.345,0.425,1.0,1.794,1.993,1.99
+81,15,other,service,place and service,0.574,0.384,0.381,0.425,2.139,2.125,1.94,1.99
+82,15,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+83,15,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+84,16,sandwich,food,food and drink,0.0,0.324,0.345,0.425,3.0,2.054,1.993,1.99
+85,16,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+86,16,minute,situation,place and service,0.333,0.348,0.381,0.425,1.333,1.565,1.94,1.99
+87,16,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+88,16,restaurant,place,place and service,0.333,0.408,0.381,0.425,2.0,2.014,1.94,1.99
+89,16,chicken,food,food and drink,0.0,0.324,0.345,0.425,2.667,2.054,1.993,1.99
+90,17,staff,service,place and service,0.462,0.384,0.381,0.425,2.615,2.125,1.94,1.99
+91,17,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+92,17,cream,food,food and drink,0.5,0.324,0.345,0.425,2.75,2.054,1.993,1.99
+93,17,cream,drink,food and drink,0.5,0.412,0.345,0.425,2.75,1.794,1.993,1.99
+94,18,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+95,18,drink,drink,food and drink,0.167,0.412,0.345,0.425,1.333,1.794,1.993,1.99
+96,18,bag,other,other,0.333,0.653,0.653,0.425,1.333,1.944,1.944,1.99
+97,19,taste,other,other,0.333,0.653,0.653,0.425,2.0,1.944,1.944,1.99
+98,19,other,drink,food and drink,0.574,0.412,0.345,0.425,2.139,1.794,1.993,1.99
+99,19,other,situation,place and service,0.574,0.348,0.381,0.425,2.139,1.565,1.94,1.99
+100,19,ice,drink,food and drink,0.5,0.412,0.345,0.425,2.0,1.794,1.993,1.99
+101,20,staff,service,place and service,0.462,0.384,0.381,0.425,2.615,2.125,1.94,1.99
+102,20,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+103,20,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+104,21,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+105,21,item,food,food and drink,0.4,0.324,0.345,0.425,1.4,2.054,1.993,1.99
+106,21,item,drink,food and drink,0.4,0.412,0.345,0.425,1.4,1.794,1.993,1.99
+107,21,place,place,place and service,0.625,0.408,0.381,0.425,2.75,2.014,1.94,1.99
+108,21,car,place,place and service,0.0,0.408,0.381,0.425,1.0,2.014,1.94,1.99
+109,21,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+110,21,experience,service,place and service,0.333,0.384,0.381,0.425,1.0,2.125,1.94,1.99
+111,22,large,situation,place and service,0.8,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+112,22,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+113,22,staff,service,place and service,0.462,0.384,0.381,0.425,2.615,2.125,1.94,1.99
+114,22,other,service,place and service,0.574,0.384,0.381,0.425,2.139,2.125,1.94,1.99
+115,22,lot,other,other,0.333,0.653,0.653,0.425,2.667,1.944,1.944,1.99
+116,22,fry,food,food and drink,0.455,0.324,0.345,0.425,1.818,2.054,1.993,1.99
+117,23,staff,service,place and service,0.462,0.384,0.381,0.425,2.615,2.125,1.94,1.99
+118,23,other,drink,food and drink,0.574,0.412,0.345,0.425,2.139,1.794,1.993,1.99
+119,23,drink,drink,food and drink,0.167,0.412,0.345,0.425,1.333,1.794,1.993,1.99
+120,24,wait,situation,place and service,0.2,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+121,24,bad,emotion,sentiment,0.0,0.667,0.667,0.425,1.667,2.556,2.556,1.99
+122,24,nugget,food,food and drink,0.0,0.324,0.345,0.425,1.667,2.054,1.993,1.99
+123,24,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+124,24,meal,food,food and drink,0.571,0.324,0.345,0.425,1.286,2.054,1.993,1.99
+125,24,minute,situation,place and service,0.333,0.348,0.381,0.425,1.333,1.565,1.94,1.99
+126,24,fry,food,food and drink,0.455,0.324,0.345,0.425,1.818,2.054,1.993,1.99
+127,25,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+128,26,cream,food,food and drink,0.5,0.324,0.345,0.425,2.75,2.054,1.993,1.99
+129,26,cream,drink,food and drink,0.5,0.412,0.345,0.425,2.75,1.794,1.993,1.99
+130,26,ice,drink,food and drink,0.5,0.412,0.345,0.425,2.0,1.794,1.993,1.99
+131,26,lady,service,place and service,0.167,0.384,0.381,0.425,1.333,2.125,1.94,1.99
+132,26,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+133,26,mcdonalds,place,place and service,0.5,0.408,0.381,0.425,1.75,2.014,1.94,1.99
+134,27,staff,service,place and service,0.462,0.384,0.381,0.425,2.615,2.125,1.94,1.99
+135,27,other,service,place and service,0.574,0.384,0.381,0.425,2.139,2.125,1.94,1.99
+136,27,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+137,27,manager,service,place and service,0.429,0.384,0.381,0.425,2.286,2.125,1.94,1.99
+138,27,great,emotion,sentiment,1.0,0.667,0.667,0.425,3.5,2.556,2.556,1.99
+139,28,next,other,other,0.5,0.653,0.653,0.425,1.5,1.944,1.944,1.99
+140,28,new,other,other,0.75,0.653,0.653,0.425,2.0,1.944,1.944,1.99
+141,28,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+142,28,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+143,28,best,emotion,sentiment,1.0,0.667,0.667,0.425,4.0,2.556,2.556,1.99
+144,29,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+145,29,people,situation,place and service,0.4,0.348,0.381,0.425,3.0,1.565,1.94,1.99
+146,29,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+147,29,employee,service,place and service,0.333,0.384,0.381,0.425,1.667,2.125,1.94,1.99
+148,29,horrible,emotion,sentiment,0.0,0.667,0.667,0.425,1.0,2.556,2.556,1.99
+149,30,time,service,place and service,0.3,0.384,0.381,0.425,1.4,2.125,1.94,1.99
+150,30,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+151,30,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+152,31,minute,situation,place and service,0.333,0.348,0.381,0.425,1.333,1.565,1.94,1.99
+153,31,other,emotion,sentiment,0.574,0.667,0.667,0.425,2.139,2.556,2.556,1.99
+154,31,wait,situation,place and service,0.2,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+155,32,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+156,32,location,service,place and service,0.273,0.384,0.381,0.425,2.182,2.125,1.94,1.99
+157,32,location,place,place and service,0.273,0.408,0.381,0.425,2.182,2.014,1.94,1.99
+158,32,people,situation,place and service,0.4,0.348,0.381,0.425,3.0,1.565,1.94,1.99
+159,32,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+160,32,minute,situation,place and service,0.333,0.348,0.381,0.425,1.333,1.565,1.94,1.99
+161,32,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+162,32,lot,other,other,0.333,0.653,0.653,0.425,2.667,1.944,1.944,1.99
+163,33,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+164,33,pickle,food,food and drink,0.0,0.324,0.345,0.425,1.0,2.054,1.993,1.99
+165,33,price,service,place and service,0.333,0.384,0.381,0.425,3.0,2.125,1.94,1.99
+166,33,extra,other,other,0.25,0.653,0.653,0.425,1.0,1.944,1.944,1.99
+167,34,wait,situation,place and service,0.2,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+168,34,window,place,place and service,0.286,0.408,0.381,0.425,1.143,2.014,1.94,1.99
+169,34,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+170,34,minute,situation,place and service,0.333,0.348,0.381,0.425,1.333,1.565,1.94,1.99
+171,34,employee,service,place and service,0.333,0.384,0.381,0.425,1.667,2.125,1.94,1.99
+172,35,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+173,35,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+174,36,store,place,place and service,0.5,0.408,0.381,0.425,2.0,2.014,1.94,1.99
+175,36,horrible,emotion,sentiment,0.0,0.667,0.667,0.425,1.0,2.556,2.556,1.99
+176,36,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+177,36,location,service,place and service,0.273,0.384,0.381,0.425,2.182,2.125,1.94,1.99
+178,36,location,place,place and service,0.273,0.408,0.381,0.425,2.182,2.014,1.94,1.99
+179,37,time,service,place and service,0.3,0.384,0.381,0.425,1.4,2.125,1.94,1.99
+180,37,line,situation,place and service,0.25,0.348,0.381,0.425,1.75,1.565,1.94,1.99
+181,37,long,situation,place and service,0.2,0.348,0.381,0.425,1.6,1.565,1.94,1.99
+182,37,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+183,37,3rd,other,other,0.0,0.653,0.653,0.425,1.0,1.944,1.944,1.99
+184,38,job,other,other,0.75,0.653,0.653,0.425,2.0,1.944,1.944,1.99
+185,38,staff,service,place and service,0.462,0.384,0.381,0.425,2.615,2.125,1.94,1.99
+186,38,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+187,39,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+188,39,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+189,39,other,service,place and service,0.574,0.384,0.381,0.425,2.139,2.125,1.94,1.99
+190,39,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+191,40,large,situation,place and service,0.8,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+192,40,window,place,place and service,0.286,0.408,0.381,0.425,1.143,2.014,1.94,1.99
+193,40,sandwich,food,food and drink,0.0,0.324,0.345,0.425,3.0,2.054,1.993,1.99
+194,40,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+195,40,chicken,food,food and drink,0.0,0.324,0.345,0.425,2.667,2.054,1.993,1.99
+196,40,fry,food,food and drink,0.455,0.324,0.345,0.425,1.818,2.054,1.993,1.99
+197,41,normal,situation,place and service,1.0,0.348,0.381,0.425,1.667,1.565,1.94,1.99
+198,41,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+199,41,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+200,41,minute,situation,place and service,0.333,0.348,0.381,0.425,1.333,1.565,1.94,1.99
+201,41,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+202,42,mcdonald,place,place and service,0.0,0.408,0.381,0.425,1.333,2.014,1.94,1.99
+203,42,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+204,42,bad,emotion,sentiment,0.0,0.667,0.667,0.425,1.667,2.556,2.556,1.99
+205,42,other,situation,place and service,0.574,0.348,0.381,0.425,2.139,1.565,1.94,1.99
+206,42,drive,place,place and service,0.5,0.408,0.381,0.425,1.75,2.014,1.94,1.99
+207,43,good,emotion,sentiment,1.0,0.667,0.667,0.425,3.6,2.556,2.556,1.99
+208,43,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+209,43,other,service,place and service,0.574,0.384,0.381,0.425,2.139,2.125,1.94,1.99
+210,43,other,situation,place and service,0.574,0.348,0.381,0.425,2.139,1.565,1.94,1.99
+211,43,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+212,43,taste,other,other,0.333,0.653,0.653,0.425,2.0,1.944,1.944,1.99
+213,44,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+214,44,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+215,45,employee,service,place and service,0.333,0.384,0.381,0.425,1.667,2.125,1.94,1.99
+216,45,drink,drink,food and drink,0.167,0.412,0.345,0.425,1.333,1.794,1.993,1.99
+217,46,management,service,place and service,0.0,0.384,0.381,0.425,1.333,2.125,1.94,1.99
+218,46,other,situation,place and service,0.574,0.348,0.381,0.425,2.139,1.565,1.94,1.99
+219,46,customer,service,place and service,0.429,0.384,0.381,0.425,2.571,2.125,1.94,1.99
+220,47,time,service,place and service,0.3,0.384,0.381,0.425,1.4,2.125,1.94,1.99
+221,47,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+222,47,mess,situation,place and service,0.0,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+223,48,wait,situation,place and service,0.2,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+224,48,wrong,situation,place and service,0.0,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+225,48,attitude,service,place and service,0.0,0.384,0.381,0.425,1.0,2.125,1.94,1.99
+226,48,day,situation,place and service,1.0,0.348,0.381,0.425,3.0,1.565,1.94,1.99
+227,48,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+228,48,great,emotion,sentiment,1.0,0.667,0.667,0.425,3.5,2.556,2.556,1.99
+229,48,manager,service,place and service,0.429,0.384,0.381,0.425,2.286,2.125,1.94,1.99
+230,49,happy,emotion,sentiment,1.0,0.667,0.667,0.425,1.0,2.556,2.556,1.99
+231,49,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+232,49,attitude,service,place and service,0.0,0.384,0.381,0.425,1.0,2.125,1.94,1.99
+233,49,window,place,place and service,0.286,0.408,0.381,0.425,1.143,2.014,1.94,1.99
+234,49,long,situation,place and service,0.2,0.348,0.381,0.425,1.6,1.565,1.94,1.99
+235,49,other,service,place and service,0.574,0.384,0.381,0.425,2.139,2.125,1.94,1.99
+236,49,work,service,place and service,0.0,0.384,0.381,0.425,1.0,2.125,1.94,1.99
+237,49,meal,food,food and drink,0.571,0.324,0.345,0.425,1.286,2.054,1.993,1.99
+238,49,horrible,emotion,sentiment,0.0,0.667,0.667,0.425,1.0,2.556,2.556,1.99
+239,49,phone,other,other,0.0,0.653,0.653,0.425,1.0,1.944,1.944,1.99
+240,49,fry,food,food and drink,0.455,0.324,0.345,0.425,1.818,2.054,1.993,1.99
+241,49,extra,other,other,0.25,0.653,0.653,0.425,1.0,1.944,1.944,1.99
+242,50,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+243,50,line,situation,place and service,0.25,0.348,0.381,0.425,1.75,1.565,1.94,1.99
+244,50,location,service,place and service,0.273,0.384,0.381,0.425,2.182,2.125,1.94,1.99
+245,50,location,place,place and service,0.273,0.408,0.381,0.425,2.182,2.014,1.94,1.99
+246,50,hour,situation,place and service,0.2,0.348,0.381,0.425,2.0,1.565,1.94,1.99
+247,50,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+248,50,night,situation,place and service,0.5,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+249,51,mcdonalds,place,place and service,0.5,0.408,0.381,0.425,1.75,2.014,1.94,1.99
+250,51,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+251,51,cream,food,food and drink,0.5,0.324,0.345,0.425,2.75,2.054,1.993,1.99
+252,51,cream,drink,food and drink,0.5,0.412,0.345,0.425,2.75,1.794,1.993,1.99
+253,51,ice,drink,food and drink,0.5,0.412,0.345,0.425,2.0,1.794,1.993,1.99
+254,52,attitude,service,place and service,0.0,0.384,0.381,0.425,1.0,2.125,1.94,1.99
+255,52,item,food,food and drink,0.4,0.324,0.345,0.425,1.4,2.054,1.993,1.99
+256,52,item,drink,food and drink,0.4,0.412,0.345,0.425,1.4,1.794,1.993,1.99
+257,52,rude,emotion,sentiment,0.0,0.667,0.667,0.425,1.0,2.556,2.556,1.99
+258,52,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+259,52,job,other,other,0.75,0.653,0.653,0.425,2.0,1.944,1.944,1.99
+260,52,customer,service,place and service,0.429,0.384,0.381,0.425,2.571,2.125,1.94,1.99
+261,52,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+262,52,other,situation,place and service,0.574,0.348,0.381,0.425,2.139,1.565,1.94,1.99
+263,52,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+264,53,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+265,53,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+266,53,manager,service,place and service,0.429,0.384,0.381,0.425,2.286,2.125,1.94,1.99
+267,54,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+268,54,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+269,54,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+270,54,place,place,place and service,0.625,0.408,0.381,0.425,2.75,2.014,1.94,1.99
+271,54,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+272,55,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+273,55,line,situation,place and service,0.25,0.348,0.381,0.425,1.75,1.565,1.94,1.99
+274,55,long,situation,place and service,0.2,0.348,0.381,0.425,1.6,1.565,1.94,1.99
+275,55,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+276,55,drive,place,place and service,0.5,0.408,0.381,0.425,1.75,2.014,1.94,1.99
+277,55,great,emotion,sentiment,1.0,0.667,0.667,0.425,3.5,2.556,2.556,1.99
+278,56,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+279,56,bad,emotion,sentiment,0.0,0.667,0.667,0.425,1.667,2.556,2.556,1.99
+280,56,good,emotion,sentiment,1.0,0.667,0.667,0.425,3.6,2.556,2.556,1.99
+281,57,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+282,57,line,situation,place and service,0.25,0.348,0.381,0.425,1.75,1.565,1.94,1.99
+283,57,customer,service,place and service,0.429,0.384,0.381,0.425,2.571,2.125,1.94,1.99
+284,57,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+285,57,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+286,58,hour,situation,place and service,0.2,0.348,0.381,0.425,2.0,1.565,1.94,1.99
+287,58,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+288,58,one,other,other,0.333,0.653,0.653,0.425,1.0,1.944,1.944,1.99
+289,59,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+290,59,hour,situation,place and service,0.2,0.348,0.381,0.425,2.0,1.565,1.94,1.99
+291,59,people,situation,place and service,0.4,0.348,0.381,0.425,3.0,1.565,1.94,1.99
+292,59,place,place,place and service,0.625,0.408,0.381,0.425,2.75,2.014,1.94,1.99
+293,60,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+294,60,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+295,61,time,service,place and service,0.3,0.384,0.381,0.425,1.4,2.125,1.94,1.99
+296,61,3rd,other,other,0.0,0.653,0.653,0.425,1.0,1.944,1.944,1.99
+297,61,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+298,61,manager,service,place and service,0.429,0.384,0.381,0.425,2.286,2.125,1.94,1.99
+299,62,rude,emotion,sentiment,0.0,0.667,0.667,0.425,1.0,2.556,2.556,1.99
+300,62,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+301,62,lady,service,place and service,0.167,0.384,0.381,0.425,1.333,2.125,1.94,1.99
+302,63,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+303,63,item,food,food and drink,0.4,0.324,0.345,0.425,1.4,2.054,1.993,1.99
+304,63,item,drink,food and drink,0.4,0.412,0.345,0.425,1.4,1.794,1.993,1.99
+305,63,lady,service,place and service,0.167,0.384,0.381,0.425,1.333,2.125,1.94,1.99
+306,63,window,place,place and service,0.286,0.408,0.381,0.425,1.143,2.014,1.94,1.99
+307,63,bag,other,other,0.333,0.653,0.653,0.425,1.333,1.944,1.944,1.99
+308,63,issue,service,place and service,0.333,0.384,0.381,0.425,1.667,2.125,1.94,1.99
+309,63,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+310,63,fry,food,food and drink,0.455,0.324,0.345,0.425,1.818,2.054,1.993,1.99
+311,64,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+312,64,location,service,place and service,0.273,0.384,0.381,0.425,2.182,2.125,1.94,1.99
+313,64,location,place,place and service,0.273,0.408,0.381,0.425,2.182,2.014,1.94,1.99
+314,64,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+315,64,employee,service,place and service,0.333,0.384,0.381,0.425,1.667,2.125,1.94,1.99
+316,64,lot,other,other,0.333,0.653,0.653,0.425,2.667,1.944,1.944,1.99
+317,64,price,service,place and service,0.333,0.384,0.381,0.425,3.0,2.125,1.94,1.99
+318,65,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+319,65,fry,food,food and drink,0.455,0.324,0.345,0.425,1.818,2.054,1.993,1.99
+320,66,drink,drink,food and drink,0.167,0.412,0.345,0.425,1.333,1.794,1.993,1.99
+321,66,issue,service,place and service,0.333,0.384,0.381,0.425,1.667,2.125,1.94,1.99
+322,66,staff,service,place and service,0.462,0.384,0.381,0.425,2.615,2.125,1.94,1.99
+323,66,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+324,66,other,drink,food and drink,0.574,0.412,0.345,0.425,2.139,1.794,1.993,1.99
+325,66,taste,other,other,0.333,0.653,0.653,0.425,2.0,1.944,1.944,1.99
+326,67,wrong,situation,place and service,0.0,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+327,67,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+328,68,mcdonald,place,place and service,0.0,0.408,0.381,0.425,1.333,2.014,1.94,1.99
+329,68,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+330,69,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+331,69,issue,service,place and service,0.333,0.384,0.381,0.425,1.667,2.125,1.94,1.99
+332,69,other,situation,place and service,0.574,0.348,0.381,0.425,2.139,1.565,1.94,1.99
+333,69,mcdonalds,place,place and service,0.5,0.408,0.381,0.425,1.75,2.014,1.94,1.99
+334,69,phone,other,other,0.0,0.653,0.653,0.425,1.0,1.944,1.944,1.99
+335,70,large,situation,place and service,0.8,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+336,70,drink,drink,food and drink,0.167,0.412,0.345,0.425,1.333,1.794,1.993,1.99
+337,70,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+338,70,other,drink,food and drink,0.574,0.412,0.345,0.425,2.139,1.794,1.993,1.99
+339,70,meal,food,food and drink,0.571,0.324,0.345,0.425,1.286,2.054,1.993,1.99
+340,70,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+341,70,fry,food,food and drink,0.455,0.324,0.345,0.425,1.818,2.054,1.993,1.99
+342,71,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+343,71,next,other,other,0.5,0.653,0.653,0.425,1.5,1.944,1.944,1.99
+344,71,customer,service,place and service,0.429,0.384,0.381,0.425,2.571,2.125,1.94,1.99
+345,71,staff,service,place and service,0.462,0.384,0.381,0.425,2.615,2.125,1.94,1.99
+346,71,management,service,place and service,0.0,0.384,0.381,0.425,1.333,2.125,1.94,1.99
+347,71,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+348,71,phone,other,other,0.0,0.653,0.653,0.425,1.0,1.944,1.944,1.99
+349,71,night,situation,place and service,0.5,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+350,72,good,emotion,sentiment,1.0,0.667,0.667,0.425,3.6,2.556,2.556,1.99
+351,72,place,place,place and service,0.625,0.408,0.381,0.425,2.75,2.014,1.94,1.99
+352,72,nugget,food,food and drink,0.0,0.324,0.345,0.425,1.667,2.054,1.993,1.99
+353,72,other,service,place and service,0.574,0.384,0.381,0.425,2.139,2.125,1.94,1.99
+354,72,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+355,72,price,service,place and service,0.333,0.384,0.381,0.425,3.0,2.125,1.94,1.99
+356,72,fry,food,food and drink,0.455,0.324,0.345,0.425,1.818,2.054,1.993,1.99
+357,73,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+358,74,other,drink,food and drink,0.574,0.412,0.345,0.425,2.139,1.794,1.993,1.99
+359,74,other,situation,place and service,0.574,0.348,0.381,0.425,2.139,1.565,1.94,1.99
+360,74,window,place,place and service,0.286,0.408,0.381,0.425,1.143,2.014,1.94,1.99
+361,75,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+362,75,bag,other,other,0.333,0.653,0.653,0.425,1.333,1.944,1.944,1.99
+363,76,item,food,food and drink,0.4,0.324,0.345,0.425,1.4,2.054,1.993,1.99
+364,76,item,drink,food and drink,0.4,0.412,0.345,0.425,1.4,1.794,1.993,1.99
+365,76,location,service,place and service,0.273,0.384,0.381,0.425,2.182,2.125,1.94,1.99
+366,76,location,place,place and service,0.273,0.408,0.381,0.425,2.182,2.014,1.94,1.99
+367,76,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+368,76,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+369,77,good,emotion,sentiment,1.0,0.667,0.667,0.425,3.6,2.556,2.556,1.99
+370,77,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+371,77,place,place,place and service,0.625,0.408,0.381,0.425,2.75,2.014,1.94,1.99
+372,77,location,service,place and service,0.273,0.384,0.381,0.425,2.182,2.125,1.94,1.99
+373,77,location,place,place and service,0.273,0.408,0.381,0.425,2.182,2.014,1.94,1.99
+374,77,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+375,78,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+376,78,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+377,79,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+378,79,customer,service,place and service,0.429,0.384,0.381,0.425,2.571,2.125,1.94,1.99
+379,79,other,service,place and service,0.574,0.384,0.381,0.425,2.139,2.125,1.94,1.99
+380,79,great,emotion,sentiment,1.0,0.667,0.667,0.425,3.5,2.556,2.556,1.99
+381,79,manager,service,place and service,0.429,0.384,0.381,0.425,2.286,2.125,1.94,1.99
+382,80,drive,place,place and service,0.5,0.408,0.381,0.425,1.75,2.014,1.94,1.99
+383,81,new,other,other,0.75,0.653,0.653,0.425,2.0,1.944,1.944,1.99
+384,81,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+385,81,sandwich,food,food and drink,0.0,0.324,0.345,0.425,3.0,2.054,1.993,1.99
+386,81,crew,service,place and service,1.0,0.384,0.381,0.425,2.5,2.125,1.94,1.99
+387,81,other,service,place and service,0.574,0.384,0.381,0.425,2.139,2.125,1.94,1.99
+388,81,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+389,81,manager,service,place and service,0.429,0.384,0.381,0.425,2.286,2.125,1.94,1.99
+390,82,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+391,82,staff,service,place and service,0.462,0.384,0.381,0.425,2.615,2.125,1.94,1.99
+392,82,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+393,82,location,service,place and service,0.273,0.384,0.381,0.425,2.182,2.125,1.94,1.99
+394,82,location,place,place and service,0.273,0.408,0.381,0.425,2.182,2.014,1.94,1.99
+395,83,other,service,place and service,0.574,0.384,0.381,0.425,2.139,2.125,1.94,1.99
+396,84,store,place,place and service,0.5,0.408,0.381,0.425,2.0,2.014,1.94,1.99
+397,84,regular,service,place and service,0.5,0.384,0.381,0.425,2.0,2.125,1.94,1.99
+398,84,regular,situation,place and service,0.5,0.348,0.381,0.425,2.0,1.565,1.94,1.99
+399,84,normal,situation,place and service,1.0,0.348,0.381,0.425,1.667,1.565,1.94,1.99
+400,84,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+401,84,meal,food,food and drink,0.571,0.324,0.345,0.425,1.286,2.054,1.993,1.99
+402,84,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+403,85,good,emotion,sentiment,1.0,0.667,0.667,0.425,3.6,2.556,2.556,1.99
+404,85,time,service,place and service,0.3,0.384,0.381,0.425,1.4,2.125,1.94,1.99
+405,85,best,emotion,sentiment,1.0,0.667,0.667,0.425,4.0,2.556,2.556,1.99
+406,85,day,situation,place and service,1.0,0.348,0.381,0.425,3.0,1.565,1.94,1.99
+407,85,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+408,85,other,drink,food and drink,0.574,0.412,0.345,0.425,2.139,1.794,1.993,1.99
+409,85,coffee,drink,food and drink,1.0,0.412,0.345,0.425,2.333,1.794,1.993,1.99
+410,85,great,emotion,sentiment,1.0,0.667,0.667,0.425,3.5,2.556,2.556,1.99
+411,86,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+412,86,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+413,86,place,place,place and service,0.625,0.408,0.381,0.425,2.75,2.014,1.94,1.99
+414,86,location,service,place and service,0.273,0.384,0.381,0.425,2.182,2.125,1.94,1.99
+415,86,location,place,place and service,0.273,0.408,0.381,0.425,2.182,2.014,1.94,1.99
+416,86,hour,situation,place and service,0.2,0.348,0.381,0.425,2.0,1.565,1.94,1.99
+417,86,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+418,86,great,emotion,sentiment,1.0,0.667,0.667,0.425,3.5,2.556,2.556,1.99
+419,87,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+420,87,burger,food,food and drink,0.333,0.324,0.345,0.425,1.0,2.054,1.993,1.99
+421,87,happy,emotion,sentiment,1.0,0.667,0.667,0.425,1.0,2.556,2.556,1.99
+422,87,meal,food,food and drink,0.571,0.324,0.345,0.425,1.286,2.054,1.993,1.99
+423,88,job,other,other,0.75,0.653,0.653,0.425,2.0,1.944,1.944,1.99
+424,88,line,situation,place and service,0.25,0.348,0.381,0.425,1.75,1.565,1.94,1.99
+425,88,staff,service,place and service,0.462,0.384,0.381,0.425,2.615,2.125,1.94,1.99
+426,88,other,service,place and service,0.574,0.384,0.381,0.425,2.139,2.125,1.94,1.99
+427,88,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+428,88,mcdonalds,place,place and service,0.5,0.408,0.381,0.425,1.75,2.014,1.94,1.99
+429,88,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+430,89,new,other,other,0.75,0.653,0.653,0.425,2.0,1.944,1.944,1.99
+431,89,wrong,situation,place and service,0.0,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+432,89,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+433,89,one,other,other,0.333,0.653,0.653,0.425,1.0,1.944,1.944,1.99
+434,89,time,service,place and service,0.3,0.384,0.381,0.425,1.4,2.125,1.94,1.99
+435,89,window,place,place and service,0.286,0.408,0.381,0.425,1.143,2.014,1.94,1.99
+436,89,other,place,place and service,0.574,0.408,0.381,0.425,2.139,2.014,1.94,1.99
+437,89,mcdonalds,place,place and service,0.5,0.408,0.381,0.425,1.75,2.014,1.94,1.99
+438,89,manager,service,place and service,0.429,0.384,0.381,0.425,2.286,2.125,1.94,1.99
+439,90,fry,food,food and drink,0.455,0.324,0.345,0.425,1.818,2.054,1.993,1.99
+440,90,time,service,place and service,0.3,0.384,0.381,0.425,1.4,2.125,1.94,1.99
+441,90,window,place,place and service,0.286,0.408,0.381,0.425,1.143,2.014,1.94,1.99
+442,90,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+443,90,meal,food,food and drink,0.571,0.324,0.345,0.425,1.286,2.054,1.993,1.99
+444,90,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+445,90,night,situation,place and service,0.5,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+446,90,extra,other,other,0.25,0.653,0.653,0.425,1.0,1.944,1.944,1.99
+447,91,mess,situation,place and service,0.0,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+448,91,time,service,place and service,0.3,0.384,0.381,0.425,1.4,2.125,1.94,1.99
+449,91,location,service,place and service,0.273,0.384,0.381,0.425,2.182,2.125,1.94,1.99
+450,91,location,place,place and service,0.273,0.408,0.381,0.425,2.182,2.014,1.94,1.99
+451,91,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+452,91,drive,place,place and service,0.5,0.408,0.381,0.425,1.75,2.014,1.94,1.99
+453,91,3rd,other,other,0.0,0.653,0.653,0.425,1.0,1.944,1.944,1.99
+454,92,other,drink,food and drink,0.574,0.412,0.345,0.425,2.139,1.794,1.993,1.99
+455,92,other,situation,place and service,0.574,0.348,0.381,0.425,2.139,1.565,1.94,1.99
+456,92,experience,service,place and service,0.333,0.384,0.381,0.425,1.0,2.125,1.94,1.99
+457,92,coffee,drink,food and drink,1.0,0.412,0.345,0.425,2.333,1.794,1.993,1.99
+458,92,regular,service,place and service,0.5,0.384,0.381,0.425,2.0,2.125,1.94,1.99
+459,92,regular,situation,place and service,0.5,0.348,0.381,0.425,2.0,1.565,1.94,1.99
+460,93,employee,service,place and service,0.333,0.384,0.381,0.425,1.667,2.125,1.94,1.99
+461,93,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+462,93,one,other,other,0.333,0.653,0.653,0.425,1.0,1.944,1.944,1.99
+463,94,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+464,94,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+465,94,place,place,place and service,0.625,0.408,0.381,0.425,2.75,2.014,1.94,1.99
+466,95,other,food,food and drink,0.574,0.324,0.345,0.425,2.139,2.054,1.993,1.99
+467,95,lady,service,place and service,0.167,0.384,0.381,0.425,1.333,2.125,1.94,1.99
+468,95,burger,food,food and drink,0.333,0.324,0.345,0.425,1.0,2.054,1.993,1.99
+469,96,time,service,place and service,0.3,0.384,0.381,0.425,1.4,2.125,1.94,1.99
+470,96,staff,service,place and service,0.462,0.384,0.381,0.425,2.615,2.125,1.94,1.99
+471,96,management,service,place and service,0.0,0.384,0.381,0.425,1.333,2.125,1.94,1.99
+472,96,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+473,96,work,service,place and service,0.0,0.384,0.381,0.425,1.0,2.125,1.94,1.99
+474,97,employee,service,place and service,0.333,0.384,0.381,0.425,1.667,2.125,1.94,1.99
+475,97,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+476,97,mess,situation,place and service,0.0,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+477,97,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+478,97,food,food,food and drink,0.5,0.324,0.345,0.425,2.7,2.054,1.993,1.99
+479,98,wrong,situation,place and service,0.0,0.348,0.381,0.425,1.0,1.565,1.94,1.99
+480,98,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
+481,98,service,service,place and service,0.438,0.384,0.381,0.425,2.625,2.125,1.94,1.99
+482,98,rude,emotion,sentiment,0.0,0.667,0.667,0.425,1.0,2.556,2.556,1.99
+483,98,place,place,place and service,0.625,0.408,0.381,0.425,2.75,2.014,1.94,1.99
+484,98,location,service,place and service,0.273,0.384,0.381,0.425,2.182,2.125,1.94,1.99
+485,98,location,place,place and service,0.273,0.408,0.381,0.425,2.182,2.014,1.94,1.99
+486,99,cream,food,food and drink,0.5,0.324,0.345,0.425,2.75,2.054,1.993,1.99
+487,99,cream,drink,food and drink,0.5,0.412,0.345,0.425,2.75,1.794,1.993,1.99
+488,99,ice,drink,food and drink,0.5,0.412,0.345,0.425,2.0,1.794,1.993,1.99
+489,99,best,emotion,sentiment,1.0,0.667,0.667,0.425,4.0,2.556,2.556,1.99
+490,99,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+491,99,fry,food,food and drink,0.455,0.324,0.345,0.425,1.818,2.054,1.993,1.99
+492,100,mcdonalds,place,place and service,0.5,0.408,0.381,0.425,1.75,2.014,1.94,1.99
+493,100,people,situation,place and service,0.4,0.348,0.381,0.425,3.0,1.565,1.94,1.99
+494,100,other,other,other,0.574,0.653,0.653,0.425,2.139,1.944,1.944,1.99
+495,100,order,food,food and drink,0.2,0.324,0.345,0.425,1.9,2.054,1.993,1.99
