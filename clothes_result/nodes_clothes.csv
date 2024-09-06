@@ -1,1379 +1,463 @@
 node_id,reviewer_id,first_cycle,second_cycle,category
-0,0,pocket,properties,products
-1,0,fit,experience,customer experience
-2,0,side,experience,customer experience
-3,0,other,other,other
-4,0,fabric,properties,products
-5,0,style,experience,customer experience
-6,0,pocket,properties,products
-7,0,fit,experience,customer experience
-8,0,side,experience,customer experience
-9,0,other,other,other
-10,0,fabric,properties,products
-11,0,style,experience,customer experience
-12,0,pocket,properties,products
-13,0,fit,experience,customer experience
-14,0,side,experience,customer experience
-15,0,other,other,other
-16,0,fabric,properties,products
-17,0,style,experience,customer experience
-18,0,pocket,properties,products
-19,0,fit,experience,customer experience
-20,0,side,experience,customer experience
-21,0,other,other,other
-22,0,fabric,properties,products
-23,0,style,experience,customer experience
-24,0,pocket,properties,products
-25,0,fit,experience,customer experience
-26,0,side,experience,customer experience
-27,0,other,other,other
-28,0,fabric,properties,products
-29,0,style,experience,customer experience
-30,0,pocket,properties,products
-31,0,fit,experience,customer experience
-32,0,side,experience,customer experience
-33,0,other,other,other
-34,0,fabric,properties,products
-35,0,style,experience,customer experience
-36,1,other,other,other
-37,1,first,application,customer experience
-38,1,material,properties,products
-39,1,wash,application,customer experience
-40,1,other,other,other
-41,1,first,application,customer experience
-42,1,material,properties,products
-43,1,wash,application,customer experience
-44,1,other,other,other
-45,1,first,application,customer experience
-46,1,material,properties,products
-47,1,wash,application,customer experience
-48,1,other,other,other
-49,1,first,application,customer experience
-50,1,material,properties,products
-51,1,wash,application,customer experience
-52,2,other,other,other
-53,2,product,properties,products
-54,2,wash,application,customer experience
-55,2,other,other,other
-56,2,product,properties,products
-57,2,wash,application,customer experience
-58,2,other,other,other
-59,2,product,properties,products
-60,2,wash,application,customer experience
-61,3,color,properties,products
-62,3,nice,emotion,customer experience
-63,3,fit,experience,customer experience
-64,3,other,other,other
-65,3,fabric,properties,products
-66,3,weight,experience,customer experience
-67,3,weight,properties,products
-68,3,color,properties,products
-69,3,nice,emotion,customer experience
-70,3,fit,experience,customer experience
-71,3,other,other,other
-72,3,fabric,properties,products
-73,3,weight,experience,customer experience
-74,3,weight,properties,products
-75,3,color,properties,products
-76,3,nice,emotion,customer experience
-77,3,fit,experience,customer experience
-78,3,other,other,other
-79,3,fabric,properties,products
-80,3,weight,experience,customer experience
-81,3,weight,properties,products
-82,3,color,properties,products
-83,3,nice,emotion,customer experience
-84,3,fit,experience,customer experience
-85,3,other,other,other
-86,3,fabric,properties,products
-87,3,weight,experience,customer experience
-88,3,weight,properties,products
-89,3,color,properties,products
-90,3,nice,emotion,customer experience
-91,3,fit,experience,customer experience
-92,3,other,other,other
-93,3,fabric,properties,products
-94,3,weight,experience,customer experience
-95,3,weight,properties,products
-96,3,color,properties,products
-97,3,nice,emotion,customer experience
-98,3,fit,experience,customer experience
-99,3,other,other,other
-100,3,fabric,properties,products
-101,3,weight,experience,customer experience
-102,3,weight,properties,products
-103,4,dress,type,products
-104,4,material,properties,products
-105,4,spot,experience,customer experience
-106,4,other,other,other
-107,4,cute,emotion,customer experience
-108,4,dress,type,products
-109,4,material,properties,products
-110,4,spot,experience,customer experience
-111,4,other,other,other
-112,4,cute,emotion,customer experience
-113,4,dress,type,products
-114,4,material,properties,products
-115,4,spot,experience,customer experience
-116,4,other,other,other
-117,4,cute,emotion,customer experience
-118,4,dress,type,products
-119,4,material,properties,products
-120,4,spot,experience,customer experience
-121,4,other,other,other
-122,4,cute,emotion,customer experience
-123,4,dress,type,products
-124,4,material,properties,products
-125,4,spot,experience,customer experience
-126,4,other,other,other
-127,4,cute,emotion,customer experience
-128,5,pair,other,other
-129,5,nice,emotion,customer experience
-130,5,size,properties,products
-131,5,pant,type,products
-132,5,other,other,other
-133,5,arm,experience,customer experience
-134,5,zipper,properties,products
-135,5,pair,other,other
-136,5,nice,emotion,customer experience
-137,5,size,properties,products
-138,5,pant,type,products
-139,5,other,other,other
-140,5,arm,experience,customer experience
-141,5,zipper,properties,products
-142,5,pair,other,other
-143,5,nice,emotion,customer experience
-144,5,size,properties,products
-145,5,pant,type,products
-146,5,other,other,other
-147,5,arm,experience,customer experience
-148,5,zipper,properties,products
-149,5,pair,other,other
-150,5,nice,emotion,customer experience
-151,5,size,properties,products
-152,5,pant,type,products
-153,5,other,other,other
-154,5,arm,experience,customer experience
-155,5,zipper,properties,products
-156,5,pair,other,other
-157,5,nice,emotion,customer experience
-158,5,size,properties,products
-159,5,pant,type,products
-160,5,other,other,other
-161,5,arm,experience,customer experience
-162,5,zipper,properties,products
-163,5,pair,other,other
-164,5,nice,emotion,customer experience
-165,5,size,properties,products
-166,5,pant,type,products
-167,5,other,other,other
-168,5,arm,experience,customer experience
-169,5,zipper,properties,products
-170,5,pair,other,other
-171,5,nice,emotion,customer experience
-172,5,size,properties,products
-173,5,pant,type,products
-174,5,other,other,other
-175,5,arm,experience,customer experience
-176,5,zipper,properties,products
-177,6,other,type,products
-178,6,vest,type,products
-179,6,piece,application,customer experience
-180,6,other,type,products
-181,6,vest,type,products
-182,6,piece,application,customer experience
-183,6,other,type,products
-184,6,vest,type,products
-185,6,piece,application,customer experience
-186,7,other,experience,customer experience
-187,7,shirt,type,products
-188,7,other,experience,customer experience
-189,7,shirt,type,products
-190,8,good,emotion,customer experience
-191,8,color,properties,products
-192,8,nice,emotion,customer experience
-193,8,quality,properties,products
-194,8,material,properties,products
-195,8,sweater,type,products
-196,8,other,type,products
-197,8,first,application,customer experience
-198,8,good,emotion,customer experience
-199,8,color,properties,products
-200,8,nice,emotion,customer experience
-201,8,quality,properties,products
-202,8,material,properties,products
-203,8,sweater,type,products
-204,8,other,type,products
-205,8,first,application,customer experience
-206,8,good,emotion,customer experience
-207,8,color,properties,products
-208,8,nice,emotion,customer experience
-209,8,quality,properties,products
-210,8,material,properties,products
-211,8,sweater,type,products
-212,8,other,type,products
-213,8,first,application,customer experience
-214,8,good,emotion,customer experience
-215,8,color,properties,products
-216,8,nice,emotion,customer experience
-217,8,quality,properties,products
-218,8,material,properties,products
-219,8,sweater,type,products
-220,8,other,type,products
-221,8,first,application,customer experience
-222,8,good,emotion,customer experience
-223,8,color,properties,products
-224,8,nice,emotion,customer experience
-225,8,quality,properties,products
-226,8,material,properties,products
-227,8,sweater,type,products
-228,8,other,type,products
-229,8,first,application,customer experience
-230,8,good,emotion,customer experience
-231,8,color,properties,products
-232,8,nice,emotion,customer experience
-233,8,quality,properties,products
-234,8,material,properties,products
-235,8,sweater,type,products
-236,8,other,type,products
-237,8,first,application,customer experience
-238,8,good,emotion,customer experience
-239,8,color,properties,products
-240,8,nice,emotion,customer experience
-241,8,quality,properties,products
-242,8,material,properties,products
-243,8,sweater,type,products
-244,8,other,type,products
-245,8,first,application,customer experience
-246,8,good,emotion,customer experience
-247,8,color,properties,products
-248,8,nice,emotion,customer experience
-249,8,quality,properties,products
-250,8,material,properties,products
-251,8,sweater,type,products
-252,8,other,type,products
-253,8,first,application,customer experience
-254,9,other,type,products
-255,9,size,properties,products
-256,9,right,experience,customer experience
-257,9,other,type,products
-258,9,size,properties,products
-259,9,right,experience,customer experience
-260,9,other,type,products
-261,9,size,properties,products
-262,9,right,experience,customer experience
-263,10,size,properties,products
-264,10,fit,experience,customer experience
-265,10,sweater,type,products
-266,10,other,other,other
-267,10,cute,emotion,customer experience
-268,10,size,properties,products
-269,10,fit,experience,customer experience
-270,10,sweater,type,products
-271,10,other,other,other
-272,10,cute,emotion,customer experience
-273,10,size,properties,products
-274,10,fit,experience,customer experience
-275,10,sweater,type,products
-276,10,other,other,other
-277,10,cute,emotion,customer experience
-278,10,size,properties,products
-279,10,fit,experience,customer experience
-280,10,sweater,type,products
-281,10,other,other,other
-282,10,cute,emotion,customer experience
-283,10,size,properties,products
-284,10,fit,experience,customer experience
-285,10,sweater,type,products
-286,10,other,other,other
-287,10,cute,emotion,customer experience
-288,11,dress,type,products
-289,11,nice,emotion,customer experience
-290,11,slip,experience,customer experience
-291,11,other,other,other
-292,11,dress,type,products
-293,11,nice,emotion,customer experience
-294,11,slip,experience,customer experience
-295,11,other,other,other
-296,11,dress,type,products
-297,11,nice,emotion,customer experience
-298,11,slip,experience,customer experience
-299,11,other,other,other
-300,11,dress,type,products
-301,11,nice,emotion,customer experience
-302,11,slip,experience,customer experience
-303,11,other,other,other
-304,12,top,emotion,customer experience
-305,12,other,other,other
-306,12,top,emotion,customer experience
-307,12,other,other,other
-308,13,other,other,other
-309,14,wear,experience,customer experience
-310,14,poor,emotion,customer experience
-311,14,other,other,other
-312,14,quality,properties,products
-313,14,wear,experience,customer experience
-314,14,poor,emotion,customer experience
-315,14,other,other,other
-316,14,quality,properties,products
-317,14,wear,experience,customer experience
-318,14,poor,emotion,customer experience
-319,14,other,other,other
-320,14,quality,properties,products
-321,14,wear,experience,customer experience
-322,14,poor,emotion,customer experience
-323,14,other,other,other
-324,14,quality,properties,products
-325,15,other,other,other
-326,16,other,other,other
-327,16,sweater,type,products
-328,16,other,other,other
-329,16,sweater,type,products
-330,17,other,other,other
-331,17,length,experience,customer experience
-332,17,style,experience,customer experience
-333,17,other,other,other
-334,17,length,experience,customer experience
-335,17,style,experience,customer experience
-336,17,other,other,other
-337,17,length,experience,customer experience
-338,17,style,experience,customer experience
-339,18,other,other,other
-340,18,shirt,type,products
-341,18,other,other,other
-342,18,shirt,type,products
-343,19,pair,other,other
-344,19,other,other,other
-345,19,material,properties,products
-346,19,pair,other,other
-347,19,other,other,other
-348,19,material,properties,products
-349,19,pair,other,other
-350,19,other,other,other
-351,19,material,properties,products
-352,20,other,other,other
-353,20,arm,experience,customer experience
-354,20,fit,experience,customer experience
-355,20,right,experience,customer experience
-356,20,other,other,other
-357,20,arm,experience,customer experience
-358,20,fit,experience,customer experience
-359,20,right,experience,customer experience
-360,20,other,other,other
-361,20,arm,experience,customer experience
-362,20,fit,experience,customer experience
-363,20,right,experience,customer experience
-364,20,other,other,other
-365,20,arm,experience,customer experience
-366,20,fit,experience,customer experience
-367,20,right,experience,customer experience
-368,21,dress,type,products
-369,21,fabric,properties,products
-370,21,other,other,other
-371,21,wash,application,customer experience
-372,21,dress,type,products
-373,21,fabric,properties,products
-374,21,other,other,other
-375,21,wash,application,customer experience
-376,21,dress,type,products
-377,21,fabric,properties,products
-378,21,other,other,other
-379,21,wash,application,customer experience
-380,21,dress,type,products
-381,21,fabric,properties,products
-382,21,other,other,other
-383,21,wash,application,customer experience
-384,22,other,other,other
-385,23,pair,other,other
-386,23,wash,application,customer experience
-387,23,other,other,other
-388,23,color,properties,products
-389,23,pair,other,other
-390,23,wash,application,customer experience
-391,23,other,other,other
-392,23,color,properties,products
-393,23,pair,other,other
-394,23,wash,application,customer experience
-395,23,other,other,other
-396,23,color,properties,products
-397,23,pair,other,other
-398,23,wash,application,customer experience
-399,23,other,other,other
-400,23,color,properties,products
-401,24,dress,type,products
-402,24,size,properties,products
-403,24,other,other,other
-404,24,dress,type,products
-405,24,size,properties,products
-406,24,other,other,other
-407,24,dress,type,products
-408,24,size,properties,products
-409,24,other,other,other
-410,25,dress,type,products
-411,25,size,properties,products
-412,25,other,type,products
-413,25,dress,type,products
-414,25,size,properties,products
-415,25,other,type,products
-416,25,dress,type,products
-417,25,size,properties,products
-418,25,other,type,products
-419,26,other,other,other
-420,27,fit,experience,customer experience
-421,27,fabric,properties,products
-422,27,wear,experience,customer experience
-423,27,other,other,other
-424,27,fit,experience,customer experience
-425,27,fabric,properties,products
-426,27,wear,experience,customer experience
-427,27,other,other,other
-428,27,fit,experience,customer experience
-429,27,fabric,properties,products
-430,27,wear,experience,customer experience
-431,27,other,other,other
-432,27,fit,experience,customer experience
-433,27,fabric,properties,products
-434,27,wear,experience,customer experience
-435,27,other,other,other
-436,28,other,other,other
-437,28,product,properties,products
-438,28,quality,properties,products
-439,28,other,other,other
-440,28,product,properties,products
-441,28,quality,properties,products
-442,28,other,other,other
-443,28,product,properties,products
-444,28,quality,properties,products
-445,29,nice,emotion,customer experience
-446,29,good,emotion,customer experience
-447,29,quality,properties,products
-448,29,nice,emotion,customer experience
-449,29,good,emotion,customer experience
-450,29,quality,properties,products
-451,29,nice,emotion,customer experience
-452,29,good,emotion,customer experience
-453,29,quality,properties,products
-454,30,wear,experience,customer experience
-455,30,pocket,properties,products
-456,30,pant,type,products
-457,30,other,other,other
-458,30,wear,experience,customer experience
-459,30,pocket,properties,products
-460,30,pant,type,products
-461,30,other,other,other
-462,30,wear,experience,customer experience
-463,30,pocket,properties,products
-464,30,pant,type,products
-465,30,other,other,other
-466,30,wear,experience,customer experience
-467,30,pocket,properties,products
-468,30,pant,type,products
-469,30,other,other,other
-470,31,poor,emotion,customer experience
-471,31,material,properties,products
-472,31,poor,emotion,customer experience
-473,31,material,properties,products
-474,32,quality,properties,products
-475,32,great,emotion,customer experience
-476,32,side,experience,customer experience
-477,32,other,type,products
-478,32,style,experience,customer experience
-479,32,quality,properties,products
-480,32,great,emotion,customer experience
-481,32,side,experience,customer experience
-482,32,other,type,products
-483,32,style,experience,customer experience
-484,32,quality,properties,products
-485,32,great,emotion,customer experience
-486,32,side,experience,customer experience
-487,32,other,type,products
-488,32,style,experience,customer experience
-489,32,quality,properties,products
-490,32,great,emotion,customer experience
-491,32,side,experience,customer experience
-492,32,other,type,products
-493,32,style,experience,customer experience
-494,32,quality,properties,products
-495,32,great,emotion,customer experience
-496,32,side,experience,customer experience
-497,32,other,type,products
-498,32,style,experience,customer experience
-499,33,color,properties,products
-500,33,nice,emotion,customer experience
-501,33,vest,type,products
-502,33,piece,application,customer experience
-503,33,other,other,other
-504,33,cute,emotion,customer experience
-505,33,color,properties,products
-506,33,nice,emotion,customer experience
-507,33,vest,type,products
-508,33,piece,application,customer experience
-509,33,other,other,other
-510,33,cute,emotion,customer experience
-511,33,color,properties,products
-512,33,nice,emotion,customer experience
-513,33,vest,type,products
-514,33,piece,application,customer experience
-515,33,other,other,other
-516,33,cute,emotion,customer experience
-517,33,color,properties,products
-518,33,nice,emotion,customer experience
-519,33,vest,type,products
-520,33,piece,application,customer experience
-521,33,other,other,other
-522,33,cute,emotion,customer experience
-523,33,color,properties,products
-524,33,nice,emotion,customer experience
-525,33,vest,type,products
-526,33,piece,application,customer experience
-527,33,other,other,other
-528,33,cute,emotion,customer experience
-529,33,color,properties,products
-530,33,nice,emotion,customer experience
-531,33,vest,type,products
-532,33,piece,application,customer experience
-533,33,other,other,other
-534,33,cute,emotion,customer experience
-535,34,few,emotion,customer experience
-536,34,wash,application,customer experience
-537,34,color,properties,products
-538,34,time,application,customer experience
-539,34,time,service,other
-540,34,few,emotion,customer experience
-541,34,wash,application,customer experience
-542,34,color,properties,products
-543,34,time,application,customer experience
-544,34,time,service,other
-545,34,few,emotion,customer experience
-546,34,wash,application,customer experience
-547,34,color,properties,products
-548,34,time,application,customer experience
-549,34,time,service,other
-550,34,few,emotion,customer experience
-551,34,wash,application,customer experience
-552,34,color,properties,products
-553,34,time,application,customer experience
-554,34,time,service,other
-555,35,dress,type,products
-556,35,size,properties,products
-557,35,great,emotion,customer experience
-558,35,summer,application,customer experience
-559,35,other,type,products
-560,35,fabric,properties,products
-561,35,style,experience,customer experience
-562,35,dress,type,products
-563,35,size,properties,products
-564,35,great,emotion,customer experience
-565,35,summer,application,customer experience
-566,35,other,type,products
-567,35,fabric,properties,products
-568,35,style,experience,customer experience
-569,35,dress,type,products
-570,35,size,properties,products
-571,35,great,emotion,customer experience
-572,35,summer,application,customer experience
-573,35,other,type,products
-574,35,fabric,properties,products
-575,35,style,experience,customer experience
-576,35,dress,type,products
-577,35,size,properties,products
-578,35,great,emotion,customer experience
-579,35,summer,application,customer experience
-580,35,other,type,products
-581,35,fabric,properties,products
-582,35,style,experience,customer experience
-583,35,dress,type,products
-584,35,size,properties,products
-585,35,great,emotion,customer experience
-586,35,summer,application,customer experience
-587,35,other,type,products
-588,35,fabric,properties,products
-589,35,style,experience,customer experience
-590,35,dress,type,products
-591,35,size,properties,products
-592,35,great,emotion,customer experience
-593,35,summer,application,customer experience
-594,35,other,type,products
-595,35,fabric,properties,products
-596,35,style,experience,customer experience
-597,35,dress,type,products
-598,35,size,properties,products
-599,35,great,emotion,customer experience
-600,35,summer,application,customer experience
-601,35,other,type,products
-602,35,fabric,properties,products
-603,35,style,experience,customer experience
-604,36,few,emotion,customer experience
-605,36,other,type,products
-606,36,few,emotion,customer experience
-607,36,other,type,products
-608,37,other,other,other
-609,37,fit,experience,customer experience
-610,37,other,other,other
-611,37,fit,experience,customer experience
-612,38,other,other,other
-613,38,arm,experience,customer experience
-614,38,shirt,type,products
-615,38,material,properties,products
-616,38,other,other,other
-617,38,arm,experience,customer experience
-618,38,shirt,type,products
-619,38,material,properties,products
-620,38,other,other,other
-621,38,arm,experience,customer experience
-622,38,shirt,type,products
-623,38,material,properties,products
-624,38,other,other,other
-625,38,arm,experience,customer experience
-626,38,shirt,type,products
-627,38,material,properties,products
-628,39,dress,type,products
-629,39,good,emotion,customer experience
-630,39,other,other,other
-631,39,dress,type,products
-632,39,good,emotion,customer experience
-633,39,other,other,other
-634,39,dress,type,products
-635,39,good,emotion,customer experience
-636,39,other,other,other
-637,40,other,other,other
-638,41,dress,type,products
-639,41,size,properties,products
-640,41,other,other,other
-641,41,dress,type,products
-642,41,size,properties,products
-643,41,other,other,other
-644,41,dress,type,products
-645,41,size,properties,products
-646,41,other,other,other
-647,42,dress,type,products
-648,42,other,other,other
-649,42,style,experience,customer experience
-650,42,dress,type,products
-651,42,other,other,other
-652,42,style,experience,customer experience
-653,42,dress,type,products
-654,42,other,other,other
-655,42,style,experience,customer experience
-656,43,dress,type,products
-657,43,fabric,properties,products
-658,43,other,other,other
-659,43,color,properties,products
-660,43,dress,type,products
-661,43,fabric,properties,products
-662,43,other,other,other
-663,43,color,properties,products
-664,43,dress,type,products
-665,43,fabric,properties,products
-666,43,other,other,other
-667,43,color,properties,products
-668,43,dress,type,products
-669,43,fabric,properties,products
-670,43,other,other,other
-671,43,color,properties,products
-672,44,other,other,other
-673,44,pant,type,products
-674,44,other,other,other
-675,44,pant,type,products
-676,45,dress,type,products
-677,45,beautiful,emotion,customer experience
-678,45,perfect,emotion,customer experience
-679,45,color,properties,products
-680,45,length,experience,customer experience
-681,45,other,other,other
-682,45,summer,application,customer experience
-683,45,dress,type,products
-684,45,beautiful,emotion,customer experience
-685,45,perfect,emotion,customer experience
-686,45,color,properties,products
-687,45,length,experience,customer experience
-688,45,other,other,other
-689,45,summer,application,customer experience
-690,45,dress,type,products
-691,45,beautiful,emotion,customer experience
-692,45,perfect,emotion,customer experience
-693,45,color,properties,products
-694,45,length,experience,customer experience
-695,45,other,other,other
-696,45,summer,application,customer experience
-697,45,dress,type,products
-698,45,beautiful,emotion,customer experience
-699,45,perfect,emotion,customer experience
-700,45,color,properties,products
-701,45,length,experience,customer experience
-702,45,other,other,other
-703,45,summer,application,customer experience
-704,45,dress,type,products
-705,45,beautiful,emotion,customer experience
-706,45,perfect,emotion,customer experience
-707,45,color,properties,products
-708,45,length,experience,customer experience
-709,45,other,other,other
-710,45,summer,application,customer experience
-711,45,dress,type,products
-712,45,beautiful,emotion,customer experience
-713,45,perfect,emotion,customer experience
-714,45,color,properties,products
-715,45,length,experience,customer experience
-716,45,other,other,other
-717,45,summer,application,customer experience
-718,45,dress,type,products
-719,45,beautiful,emotion,customer experience
-720,45,perfect,emotion,customer experience
-721,45,color,properties,products
-722,45,length,experience,customer experience
-723,45,other,other,other
-724,45,summer,application,customer experience
-725,46,dress,type,products
-726,46,fit,experience,customer experience
-727,46,other,other,other
-728,46,side,experience,customer experience
-729,46,dress,type,products
-730,46,fit,experience,customer experience
-731,46,other,other,other
-732,46,side,experience,customer experience
-733,46,dress,type,products
-734,46,fit,experience,customer experience
-735,46,other,other,other
-736,46,side,experience,customer experience
-737,46,dress,type,products
-738,46,fit,experience,customer experience
-739,46,other,other,other
-740,46,side,experience,customer experience
-741,47,dress,type,products
-742,47,size,properties,products
-743,47,other,type,products
-744,47,dress,type,products
-745,47,size,properties,products
-746,47,other,type,products
-747,47,dress,type,products
-748,47,size,properties,products
-749,47,other,type,products
-750,48,great,emotion,customer experience
-751,48,pilcro,other,other
-752,48,pant,type,products
-753,48,other,other,other
-754,48,great,emotion,customer experience
-755,48,pilcro,other,other
-756,48,pant,type,products
-757,48,other,other,other
-758,48,great,emotion,customer experience
-759,48,pilcro,other,other
-760,48,pant,type,products
-761,48,other,other,other
-762,48,great,emotion,customer experience
-763,48,pilcro,other,other
-764,48,pant,type,products
-765,48,other,other,other
-766,49,other,other,other
-767,50,great,emotion,customer experience
-768,50,color,properties,products
-769,50,great,emotion,customer experience
-770,50,color,properties,products
-771,51,few,emotion,customer experience
-772,51,other,other,other
-773,51,time,application,customer experience
-774,51,time,service,other
-775,51,few,emotion,customer experience
-776,51,other,other,other
-777,51,time,application,customer experience
-778,51,time,service,other
-779,51,few,emotion,customer experience
-780,51,other,other,other
-781,51,time,application,customer experience
-782,51,time,service,other
-783,52,other,type,products
-784,52,size,properties,products
-785,52,store,application,customer experience
-786,52,style,experience,customer experience
-787,52,other,type,products
-788,52,size,properties,products
-789,52,store,application,customer experience
-790,52,style,experience,customer experience
-791,52,other,type,products
-792,52,size,properties,products
-793,52,store,application,customer experience
-794,52,style,experience,customer experience
-795,52,other,type,products
-796,52,size,properties,products
-797,52,store,application,customer experience
-798,52,style,experience,customer experience
-799,53,perfect,emotion,customer experience
-800,53,color,properties,products
-801,53,sweater,type,products
-802,53,piece,application,customer experience
-803,53,other,other,other
-804,53,perfect,emotion,customer experience
-805,53,color,properties,products
-806,53,sweater,type,products
-807,53,piece,application,customer experience
-808,53,other,other,other
-809,53,perfect,emotion,customer experience
-810,53,color,properties,products
-811,53,sweater,type,products
-812,53,piece,application,customer experience
-813,53,other,other,other
-814,53,perfect,emotion,customer experience
-815,53,color,properties,products
-816,53,sweater,type,products
-817,53,piece,application,customer experience
-818,53,other,other,other
-819,53,perfect,emotion,customer experience
-820,53,color,properties,products
-821,53,sweater,type,products
-822,53,piece,application,customer experience
-823,53,other,other,other
-824,54,other,other,other
-825,54,poor,emotion,customer experience
-826,54,wash,application,customer experience
-827,54,quality,properties,products
-828,54,other,other,other
-829,54,poor,emotion,customer experience
-830,54,wash,application,customer experience
-831,54,quality,properties,products
-832,54,other,other,other
-833,54,poor,emotion,customer experience
-834,54,wash,application,customer experience
-835,54,quality,properties,products
-836,54,other,other,other
-837,54,poor,emotion,customer experience
-838,54,wash,application,customer experience
-839,54,quality,properties,products
-840,55,dress,type,products
-841,55,other,other,other
-842,55,dress,type,products
-843,55,other,other,other
-844,56,dress,type,products
-845,56,perfect,emotion,customer experience
-846,56,spot,experience,customer experience
-847,56,other,other,other
-848,56,fabric,properties,products
-849,56,dress,type,products
-850,56,perfect,emotion,customer experience
-851,56,spot,experience,customer experience
-852,56,other,other,other
-853,56,fabric,properties,products
-854,56,dress,type,products
-855,56,perfect,emotion,customer experience
-856,56,spot,experience,customer experience
-857,56,other,other,other
-858,56,fabric,properties,products
-859,56,dress,type,products
-860,56,perfect,emotion,customer experience
-861,56,spot,experience,customer experience
-862,56,other,other,other
-863,56,fabric,properties,products
-864,56,dress,type,products
-865,56,perfect,emotion,customer experience
-866,56,spot,experience,customer experience
-867,56,other,other,other
-868,56,fabric,properties,products
-869,57,other,other,other
-870,58,other,other,other
-871,58,shirt,type,products
-872,58,other,other,other
-873,58,shirt,type,products
-874,59,zipper,properties,products
-875,59,side,experience,customer experience
-876,59,other,other,other
-877,59,zipper,properties,products
-878,59,side,experience,customer experience
-879,59,other,other,other
-880,59,zipper,properties,products
-881,59,side,experience,customer experience
-882,59,other,other,other
-883,60,other,other,other
-884,60,cute,emotion,customer experience
-885,60,other,other,other
-886,60,cute,emotion,customer experience
-887,61,good,emotion,customer experience
-888,61,quality,properties,products
-889,61,good,emotion,customer experience
-890,61,quality,properties,products
-891,62,other,other,other
-892,63,dress,type,products
-893,63,other,other,other
-894,63,dress,type,products
-895,63,other,other,other
-896,64,top,emotion,customer experience
-897,64,other,type,products
-898,64,top,emotion,customer experience
-899,64,other,type,products
-900,65,pilcro,other,other
-901,65,fit,experience,customer experience
-902,65,pant,type,products
-903,65,spot,experience,customer experience
-904,65,other,other,other
-905,65,pilcro,other,other
-906,65,fit,experience,customer experience
-907,65,pant,type,products
-908,65,spot,experience,customer experience
-909,65,other,other,other
-910,65,pilcro,other,other
-911,65,fit,experience,customer experience
-912,65,pant,type,products
-913,65,spot,experience,customer experience
-914,65,other,other,other
-915,65,pilcro,other,other
-916,65,fit,experience,customer experience
-917,65,pant,type,products
-918,65,spot,experience,customer experience
-919,65,other,other,other
-920,65,pilcro,other,other
-921,65,fit,experience,customer experience
-922,65,pant,type,products
-923,65,spot,experience,customer experience
-924,65,other,other,other
-925,66,dress,type,products
-926,66,fit,experience,customer experience
-927,66,flattering,emotion,customer experience
-928,66,other,other,other
-929,66,dress,type,products
-930,66,fit,experience,customer experience
-931,66,flattering,emotion,customer experience
-932,66,other,other,other
-933,66,dress,type,products
-934,66,fit,experience,customer experience
-935,66,flattering,emotion,customer experience
-936,66,other,other,other
-937,66,dress,type,products
-938,66,fit,experience,customer experience
-939,66,flattering,emotion,customer experience
-940,66,other,other,other
-941,67,other,other,other
-942,67,waist,experience,customer experience
-943,67,good,emotion,customer experience
-944,67,other,other,other
-945,67,waist,experience,customer experience
-946,67,good,emotion,customer experience
-947,67,other,other,other
-948,67,waist,experience,customer experience
-949,67,good,emotion,customer experience
-950,68,great,emotion,customer experience
-951,68,other,other,other
-952,68,quality,properties,products
-953,68,great,emotion,customer experience
-954,68,other,other,other
-955,68,quality,properties,products
-956,68,great,emotion,customer experience
-957,68,other,other,other
-958,68,quality,properties,products
-959,69,other,type,products
-960,69,pilcro,other,other
-961,69,size,properties,products
-962,69,other,type,products
-963,69,pilcro,other,other
-964,69,size,properties,products
-965,69,other,type,products
-966,69,pilcro,other,other
-967,69,size,properties,products
-968,70,other,other,other
-969,70,material,properties,products
-970,70,color,properties,products
-971,70,other,other,other
-972,70,material,properties,products
-973,70,color,properties,products
-974,70,other,other,other
-975,70,material,properties,products
-976,70,color,properties,products
-977,71,other,other,other
-978,71,sweater,type,products
-979,71,other,other,other
-980,71,sweater,type,products
-981,72,dress,type,products
-982,72,beautiful,emotion,customer experience
-983,72,flattering,emotion,customer experience
-984,72,size,properties,products
-985,72,length,experience,customer experience
-986,72,other,type,products
-987,72,dress,type,products
-988,72,beautiful,emotion,customer experience
-989,72,flattering,emotion,customer experience
-990,72,size,properties,products
-991,72,length,experience,customer experience
-992,72,other,type,products
-993,72,dress,type,products
-994,72,beautiful,emotion,customer experience
-995,72,flattering,emotion,customer experience
-996,72,size,properties,products
-997,72,length,experience,customer experience
-998,72,other,type,products
-999,72,dress,type,products
-1000,72,beautiful,emotion,customer experience
-1001,72,flattering,emotion,customer experience
-1002,72,size,properties,products
-1003,72,length,experience,customer experience
-1004,72,other,type,products
-1005,72,dress,type,products
-1006,72,beautiful,emotion,customer experience
-1007,72,flattering,emotion,customer experience
-1008,72,size,properties,products
-1009,72,length,experience,customer experience
-1010,72,other,type,products
-1011,72,dress,type,products
-1012,72,beautiful,emotion,customer experience
-1013,72,flattering,emotion,customer experience
-1014,72,size,properties,products
-1015,72,length,experience,customer experience
-1016,72,other,type,products
-1017,73,wear,experience,customer experience
-1018,73,other,other,other
-1019,73,wear,experience,customer experience
-1020,73,other,other,other
-1021,74,dress,type,products
-1022,74,other,other,other
-1023,74,dress,type,products
-1024,74,other,other,other
-1025,75,dress,type,products
-1026,75,flattering,emotion,customer experience
-1027,75,dress,type,products
-1028,75,flattering,emotion,customer experience
-1029,76,other,other,other
-1030,76,zipper,properties,products
-1031,76,other,other,other
-1032,76,zipper,properties,products
-1033,77,other,type,products
-1034,77,size,properties,products
-1035,77,other,type,products
-1036,77,size,properties,products
-1037,78,dress,type,products
-1038,78,pocket,properties,products
-1039,78,other,other,other
-1040,78,right,experience,customer experience
-1041,78,dress,type,products
-1042,78,pocket,properties,products
-1043,78,other,other,other
-1044,78,right,experience,customer experience
-1045,78,dress,type,products
-1046,78,pocket,properties,products
-1047,78,other,other,other
-1048,78,right,experience,customer experience
-1049,78,dress,type,products
-1050,78,pocket,properties,products
-1051,78,other,other,other
-1052,78,right,experience,customer experience
-1053,79,other,other,other
-1054,80,other,experience,customer experience
-1055,81,dress,type,products
-1056,81,fit,experience,customer experience
-1057,81,new,application,customer experience
-1058,81,other,other,other
-1059,81,prefect,other,other
-1060,81,dress,type,products
-1061,81,fit,experience,customer experience
-1062,81,new,application,customer experience
-1063,81,other,other,other
-1064,81,prefect,other,other
-1065,81,dress,type,products
-1066,81,fit,experience,customer experience
-1067,81,new,application,customer experience
-1068,81,other,other,other
-1069,81,prefect,other,other
-1070,81,dress,type,products
-1071,81,fit,experience,customer experience
-1072,81,new,application,customer experience
-1073,81,other,other,other
-1074,81,prefect,other,other
-1075,81,dress,type,products
-1076,81,fit,experience,customer experience
-1077,81,new,application,customer experience
-1078,81,other,other,other
-1079,81,prefect,other,other
-1080,82,dress,type,products
-1081,82,great,emotion,customer experience
-1082,82,other,other,other
-1083,82,dress,type,products
-1084,82,great,emotion,customer experience
-1085,82,other,other,other
-1086,82,dress,type,products
-1087,82,great,emotion,customer experience
-1088,82,other,other,other
-1089,83,stripe,experience,customer experience
-1090,83,color,properties,products
-1091,83,other,other,other
-1092,83,top,emotion,customer experience
-1093,83,white,properties,products
-1094,83,stripe,experience,customer experience
-1095,83,color,properties,products
-1096,83,other,other,other
-1097,83,top,emotion,customer experience
-1098,83,white,properties,products
-1099,83,stripe,experience,customer experience
-1100,83,color,properties,products
-1101,83,other,other,other
-1102,83,top,emotion,customer experience
-1103,83,white,properties,products
-1104,83,stripe,experience,customer experience
-1105,83,color,properties,products
-1106,83,other,other,other
-1107,83,top,emotion,customer experience
-1108,83,white,properties,products
-1109,83,stripe,experience,customer experience
-1110,83,color,properties,products
-1111,83,other,other,other
-1112,83,top,emotion,customer experience
-1113,83,white,properties,products
-1114,84,size,properties,products
-1115,84,material,properties,products
-1116,84,weight,experience,customer experience
-1117,84,weight,properties,products
-1118,84,size,properties,products
-1119,84,material,properties,products
-1120,84,weight,experience,customer experience
-1121,84,weight,properties,products
-1122,84,size,properties,products
-1123,84,material,properties,products
-1124,84,weight,experience,customer experience
-1125,84,weight,properties,products
-1126,85,other,application,customer experience
-1127,85,color,properties,products
-1128,85,other,application,customer experience
-1129,85,color,properties,products
-1130,86,other,other,other
-1131,87,golf,application,customer experience
-1132,87,first,application,customer experience
-1133,87,other,other,other
-1134,87,time,application,customer experience
-1135,87,time,service,other
-1136,87,golf,application,customer experience
-1137,87,first,application,customer experience
-1138,87,other,other,other
-1139,87,time,application,customer experience
-1140,87,time,service,other
-1141,87,golf,application,customer experience
-1142,87,first,application,customer experience
-1143,87,other,other,other
-1144,87,time,application,customer experience
-1145,87,time,service,other
-1146,87,golf,application,customer experience
-1147,87,first,application,customer experience
-1148,87,other,other,other
-1149,87,time,application,customer experience
-1150,87,time,service,other
-1151,88,other,other,other
-1152,88,waist,experience,customer experience
-1153,88,length,experience,customer experience
-1154,88,size,properties,products
-1155,88,other,other,other
-1156,88,waist,experience,customer experience
-1157,88,length,experience,customer experience
-1158,88,size,properties,products
-1159,88,other,other,other
-1160,88,waist,experience,customer experience
-1161,88,length,experience,customer experience
-1162,88,size,properties,products
-1163,88,other,other,other
-1164,88,waist,experience,customer experience
-1165,88,length,experience,customer experience
-1166,88,size,properties,products
-1167,89,other,other,other
-1168,89,store,application,customer experience
-1169,89,fabric,properties,products
-1170,89,other,other,other
-1171,89,store,application,customer experience
-1172,89,fabric,properties,products
-1173,89,other,other,other
-1174,89,store,application,customer experience
-1175,89,fabric,properties,products
-1176,90,perfect,emotion,customer experience
-1177,90,color,properties,products
-1178,90,sweater,type,products
-1179,90,other,other,other
-1180,90,white,properties,products
-1181,90,perfect,emotion,customer experience
-1182,90,color,properties,products
-1183,90,sweater,type,products
-1184,90,other,other,other
-1185,90,white,properties,products
-1186,90,perfect,emotion,customer experience
-1187,90,color,properties,products
-1188,90,sweater,type,products
-1189,90,other,other,other
-1190,90,white,properties,products
-1191,90,perfect,emotion,customer experience
-1192,90,color,properties,products
-1193,90,sweater,type,products
-1194,90,other,other,other
-1195,90,white,properties,products
-1196,90,perfect,emotion,customer experience
-1197,90,color,properties,products
-1198,90,sweater,type,products
-1199,90,other,other,other
-1200,90,white,properties,products
-1201,91,dress,type,products
-1202,91,few,emotion,customer experience
-1203,91,time,application,customer experience
-1204,91,time,service,other
-1205,91,other,other,other
-1206,91,fabric,properties,products
-1207,91,dress,type,products
-1208,91,few,emotion,customer experience
-1209,91,time,application,customer experience
-1210,91,time,service,other
-1211,91,other,other,other
-1212,91,fabric,properties,products
-1213,91,dress,type,products
-1214,91,few,emotion,customer experience
-1215,91,time,application,customer experience
-1216,91,time,service,other
-1217,91,other,other,other
-1218,91,fabric,properties,products
-1219,91,dress,type,products
-1220,91,few,emotion,customer experience
-1221,91,time,application,customer experience
-1222,91,time,service,other
-1223,91,other,other,other
-1224,91,fabric,properties,products
-1225,91,dress,type,products
-1226,91,few,emotion,customer experience
-1227,91,time,application,customer experience
-1228,91,time,service,other
-1229,91,other,other,other
-1230,91,fabric,properties,products
-1231,92,size,properties,products
-1232,92,fit,experience,customer experience
-1233,92,great,emotion,customer experience
-1234,92,other,service,other
-1235,92,weight,experience,customer experience
-1236,92,weight,properties,products
-1237,92,size,properties,products
-1238,92,fit,experience,customer experience
-1239,92,great,emotion,customer experience
-1240,92,other,service,other
-1241,92,weight,experience,customer experience
-1242,92,weight,properties,products
-1243,92,size,properties,products
-1244,92,fit,experience,customer experience
-1245,92,great,emotion,customer experience
-1246,92,other,service,other
-1247,92,weight,experience,customer experience
-1248,92,weight,properties,products
-1249,92,size,properties,products
-1250,92,fit,experience,customer experience
-1251,92,great,emotion,customer experience
-1252,92,other,service,other
-1253,92,weight,experience,customer experience
-1254,92,weight,properties,products
-1255,92,size,properties,products
-1256,92,fit,experience,customer experience
-1257,92,great,emotion,customer experience
-1258,92,other,service,other
-1259,92,weight,experience,customer experience
-1260,92,weight,properties,products
-1261,93,store,application,customer experience
-1262,93,pant,type,products
-1263,93,other,other,other
-1264,93,top,emotion,customer experience
-1265,93,white,properties,products
-1266,93,store,application,customer experience
-1267,93,pant,type,products
-1268,93,other,other,other
-1269,93,top,emotion,customer experience
-1270,93,white,properties,products
-1271,93,store,application,customer experience
-1272,93,pant,type,products
-1273,93,other,other,other
-1274,93,top,emotion,customer experience
-1275,93,white,properties,products
-1276,93,store,application,customer experience
-1277,93,pant,type,products
-1278,93,other,other,other
-1279,93,top,emotion,customer experience
-1280,93,white,properties,products
-1281,93,store,application,customer experience
-1282,93,pant,type,products
-1283,93,other,other,other
-1284,93,top,emotion,customer experience
-1285,93,white,properties,products
-1286,94,dress,type,products
-1287,94,size,properties,products
-1288,94,wash,application,customer experience
-1289,94,material,properties,products
-1290,94,other,other,other
-1291,94,dress,type,products
-1292,94,size,properties,products
-1293,94,wash,application,customer experience
-1294,94,material,properties,products
-1295,94,other,other,other
-1296,94,dress,type,products
-1297,94,size,properties,products
-1298,94,wash,application,customer experience
-1299,94,material,properties,products
-1300,94,other,other,other
-1301,94,dress,type,products
-1302,94,size,properties,products
-1303,94,wash,application,customer experience
-1304,94,material,properties,products
-1305,94,other,other,other
-1306,94,dress,type,products
-1307,94,size,properties,products
-1308,94,wash,application,customer experience
-1309,94,material,properties,products
-1310,94,other,other,other
-1311,95,dress,type,products
-1312,95,product,properties,products
-1313,95,new,application,customer experience
-1314,95,other,emotion,customer experience
-1315,95,dress,type,products
-1316,95,product,properties,products
-1317,95,new,application,customer experience
-1318,95,other,emotion,customer experience
-1319,95,dress,type,products
-1320,95,product,properties,products
-1321,95,new,application,customer experience
-1322,95,other,emotion,customer experience
-1323,95,dress,type,products
-1324,95,product,properties,products
-1325,95,new,application,customer experience
-1326,95,other,emotion,customer experience
-1327,96,dress,type,products
-1328,96,wash,application,customer experience
-1329,96,other,other,other
-1330,96,color,properties,products
-1331,96,dress,type,products
-1332,96,wash,application,customer experience
-1333,96,other,other,other
-1334,96,color,properties,products
-1335,96,dress,type,products
-1336,96,wash,application,customer experience
-1337,96,other,other,other
-1338,96,color,properties,products
-1339,96,dress,type,products
-1340,96,wash,application,customer experience
-1341,96,other,other,other
-1342,96,color,properties,products
-1343,97,dress,type,products
-1344,97,great,emotion,customer experience
-1345,97,other,other,other
-1346,97,dress,type,products
-1347,97,great,emotion,customer experience
-1348,97,other,other,other
-1349,97,dress,type,products
-1350,97,great,emotion,customer experience
-1351,97,other,other,other
-1352,98,fabric,properties,products
-1353,98,wash,application,customer experience
-1354,98,quality,properties,products
-1355,98,other,other,other
-1356,98,poor,emotion,customer experience
-1357,98,fabric,properties,products
-1358,98,wash,application,customer experience
-1359,98,quality,properties,products
-1360,98,other,other,other
-1361,98,poor,emotion,customer experience
-1362,98,fabric,properties,products
-1363,98,wash,application,customer experience
-1364,98,quality,properties,products
-1365,98,other,other,other
-1366,98,poor,emotion,customer experience
-1367,98,fabric,properties,products
-1368,98,wash,application,customer experience
-1369,98,quality,properties,products
-1370,98,other,other,other
-1371,98,poor,emotion,customer experience
-1372,98,fabric,properties,products
-1373,98,wash,application,customer experience
-1374,98,quality,properties,products
-1375,98,other,other,other
-1376,98,poor,emotion,customer experience
-1377,99,other,other,other
+0,0,other,type,products
+1,0,compliment,other,other
+2,0,perfect,emotion,customer experience
+3,0,length,experience,customer experience
+4,0,pocket,properties,products
+5,0,fit,experience,customer experience
+6,0,sandal,other,other
+7,0,look,other,other
+8,0,more,other,other
+9,0,side,experience,customer experience
+10,0,size,properties,products
+11,0,casual,other,other
+12,0,fabric,properties,products
+13,0,style,experience,customer experience
+14,1,other,other,other
+15,1,material,properties,products
+16,1,first,application,customer experience
+17,1,wash,application,customer experience
+18,1,look,other,other
+19,1,great,emotion,customer experience
+20,1,color,properties,products
+21,2,wash,application,customer experience
+22,2,other,other,other
+23,2,thread,other,other
+24,2,thing,other,other
+25,3,other,service,other
+26,3,good,emotion,customer experience
+27,3,nice,emotion,customer experience
+28,3,fit,experience,customer experience
+29,3,look,other,other
+30,3,color,properties,products
+31,3,purchase,other,other
+32,3,fabric,properties,products
+33,4,other,other,other
+34,4,cute,emotion,customer experience
+35,4,material,properties,products
+36,4,spot,experience,customer experience
+37,4,dress,type,products
+38,5,time,application,customer experience
+39,5,time,service,other
+40,5,other,other,other
+41,5,zipper,properties,products
+42,5,arm,experience,customer experience
+43,5,pant,type,products
+44,5,nice,emotion,customer experience
+45,5,pair,other,other
+46,5,horrible,other,other
+47,5,size,properties,products
+48,6,other,other,other
+49,6,petite,other,other
+50,6,layer,other,other
+51,6,vest,type,products
+52,6,piece,application,customer experience
+53,6,review,other,other
+54,7,other,experience,customer experience
+55,7,fit,experience,customer experience
+56,7,shirt,type,products
+57,7,wash,application,customer experience
+58,7,several,other,other
+59,8,other,type,products
+60,8,good,emotion,customer experience
+61,8,material,properties,products
+62,8,first,application,customer experience
+63,8,nice,emotion,customer experience
+64,8,sweater,type,products
+65,8,color,properties,products
+66,8,quality,properties,products
+67,9,other,type,products
+68,9,right,experience,customer experience
+69,9,size,properties,products
+70,10,other,other,other
+71,10,cute,emotion,customer experience
+72,10,thing,other,other
+73,10,fit,experience,customer experience
+74,10,sweater,type,products
+75,10,horrible,other,other
+76,10,size,properties,products
+77,10,purchase,other,other
+78,11,dress,type,products
+79,11,nice,emotion,customer experience
+80,11,other,other,other
+81,11,slip,experience,customer experience
+82,12,other,emotion,customer experience
+83,12,top,emotion,customer experience
+84,12,place,other,other
+85,13,time,application,customer experience
+86,13,time,service,other
+87,13,other,other,other
+88,14,other,other,other
+89,14,wear,experience,customer experience
+90,14,way,other,other
+91,14,poor,emotion,customer experience
+92,14,quality,properties,products
+93,15,other,other,other
+94,15,sandal,other,other
+95,16,comfortable,other,other
+96,16,sweater,type,products
+97,17,other,other,other
+98,17,length,experience,customer experience
+99,17,order,other,other
+100,17,top,emotion,customer experience
+101,17,review,other,other
+102,17,style,experience,customer experience
+103,17,beautiful,emotion,customer experience
+104,18,other,other,other
+105,18,black,other,other
+106,18,shirt,type,products
+107,19,other,other,other
+108,19,material,properties,products
+109,19,pair,other,other
+110,19,short,other,other
+111,20,other,other,other
+112,20,right,experience,customer experience
+113,20,arm,experience,customer experience
+114,20,fit,experience,customer experience
+115,21,other,service,other
+116,21,good,emotion,customer experience
+117,21,way,other,other
+118,21,day,other,other
+119,21,wash,application,customer experience
+120,21,look,other,other
+121,21,color,properties,products
+122,21,dress,type,products
+123,21,quality,properties,products
+124,21,fabric,properties,products
+125,22,other,other,other
+126,23,time,application,customer experience
+127,23,time,service,other
+128,23,stain,other,other
+129,23,other,other,other
+130,23,short,other,other
+131,23,first,application,customer experience
+132,23,pair,other,other
+133,23,wash,application,customer experience
+134,23,color,properties,products
+135,24,dress,type,products
+136,24,review,other,other
+137,24,size,properties,products
+138,25,dress,type,products
+139,25,other,type,products
+140,25,size,properties,products
+141,26,purchase,other,other
+142,27,other,other,other
+143,27,wear,experience,customer experience
+144,27,fabric,properties,products
+145,27,fit,experience,customer experience
+146,28,other,other,other
+147,28,quality,properties,products
+148,29,quality,properties,products
+149,29,nice,emotion,customer experience
+150,29,good,emotion,customer experience
+151,30,other,other,other
+152,30,wear,experience,customer experience
+153,30,pant,type,products
+154,30,pocket,properties,products
+155,30,wash,application,customer experience
+156,30,several,other,other
+157,31,poor,emotion,customer experience
+158,31,material,properties,products
+159,32,other,type,products
+160,32,sadly,other,other
+161,32,great,emotion,customer experience
+162,32,price,service,other
+163,32,side,experience,customer experience
+164,32,dress,type,products
+165,32,quality,properties,products
+166,32,fabric,properties,products
+167,32,style,experience,customer experience
+168,33,other,other,other
+169,33,cute,emotion,customer experience
+170,33,nice,emotion,customer experience
+171,33,vest,type,products
+172,33,color,properties,products
+173,33,piece,application,customer experience
+174,34,time,application,customer experience
+175,34,time,service,other
+176,34,other,other,other
+177,34,material,properties,products
+178,34,wash,application,customer experience
+179,34,color,properties,products
+180,34,few,emotion,customer experience
+181,35,great,emotion,customer experience
+182,35,dress,type,products
+183,35,fabric,properties,products
+184,35,style,experience,customer experience
+185,35,summer,application,customer experience
+186,36,other,type,products
+187,36,few,emotion,customer experience
+188,37,other,other,other
+189,37,fit,experience,customer experience
+190,38,other,other,other
+191,38,arm,experience,customer experience
+192,38,material,properties,products
+193,38,nice,emotion,customer experience
+194,38,shirt,type,products
+195,38,color,properties,products
+196,39,other,experience,customer experience
+197,39,good,emotion,customer experience
+198,39,show,other,other
+199,39,size,properties,products
+200,39,dress,type,products
+201,39,love,other,other
+202,39,purchase,other,other
+203,39,fabric,properties,products
+204,40,other,other,other
+205,41,size,properties,products
+206,42,dress,type,products
+207,42,other,other,other
+208,42,style,experience,customer experience
+209,43,other,other,other
+210,43,more,other,other
+211,43,color,properties,products
+212,43,dress,type,products
+213,43,fabric,properties,products
+214,44,pant,type,products
+215,44,wear,experience,customer experience
+216,44,other,other,other
+217,44,more,other,other
+218,45,other,other,other
+219,45,perfect,emotion,customer experience
+220,45,length,experience,customer experience
+221,45,price,service,other
+222,45,color,properties,products
+223,45,dress,type,products
+224,45,summer,application,customer experience
+225,45,beautiful,emotion,customer experience
+226,46,other,other,other
+227,46,show,other,other
+228,46,fit,experience,customer experience
+229,46,side,experience,customer experience
+230,46,dress,type,products
+231,47,dress,type,products
+232,47,other,type,products
+233,47,size,properties,products
+234,48,other,other,other
+235,48,print,other,other
+236,48,cute,emotion,customer experience
+237,48,pant,type,products
+238,48,pilcro,other,other
+239,48,retailer,other,other
+240,48,store,application,customer experience
+241,48,great,emotion,customer experience
+242,48,look,other,other
+243,48,casual,other,other
+244,48,review,other,other
+245,49,other,other,other
+246,50,great,emotion,customer experience
+247,50,color,properties,products
+248,51,time,application,customer experience
+249,51,time,service,other
+250,51,other,other,other
+251,51,few,emotion,customer experience
+252,52,other,other,other
+253,52,print,other,other
+254,52,petite,other,other
+255,52,right,experience,customer experience
+256,52,day,other,other
+257,52,store,application,customer experience
+258,52,look,other,other
+259,52,size,properties,products
+260,52,purchase,other,other
+261,52,style,experience,customer experience
+262,52,few,emotion,customer experience
+263,53,other,other,other
+264,53,perfect,emotion,customer experience
+265,53,piece,application,customer experience
+266,53,sweater,type,products
+267,53,color,properties,products
+268,54,poor,emotion,customer experience
+269,54,quality,properties,products
+270,54,wash,application,customer experience
+271,54,other,other,other
+272,55,dress,type,products
+273,55,comfortable,other,other
+274,56,other,other,other
+275,56,petite,other,other
+276,56,perfect,emotion,customer experience
+277,56,spot,experience,customer experience
+278,56,side,experience,customer experience
+279,56,dress,type,products
+280,56,fabric,properties,products
+281,57,other,other,other
+282,58,other,other,other
+283,58,shirt,type,products
+284,59,other,emotion,customer experience
+285,59,other,type,products
+286,59,good,emotion,customer experience
+287,59,zipper,properties,products
+288,59,place,other,other
+289,59,material,properties,products
+290,59,pocket,properties,products
+291,59,side,experience,customer experience
+292,59,dress,type,products
+293,59,love,other,other
+294,59,thread,other,other
+295,60,other,other,other
+296,61,good,emotion,customer experience
+297,61,quality,properties,products
+298,62,stain,other,other
+299,62,several,other,other
+300,63,dress,type,products
+301,63,fabric,properties,products
+302,63,other,type,products
+303,63,size,properties,products
+304,64,size,properties,products
+305,64,top,emotion,customer experience
+306,64,other,other,other
+307,64,thing,other,other
+308,65,other,other,other
+309,65,stain,other,other
+310,65,pant,type,products
+311,65,spot,experience,customer experience
+312,65,pilcro,other,other
+313,65,fit,experience,customer experience
+314,65,more,other,other
+315,65,color,properties,products
+316,65,light,other,other
+317,66,dress,type,products
+318,66,love,other,other
+319,66,other,other,other
+320,66,fit,experience,customer experience
+321,67,other,other,other
+322,67,waist,experience,customer experience
+323,68,other,other,other
+324,68,quality,properties,products
+325,68,great,emotion,customer experience
+326,69,other,type,products
+327,69,stripe,experience,customer experience
+328,69,pant,type,products
+329,69,material,properties,products
+330,69,pilcro,other,other
+331,69,great,emotion,customer experience
+332,69,size,properties,products
+333,70,other,other,other
+334,70,blue,other,other
+335,70,shoulder,other,other
+336,70,material,properties,products
+337,70,look,other,other
+338,70,color,properties,products
+339,70,dress,type,products
+340,71,other,other,other
+341,71,sweater,type,products
+342,72,other,type,products
+343,72,length,experience,customer experience
+344,72,size,properties,products
+345,72,dress,type,products
+346,72,beautiful,emotion,customer experience
+347,73,other,other,other
+348,73,short,other,other
+349,74,dress,type,products
+350,74,print,other,other
+351,74,other,other,other
+352,75,other,other,other
+353,75,love,other,other
+354,76,other,other,other
+355,76,zipper,properties,products
+356,77,other,other,other
+357,77,way,other,other
+358,77,size,properties,products
+359,78,other,other,other
+360,78,right,experience,customer experience
+361,78,pocket,properties,products
+362,78,color,properties,products
+363,78,dress,type,products
+364,79,other,other,other
+365,79,compliment,other,other
+366,80,other,other,other
+367,80,casual,other,other
+368,81,other,other,other
+369,81,compliment,other,other
+370,81,black,other,other
+371,81,fit,experience,customer experience
+372,81,dress,type,products
+373,82,other,other,other
+374,82,good,emotion,customer experience
+375,82,quality,properties,products
+376,82,black,other,other
+377,82,great,emotion,customer experience
+378,82,dress,type,products
+379,82,order,other,other
+380,82,beautiful,emotion,customer experience
+381,83,other,other,other
+382,83,fabric,properties,products
+383,83,stripe,experience,customer experience
+384,83,blue,other,other
+385,83,show,other,other
+386,83,day,other,other
+387,83,white,properties,products
+388,83,color,properties,products
+389,83,top,emotion,customer experience
+390,83,light,other,other
+391,83,summer,application,customer experience
+392,84,other,other,other
+393,84,material,properties,products
+394,84,look,other,other
+395,84,size,properties,products
+396,84,dress,type,products
+397,85,other,application,customer experience
+398,85,color,properties,products
+399,86,order,other,other
+400,87,other,other,other
+401,88,other,experience,customer experience
+402,88,waist,experience,customer experience
+403,88,length,experience,customer experience
+404,88,retailer,other,other
+405,88,size,properties,products
+406,88,color,properties,products
+407,89,other,service,other
+408,89,way,other,other
+409,89,shoulder,other,other
+410,89,layer,other,other
+411,89,retailer,other,other
+412,89,store,application,customer experience
+413,89,look,other,other
+414,89,top,emotion,customer experience
+415,89,fabric,properties,products
+416,89,beautiful,emotion,customer experience
+417,90,other,other,other
+418,90,perfect,emotion,customer experience
+419,90,sweater,type,products
+420,90,color,properties,products
+421,90,white,properties,products
+422,91,time,application,customer experience
+423,91,time,service,other
+424,91,other,other,other
+425,91,nice,emotion,customer experience
+426,91,dress,type,products
+427,91,fabric,properties,products
+428,91,few,emotion,customer experience
+429,92,great,emotion,customer experience
+430,92,price,service,other
+431,93,other,other,other
+432,93,pant,type,products
+433,93,store,application,customer experience
+434,93,color,properties,products
+435,93,top,emotion,customer experience
+436,93,white,properties,products
+437,94,dress,type,products
+438,94,material,properties,products
+439,94,wash,application,customer experience
+440,94,size,properties,products
+441,95,dress,type,products
+442,95,other,service,other
+443,96,wash,application,customer experience
+444,96,dress,type,products
+445,96,other,other,other
+446,96,color,properties,products
+447,97,dress,type,products
+448,97,great,emotion,customer experience
+449,97,other,other,other
+450,98,other,other,other
+451,98,poor,emotion,customer experience
+452,98,wash,application,customer experience
+453,98,quality,properties,products
+454,98,fabric,properties,products
+455,99,other,other,other
+456,99,place,other,other
+457,99,side,experience,customer experience
+458,99,piece,application,customer experience
+459,99,quality,properties,products
+460,99,several,other,other
+461,99,thread,other,other
