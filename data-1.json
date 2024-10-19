@@ -15,24 +15,24 @@
         "staff was accommodating.",
         "they offer fantastic promotions.",
         "they offer discounts.",
-        "they really know products.",
         "they really know received excellent advice from team.",
+        "they really know products.",
         "staff was not apologetic.",
         "staff was rude.",
         "staff was unhelpful.",
-        "they felt like scam.",
         "they charged extra for services.",
         "they charged me.",
+        "they felt like scam.",
         "staff seemed.",
         "staff gave incorrect information about plan.",
-        "they upsold on plan.",
         "they upsold me.",
+        "they upsold on plan.",
         "staff was unprofessional.",
         "they kept trying.",
-        "they did not explain anything.",
         "they rushed through purchase.",
-        "they rushed me.",
         "they did not explain clearly.",
+        "they did not explain anything.",
+        "they rushed me.",
         "store was with unhelpful staff."
     ],
     "process": [
@@ -47,12 +47,12 @@
     ],
     "selection": [
         "selection is amazing.",
-        "service selection be Great.",
-        "selection selection be phone.",
-        "selection selection be phone.",
         "service selection be phone.",
         "selection selection be Great.",
         "selection selection be Great.",
+        "service selection be Great.",
+        "selection selection be phone.",
+        "selection selection be phone.",
         "selection is limited."
     ],
     "new device": [
@@ -67,9 +67,9 @@
         "I love store.",
         "I m satisfied.",
         "store has fantastic service.",
+        "store store be Excellent.",
+        "store store be Excellent.",
         "variety store be Excellent.",
-        "store store be Excellent.",
-        "store store be Excellent.",
         "they not fail recommend store.",
         "this is reliable.",
         "store is organized.",
@@ -80,9 +80,9 @@
         "I felt pressured.",
         "store was understaffed.",
         "store was messy.",
-        "store was chaotic.",
-        "store was with unhelpful staff.",
         "store was with long lines.",
+        "store was with unhelpful staff.",
+        "store was chaotic.",
         "I felt overcharged."
     ],
     "deals": [
@@ -101,8 +101,8 @@
     ],
     "technician": [
         "technician fixed faster.",
-        "technician damaged phone.",
-        "technician damaged during repair."
+        "technician damaged during repair.",
+        "technician damaged phone."
     ],
     "experience": [
         "experience really know stuff.",
@@ -115,15 +115,15 @@
     "service": [
         "service service be Excellent.",
         "service service be Excellent.",
-        "service are quick.",
         "service are reliable.",
+        "service are quick.",
         "I m. service is outstanding.",
         "store has fantastic service.",
         "one provides best service.",
         "service is notch.",
         "service is top notch.",
-        "service was quick.",
         "service was efficient.",
+        "service was quick.",
         "service is poor.",
         "service was slow."
     ],
@@ -148,14 +148,15 @@
         "phone was defective.",
         "I bought phone.",
         "I had to return faulty phone.",
-        "phone broke within week.",
         "phone broke again.",
+        "phone broke within week.",
         "phone was working after repair.",
         "phone still has same issue after getting.",
         "I could not exchange phone.",
-        "phone stopped working outside window.",
         "phone stopped quality.",
-        "they did not even have phone."
+        "phone stopped working outside window.",
+        "they did not even have phone.",
+        "technician damaged phone."
     ],
     "hands": [
         "store hands."
@@ -195,20 +196,20 @@
         "I made right purchase.",
         "they rushed through purchase."
     ],
-    "products": [
-        "they really know products."
-    ],
     "advice": [
         "they really know received excellent advice from team."
     ],
     "team": [
         "they really know received excellent advice from team."
     ],
-    "scam": [
-        "they felt like scam."
+    "products": [
+        "they really know products."
     ],
     "services": [
         "they charged extra for services."
+    ],
+    "scam": [
+        "they felt like scam."
     ],
     "way": [
         "I had took way."
