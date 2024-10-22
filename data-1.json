@@ -1,254 +1,1847 @@
 {
-    "staff": [
-        "staff were patient.",
-        "staff were helpful.",
-        "staff was knowledgeable.",
-        "staff really went mile.",
-        "staff was friendly.",
-        "staff was helpful in setting phone.",
-        "staff was patient with questions.",
-        "staff made.",
-        "staff was informative.",
-        "staff are ready.",
-        "staff took time.",
-        "they were able.",
-        "staff was accommodating.",
-        "they offer fantastic promotions.",
-        "they offer discounts.",
-        "they really know received excellent advice from team.",
-        "they really know products.",
-        "staff was not apologetic.",
-        "staff was rude.",
-        "staff was unhelpful.",
-        "they charged extra for services.",
-        "they charged me.",
-        "they felt like scam.",
-        "staff seemed.",
-        "staff gave incorrect information about plan.",
-        "they upsold me.",
-        "they upsold on plan.",
-        "staff was unprofessional.",
-        "they kept trying.",
-        "they rushed through purchase.",
-        "they did not explain clearly.",
-        "they did not explain anything.",
-        "they rushed me.",
-        "store was with unhelpful staff."
-    ],
-    "process": [
-        "process was smooth.",
-        "process was quick.",
-        "process was simple."
-    ],
-    "price": [
-        "price are competitive.",
-        "price were reasonable.",
-        "price are high."
-    ],
-    "selection": [
-        "selection is amazing.",
-        "service selection be phone.",
-        "selection selection be Great.",
-        "selection selection be Great.",
-        "service selection be Great.",
-        "selection selection be phone.",
-        "selection selection be phone.",
-        "selection is limited."
-    ],
-    "new device": [
-        "I appreciate walked through setting new device."
-    ],
-    "question": [
-        "question answered."
-    ],
-    "store": [
-        "I could not resist offer amazing deals on phones.",
-        "I could not resist upgrading.",
-        "I love store.",
-        "I m satisfied.",
-        "store has fantastic service.",
-        "store store be Excellent.",
-        "store store be Excellent.",
-        "variety store be Excellent.",
-        "they not fail recommend store.",
-        "this is reliable.",
-        "store is organized.",
-        "I always leave store.",
-        "I had took way.",
-        "I had took too long.",
-        "I very disorganized waited forever.",
-        "I felt pressured.",
-        "store was understaffed.",
-        "store was messy.",
-        "store was with long lines.",
-        "store was with unhelpful staff.",
-        "store was chaotic.",
-        "I felt overcharged."
-    ],
-    "deals": [
-        "I could not resist offer amazing deals on phones.",
-        "you re looking for good deals."
-    ],
-    "phones": [
-        "I could not resist offer amazing deals on phones."
-    ],
-    "upgrading": [
-        "I could not resist upgrading."
-    ],
-    "issue": [
-        "technician fixed issue.",
-        "they resolved issue."
-    ],
-    "technician": [
-        "technician fixed faster.",
-        "technician damaged during repair.",
-        "technician damaged phone."
-    ],
-    "experience": [
-        "experience really know stuff.",
-        "I had great experience with program."
-    ],
-    "variety": [
-        "variety was impressive.",
-        "variety was patient with questions."
-    ],
-    "service": [
-        "service service be Excellent.",
-        "service service be Excellent.",
-        "service are reliable.",
-        "service are quick.",
-        "I m. service is outstanding.",
-        "store has fantastic service.",
-        "one provides best service.",
-        "service is notch.",
-        "service is top notch.",
-        "service was efficient.",
-        "service was quick.",
-        "service is poor.",
-        "service was slow."
-    ],
-    "deal": [
-        "deal was friendly.",
-        "I got good deal on old phone.",
-        "they helped get great deal."
-    ],
-    "buying": [
-        "buying buying be experience."
-    ],
-    "old phone": [
-        "I got good deal on old phone."
-    ],
-    "phone": [
-        "staff was helpful in setting phone.",
-        "they helped choose phone.",
-        "phone was fixed in minutes.",
-        "they were quick in setting phone.",
-        "phone has working flawlessly.",
-        "phone looks new.",
-        "phone was defective.",
-        "I bought phone.",
-        "I had to return faulty phone.",
-        "phone broke again.",
-        "phone broke within week.",
-        "phone was working after repair.",
-        "phone still has same issue after getting.",
-        "I could not exchange phone.",
-        "phone stopped quality.",
-        "phone stopped working outside window.",
-        "they did not even have phone.",
-        "technician damaged phone."
-    ],
-    "hands": [
-        "store hands."
-    ],
-    "lot": [
-        "I learned lot about features.",
-        "they helped save lot."
-    ],
-    "layout": [
-        "layout is easy."
-    ],
-    "time": [
-        "staff took time."
-    ],
-    "place": [
-        "place place be Amazing.",
-        "place place be Amazing."
-    ],
-    "plan": [
-        "plan is worth.",
-        "they upsold on plan."
-    ],
-    "extra charge": [
-        "they even helped transfer without extra charge."
-    ],
-    "discount": [
-        "they even gave discount on repair.",
-        "they did not apply discount."
-    ],
-    "promotions": [
-        "they offer fantastic promotions."
-    ],
-    "discounts": [
-        "they offer discounts."
-    ],
-    "purchase": [
-        "I made right purchase.",
-        "they rushed through purchase."
-    ],
-    "advice": [
-        "they really know received excellent advice from team."
-    ],
-    "team": [
-        "they really know received excellent advice from team."
-    ],
-    "products": [
-        "they really know products."
-    ],
-    "services": [
-        "they charged extra for services."
-    ],
-    "scam": [
-        "they felt like scam."
-    ],
-    "way": [
-        "I had took way."
-    ],
-    "warranty": [
-        "warranty is useless.",
-        "warranty just expired."
-    ],
-    "refund": [
-        "they twice gave refund."
-    ],
-    "promotion": [
-        "they refused to honor promotion."
-    ],
-    "repair": [
-        "repair was done poorly."
-    ],
-    "same issue": [
-        "phone still has same issue after getting."
-    ],
-    "policy": [
-        "policy is awful."
-    ],
-    "job": [
-        "job was incomplete."
-    ],
-    "representative": [
-        "representative were rude on phone."
-    ],
-    "multiple times": [
-        "I had to call multiple times."
-    ],
-    "support": [
-        "support is non."
-    ],
-    "long lines": [
-        "store was with long lines."
-    ],
-    "order": [
-        "they lost order."
-    ]
+    "0": {
+        "staff": {
+            "ADJ": [
+                [
+                    [
+                        "helpful"
+                    ],
+                    "staff were helpful."
+                ],
+                [
+                    [
+                        "patient"
+                    ],
+                    "staff were patient."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "1": {
+        "process": {
+            "ADJ": [
+                [
+                    [
+                        "smooth"
+                    ],
+                    "process was smooth."
+                ],
+                [
+                    [
+                        "quick"
+                    ],
+                    "process was quick."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "2": {
+        "selection": {
+            "ADJ": [
+                [
+                    [
+                        "amazing"
+                    ],
+                    "selection is amazing."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        },
+        "price": {
+            "ADJ": [
+                [
+                    [
+                        "competitive"
+                    ],
+                    "price are competitive."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "3": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "appreciate",
+                        "walk"
+                    ],
+                    "I appreciate walked me."
+                ],
+                [
+                    [
+                        "appreciate",
+                        "walk"
+                    ],
+                    "I appreciate walked through setting new device."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "4": {
+        "question": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "answer"
+                    ],
+                    "question answered."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "5": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "resist"
+                    ],
+                    "I could not resist upgrading."
+                ],
+                [
+                    [
+                        "resist",
+                        "offer"
+                    ],
+                    "I could not resist offer amazing deals on phones."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "6": {
+        "phones issue": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "fix"
+                    ],
+                    "technician fixed phones issue."
+                ]
+            ],
+            "OTHER": []
+        },
+        "technician": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "fix"
+                    ],
+                    "technician fixed phones issue."
+                ],
+                [
+                    [
+                        "fix"
+                    ],
+                    "technician fixed faster."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "7": {
+        "experience": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "know"
+                    ],
+                    "experience really know stuff."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "8": {
+        "variety": {
+            "ADJ": [
+                [
+                    [
+                        "impressive"
+                    ],
+                    "variety was impressive."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "9": {},
+    "10": {
+        "staff": {
+            "ADJ": [
+                [
+                    [
+                        "knowledgeable"
+                    ],
+                    "staff was knowledgeable."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "11": {
+        "price": {
+            "ADJ": [
+                [
+                    [
+                        "reasonable"
+                    ],
+                    "price were reasonable."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "12": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "go"
+                    ],
+                    "staff really went mile."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "13": {
+        "service": {
+            "ADJ": [
+                [
+                    [
+                        "excellent"
+                    ],
+                    "service be excellent."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "14": {
+        "deal": {
+            "ADJ": [
+                [
+                    [
+                        "friendly"
+                    ],
+                    "deal was friendly."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        },
+        "staff": {
+            "ADJ": [
+                [
+                    [
+                        "friendly"
+                    ],
+                    "staff was friendly."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "15": {
+        "buying": {
+            "ADJ": [],
+            "VERB": [],
+            "OTHER": [
+                [
+                    [
+                        "experience"
+                    ],
+                    "buying be experience."
+                ]
+            ]
+        },
+        "fixing": {
+            "ADJ": [],
+            "VERB": [],
+            "OTHER": [
+                [
+                    [
+                        "experience"
+                    ],
+                    "fixing be experience."
+                ]
+            ]
+        }
+    },
+    "16": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "get"
+                    ],
+                    "I got good deal on old phone."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "17": {
+        "service": {
+            "ADJ": [
+                [
+                    [
+                        "quick"
+                    ],
+                    "service are quick."
+                ],
+                [
+                    [
+                        "reliable"
+                    ],
+                    "service are reliable."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "18": {
+        "phone": {
+            "ADJ": [
+                [
+                    [
+                        "helpful"
+                    ],
+                    "staff was helpful in setting phone."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        },
+        "staff": {
+            "ADJ": [
+                [
+                    [
+                        "helpful"
+                    ],
+                    "staff was helpful in setting phone."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "19": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "m"
+                    ],
+                    "I m satisfied."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "20": {
+        "staff": {
+            "ADJ": [
+                [
+                    [
+                        "patient"
+                    ],
+                    "staff was patient with questions."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        },
+        "variety": {
+            "ADJ": [
+                [
+                    [
+                        "patient"
+                    ],
+                    "variety was patient with questions."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "21": {
+        "process": {
+            "ADJ": [
+                [
+                    [
+                        "simple"
+                    ],
+                    "process was simple."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "22": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "help",
+                        "choose"
+                    ],
+                    "they helped choose within budget."
+                ],
+                [
+                    [
+                        "help",
+                        "choose"
+                    ],
+                    "they helped choose phone."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "23": {
+        "phone": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "fix"
+                    ],
+                    "phone was fixed in minutes."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "24": {
+        "service": {
+            "ADJ": [
+                [
+                    [
+                        "outstanding"
+                    ],
+                    "service is outstanding."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "25": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "hand"
+                    ],
+                    "store hands."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "26": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "make"
+                    ],
+                    "staff made."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "27": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "find",
+                        "need"
+                    ],
+                    "I found needed what."
+                ]
+            ],
+            "OTHER": []
+        },
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "help",
+                        "get"
+                    ],
+                    "they helped get great deal."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "28": {
+        "warranty service": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "have"
+                    ],
+                    "store has fantastic warranty service."
+                ]
+            ],
+            "OTHER": []
+        },
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "have"
+                    ],
+                    "store has fantastic warranty service."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "29": {
+        "staff": {
+            "ADJ": [
+                [
+                    [
+                        "informative"
+                    ],
+                    "staff was informative."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "30": {
+        "variety": {
+            "ADJ": [
+                [
+                    [
+                        "excellent"
+                    ],
+                    "variety be excellent."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        },
+        "store": {
+            "ADJ": [
+                [
+                    [
+                        "excellent"
+                    ],
+                    "store be excellent."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "31": {},
+    "32": {
+        "store": {
+            "ADJ": [
+                [
+                    [
+                        "quick"
+                    ],
+                    "they were quick in setting phone."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "33": {},
+    "34": {
+        "layout": {
+            "ADJ": [
+                [
+                    [
+                        "easy"
+                    ],
+                    "layout is easy."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        },
+        "staff": {
+            "ADJ": [
+                [
+                    [
+                        "ready"
+                    ],
+                    "staff are ready."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "35": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "help",
+                        "save"
+                    ],
+                    "they helped save lot."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "36": {
+        "service": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "provide"
+                    ],
+                    "one provides best service."
+                ]
+            ],
+            "OTHER": []
+        },
+        "one": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "provide"
+                    ],
+                    "one provides best service."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "37": {
+        "service": {
+            "ADJ": [
+                [
+                    [
+                        "notch"
+                    ],
+                    "service is notch."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": [
+                [
+                    [
+                        "notch"
+                    ],
+                    "service is notch."
+                ]
+            ]
+        }
+    },
+    "38": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "fail",
+                        "recommend"
+                    ],
+                    "they not fail recommend to friends."
+                ],
+                [
+                    [
+                        "fail",
+                        "recommend"
+                    ],
+                    "they not fail recommend store."
+                ],
+                [
+                    [
+                        "fail",
+                        "recommend"
+                    ],
+                    "they not fail recommend to family."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "39": {
+        "time": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "take"
+                    ],
+                    "staff took time."
+                ]
+            ],
+            "OTHER": []
+        },
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "take"
+                    ],
+                    "staff took time."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "40": {
+        "place": {
+            "ADJ": [
+                [
+                    [
+                        "amazing"
+                    ],
+                    "place be amazing."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "41": {
+        "plan": {
+            "ADJ": [
+                [
+                    [
+                        "worth"
+                    ],
+                    "plan is worth."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "42": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "appreciate",
+                        "be"
+                    ],
+                    "I appreciate were able."
+                ]
+            ],
+            "OTHER": []
+        },
+        "store": {
+            "ADJ": [
+                [
+                    [
+                        "able"
+                    ],
+                    "they were able."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "43": {},
+    "44": {
+        "staff": {
+            "ADJ": [
+                [
+                    [
+                        "accommodating"
+                    ],
+                    "staff was accommodating."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "45": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "have"
+                    ],
+                    "I had great experience with program."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "46": {
+        "service": {
+            "ADJ": [
+                [
+                    [
+                        "quick"
+                    ],
+                    "service was quick."
+                ],
+                [
+                    [
+                        "efficient"
+                    ],
+                    "service was efficient."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "47": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "help",
+                        "transfer"
+                    ],
+                    "they even helped transfer without extra charge."
+                ],
+                [
+                    [
+                        "help",
+                        "transfer"
+                    ],
+                    "they even helped transfer data."
+                ],
+                [
+                    [
+                        "help",
+                        "transfer"
+                    ],
+                    "they even helped transfer contacts."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "48": {
+        "phone": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "work"
+                    ],
+                    "phone has working flawlessly."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "49": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "fix"
+                    ],
+                    "they fixed perfectly."
+                ],
+                [
+                    [
+                        "fix"
+                    ],
+                    "they fixed screen."
+                ],
+                [
+                    [
+                        "give"
+                    ],
+                    "they even gave discount on repair."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "50": {
+        "staff": {
+            "ADJ": [
+                [
+                    [
+                        "reliable"
+                    ],
+                    "this is reliable."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "51": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "offer"
+                    ],
+                    "they offer discounts."
+                ],
+                [
+                    [
+                        "offer"
+                    ],
+                    "they offer fantastic promotions."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "52": {
+        "service": {
+            "ADJ": [
+                [
+                    [
+                        "great"
+                    ],
+                    "service be great."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": [
+                [
+                    [
+                        "phone"
+                    ],
+                    "service be phone."
+                ]
+            ]
+        },
+        "selection": {
+            "ADJ": [
+                [
+                    [
+                        "great"
+                    ],
+                    "selection be great."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": [
+                [
+                    [
+                        "phone"
+                    ],
+                    "selection be phone."
+                ]
+            ]
+        }
+    },
+    "53": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "resolve"
+                    ],
+                    "they resolved professionally."
+                ],
+                [
+                    [
+                        "resolve"
+                    ],
+                    "they resolved very quickly."
+                ],
+                [
+                    [
+                        "resolve"
+                    ],
+                    "they resolved issue."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "54": {
+        "store": {
+            "ADJ": [
+                [
+                    [
+                        "organize"
+                    ],
+                    "store is organized."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "55": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "look"
+                    ],
+                    "you re looking for good deals."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "56": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "make"
+                    ],
+                    "I made right purchase."
+                ],
+                [
+                    [
+                        "leave"
+                    ],
+                    "I always leave store."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "57": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "know",
+                        "receive"
+                    ],
+                    "they really know received excellent advice from sales team."
+                ],
+                [
+                    [
+                        "know"
+                    ],
+                    "they really know products."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "58": {
+        "phone": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "look"
+                    ],
+                    "phone looks new."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "59": {
+        "staff": {
+            "ADJ": [
+                [
+                    [
+                        "apologetic"
+                    ],
+                    "staff was not apologetic."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "60": {},
+    "61": {
+        "selection": {
+            "ADJ": [
+                [
+                    [
+                        "limited"
+                    ],
+                    "selection is limited."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        },
+        "price": {
+            "ADJ": [
+                [
+                    [
+                        "high"
+                    ],
+                    "price are high."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "62": {
+        "one": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "seem",
+                        "be"
+                    ],
+                    "one seemed is poor."
+                ]
+            ],
+            "OTHER": []
+        },
+        "service": {
+            "ADJ": [
+                [
+                    [
+                        "poor"
+                    ],
+                    "service is poor."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "63": {
+        "phone": {
+            "ADJ": [
+                [
+                    [
+                        "defective"
+                    ],
+                    "phone was defective."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "64": {
+        "staff": {
+            "ADJ": [
+                [
+                    [
+                        "rude"
+                    ],
+                    "staff was rude."
+                ],
+                [
+                    [
+                        "unhelpful"
+                    ],
+                    "staff was unhelpful."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "65": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "feel"
+                    ],
+                    "they felt like scam."
+                ],
+                [
+                    [
+                        "charge"
+                    ],
+                    "they charged me."
+                ],
+                [
+                    [
+                        "charge"
+                    ],
+                    "they charged extra for services."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "66": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "have",
+                        "take"
+                    ],
+                    "I had took too long."
+                ],
+                [
+                    [
+                        "have",
+                        "take"
+                    ],
+                    "I had took way."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "67": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "inform"
+                    ],
+                    "they did not inform me."
+                ],
+                [
+                    [
+                        "inform"
+                    ],
+                    "they did not inform of hidden fees."
+                ]
+            ],
+            "OTHER": []
+        },
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "buy"
+                    ],
+                    "I bought phone."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "68": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "seem"
+                    ],
+                    "staff seemed."
+                ],
+                [
+                    [
+                        "give"
+                    ],
+                    "staff gave incorrect information about phone plan."
+                ]
+            ],
+            "OTHER": []
+        },
+        "phone plan": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "give"
+                    ],
+                    "staff gave incorrect information about phone plan."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "69": {
+        "warranty": {
+            "ADJ": [
+                [
+                    [
+                        "useless"
+                    ],
+                    "warranty is useless."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "70": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "give"
+                    ],
+                    "they twice gave refund."
+                ]
+            ],
+            "OTHER": []
+        },
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "have",
+                        "return"
+                    ],
+                    "I had to return faulty phone."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "71": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "wait"
+                    ],
+                    "I very disorganized waited forever."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "72": {},
+    "73": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "refuse",
+                        "honor"
+                    ],
+                    "they refused to honor promotion."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "74": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "feel"
+                    ],
+                    "I felt pressured."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "75": {
+        "repair": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "do"
+                    ],
+                    "repair was done poorly."
+                ]
+            ],
+            "OTHER": []
+        },
+        "phone": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "break"
+                    ],
+                    "phone broke within week."
+                ],
+                [
+                    [
+                        "break"
+                    ],
+                    "phone broke again."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "76": {
+        "service": {
+            "ADJ": [
+                [
+                    [
+                        "slow"
+                    ],
+                    "service was slow."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "77": {
+        "phone": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "work"
+                    ],
+                    "phone was working after repair."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "78": {
+        "same issue": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "have"
+                    ],
+                    "phone still has same issue after getting."
+                ]
+            ],
+            "OTHER": []
+        },
+        "phone": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "have"
+                    ],
+                    "phone still has same issue after getting."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "79": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "upsold"
+                    ],
+                    "they upsold on phone plan."
+                ],
+                [
+                    [
+                        "upsold"
+                    ],
+                    "they upsold me."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "80": {
+        "staff": {
+            "ADJ": [
+                [
+                    [
+                        "unprofessional"
+                    ],
+                    "staff was unprofessional."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "81": {
+        "policy": {
+            "ADJ": [
+                [
+                    [
+                        "awful"
+                    ],
+                    "policy is awful."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "82": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "apply"
+                    ],
+                    "they did not apply discount."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "83": {
+        "store": {
+            "ADJ": [
+                [
+                    [
+                        "messy"
+                    ],
+                    "store was messy."
+                ],
+                [
+                    [
+                        "understaffed"
+                    ],
+                    "store was understaffed."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "84": {
+        "warranty": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "expire"
+                    ],
+                    "warranty just expired."
+                ]
+            ],
+            "OTHER": []
+        },
+        "phone": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "break"
+                    ],
+                    "phone broke."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "85": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "keep",
+                        "try"
+                    ],
+                    "they kept trying."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "86": {
+        "job": {
+            "ADJ": [
+                [
+                    [
+                        "incomplete"
+                    ],
+                    "job was incomplete."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "87": {
+        "representative": {
+            "ADJ": [
+                [
+                    [
+                        "rude"
+                    ],
+                    "representative were rude on phone."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "88": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "have",
+                        "call"
+                    ],
+                    "I had to call multiple times."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "89": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "rush"
+                    ],
+                    "they rushed me."
+                ],
+                [
+                    [
+                        "explain"
+                    ],
+                    "they did not explain anything."
+                ],
+                [
+                    [
+                        "explain"
+                    ],
+                    "they did not explain clearly."
+                ],
+                [
+                    [
+                        "rush"
+                    ],
+                    "they rushed through purchase."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "90": {
+        "support": {
+            "ADJ": [
+                [
+                    [
+                        "non"
+                    ],
+                    "support is non."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": []
+        }
+    },
+    "91": {
+        "return window": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "stop",
+                        "work"
+                    ],
+                    "phone stopped working outside return window."
+                ]
+            ],
+            "OTHER": []
+        },
+        "phone": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "stop",
+                        "work"
+                    ],
+                    "phone stopped working outside return window."
+                ],
+                [
+                    [
+                        "stop"
+                    ],
+                    "phone stopped quality."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "92": {
+        "store": {
+            "ADJ": [
+                [
+                    [
+                        "chaotic"
+                    ],
+                    "store was chaotic."
+                ]
+            ],
+            "VERB": [],
+            "OTHER": [
+                [
+                    [
+                        "staff"
+                    ],
+                    "store was with unhelpful staff."
+                ],
+                [
+                    [
+                        "lines"
+                    ],
+                    "store was with long lines."
+                ]
+            ]
+        },
+        "staff": {
+            "ADJ": [],
+            "VERB": [],
+            "OTHER": [
+                [
+                    [
+                        "staff"
+                    ],
+                    "store was with unhelpful staff."
+                ]
+            ]
+        },
+        "long lines": {
+            "ADJ": [],
+            "VERB": [],
+            "OTHER": [
+                [
+                    [
+                        "lines"
+                    ],
+                    "store was with long lines."
+                ]
+            ]
+        }
+    },
+    "93": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "have"
+                    ],
+                    "they did not even have after promising me."
+                ],
+                [
+                    [
+                        "have"
+                    ],
+                    "they did not even have phone."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "94": {
+        "store": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "lose"
+                    ],
+                    "they lost repair order."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "95": {
+        "staff": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "feel"
+                    ],
+                    "I felt overcharged."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "96": {},
+    "97": {
+        "technician": {
+            "ADJ": [],
+            "VERB": [
+                [
+                    [
+                        "damage"
+                    ],
+                    "technician damaged during repair."
+                ],
+                [
+                    [
+                        "damage"
+                    ],
+                    "technician damaged phone."
+                ]
+            ],
+            "OTHER": []
+        }
+    },
+    "98": {}
 }
