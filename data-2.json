@@ -1,0 +1,2350 @@
+{
+    "0": {
+        "staff": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "helpful"
+                        ],
+                        "staff were helpful.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "patient"
+                        ],
+                        "staff were patient.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "1": {
+        "process": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "smooth"
+                        ],
+                        "process was smooth.",
+                        "Positive"
+                    ],
+                    [
+                        [
+                            "quick"
+                        ],
+                        "process was quick.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "2": {
+        "selection": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "amazing"
+                        ],
+                        "selection is amazing.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        },
+        "price": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "competitive"
+                        ],
+                        "price are competitive.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "3": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "appreciate",
+                            "walk"
+                        ],
+                        "I appreciate walked me.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "appreciate",
+                            "walk"
+                        ],
+                        "I appreciate walked through setting new device.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "4": {
+        "question": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "answer"
+                        ],
+                        "question answered.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "5": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "resist"
+                        ],
+                        "I could not resist upgrading.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "resist",
+                            "offer"
+                        ],
+                        "I could not resist offer amazing deals on phones.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "6": {
+        "phones issue": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "fix"
+                        ],
+                        "technician fixed phones issue.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        },
+        "technician": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "fix"
+                        ],
+                        "technician fixed phones issue.",
+                        "Positive"
+                    ],
+                    [
+                        [
+                            "fix"
+                        ],
+                        "technician fixed faster.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "7": {
+        "experience": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "know"
+                        ],
+                        "experience really know stuff.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "8": {
+        "variety": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "impressive"
+                        ],
+                        "variety was impressive.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "9": {},
+    "10": {
+        "staff": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "knowledgeable"
+                        ],
+                        "staff was knowledgeable.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "11": {
+        "price": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "reasonable"
+                        ],
+                        "price were reasonable.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "12": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "go"
+                        ],
+                        "staff really went mile.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "13": {
+        "service": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "excellent"
+                        ],
+                        "service be excellent.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "14": {
+        "deal": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "friendly"
+                        ],
+                        "deal was friendly.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        },
+        "staff": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "friendly"
+                        ],
+                        "staff was friendly.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "15": {
+        "buying": {
+            "data": {
+                "ADJ": [],
+                "VERB": [],
+                "OTHER": [
+                    [
+                        [
+                            "experience"
+                        ],
+                        "buying be experience.",
+                        "Neutral"
+                    ]
+                ]
+            },
+            "sentiment": "Neutral"
+        },
+        "fixing": {
+            "data": {
+                "ADJ": [],
+                "VERB": [],
+                "OTHER": [
+                    [
+                        [
+                            "experience"
+                        ],
+                        "fixing be experience.",
+                        "Neutral"
+                    ]
+                ]
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "16": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "get"
+                        ],
+                        "I got good deal on old phone.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "17": {
+        "service": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "quick"
+                        ],
+                        "service are quick.",
+                        "Positive"
+                    ],
+                    [
+                        [
+                            "reliable"
+                        ],
+                        "service are reliable.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "18": {
+        "phone": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "helpful"
+                        ],
+                        "staff was helpful in setting phone.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        },
+        "staff": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "helpful"
+                        ],
+                        "staff was helpful in setting phone.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "19": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "m"
+                        ],
+                        "I m satisfied.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "20": {
+        "staff": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "patient"
+                        ],
+                        "staff was patient with questions.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        },
+        "variety": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "patient"
+                        ],
+                        "variety was patient with questions.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "21": {
+        "process": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "simple"
+                        ],
+                        "process was simple.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "22": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "help",
+                            "choose"
+                        ],
+                        "they helped choose within budget.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "help",
+                            "choose"
+                        ],
+                        "they helped choose phone.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "23": {
+        "phone": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "fix"
+                        ],
+                        "phone was fixed in minutes.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "24": {
+        "service": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "outstanding"
+                        ],
+                        "service is outstanding.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "25": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "hand"
+                        ],
+                        "store hands.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "26": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "make"
+                        ],
+                        "staff made.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "27": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "find",
+                            "need"
+                        ],
+                        "I found needed what.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        },
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "help",
+                            "get"
+                        ],
+                        "they helped get great deal.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "28": {
+        "warranty service": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "have"
+                        ],
+                        "store has fantastic warranty service.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        },
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "have"
+                        ],
+                        "store has fantastic warranty service.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "29": {
+        "staff": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "informative"
+                        ],
+                        "staff was informative.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "30": {
+        "variety": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "excellent"
+                        ],
+                        "variety be excellent.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        },
+        "store": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "excellent"
+                        ],
+                        "store be excellent.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "31": {},
+    "32": {
+        "store": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "quick"
+                        ],
+                        "they were quick in setting phone.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "33": {},
+    "34": {
+        "layout": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "easy"
+                        ],
+                        "layout is easy.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        },
+        "staff": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "ready"
+                        ],
+                        "staff are ready.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "35": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "help",
+                            "save"
+                        ],
+                        "they helped save lot.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "36": {
+        "service": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "provide"
+                        ],
+                        "one provides best service.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        },
+        "one": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "provide"
+                        ],
+                        "one provides best service.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "37": {
+        "service": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "notch"
+                        ],
+                        "service is notch.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": [
+                    [
+                        [
+                            "notch"
+                        ],
+                        "service is notch.",
+                        "Neutral"
+                    ]
+                ]
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "38": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "fail",
+                            "recommend"
+                        ],
+                        "they not fail recommend to friends.",
+                        "Positive"
+                    ],
+                    [
+                        [
+                            "fail",
+                            "recommend"
+                        ],
+                        "they not fail recommend store.",
+                        "Positive"
+                    ],
+                    [
+                        [
+                            "fail",
+                            "recommend"
+                        ],
+                        "they not fail recommend to family.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "39": {
+        "time": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "take"
+                        ],
+                        "staff took time.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        },
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "take"
+                        ],
+                        "staff took time.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "40": {
+        "place": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "amazing"
+                        ],
+                        "place be amazing.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "41": {
+        "plan": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "worth"
+                        ],
+                        "plan is worth.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "42": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "appreciate",
+                            "be"
+                        ],
+                        "I appreciate were able.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        },
+        "store": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "able"
+                        ],
+                        "they were able.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "43": {},
+    "44": {
+        "staff": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "accommodating"
+                        ],
+                        "staff was accommodating.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "45": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "have"
+                        ],
+                        "I had great experience with program.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "46": {
+        "service": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "quick"
+                        ],
+                        "service was quick.",
+                        "Positive"
+                    ],
+                    [
+                        [
+                            "efficient"
+                        ],
+                        "service was efficient.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "47": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "help",
+                            "transfer"
+                        ],
+                        "they even helped transfer without extra charge.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "help",
+                            "transfer"
+                        ],
+                        "they even helped transfer data.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "help",
+                            "transfer"
+                        ],
+                        "they even helped transfer contacts.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "48": {
+        "phone": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "work"
+                        ],
+                        "phone has working flawlessly.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "49": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "fix"
+                        ],
+                        "they fixed perfectly.",
+                        "Positive"
+                    ],
+                    [
+                        [
+                            "fix"
+                        ],
+                        "they fixed screen.",
+                        "Positive"
+                    ],
+                    [
+                        [
+                            "give"
+                        ],
+                        "they even gave discount on repair.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "50": {
+        "staff": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "reliable"
+                        ],
+                        "this is reliable.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "51": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "offer"
+                        ],
+                        "they offer discounts.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "offer"
+                        ],
+                        "they offer fantastic promotions.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "52": {
+        "service": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "great"
+                        ],
+                        "service be great.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": [
+                    [
+                        [
+                            "phone"
+                        ],
+                        "service be phone.",
+                        "Neutral"
+                    ]
+                ]
+            },
+            "sentiment": "Positive"
+        },
+        "selection": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "great"
+                        ],
+                        "selection be great.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": [
+                    [
+                        [
+                            "phone"
+                        ],
+                        "selection be phone.",
+                        "Neutral"
+                    ]
+                ]
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "53": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "resolve"
+                        ],
+                        "they resolved professionally.",
+                        "Positive"
+                    ],
+                    [
+                        [
+                            "resolve"
+                        ],
+                        "they resolved very quickly.",
+                        "Positive"
+                    ],
+                    [
+                        [
+                            "resolve"
+                        ],
+                        "they resolved issue.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "54": {
+        "store": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "organize"
+                        ],
+                        "store is organized.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "55": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "look"
+                        ],
+                        "you re looking for good deals.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "56": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "make"
+                        ],
+                        "I made right purchase.",
+                        "Positive"
+                    ],
+                    [
+                        [
+                            "leave"
+                        ],
+                        "I always leave store.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "57": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "know",
+                            "receive"
+                        ],
+                        "they really know received excellent advice from sales team.",
+                        "Positive"
+                    ],
+                    [
+                        [
+                            "know"
+                        ],
+                        "they really know products.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "58": {
+        "phone": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "look"
+                        ],
+                        "phone looks new.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "59": {
+        "staff": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "apologetic"
+                        ],
+                        "staff was not apologetic.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "60": {},
+    "61": {
+        "selection": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "limited"
+                        ],
+                        "selection is limited.",
+                        "Negative"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Negative"
+        },
+        "price": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "high"
+                        ],
+                        "price are high.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "62": {
+        "one": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "seem",
+                            "be"
+                        ],
+                        "one seemed is poor.",
+                        "Negative"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Negative"
+        },
+        "service": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "poor"
+                        ],
+                        "service is poor.",
+                        "Negative"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Negative"
+        }
+    },
+    "63": {
+        "phone": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "defective"
+                        ],
+                        "phone was defective.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "64": {
+        "staff": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "rude"
+                        ],
+                        "staff was rude.",
+                        "Negative"
+                    ],
+                    [
+                        [
+                            "unhelpful"
+                        ],
+                        "staff was unhelpful.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Negative"
+        }
+    },
+    "65": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "feel"
+                        ],
+                        "they felt like scam.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "charge"
+                        ],
+                        "they charged me.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "charge"
+                        ],
+                        "they charged extra for services.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "66": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "have",
+                            "take"
+                        ],
+                        "I had took too long.",
+                        "Negative"
+                    ],
+                    [
+                        [
+                            "have",
+                            "take"
+                        ],
+                        "I had took way.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Negative"
+        }
+    },
+    "67": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "inform"
+                        ],
+                        "they did not inform me.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "inform"
+                        ],
+                        "they did not inform of hidden fees.",
+                        "Negative"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Negative"
+        },
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "buy"
+                        ],
+                        "I bought phone.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "68": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "seem"
+                        ],
+                        "staff seemed.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "give"
+                        ],
+                        "staff gave incorrect information about phone plan.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        },
+        "phone plan": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "give"
+                        ],
+                        "staff gave incorrect information about phone plan.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "69": {
+        "warranty": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "useless"
+                        ],
+                        "warranty is useless.",
+                        "Negative"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Negative"
+        }
+    },
+    "70": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "give"
+                        ],
+                        "they twice gave refund.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        },
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "have",
+                            "return"
+                        ],
+                        "I had to return faulty phone.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "71": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "wait"
+                        ],
+                        "I very disorganized waited forever.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "72": {},
+    "73": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "refuse",
+                            "honor"
+                        ],
+                        "they refused to honor promotion.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "74": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "feel"
+                        ],
+                        "I felt pressured.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "75": {
+        "repair": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "do"
+                        ],
+                        "repair was done poorly.",
+                        "Negative"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Negative"
+        },
+        "phone": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "break"
+                        ],
+                        "phone broke within week.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "break"
+                        ],
+                        "phone broke again.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "76": {
+        "service": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "slow"
+                        ],
+                        "service was slow.",
+                        "Negative"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Negative"
+        }
+    },
+    "77": {
+        "phone": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "work"
+                        ],
+                        "phone was working after repair.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "78": {
+        "same issue": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "have"
+                        ],
+                        "phone still has same issue after getting.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        },
+        "phone": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "have"
+                        ],
+                        "phone still has same issue after getting.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "79": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "upsold"
+                        ],
+                        "they upsold on phone plan.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "upsold"
+                        ],
+                        "they upsold me.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "80": {
+        "staff": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "unprofessional"
+                        ],
+                        "staff was unprofessional.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "81": {
+        "policy": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "awful"
+                        ],
+                        "policy is awful.",
+                        "Negative"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Negative"
+        }
+    },
+    "82": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "apply"
+                        ],
+                        "they did not apply discount.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "83": {
+        "store": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "messy"
+                        ],
+                        "store was messy.",
+                        "Negative"
+                    ],
+                    [
+                        [
+                            "understaffed"
+                        ],
+                        "store was understaffed.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Negative"
+        }
+    },
+    "84": {
+        "warranty": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "expire"
+                        ],
+                        "warranty just expired.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        },
+        "phone": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "break"
+                        ],
+                        "phone broke.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "85": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "keep",
+                            "try"
+                        ],
+                        "they kept trying.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "86": {
+        "job": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "incomplete"
+                        ],
+                        "job was incomplete.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "87": {
+        "representative": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "rude"
+                        ],
+                        "representative were rude on phone.",
+                        "Negative"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Negative"
+        }
+    },
+    "88": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "have",
+                            "call"
+                        ],
+                        "I had to call multiple times.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "89": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "rush"
+                        ],
+                        "they rushed me.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "explain"
+                        ],
+                        "they did not explain anything.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "explain"
+                        ],
+                        "they did not explain clearly.",
+                        "Positive"
+                    ],
+                    [
+                        [
+                            "rush"
+                        ],
+                        "they rushed through purchase.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "90": {
+        "support": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "non"
+                        ],
+                        "support is non.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "91": {
+        "return window": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "stop",
+                            "work"
+                        ],
+                        "phone stopped working outside return window.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        },
+        "phone": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "stop",
+                            "work"
+                        ],
+                        "phone stopped working outside return window.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "stop"
+                        ],
+                        "phone stopped quality.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "92": {
+        "store": {
+            "data": {
+                "ADJ": [
+                    [
+                        [
+                            "chaotic"
+                        ],
+                        "store was chaotic.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": [
+                    [
+                        [
+                            "staff"
+                        ],
+                        "store was with unhelpful staff.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "lines"
+                        ],
+                        "store was with long lines.",
+                        "Negative"
+                    ]
+                ]
+            },
+            "sentiment": "Negative"
+        },
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [],
+                "OTHER": [
+                    [
+                        [
+                            "staff"
+                        ],
+                        "store was with unhelpful staff.",
+                        "Neutral"
+                    ]
+                ]
+            },
+            "sentiment": "Neutral"
+        },
+        "long lines": {
+            "data": {
+                "ADJ": [],
+                "VERB": [],
+                "OTHER": [
+                    [
+                        [
+                            "lines"
+                        ],
+                        "store was with long lines.",
+                        "Negative"
+                    ]
+                ]
+            },
+            "sentiment": "Negative"
+        }
+    },
+    "93": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "have"
+                        ],
+                        "they did not even have after promising me.",
+                        "Positive"
+                    ],
+                    [
+                        [
+                            "have"
+                        ],
+                        "they did not even have phone.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Positive"
+        }
+    },
+    "94": {
+        "store": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "lose"
+                        ],
+                        "they lost repair order.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "95": {
+        "staff": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "feel"
+                        ],
+                        "I felt overcharged.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "96": {},
+    "97": {
+        "technician": {
+            "data": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "damage"
+                        ],
+                        "technician damaged during repair.",
+                        "Neutral"
+                    ],
+                    [
+                        [
+                            "damage"
+                        ],
+                        "technician damaged phone.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            },
+            "sentiment": "Neutral"
+        }
+    },
+    "98": {}
+}
