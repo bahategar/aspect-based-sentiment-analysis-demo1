@@ -1,0 +1,188 @@
+[
+    {
+        "aspect": "staff",
+        "positive": "\u25cf staff is friendly, ready.\n\u25cf I could not resist offer amazing deals on phones.\n\u25cf I made right purchase.\n\u25cf I appreciate walked through setting new device.\n\u25cf I got good deal on old phone.\n\u25cf I appreciate were able.\n\u25cf I had great experience with program.\n\u25cf staff really went mile.\n\u25cf I very disorganized waited forever.\n\u25cf I m satisfied.\n",
+        "negative": "\u25cf staff is rude.\n\u25cf I had took too long.\n",
+        "neutral": "\u25cf staff is helpful, patient, knowledgeable, helpful in setting phone, patient with questions, informative, accommodating, reliable, not apologetic, unhelpful, unprofessional.\n\u25cf I found needed what.\n\u25cf I had to call multiple times.\n\u25cf I had to return faulty phone.\n\u25cf staff took time.\n\u25cf I felt overcharged.\n\u25cf I had took way.\n\u25cf staff gave incorrect information about phone plan.\n\u25cf I felt pressured.\n\u25cf staff made.\n\u25cf I always leave store.\n\u25cf I appreciate walked me.\n\u25cf I could not resist upgrading.\n\u25cf I bought phone.\n\u25cf staff seemed.\n\u25cf store was with unhelpful staff.\n"
+    },
+    {
+        "aspect": "process",
+        "positive": "\u25cf process is smooth, quick.\n",
+        "negative": "",
+        "neutral": "\u25cf process is simple.\n"
+    },
+    {
+        "aspect": "selection",
+        "positive": "\u25cf selection is amazing, great.\n",
+        "negative": "\u25cf selection is limited.\n",
+        "neutral": "\u25cf selection be phone.\n"
+    },
+    {
+        "aspect": "price",
+        "positive": "\u25cf price is reasonable, high.\n",
+        "negative": "",
+        "neutral": "\u25cf price is competitive.\n"
+    },
+    {
+        "aspect": "question",
+        "positive": "",
+        "negative": "",
+        "neutral": "\u25cf question answered.\n"
+    },
+    {
+        "aspect": "phones issue",
+        "positive": "\u25cf technician fixed phones issue.\n",
+        "negative": "",
+        "neutral": ""
+    },
+    {
+        "aspect": "technician",
+        "positive": "\u25cf technician fixed phones issue.\n\u25cf technician fixed faster.\n",
+        "negative": "",
+        "neutral": "\u25cf technician damaged during repair.\n\u25cf technician damaged phone.\n"
+    },
+    {
+        "aspect": "experience",
+        "positive": "\u25cf experience really know stuff.\n",
+        "negative": "",
+        "neutral": ""
+    },
+    {
+        "aspect": "variety",
+        "positive": "\u25cf variety is impressive, excellent.\n",
+        "negative": "",
+        "neutral": "\u25cf variety is patient with questions.\n"
+    },
+    {
+        "aspect": "service",
+        "positive": "\u25cf service is excellent, quick, outstanding, quick, great.\n\u25cf one provides best service.\n",
+        "negative": "\u25cf service is poor, slow.\n",
+        "neutral": "\u25cf service is reliable, notch, efficient.\n\u25cf service is notch.\n\u25cf service be phone.\n"
+    },
+    {
+        "aspect": "deal",
+        "positive": "\u25cf deal is friendly.\n",
+        "negative": "",
+        "neutral": ""
+    },
+    {
+        "aspect": "buying",
+        "positive": "",
+        "negative": "",
+        "neutral": "\u25cf buying be experience.\n"
+    },
+    {
+        "aspect": "fixing",
+        "positive": "",
+        "negative": "",
+        "neutral": "\u25cf fixing be experience.\n"
+    },
+    {
+        "aspect": "phone",
+        "positive": "\u25cf phone looks new.\n\u25cf phone has working flawlessly.\n\u25cf phone was fixed in minutes.\n",
+        "negative": "",
+        "neutral": "\u25cf phone is helpful in setting phone, defective.\n\u25cf phone stopped working outside return window.\n\u25cf phone broke.\n\u25cf phone broke again.\n\u25cf phone still has same issue after getting.\n\u25cf phone broke within week.\n\u25cf phone stopped quality.\n\u25cf phone was working after repair.\n"
+    },
+    {
+        "aspect": "store",
+        "positive": "\u25cf store is excellent, quick in setting phone, able.\n\u25cf they helped get great deal.\n\u25cf they not fail recommend to friends.\n\u25cf they not fail recommend to family.\n\u25cf they not fail recommend store.\n\u25cf you re looking for good deals.\n\u25cf they really know products.\n\u25cf they did not even have after promising me.\n\u25cf store has fantastic warranty service.\n\u25cf they really know received excellent advice from sales team.\n\u25cf they resolved very quickly.\n\u25cf they resolved professionally.\n\u25cf they offer fantastic promotions.\n\u25cf they did not explain clearly.\n\u25cf they fixed screen.\n\u25cf they fixed perfectly.\n",
+        "negative": "\u25cf store is messy.\n\u25cf they did not inform of hidden fees.\n\u25cf store was with long lines.\n",
+        "neutral": "\u25cf store is organized, understaffed, chaotic.\n\u25cf they even helped transfer without extra charge.\n\u25cf they even gave discount on repair.\n\u25cf they even helped transfer contacts.\n\u25cf they helped choose phone.\n\u25cf they helped choose within budget.\n\u25cf they even helped transfer data.\n\u25cf they lost repair order.\n\u25cf they twice gave refund.\n\u25cf they did not apply discount.\n\u25cf they offer discounts.\n\u25cf they charged extra for services.\n\u25cf they helped save lot.\n\u25cf they did not inform me.\n\u25cf they upsold me.\n\u25cf they rushed through purchase.\n\u25cf they did not even have phone.\n\u25cf they kept trying.\n\u25cf they upsold on phone plan.\n\u25cf they resolved issue.\n\u25cf they charged me.\n\u25cf they did not explain anything.\n\u25cf they refused to honor promotion.\n\u25cf they felt like scam.\n\u25cf store hands.\n\u25cf store was with unhelpful staff.\n"
+    },
+    {
+        "aspect": "warranty service",
+        "positive": "\u25cf store has fantastic warranty service.\n",
+        "negative": "",
+        "neutral": ""
+    },
+    {
+        "aspect": "layout",
+        "positive": "\u25cf layout is easy.\n",
+        "negative": "",
+        "neutral": ""
+    },
+    {
+        "aspect": "one",
+        "positive": "\u25cf one provides best service.\n",
+        "negative": "\u25cf one seemed is poor.\n",
+        "neutral": ""
+    },
+    {
+        "aspect": "time",
+        "positive": "",
+        "negative": "",
+        "neutral": "\u25cf staff took time.\n"
+    },
+    {
+        "aspect": "place",
+        "positive": "\u25cf place is amazing.\n",
+        "negative": "",
+        "neutral": ""
+    },
+    {
+        "aspect": "plan",
+        "positive": "\u25cf plan is worth.\n",
+        "negative": "",
+        "neutral": ""
+    },
+    {
+        "aspect": "phone plan",
+        "positive": "",
+        "negative": "",
+        "neutral": "\u25cf staff gave incorrect information about phone plan.\n"
+    },
+    {
+        "aspect": "warranty",
+        "positive": "",
+        "negative": "\u25cf warranty is useless.\n",
+        "neutral": "\u25cf warranty just expired.\n"
+    },
+    {
+        "aspect": "repair",
+        "positive": "",
+        "negative": "\u25cf repair was done poorly.\n",
+        "neutral": ""
+    },
+    {
+        "aspect": "same issue",
+        "positive": "",
+        "negative": "",
+        "neutral": "\u25cf phone still has same issue after getting.\n"
+    },
+    {
+        "aspect": "policy",
+        "positive": "",
+        "negative": "\u25cf policy is awful.\n",
+        "neutral": ""
+    },
+    {
+        "aspect": "job",
+        "positive": "",
+        "negative": "",
+        "neutral": "\u25cf job is incomplete.\n"
+    },
+    {
+        "aspect": "representative",
+        "positive": "",
+        "negative": "\u25cf representative is rude on phone.\n",
+        "neutral": ""
+    },
+    {
+        "aspect": "support",
+        "positive": "",
+        "negative": "",
+        "neutral": "\u25cf support is non.\n"
+    },
+    {
+        "aspect": "return window",
+        "positive": "",
+        "negative": "",
+        "neutral": "\u25cf phone stopped working outside return window.\n"
+    },
+    {
+        "aspect": "long lines",
+        "positive": "",
+        "negative": "\u25cf store was with long lines.\n",
+        "neutral": ""
+    }
+]

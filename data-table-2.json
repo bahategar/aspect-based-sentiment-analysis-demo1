@@ -1,0 +1,1242 @@
+[
+    {
+        "id": 1,
+        "aspect": "staff",
+        "type_property": "ADJ",
+        "keyword": "helpful",
+        "part_sentence": "staff were helpful.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 1,
+        "aspect": "staff",
+        "type_property": "ADJ",
+        "keyword": "patient",
+        "part_sentence": "staff were patient.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 2,
+        "aspect": "process",
+        "type_property": "ADJ",
+        "keyword": "quick",
+        "part_sentence": "process was quick.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 2,
+        "aspect": "process",
+        "type_property": "ADJ",
+        "keyword": "smooth",
+        "part_sentence": "process was smooth.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 3,
+        "aspect": "selection",
+        "type_property": "ADJ",
+        "keyword": "amazing",
+        "part_sentence": "selection is amazing.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 3,
+        "aspect": "price",
+        "type_property": "ADJ",
+        "keyword": "competitive",
+        "part_sentence": "price are competitive.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 4,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "appreciate, walk",
+        "part_sentence": "I appreciate walked me.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 4,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "appreciate, walk",
+        "part_sentence": "I appreciate walked through setting new device.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 5,
+        "aspect": "question",
+        "type_property": "VERB",
+        "keyword": "answer",
+        "part_sentence": "question answered.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 6,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "resist, offer",
+        "part_sentence": "I could not resist offer amazing deals on phones.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 6,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "resist",
+        "part_sentence": "I could not resist upgrading.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 7,
+        "aspect": "technician",
+        "type_property": "VERB",
+        "keyword": "fix",
+        "part_sentence": "technician fixed faster.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 7,
+        "aspect": "technician",
+        "type_property": "VERB",
+        "keyword": "fix",
+        "part_sentence": "technician fixed phones issue.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 7,
+        "aspect": "phones issue",
+        "type_property": "VERB",
+        "keyword": "fix",
+        "part_sentence": "technician fixed phones issue.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 8,
+        "aspect": "experience",
+        "type_property": "VERB",
+        "keyword": "know",
+        "part_sentence": "experience really know stuff.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 9,
+        "aspect": "variety",
+        "type_property": "ADJ",
+        "keyword": "impressive",
+        "part_sentence": "variety was impressive.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 11,
+        "aspect": "staff",
+        "type_property": "ADJ",
+        "keyword": "knowledgeable",
+        "part_sentence": "staff was knowledgeable.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 12,
+        "aspect": "price",
+        "type_property": "ADJ",
+        "keyword": "reasonable",
+        "part_sentence": "price were reasonable.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 13,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "go",
+        "part_sentence": "staff really went mile.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 14,
+        "aspect": "service",
+        "type_property": "ADJ",
+        "keyword": "excellent",
+        "part_sentence": "service be excellent.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 15,
+        "aspect": "deal",
+        "type_property": "ADJ",
+        "keyword": "friendly",
+        "part_sentence": "deal was friendly.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 15,
+        "aspect": "staff",
+        "type_property": "ADJ",
+        "keyword": "friendly",
+        "part_sentence": "staff was friendly.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 16,
+        "aspect": "buying",
+        "type_property": "OTHER",
+        "keyword": "experience",
+        "part_sentence": "buying be experience.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 16,
+        "aspect": "fixing",
+        "type_property": "OTHER",
+        "keyword": "experience",
+        "part_sentence": "fixing be experience.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 17,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "get",
+        "part_sentence": "I got good deal on old phone.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 18,
+        "aspect": "service",
+        "type_property": "ADJ",
+        "keyword": "quick",
+        "part_sentence": "service are quick.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 18,
+        "aspect": "service",
+        "type_property": "ADJ",
+        "keyword": "reliable",
+        "part_sentence": "service are reliable.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 19,
+        "aspect": "phone",
+        "type_property": "ADJ",
+        "keyword": "helpful",
+        "part_sentence": "staff was helpful in setting phone.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 19,
+        "aspect": "staff",
+        "type_property": "ADJ",
+        "keyword": "helpful",
+        "part_sentence": "staff was helpful in setting phone.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 20,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "m",
+        "part_sentence": "I m satisfied.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 21,
+        "aspect": "staff",
+        "type_property": "ADJ",
+        "keyword": "patient",
+        "part_sentence": "staff was patient with questions.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 21,
+        "aspect": "variety",
+        "type_property": "ADJ",
+        "keyword": "patient",
+        "part_sentence": "variety was patient with questions.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 22,
+        "aspect": "process",
+        "type_property": "ADJ",
+        "keyword": "simple",
+        "part_sentence": "process was simple.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 23,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "help, choose",
+        "part_sentence": "they helped choose within budget.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 23,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "help, choose",
+        "part_sentence": "they helped choose phone.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 24,
+        "aspect": "phone",
+        "type_property": "VERB",
+        "keyword": "fix",
+        "part_sentence": "phone was fixed in minutes.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 25,
+        "aspect": "service",
+        "type_property": "ADJ",
+        "keyword": "outstanding",
+        "part_sentence": "service is outstanding.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 26,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "hand",
+        "part_sentence": "store hands.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 27,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "make",
+        "part_sentence": "staff made.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 28,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "find, need",
+        "part_sentence": "I found needed what.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 28,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "help, get",
+        "part_sentence": "they helped get great deal.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 29,
+        "aspect": "warranty service",
+        "type_property": "VERB",
+        "keyword": "have",
+        "part_sentence": "store has fantastic warranty service.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 29,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "have",
+        "part_sentence": "store has fantastic warranty service.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 30,
+        "aspect": "staff",
+        "type_property": "ADJ",
+        "keyword": "informative",
+        "part_sentence": "staff was informative.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 31,
+        "aspect": "variety",
+        "type_property": "ADJ",
+        "keyword": "excellent",
+        "part_sentence": "variety be excellent.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 31,
+        "aspect": "store",
+        "type_property": "ADJ",
+        "keyword": "excellent",
+        "part_sentence": "store be excellent.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 33,
+        "aspect": "store",
+        "type_property": "ADJ",
+        "keyword": "quick",
+        "part_sentence": "they were quick in setting phone.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 35,
+        "aspect": "layout",
+        "type_property": "ADJ",
+        "keyword": "easy",
+        "part_sentence": "layout is easy.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 35,
+        "aspect": "staff",
+        "type_property": "ADJ",
+        "keyword": "ready",
+        "part_sentence": "staff are ready.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 36,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "help, save",
+        "part_sentence": "they helped save lot.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 37,
+        "aspect": "service",
+        "type_property": "VERB",
+        "keyword": "provide",
+        "part_sentence": "one provides best service.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 37,
+        "aspect": "one",
+        "type_property": "VERB",
+        "keyword": "provide",
+        "part_sentence": "one provides best service.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 38,
+        "aspect": "service",
+        "type_property": "ADJ",
+        "keyword": "notch",
+        "part_sentence": "service is notch.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 38,
+        "aspect": "service",
+        "type_property": "OTHER",
+        "keyword": "notch",
+        "part_sentence": "service is notch.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 39,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "fail, recommend",
+        "part_sentence": "they not fail recommend to family.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 39,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "fail, recommend",
+        "part_sentence": "they not fail recommend store.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 39,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "fail, recommend",
+        "part_sentence": "they not fail recommend to friends.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 40,
+        "aspect": "time",
+        "type_property": "VERB",
+        "keyword": "take",
+        "part_sentence": "staff took time.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 40,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "take",
+        "part_sentence": "staff took time.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 41,
+        "aspect": "place",
+        "type_property": "ADJ",
+        "keyword": "amazing",
+        "part_sentence": "place be amazing.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 42,
+        "aspect": "plan",
+        "type_property": "ADJ",
+        "keyword": "worth",
+        "part_sentence": "plan is worth.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 43,
+        "aspect": "store",
+        "type_property": "ADJ",
+        "keyword": "able",
+        "part_sentence": "they were able.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 43,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "appreciate, be",
+        "part_sentence": "I appreciate were able.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 45,
+        "aspect": "staff",
+        "type_property": "ADJ",
+        "keyword": "accommodating",
+        "part_sentence": "staff was accommodating.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 46,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "have",
+        "part_sentence": "I had great experience with program.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 47,
+        "aspect": "service",
+        "type_property": "ADJ",
+        "keyword": "quick",
+        "part_sentence": "service was quick.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 47,
+        "aspect": "service",
+        "type_property": "ADJ",
+        "keyword": "efficient",
+        "part_sentence": "service was efficient.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 48,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "help, transfer",
+        "part_sentence": "they even helped transfer contacts.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 48,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "help, transfer",
+        "part_sentence": "they even helped transfer without extra charge.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 48,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "help, transfer",
+        "part_sentence": "they even helped transfer data.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 49,
+        "aspect": "phone",
+        "type_property": "VERB",
+        "keyword": "work",
+        "part_sentence": "phone has working flawlessly.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 50,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "give",
+        "part_sentence": "they even gave discount on repair.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 50,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "fix",
+        "part_sentence": "they fixed perfectly.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 50,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "fix",
+        "part_sentence": "they fixed screen.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 51,
+        "aspect": "staff",
+        "type_property": "ADJ",
+        "keyword": "reliable",
+        "part_sentence": "this is reliable.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 52,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "offer",
+        "part_sentence": "they offer fantastic promotions.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 52,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "offer",
+        "part_sentence": "they offer discounts.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 53,
+        "aspect": "selection",
+        "type_property": "ADJ",
+        "keyword": "great",
+        "part_sentence": "selection be great.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 53,
+        "aspect": "selection",
+        "type_property": "OTHER",
+        "keyword": "phone",
+        "part_sentence": "selection be phone.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 53,
+        "aspect": "service",
+        "type_property": "ADJ",
+        "keyword": "great",
+        "part_sentence": "service be great.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 53,
+        "aspect": "service",
+        "type_property": "OTHER",
+        "keyword": "phone",
+        "part_sentence": "service be phone.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 54,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "resolve",
+        "part_sentence": "they resolved professionally.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 54,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "resolve",
+        "part_sentence": "they resolved very quickly.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 54,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "resolve",
+        "part_sentence": "they resolved issue.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 55,
+        "aspect": "store",
+        "type_property": "ADJ",
+        "keyword": "organize",
+        "part_sentence": "store is organized.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 56,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "look",
+        "part_sentence": "you re looking for good deals.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 57,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "leave",
+        "part_sentence": "I always leave store.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 57,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "make",
+        "part_sentence": "I made right purchase.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 58,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "know, receive",
+        "part_sentence": "they really know received excellent advice from sales team.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 58,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "know",
+        "part_sentence": "they really know products.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 59,
+        "aspect": "phone",
+        "type_property": "VERB",
+        "keyword": "look",
+        "part_sentence": "phone looks new.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 60,
+        "aspect": "staff",
+        "type_property": "ADJ",
+        "keyword": "apologetic",
+        "part_sentence": "staff was not apologetic.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 62,
+        "aspect": "price",
+        "type_property": "ADJ",
+        "keyword": "high",
+        "part_sentence": "price are high.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 62,
+        "aspect": "selection",
+        "type_property": "ADJ",
+        "keyword": "limited",
+        "part_sentence": "selection is limited.",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 63,
+        "aspect": "one",
+        "type_property": "VERB",
+        "keyword": "seem, be",
+        "part_sentence": "one seemed is poor.",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 63,
+        "aspect": "service",
+        "type_property": "ADJ",
+        "keyword": "poor",
+        "part_sentence": "service is poor.",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 64,
+        "aspect": "phone",
+        "type_property": "ADJ",
+        "keyword": "defective",
+        "part_sentence": "phone was defective.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 65,
+        "aspect": "staff",
+        "type_property": "ADJ",
+        "keyword": "rude",
+        "part_sentence": "staff was rude.",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 65,
+        "aspect": "staff",
+        "type_property": "ADJ",
+        "keyword": "unhelpful",
+        "part_sentence": "staff was unhelpful.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 66,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "charge",
+        "part_sentence": "they charged me.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 66,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "feel",
+        "part_sentence": "they felt like scam.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 66,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "charge",
+        "part_sentence": "they charged extra for services.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 67,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "have, take",
+        "part_sentence": "I had took too long.",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 67,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "have, take",
+        "part_sentence": "I had took way.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 68,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "inform",
+        "part_sentence": "they did not inform me.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 68,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "inform",
+        "part_sentence": "they did not inform of hidden fees.",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 68,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "buy",
+        "part_sentence": "I bought phone.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 69,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "seem",
+        "part_sentence": "staff seemed.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 69,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "give",
+        "part_sentence": "staff gave incorrect information about phone plan.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 69,
+        "aspect": "phone plan",
+        "type_property": "VERB",
+        "keyword": "give",
+        "part_sentence": "staff gave incorrect information about phone plan.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 70,
+        "aspect": "warranty",
+        "type_property": "ADJ",
+        "keyword": "useless",
+        "part_sentence": "warranty is useless.",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 71,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "give",
+        "part_sentence": "they twice gave refund.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 71,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "have, return",
+        "part_sentence": "I had to return faulty phone.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 72,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "wait",
+        "part_sentence": "I very disorganized waited forever.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 74,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "refuse, honor",
+        "part_sentence": "they refused to honor promotion.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 75,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "feel",
+        "part_sentence": "I felt pressured.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 76,
+        "aspect": "repair",
+        "type_property": "VERB",
+        "keyword": "do",
+        "part_sentence": "repair was done poorly.",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 76,
+        "aspect": "phone",
+        "type_property": "VERB",
+        "keyword": "break",
+        "part_sentence": "phone broke again.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 76,
+        "aspect": "phone",
+        "type_property": "VERB",
+        "keyword": "break",
+        "part_sentence": "phone broke within week.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 77,
+        "aspect": "service",
+        "type_property": "ADJ",
+        "keyword": "slow",
+        "part_sentence": "service was slow.",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 78,
+        "aspect": "phone",
+        "type_property": "VERB",
+        "keyword": "work",
+        "part_sentence": "phone was working after repair.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 79,
+        "aspect": "same issue",
+        "type_property": "VERB",
+        "keyword": "have",
+        "part_sentence": "phone still has same issue after getting.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 79,
+        "aspect": "phone",
+        "type_property": "VERB",
+        "keyword": "have",
+        "part_sentence": "phone still has same issue after getting.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 80,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "upsold",
+        "part_sentence": "they upsold on phone plan.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 80,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "upsold",
+        "part_sentence": "they upsold me.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 81,
+        "aspect": "staff",
+        "type_property": "ADJ",
+        "keyword": "unprofessional",
+        "part_sentence": "staff was unprofessional.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 82,
+        "aspect": "policy",
+        "type_property": "ADJ",
+        "keyword": "awful",
+        "part_sentence": "policy is awful.",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 83,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "apply",
+        "part_sentence": "they did not apply discount.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 84,
+        "aspect": "store",
+        "type_property": "ADJ",
+        "keyword": "understaffed",
+        "part_sentence": "store was understaffed.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 84,
+        "aspect": "store",
+        "type_property": "ADJ",
+        "keyword": "messy",
+        "part_sentence": "store was messy.",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 85,
+        "aspect": "warranty",
+        "type_property": "VERB",
+        "keyword": "expire",
+        "part_sentence": "warranty just expired.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 85,
+        "aspect": "phone",
+        "type_property": "VERB",
+        "keyword": "break",
+        "part_sentence": "phone broke.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 86,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "keep, try",
+        "part_sentence": "they kept trying.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 87,
+        "aspect": "job",
+        "type_property": "ADJ",
+        "keyword": "incomplete",
+        "part_sentence": "job was incomplete.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 88,
+        "aspect": "representative",
+        "type_property": "ADJ",
+        "keyword": "rude",
+        "part_sentence": "representative were rude on phone.",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 89,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "have, call",
+        "part_sentence": "I had to call multiple times.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 90,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "explain",
+        "part_sentence": "they did not explain anything.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 90,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "rush",
+        "part_sentence": "they rushed me.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 90,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "rush",
+        "part_sentence": "they rushed through purchase.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 90,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "explain",
+        "part_sentence": "they did not explain clearly.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 91,
+        "aspect": "support",
+        "type_property": "ADJ",
+        "keyword": "non",
+        "part_sentence": "support is non.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 92,
+        "aspect": "return window",
+        "type_property": "VERB",
+        "keyword": "stop, work",
+        "part_sentence": "phone stopped working outside return window.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 92,
+        "aspect": "phone",
+        "type_property": "VERB",
+        "keyword": "stop, work",
+        "part_sentence": "phone stopped working outside return window.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 92,
+        "aspect": "phone",
+        "type_property": "VERB",
+        "keyword": "stop",
+        "part_sentence": "phone stopped quality.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 93,
+        "aspect": "store",
+        "type_property": "ADJ",
+        "keyword": "chaotic",
+        "part_sentence": "store was chaotic.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 93,
+        "aspect": "store",
+        "type_property": "OTHER",
+        "keyword": "staff",
+        "part_sentence": "store was with unhelpful staff.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 93,
+        "aspect": "store",
+        "type_property": "OTHER",
+        "keyword": "lines",
+        "part_sentence": "store was with long lines.",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 93,
+        "aspect": "staff",
+        "type_property": "OTHER",
+        "keyword": "staff",
+        "part_sentence": "store was with unhelpful staff.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 93,
+        "aspect": "long lines",
+        "type_property": "OTHER",
+        "keyword": "lines",
+        "part_sentence": "store was with long lines.",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 94,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "have",
+        "part_sentence": "they did not even have after promising me.",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 94,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "have",
+        "part_sentence": "they did not even have phone.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 95,
+        "aspect": "store",
+        "type_property": "VERB",
+        "keyword": "lose",
+        "part_sentence": "they lost repair order.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 96,
+        "aspect": "staff",
+        "type_property": "VERB",
+        "keyword": "feel",
+        "part_sentence": "I felt overcharged.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 98,
+        "aspect": "technician",
+        "type_property": "VERB",
+        "keyword": "damage",
+        "part_sentence": "technician damaged during repair.",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 98,
+        "aspect": "technician",
+        "type_property": "VERB",
+        "keyword": "damage",
+        "part_sentence": "technician damaged phone.",
+        "sentiment": "Neutral"
+    }
+]

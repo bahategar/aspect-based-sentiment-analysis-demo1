@@ -1,0 +1,188 @@
+[
+    {
+        "aspect": "staff",
+        "strength": "\u25cf staff is friendly, ready.\n\u25cf I could not resist offer amazing deals on phones.\n\u25cf I made right purchase.\n\u25cf I appreciate walked through setting new device.\n\u25cf I got good deal on old phone.\n\u25cf I appreciate were able.\n\u25cf I had great experience with program.\n\u25cf staff really went mile.\n\u25cf I very disorganized waited forever.\n\u25cf I m satisfied.\n",
+        "weakness": "\u25cf staff is rude.\n\u25cf I had took too long.\n",
+        "fine": "\u25cf staff is helpful, patient, knowledgeable, helpful in setting phone, patient with questions, informative, accommodating, reliable, not apologetic, unhelpful, unprofessional.\n\u25cf I found needed what.\n\u25cf I had to call multiple times.\n\u25cf I had to return faulty phone.\n\u25cf staff took time.\n\u25cf I felt overcharged.\n\u25cf I had took way.\n\u25cf staff gave incorrect information about phone plan.\n\u25cf I felt pressured.\n\u25cf staff made.\n\u25cf I always leave store.\n\u25cf I appreciate walked me.\n\u25cf I could not resist upgrading.\n\u25cf I bought phone.\n\u25cf staff seemed.\n\u25cf store was with unhelpful staff.\n"
+    },
+    {
+        "aspect": "process",
+        "strength": "\u25cf process is quick, smooth.\n",
+        "weakness": "",
+        "fine": "\u25cf process is simple.\n"
+    },
+    {
+        "aspect": "selection",
+        "strength": "\u25cf selection is amazing, great.\n",
+        "weakness": "\u25cf selection is limited.\n",
+        "fine": "\u25cf selection be phone.\n"
+    },
+    {
+        "aspect": "price",
+        "strength": "\u25cf price is reasonable, high.\n",
+        "weakness": "",
+        "fine": "\u25cf price is competitive.\n"
+    },
+    {
+        "aspect": "question",
+        "strength": "",
+        "weakness": "",
+        "fine": "\u25cf question answered.\n"
+    },
+    {
+        "aspect": "technician",
+        "strength": "\u25cf technician fixed faster.\n\u25cf technician fixed phones issue.\n",
+        "weakness": "",
+        "fine": "\u25cf technician damaged during repair.\n\u25cf technician damaged phone.\n"
+    },
+    {
+        "aspect": "phones issue",
+        "strength": "\u25cf technician fixed phones issue.\n",
+        "weakness": "",
+        "fine": ""
+    },
+    {
+        "aspect": "experience",
+        "strength": "\u25cf experience really know stuff.\n",
+        "weakness": "",
+        "fine": ""
+    },
+    {
+        "aspect": "variety",
+        "strength": "\u25cf variety is impressive, excellent.\n",
+        "weakness": "",
+        "fine": "\u25cf variety is patient with questions.\n"
+    },
+    {
+        "aspect": "service",
+        "strength": "\u25cf service is excellent, quick, outstanding, quick, great.\n\u25cf one provides best service.\n",
+        "weakness": "\u25cf service is poor, slow.\n",
+        "fine": "\u25cf service is reliable, notch, efficient.\n\u25cf service is notch.\n\u25cf service be phone.\n"
+    },
+    {
+        "aspect": "deal",
+        "strength": "\u25cf deal is friendly.\n",
+        "weakness": "",
+        "fine": ""
+    },
+    {
+        "aspect": "buying",
+        "strength": "",
+        "weakness": "",
+        "fine": "\u25cf buying be experience.\n"
+    },
+    {
+        "aspect": "fixing",
+        "strength": "",
+        "weakness": "",
+        "fine": "\u25cf fixing be experience.\n"
+    },
+    {
+        "aspect": "phone",
+        "strength": "\u25cf phone looks new.\n\u25cf phone has working flawlessly.\n\u25cf phone was fixed in minutes.\n",
+        "weakness": "",
+        "fine": "\u25cf phone is helpful in setting phone, defective.\n\u25cf phone stopped working outside return window.\n\u25cf phone broke.\n\u25cf phone broke again.\n\u25cf phone still has same issue after getting.\n\u25cf phone broke within week.\n\u25cf phone stopped quality.\n\u25cf phone was working after repair.\n"
+    },
+    {
+        "aspect": "store",
+        "strength": "\u25cf store is excellent, quick in setting phone, able.\n\u25cf they helped get great deal.\n\u25cf they not fail recommend to friends.\n\u25cf they not fail recommend to family.\n\u25cf they not fail recommend store.\n\u25cf you re looking for good deals.\n\u25cf they really know products.\n\u25cf they did not even have after promising me.\n\u25cf store has fantastic warranty service.\n\u25cf they really know received excellent advice from sales team.\n\u25cf they resolved very quickly.\n\u25cf they resolved professionally.\n\u25cf they offer fantastic promotions.\n\u25cf they did not explain clearly.\n\u25cf they fixed screen.\n\u25cf they fixed perfectly.\n",
+        "weakness": "\u25cf store is messy.\n\u25cf they did not inform of hidden fees.\n\u25cf store was with long lines.\n",
+        "fine": "\u25cf store is organized, understaffed, chaotic.\n\u25cf they even helped transfer without extra charge.\n\u25cf they even gave discount on repair.\n\u25cf they even helped transfer contacts.\n\u25cf they helped choose phone.\n\u25cf they helped choose within budget.\n\u25cf they even helped transfer data.\n\u25cf they lost repair order.\n\u25cf they twice gave refund.\n\u25cf they did not apply discount.\n\u25cf they offer discounts.\n\u25cf they charged extra for services.\n\u25cf they helped save lot.\n\u25cf they did not inform me.\n\u25cf they upsold me.\n\u25cf they rushed through purchase.\n\u25cf they did not even have phone.\n\u25cf they kept trying.\n\u25cf they upsold on phone plan.\n\u25cf they resolved issue.\n\u25cf they charged me.\n\u25cf they did not explain anything.\n\u25cf they refused to honor promotion.\n\u25cf they felt like scam.\n\u25cf store hands.\n\u25cf store was with unhelpful staff.\n"
+    },
+    {
+        "aspect": "warranty service",
+        "strength": "\u25cf store has fantastic warranty service.\n",
+        "weakness": "",
+        "fine": ""
+    },
+    {
+        "aspect": "layout",
+        "strength": "\u25cf layout is easy.\n",
+        "weakness": "",
+        "fine": ""
+    },
+    {
+        "aspect": "one",
+        "strength": "\u25cf one provides best service.\n",
+        "weakness": "\u25cf one seemed is poor.\n",
+        "fine": ""
+    },
+    {
+        "aspect": "time",
+        "strength": "",
+        "weakness": "",
+        "fine": "\u25cf staff took time.\n"
+    },
+    {
+        "aspect": "place",
+        "strength": "\u25cf place is amazing.\n",
+        "weakness": "",
+        "fine": ""
+    },
+    {
+        "aspect": "plan",
+        "strength": "\u25cf plan is worth.\n",
+        "weakness": "",
+        "fine": ""
+    },
+    {
+        "aspect": "phone plan",
+        "strength": "",
+        "weakness": "",
+        "fine": "\u25cf staff gave incorrect information about phone plan.\n"
+    },
+    {
+        "aspect": "warranty",
+        "strength": "",
+        "weakness": "\u25cf warranty is useless.\n",
+        "fine": "\u25cf warranty just expired.\n"
+    },
+    {
+        "aspect": "repair",
+        "strength": "",
+        "weakness": "\u25cf repair was done poorly.\n",
+        "fine": ""
+    },
+    {
+        "aspect": "same issue",
+        "strength": "",
+        "weakness": "",
+        "fine": "\u25cf phone still has same issue after getting.\n"
+    },
+    {
+        "aspect": "policy",
+        "strength": "",
+        "weakness": "\u25cf policy is awful.\n",
+        "fine": ""
+    },
+    {
+        "aspect": "job",
+        "strength": "",
+        "weakness": "",
+        "fine": "\u25cf job is incomplete.\n"
+    },
+    {
+        "aspect": "representative",
+        "strength": "",
+        "weakness": "\u25cf representative is rude on phone.\n",
+        "fine": ""
+    },
+    {
+        "aspect": "support",
+        "strength": "",
+        "weakness": "",
+        "fine": "\u25cf support is non.\n"
+    },
+    {
+        "aspect": "return window",
+        "strength": "",
+        "weakness": "",
+        "fine": "\u25cf phone stopped working outside return window.\n"
+    },
+    {
+        "aspect": "long lines",
+        "strength": "",
+        "weakness": "\u25cf store was with long lines.\n",
+        "fine": ""
+    }
+]

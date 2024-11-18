@@ -1,7 +1,10 @@
 {
     "0": {
-        "staff": {
-            "data": {
+        "id": 1,
+        "review": "The staff were incredibly helpful and patient, helping me find the perfect phone!",
+        "date": "2024-11-01",
+        "aspect": {
+            "staff": {
                 "ADJ": [
                     [
                         [
@@ -20,38 +23,44 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "1": {
-        "process": {
-            "data": {
+        "id": 2,
+        "review": "I had a great experience purchasing my phone here, the process was smooth and quick.",
+        "date": "2024-11-01",
+        "aspect": {
+            "process": {
                 "ADJ": [
-                    [
-                        [
-                            "smooth"
-                        ],
-                        "process was smooth.",
-                        "Positive"
-                    ],
                     [
                         [
                             "quick"
                         ],
                         "process was quick.",
                         "Positive"
+                    ],
+                    [
+                        [
+                            "smooth"
+                        ],
+                        "process was smooth.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "2": {
-        "selection": {
-            "data": {
+        "id": 3,
+        "review": "Their selection of phones is amazing, and the prices are very competitive!",
+        "date": "2024-11-01",
+        "aspect": {
+            "selection": {
                 "ADJ": [
                     [
                         [
@@ -64,10 +73,7 @@
                 "VERB": [],
                 "OTHER": []
             },
-            "sentiment": "Positive"
-        },
-        "price": {
-            "data": {
+            "price": {
                 "ADJ": [
                     [
                         [
@@ -79,13 +85,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "3": {
-        "staff": {
-            "data": {
+        "id": 4,
+        "review": "I appreciate how the staff walked me through setting up my new device.",
+        "date": "2024-11-01",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -106,13 +115,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "4": {
-        "question": {
-            "data": {
+        "id": 5,
+        "review": "Great customer service, I left with the phone I wanted and all my questions answered.",
+        "date": "2024-11-01",
+        "aspect": {
+            "question": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -124,22 +136,18 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "5": {
-        "staff": {
-            "data": {
+        "id": 6,
+        "review": "They offer amazing deals on phones, I couldn\u2019t resist upgrading.",
+        "date": "2024-11-01",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
-                    [
-                        [
-                            "resist"
-                        ],
-                        "I could not resist upgrading.",
-                        "Neutral"
-                    ],
                     [
                         [
                             "resist",
@@ -147,57 +155,67 @@
                         ],
                         "I could not resist offer amazing deals on phones.",
                         "Positive"
+                    ],
+                    [
+                        [
+                            "resist"
+                        ],
+                        "I could not resist upgrading.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "6": {
-        "phones issue": {
-            "data": {
+        "id": 7,
+        "review": "The technician fixed my phone\u2019s issue faster than I expected. Highly recommend!",
+        "date": "2024-11-01",
+        "aspect": {
+            "technician": {
                 "ADJ": [],
                 "VERB": [
-                    [
-                        [
-                            "fix"
-                        ],
-                        "technician fixed phones issue.",
-                        "Positive"
-                    ]
-                ],
-                "OTHER": []
-            },
-            "sentiment": "Positive"
-        },
-        "technician": {
-            "data": {
-                "ADJ": [],
-                "VERB": [
-                    [
-                        [
-                            "fix"
-                        ],
-                        "technician fixed phones issue.",
-                        "Positive"
-                    ],
                     [
                         [
                             "fix"
                         ],
                         "technician fixed faster.",
                         "Positive"
+                    ],
+                    [
+                        [
+                            "fix"
+                        ],
+                        "technician fixed phones issue.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             },
-            "sentiment": "Positive"
-        }
+            "phones issue": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "fix"
+                        ],
+                        "technician fixed phones issue.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            }
+        },
+        "sentiment": "Positive"
     },
     "7": {
-        "experience": {
-            "data": {
+        "id": 8,
+        "review": "Fantastic experience, the staff really know their stuff!",
+        "date": "2024-11-01",
+        "aspect": {
+            "experience": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -209,13 +227,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "8": {
-        "variety": {
-            "data": {
+        "id": 9,
+        "review": "I found the perfect phone case here, and the variety was impressive.",
+        "date": "2024-11-01",
+        "aspect": {
+            "variety": {
                 "ADJ": [
                     [
                         [
@@ -227,14 +248,23 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
-    "9": {},
+    "9": {
+        "id": 10,
+        "review": "Upgrading my phone was a breeze thanks to their professional service.",
+        "date": "2024-11-01",
+        "aspect": {},
+        "sentiment": "Positive"
+    },
     "10": {
-        "staff": {
-            "data": {
+        "id": 11,
+        "review": "Staff was knowledgeable and made sure I knew everything about my new phone.",
+        "date": "2024-11-01",
+        "aspect": {
+            "staff": {
                 "ADJ": [
                     [
                         [
@@ -246,13 +276,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "11": {
-        "price": {
-            "data": {
+        "id": 12,
+        "review": "Prices were reasonable and the staff very courteous!",
+        "date": "2024-11-01",
+        "aspect": {
+            "price": {
                 "ADJ": [
                     [
                         [
@@ -264,13 +297,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "12": {
-        "staff": {
-            "data": {
+        "id": 13,
+        "review": "Very happy with my purchase, the staff really went the extra mile.",
+        "date": "2024-11-01",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -282,13 +318,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "13": {
-        "service": {
-            "data": {
+        "id": 14,
+        "review": "Excellent service! They helped me find exactly what I was looking for.",
+        "date": "2024-11-01",
+        "aspect": {
+            "service": {
                 "ADJ": [
                     [
                         [
@@ -300,13 +339,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "14": {
-        "deal": {
-            "data": {
+        "id": 15,
+        "review": "Great deals on accessories, and the staff was super friendly!",
+        "date": "2024-11-01",
+        "aspect": {
+            "deal": {
                 "ADJ": [
                     [
                         [
@@ -319,10 +361,7 @@
                 "VERB": [],
                 "OTHER": []
             },
-            "sentiment": "Positive"
-        },
-        "staff": {
-            "data": {
+            "staff": {
                 "ADJ": [
                     [
                         [
@@ -334,13 +373,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "15": {
-        "buying": {
-            "data": {
+        "id": 16,
+        "review": "I love this store! Always a smooth experience buying or fixing my phone.",
+        "date": "2024-11-02",
+        "aspect": {
+            "buying": {
                 "ADJ": [],
                 "VERB": [],
                 "OTHER": [
@@ -353,10 +395,7 @@
                     ]
                 ]
             },
-            "sentiment": "Neutral"
-        },
-        "fixing": {
-            "data": {
+            "fixing": {
                 "ADJ": [],
                 "VERB": [],
                 "OTHER": [
@@ -368,13 +407,16 @@
                         "Neutral"
                     ]
                 ]
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "16": {
-        "staff": {
-            "data": {
+        "id": 17,
+        "review": "I got a really good trade-in deal on my old phone.",
+        "date": "2024-11-02",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -386,13 +428,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "17": {
-        "service": {
-            "data": {
+        "id": 18,
+        "review": "Their repair services are quick and reliable.",
+        "date": "2024-11-02",
+        "aspect": {
+            "service": {
                 "ADJ": [
                     [
                         [
@@ -411,13 +456,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "18": {
-        "phone": {
-            "data": {
+        "id": 19,
+        "review": "The staff was extremely helpful in setting up my phone and transferring all my data.",
+        "date": "2024-11-02",
+        "aspect": {
+            "phone": {
                 "ADJ": [
                     [
                         [
@@ -430,28 +478,28 @@
                 "VERB": [],
                 "OTHER": []
             },
-            "sentiment": "Neutral"
+            "staff": {
+                "ADJ": [
+                    [
+                        [
+                            "helpful"
+                        ],
+                        "staff was helpful in setting phone.",
+                        "Neutral"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            }
         },
-        "staff": {
-            "data": {
-                "ADJ": [
-                    [
-                        [
-                            "helpful"
-                        ],
-                        "staff was helpful in setting phone.",
-                        "Neutral"
-                    ]
-                ],
-                "VERB": [],
-                "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+        "sentiment": "Neutral"
     },
     "19": {
-        "staff": {
-            "data": {
+        "id": 20,
+        "review": "Very professional and friendly service, I\u2019m super satisfied!",
+        "date": "2024-11-02",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -463,13 +511,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "20": {
-        "staff": {
-            "data": {
+        "id": 21,
+        "review": "Great variety of phones, and the staff was very patient with my questions.",
+        "date": "2024-11-03",
+        "aspect": {
+            "staff": {
                 "ADJ": [
                     [
                         [
@@ -482,10 +533,7 @@
                 "VERB": [],
                 "OTHER": []
             },
-            "sentiment": "Neutral"
-        },
-        "variety": {
-            "data": {
+            "variety": {
                 "ADJ": [
                     [
                         [
@@ -497,13 +545,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "21": {
-        "process": {
-            "data": {
+        "id": 22,
+        "review": "The process was super simple, and I\u2019m thrilled with my new phone.",
+        "date": "2024-11-03",
+        "aspect": {
+            "process": {
                 "ADJ": [
                     [
                         [
@@ -515,13 +566,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "22": {
-        "store": {
-            "data": {
+        "id": 23,
+        "review": "They helped me choose a phone within my budget, which I really appreciated.",
+        "date": "2024-11-03",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -542,13 +596,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "23": {
-        "phone": {
-            "data": {
+        "id": 24,
+        "review": "My phone was fixed in less than 30 minutes, such fast service!",
+        "date": "2024-11-03",
+        "aspect": {
+            "phone": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -560,13 +617,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "24": {
-        "service": {
-            "data": {
+        "id": 25,
+        "review": "I\u2019m a loyal customer because their customer service is always outstanding.",
+        "date": "2024-11-03",
+        "aspect": {
+            "service": {
                 "ADJ": [
                     [
                         [
@@ -578,13 +638,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "25": {
-        "store": {
-            "data": {
+        "id": 26,
+        "review": "Best phone store in town, hands down!",
+        "date": "2024-11-04",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -596,13 +659,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "26": {
-        "staff": {
-            "data": {
+        "id": 27,
+        "review": "The staff made sure I was completely comfortable with my purchase.",
+        "date": "2024-11-04",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -614,13 +680,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "27": {
-        "staff": {
-            "data": {
+        "id": 28,
+        "review": "I found exactly what I needed, and they helped me get a great deal.",
+        "date": "2024-11-04",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -634,10 +703,7 @@
                 ],
                 "OTHER": []
             },
-            "sentiment": "Neutral"
-        },
-        "store": {
-            "data": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -650,13 +716,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "28": {
-        "warranty service": {
-            "data": {
+        "id": 29,
+        "review": "This store has a fantastic warranty service!",
+        "date": "2024-11-04",
+        "aspect": {
+            "warranty service": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -669,28 +738,28 @@
                 ],
                 "OTHER": []
             },
-            "sentiment": "Positive"
+            "store": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "have"
+                        ],
+                        "store has fantastic warranty service.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            }
         },
-        "store": {
-            "data": {
-                "ADJ": [],
-                "VERB": [
-                    [
-                        [
-                            "have"
-                        ],
-                        "store has fantastic warranty service.",
-                        "Positive"
-                    ]
-                ],
-                "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+        "sentiment": "Positive"
     },
     "29": {
-        "staff": {
-            "data": {
+        "id": 30,
+        "review": "The staff was very informative, I learned a lot about phone features I didn\u2019t know about.",
+        "date": "2024-11-04",
+        "aspect": {
+            "staff": {
                 "ADJ": [
                     [
                         [
@@ -702,13 +771,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "30": {
-        "variety": {
-            "data": {
+        "id": 31,
+        "review": "Excellent store for buying phone accessories, so much variety!",
+        "date": "2024-11-04",
+        "aspect": {
+            "variety": {
                 "ADJ": [
                     [
                         [
@@ -721,10 +793,7 @@
                 "VERB": [],
                 "OTHER": []
             },
-            "sentiment": "Positive"
-        },
-        "store": {
-            "data": {
+            "store": {
                 "ADJ": [
                     [
                         [
@@ -736,14 +805,23 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
-    "31": {},
+    "31": {
+        "id": 32,
+        "review": "The phone I bought here is working perfectly, couldn\u2019t be happier.",
+        "date": "2024-11-04",
+        "aspect": {},
+        "sentiment": "Positive"
+    },
     "32": {
-        "store": {
-            "data": {
+        "id": 33,
+        "review": "They were super quick in setting up my phone, I was out of there in no time.",
+        "date": "2024-11-04",
+        "aspect": {
+            "store": {
                 "ADJ": [
                     [
                         [
@@ -755,14 +833,23 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
-    "33": {},
+    "33": {
+        "id": 34,
+        "review": "Always come here for upgrades, they never disappoint!",
+        "date": "2024-11-04",
+        "aspect": {},
+        "sentiment": "Positive"
+    },
     "34": {
-        "layout": {
-            "data": {
+        "id": 35,
+        "review": "The store layout is easy to navigate and staff are always ready to help.",
+        "date": "2024-11-05",
+        "aspect": {
+            "layout": {
                 "ADJ": [
                     [
                         [
@@ -775,10 +862,7 @@
                 "VERB": [],
                 "OTHER": []
             },
-            "sentiment": "Positive"
-        },
-        "staff": {
-            "data": {
+            "staff": {
                 "ADJ": [
                     [
                         [
@@ -790,13 +874,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "35": {
-        "store": {
-            "data": {
+        "id": 36,
+        "review": "Best pricing for phone plans, they helped me save a lot!",
+        "date": "2024-11-05",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -809,13 +896,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "36": {
-        "service": {
-            "data": {
+        "id": 37,
+        "review": "I\u2019ve been to many phone stores, but this one by far provides the best service.",
+        "date": "2024-11-05",
+        "aspect": {
+            "service": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -828,28 +918,28 @@
                 ],
                 "OTHER": []
             },
-            "sentiment": "Positive"
+            "one": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "provide"
+                        ],
+                        "one provides best service.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            }
         },
-        "one": {
-            "data": {
-                "ADJ": [],
-                "VERB": [
-                    [
-                        [
-                            "provide"
-                        ],
-                        "one provides best service.",
-                        "Positive"
-                    ]
-                ],
-                "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+        "sentiment": "Positive"
     },
     "37": {
-        "service": {
-            "data": {
+        "id": 38,
+        "review": "Customer service here is top-notch, they always resolve my issues quickly.",
+        "date": "2024-11-05",
+        "aspect": {
+            "service": {
                 "ADJ": [
                     [
                         [
@@ -869,13 +959,16 @@
                         "Neutral"
                     ]
                 ]
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "38": {
-        "store": {
-            "data": {
+        "id": 39,
+        "review": "I always recommend this store to friends and family, they never fail to impress.",
+        "date": "2024-11-06",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -883,7 +976,7 @@
                             "fail",
                             "recommend"
                         ],
-                        "they not fail recommend to friends.",
+                        "they not fail recommend to family.",
                         "Positive"
                     ],
                     [
@@ -899,18 +992,21 @@
                             "fail",
                             "recommend"
                         ],
-                        "they not fail recommend to family.",
+                        "they not fail recommend to friends.",
                         "Positive"
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "39": {
-        "time": {
-            "data": {
+        "id": 40,
+        "review": "The staff took the time to show me all my options, no pressure sales.",
+        "date": "2024-11-06",
+        "aspect": {
+            "time": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -923,28 +1019,28 @@
                 ],
                 "OTHER": []
             },
-            "sentiment": "Neutral"
+            "staff": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "take"
+                        ],
+                        "staff took time.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            }
         },
-        "staff": {
-            "data": {
-                "ADJ": [],
-                "VERB": [
-                    [
-                        [
-                            "take"
-                        ],
-                        "staff took time.",
-                        "Neutral"
-                    ]
-                ],
-                "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+        "sentiment": "Neutral"
     },
     "40": {
-        "place": {
-            "data": {
+        "id": 41,
+        "review": "Amazing place to buy the latest phones at great prices!",
+        "date": "2024-11-06",
+        "aspect": {
+            "place": {
                 "ADJ": [
                     [
                         [
@@ -956,13 +1052,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "41": {
-        "plan": {
-            "data": {
+        "id": 42,
+        "review": "Their warranty plan is worth every penny, such a relief!",
+        "date": "2024-11-06",
+        "aspect": {
+            "plan": {
                 "ADJ": [
                     [
                         [
@@ -974,30 +1073,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "42": {
-        "staff": {
-            "data": {
-                "ADJ": [],
-                "VERB": [
-                    [
-                        [
-                            "appreciate",
-                            "be"
-                        ],
-                        "I appreciate were able.",
-                        "Positive"
-                    ]
-                ],
-                "OTHER": []
-            },
-            "sentiment": "Positive"
-        },
-        "store": {
-            "data": {
+        "id": 43,
+        "review": "I appreciate how they were able to fix my phone on the same day.",
+        "date": "2024-11-06",
+        "aspect": {
+            "store": {
                 "ADJ": [
                     [
                         [
@@ -1010,13 +1095,36 @@
                 "VERB": [],
                 "OTHER": []
             },
-            "sentiment": "Positive"
-        }
+            "staff": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "appreciate",
+                            "be"
+                        ],
+                        "I appreciate were able.",
+                        "Positive"
+                    ]
+                ],
+                "OTHER": []
+            }
+        },
+        "sentiment": "Positive"
     },
-    "43": {},
+    "43": {
+        "id": 44,
+        "review": "Got a great deal on my new phone and an awesome case as well!",
+        "date": "2024-11-07",
+        "aspect": {},
+        "sentiment": "Positive"
+    },
     "44": {
-        "staff": {
-            "data": {
+        "id": 45,
+        "review": "The staff was very accommodating when I had questions about phone features.",
+        "date": "2024-11-07",
+        "aspect": {
+            "staff": {
                 "ADJ": [
                     [
                         [
@@ -1028,13 +1136,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "45": {
-        "staff": {
-            "data": {
+        "id": 46,
+        "review": "I had a great experience with their trade-in program.",
+        "date": "2024-11-07",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1046,13 +1157,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "46": {
-        "service": {
-            "data": {
+        "id": 47,
+        "review": "Service was quick and efficient, I was in and out within 15 minutes!",
+        "date": "2024-11-07",
+        "aspect": {
+            "service": {
                 "ADJ": [
                     [
                         [
@@ -1071,15 +1185,26 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "47": {
-        "store": {
-            "data": {
+        "id": 48,
+        "review": "They even helped me transfer all my contacts and data without extra charge.",
+        "date": "2024-11-08",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
+                    [
+                        [
+                            "help",
+                            "transfer"
+                        ],
+                        "they even helped transfer contacts.",
+                        "Neutral"
+                    ],
                     [
                         [
                             "help",
@@ -1095,24 +1220,19 @@
                         ],
                         "they even helped transfer data.",
                         "Neutral"
-                    ],
-                    [
-                        [
-                            "help",
-                            "transfer"
-                        ],
-                        "they even helped transfer contacts.",
-                        "Neutral"
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "48": {
-        "phone": {
-            "data": {
+        "id": 49,
+        "review": "My phone has been working flawlessly since I bought it from here.",
+        "date": "2024-11-08",
+        "aspect": {
+            "phone": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1124,15 +1244,25 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "49": {
-        "store": {
-            "data": {
+        "id": 50,
+        "review": "They fixed my screen perfectly and even gave me a discount on the repair.",
+        "date": "2024-11-08",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
+                    [
+                        [
+                            "give"
+                        ],
+                        "they even gave discount on repair.",
+                        "Neutral"
+                    ],
                     [
                         [
                             "fix"
@@ -1146,23 +1276,19 @@
                         ],
                         "they fixed screen.",
                         "Positive"
-                    ],
-                    [
-                        [
-                            "give"
-                        ],
-                        "they even gave discount on repair.",
-                        "Neutral"
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "50": {
-        "staff": {
-            "data": {
+        "id": 51,
+        "review": "This is my go-to store for any phone issues, always reliable.",
+        "date": "2024-11-08",
+        "aspect": {
+            "staff": {
                 "ADJ": [
                     [
                         [
@@ -1174,62 +1300,44 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "51": {
-        "store": {
-            "data": {
+        "id": 52,
+        "review": "They offer fantastic promotions and discounts!",
+        "date": "2024-11-09",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
                         [
                             "offer"
                         ],
-                        "they offer discounts.",
-                        "Neutral"
+                        "they offer fantastic promotions.",
+                        "Positive"
                     ],
                     [
                         [
                             "offer"
                         ],
-                        "they offer fantastic promotions.",
-                        "Positive"
+                        "they offer discounts.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "52": {
-        "service": {
-            "data": {
-                "ADJ": [
-                    [
-                        [
-                            "great"
-                        ],
-                        "service be great.",
-                        "Positive"
-                    ]
-                ],
-                "VERB": [],
-                "OTHER": [
-                    [
-                        [
-                            "phone"
-                        ],
-                        "service be phone.",
-                        "Neutral"
-                    ]
-                ]
-            },
-            "sentiment": "Positive"
-        },
-        "selection": {
-            "data": {
+        "id": 53,
+        "review": "Great phone selection and even better customer service.",
+        "date": "2024-11-09",
+        "aspect": {
+            "selection": {
                 "ADJ": [
                     [
                         [
@@ -1250,12 +1358,36 @@
                     ]
                 ]
             },
-            "sentiment": "Positive"
-        }
+            "service": {
+                "ADJ": [
+                    [
+                        [
+                            "great"
+                        ],
+                        "service be great.",
+                        "Positive"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": [
+                    [
+                        [
+                            "phone"
+                        ],
+                        "service be phone.",
+                        "Neutral"
+                    ]
+                ]
+            }
+        },
+        "sentiment": "Neutral"
     },
     "53": {
-        "store": {
-            "data": {
+        "id": 54,
+        "review": "They resolved my issue very quickly and professionally.",
+        "date": "2024-11-10",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1281,13 +1413,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "54": {
-        "store": {
-            "data": {
+        "id": 55,
+        "review": "I love how organized the store is and how fast they attend to customers.",
+        "date": "2024-11-10",
+        "aspect": {
+            "store": {
                 "ADJ": [
                     [
                         [
@@ -1299,13 +1434,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "55": {
-        "store": {
-            "data": {
+        "id": 56,
+        "review": "Highly recommend this store if you\u2019re looking for good deals on phones!",
+        "date": "2024-11-10",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1317,38 +1455,44 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "56": {
-        "staff": {
-            "data": {
+        "id": 57,
+        "review": "I always leave this store feeling like I made the right purchase.",
+        "date": "2024-11-10",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
-                    [
-                        [
-                            "make"
-                        ],
-                        "I made right purchase.",
-                        "Positive"
-                    ],
                     [
                         [
                             "leave"
                         ],
                         "I always leave store.",
                         "Neutral"
+                    ],
+                    [
+                        [
+                            "make"
+                        ],
+                        "I made right purchase.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "57": {
-        "store": {
-            "data": {
+        "id": 58,
+        "review": "I received excellent advice from the sales team, they really know their products.",
+        "date": "2024-11-10",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1368,13 +1512,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "58": {
-        "phone": {
-            "data": {
+        "id": 59,
+        "review": "Very happy with the repair service here, my phone looks brand new!",
+        "date": "2024-11-10",
+        "aspect": {
+            "phone": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1386,13 +1533,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "59": {
-        "staff": {
-            "data": {
+        "id": 60,
+        "review": "I had to wait over an hour to be helped, and the staff wasn\u2019t apologetic at all.",
+        "date": "2024-11-10",
+        "aspect": {
+            "staff": {
                 "ADJ": [
                     [
                         [
@@ -1404,30 +1554,23 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
-    },
-    "60": {},
-    "61": {
-        "selection": {
-            "data": {
-                "ADJ": [
-                    [
-                        [
-                            "limited"
-                        ],
-                        "selection is limited.",
-                        "Negative"
-                    ]
-                ],
-                "VERB": [],
-                "OTHER": []
-            },
-            "sentiment": "Negative"
+            }
         },
-        "price": {
-            "data": {
+        "sentiment": "Neutral"
+    },
+    "60": {
+        "id": 61,
+        "review": "Bought a phone here that stopped working within a week, very disappointing.",
+        "date": "2024-11-10",
+        "aspect": {},
+        "sentiment": "Neutral"
+    },
+    "61": {
+        "id": 62,
+        "review": "Their prices are too high, and the selection is limited.",
+        "date": "2024-11-11",
+        "aspect": {
+            "price": {
                 "ADJ": [
                     [
                         [
@@ -1440,12 +1583,28 @@
                 "VERB": [],
                 "OTHER": []
             },
-            "sentiment": "Positive"
-        }
+            "selection": {
+                "ADJ": [
+                    [
+                        [
+                            "limited"
+                        ],
+                        "selection is limited.",
+                        "Negative"
+                    ]
+                ],
+                "VERB": [],
+                "OTHER": []
+            }
+        },
+        "sentiment": "Negative"
     },
     "62": {
-        "one": {
-            "data": {
+        "id": 63,
+        "review": "Customer service is poor, no one seemed interested in helping me.",
+        "date": "2024-11-11",
+        "aspect": {
+            "one": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1459,10 +1618,7 @@
                 ],
                 "OTHER": []
             },
-            "sentiment": "Negative"
-        },
-        "service": {
-            "data": {
+            "service": {
                 "ADJ": [
                     [
                         [
@@ -1474,13 +1630,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Negative"
-        }
+            }
+        },
+        "sentiment": "Negative"
     },
     "63": {
-        "phone": {
-            "data": {
+        "id": 64,
+        "review": "I had a terrible experience, the phone they sold me was defective.",
+        "date": "2024-11-11",
+        "aspect": {
+            "phone": {
                 "ADJ": [
                     [
                         [
@@ -1492,13 +1651,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "64": {
-        "staff": {
-            "data": {
+        "id": 65,
+        "review": "The staff was rude and unhelpful, I\u2019m never coming back.",
+        "date": "2024-11-11",
+        "aspect": {
+            "staff": {
                 "ADJ": [
                     [
                         [
@@ -1517,15 +1679,25 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Negative"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "65": {
-        "store": {
-            "data": {
+        "id": 66,
+        "review": "They charged me extra for services I didn\u2019t need, felt like a scam.",
+        "date": "2024-11-11",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
+                    [
+                        [
+                            "charge"
+                        ],
+                        "they charged me.",
+                        "Neutral"
+                    ],
                     [
                         [
                             "feel"
@@ -1537,25 +1709,21 @@
                         [
                             "charge"
                         ],
-                        "they charged me.",
-                        "Neutral"
-                    ],
-                    [
-                        [
-                            "charge"
-                        ],
                         "they charged extra for services.",
                         "Neutral"
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "66": {
-        "staff": {
-            "data": {
+        "id": 67,
+        "review": "Phone repairs took way too long, I had to come back multiple times.",
+        "date": "2024-11-12",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1576,13 +1744,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Negative"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "67": {
-        "store": {
-            "data": {
+        "id": 68,
+        "review": "I bought a phone, but they didn\u2019t inform me of all the hidden fees.",
+        "date": "2024-11-12",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1602,10 +1773,7 @@
                 ],
                 "OTHER": []
             },
-            "sentiment": "Negative"
-        },
-        "staff": {
-            "data": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1617,13 +1785,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "68": {
-        "staff": {
-            "data": {
+        "id": 69,
+        "review": "Staff seemed untrained and gave me incorrect information about the phone plan.",
+        "date": "2024-11-12",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1643,10 +1814,7 @@
                 ],
                 "OTHER": []
             },
-            "sentiment": "Neutral"
-        },
-        "phone plan": {
-            "data": {
+            "phone plan": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1658,13 +1826,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "69": {
-        "warranty": {
-            "data": {
+        "id": 70,
+        "review": "Their warranty is useless, they refused to fix my phone under it.",
+        "date": "2024-11-12",
+        "aspect": {
+            "warranty": {
                 "ADJ": [
                     [
                         [
@@ -1676,13 +1847,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Negative"
-        }
+            }
+        },
+        "sentiment": "Negative"
     },
     "70": {
-        "store": {
-            "data": {
+        "id": 71,
+        "review": "I had to return a faulty phone twice before they finally gave me a refund.",
+        "date": "2024-11-13",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1695,10 +1869,7 @@
                 ],
                 "OTHER": []
             },
-            "sentiment": "Neutral"
-        },
-        "staff": {
-            "data": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1711,13 +1882,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "71": {
-        "staff": {
-            "data": {
+        "id": 72,
+        "review": "Very disorganized, I waited forever just to get a simple issue resolved.",
+        "date": "2024-11-13",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1729,14 +1903,23 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
-    "72": {},
+    "72": {
+        "id": 73,
+        "review": "The phone I purchased here was overpriced compared to other stores.",
+        "date": "2024-11-13",
+        "aspect": {},
+        "sentiment": "Positive"
+    },
     "73": {
-        "store": {
-            "data": {
+        "id": 74,
+        "review": "They refused to honor the promotion I came in for, very misleading.",
+        "date": "2024-11-13",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1749,13 +1932,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "74": {
-        "staff": {
-            "data": {
+        "id": 75,
+        "review": "I felt pressured to buy accessories I didn\u2019t need.",
+        "date": "2024-11-13",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1767,13 +1953,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "75": {
-        "repair": {
-            "data": {
+        "id": 76,
+        "review": "The repair was done poorly, and my phone broke again within a week.",
+        "date": "2024-11-13",
+        "aspect": {
+            "repair": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1786,35 +1975,35 @@
                 ],
                 "OTHER": []
             },
-            "sentiment": "Negative"
-        },
-        "phone": {
-            "data": {
+            "phone": {
                 "ADJ": [],
                 "VERB": [
                     [
                         [
                             "break"
                         ],
-                        "phone broke within week.",
+                        "phone broke again.",
                         "Neutral"
                     ],
                     [
                         [
                             "break"
                         ],
-                        "phone broke again.",
+                        "phone broke within week.",
                         "Neutral"
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "76": {
-        "service": {
-            "data": {
+        "id": 77,
+        "review": "Customer service was extremely slow, they need to hire more staff.",
+        "date": "2024-11-13",
+        "aspect": {
+            "service": {
                 "ADJ": [
                     [
                         [
@@ -1826,13 +2015,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Negative"
-        }
+            }
+        },
+        "sentiment": "Negative"
     },
     "77": {
-        "phone": {
-            "data": {
+        "id": 78,
+        "review": "They didn\u2019t even check if my phone was working after the repair.",
+        "date": "2024-11-13",
+        "aspect": {
+            "phone": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1844,13 +2036,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "78": {
-        "same issue": {
-            "data": {
+        "id": 79,
+        "review": "Terrible experience, my phone still has the same issue after getting it 'fixed'.",
+        "date": "2024-11-14",
+        "aspect": {
+            "same issue": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1863,28 +2058,28 @@
                 ],
                 "OTHER": []
             },
-            "sentiment": "Neutral"
+            "phone": {
+                "ADJ": [],
+                "VERB": [
+                    [
+                        [
+                            "have"
+                        ],
+                        "phone still has same issue after getting.",
+                        "Neutral"
+                    ]
+                ],
+                "OTHER": []
+            }
         },
-        "phone": {
-            "data": {
-                "ADJ": [],
-                "VERB": [
-                    [
-                        [
-                            "have"
-                        ],
-                        "phone still has same issue after getting.",
-                        "Neutral"
-                    ]
-                ],
-                "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+        "sentiment": "Neutral"
     },
     "79": {
-        "store": {
-            "data": {
+        "id": 80,
+        "review": "They upsold me on a phone plan I didn\u2019t need, very deceptive.",
+        "date": "2024-11-14",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1903,13 +2098,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "80": {
-        "staff": {
-            "data": {
+        "id": 81,
+        "review": "The staff was unprofessional and seemed like they didn\u2019t want to be there.",
+        "date": "2024-11-14",
+        "aspect": {
+            "staff": {
                 "ADJ": [
                     [
                         [
@@ -1921,13 +2119,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "81": {
-        "policy": {
-            "data": {
+        "id": 82,
+        "review": "Their return policy is awful, I couldn\u2019t exchange my phone despite its defects.",
+        "date": "2024-11-14",
+        "aspect": {
+            "policy": {
                 "ADJ": [
                     [
                         [
@@ -1939,13 +2140,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Negative"
-        }
+            }
+        },
+        "sentiment": "Negative"
     },
     "82": {
-        "store": {
-            "data": {
+        "id": 83,
+        "review": "They didn\u2019t apply the discount I was promised.",
+        "date": "2024-11-14",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -1957,38 +2161,44 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "83": {
-        "store": {
-            "data": {
+        "id": 84,
+        "review": "The store was messy and understaffed.",
+        "date": "2024-11-14",
+        "aspect": {
+            "store": {
                 "ADJ": [
-                    [
-                        [
-                            "messy"
-                        ],
-                        "store was messy.",
-                        "Negative"
-                    ],
                     [
                         [
                             "understaffed"
                         ],
                         "store was understaffed.",
                         "Neutral"
+                    ],
+                    [
+                        [
+                            "messy"
+                        ],
+                        "store was messy.",
+                        "Negative"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Negative"
-        }
+            }
+        },
+        "sentiment": "Negative"
     },
     "84": {
-        "warranty": {
-            "data": {
+        "id": 85,
+        "review": "My phone broke down just after the warranty expired, very frustrating.",
+        "date": "2024-11-14",
+        "aspect": {
+            "warranty": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -2001,10 +2211,7 @@
                 ],
                 "OTHER": []
             },
-            "sentiment": "Neutral"
-        },
-        "phone": {
-            "data": {
+            "phone": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -2016,13 +2223,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "85": {
-        "store": {
-            "data": {
+        "id": 86,
+        "review": "They kept trying to sell me more expensive phones when I clearly stated my budget.",
+        "date": "2024-11-14",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -2035,13 +2245,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "86": {
-        "job": {
-            "data": {
+        "id": 87,
+        "review": "The repair job was incomplete, and they refused to refund me.",
+        "date": "2024-11-15",
+        "aspect": {
+            "job": {
                 "ADJ": [
                     [
                         [
@@ -2053,13 +2266,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "87": {
-        "representative": {
-            "data": {
+        "id": 88,
+        "review": "Their customer service representatives were extremely rude on the phone.",
+        "date": "2024-11-15",
+        "aspect": {
+            "representative": {
                 "ADJ": [
                     [
                         [
@@ -2071,13 +2287,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Negative"
-        }
+            }
+        },
+        "sentiment": "Negative"
     },
     "88": {
-        "staff": {
-            "data": {
+        "id": 89,
+        "review": "I had to call multiple times just to get a response, very unprofessional.",
+        "date": "2024-11-15",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -2090,22 +2309,18 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "89": {
-        "store": {
-            "data": {
+        "id": 90,
+        "review": "They didn\u2019t explain anything clearly and rushed me through the purchase.",
+        "date": "2024-11-15",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
-                    [
-                        [
-                            "rush"
-                        ],
-                        "they rushed me.",
-                        "Neutral"
-                    ],
                     [
                         [
                             "explain"
@@ -2115,10 +2330,10 @@
                     ],
                     [
                         [
-                            "explain"
+                            "rush"
                         ],
-                        "they did not explain clearly.",
-                        "Positive"
+                        "they rushed me.",
+                        "Neutral"
                     ],
                     [
                         [
@@ -2126,16 +2341,26 @@
                         ],
                         "they rushed through purchase.",
                         "Neutral"
+                    ],
+                    [
+                        [
+                            "explain"
+                        ],
+                        "they did not explain clearly.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "90": {
-        "support": {
-            "data": {
+        "id": 91,
+        "review": "I regret buying from here, their post-purchase support is non-existent.",
+        "date": "2024-11-15",
+        "aspect": {
+            "support": {
                 "ADJ": [
                     [
                         [
@@ -2147,13 +2372,16 @@
                 ],
                 "VERB": [],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "91": {
-        "return window": {
-            "data": {
+        "id": 92,
+        "review": "Phone stopped working just outside the return window, terrible quality.",
+        "date": "2024-11-16",
+        "aspect": {
+            "return window": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -2167,10 +2395,7 @@
                 ],
                 "OTHER": []
             },
-            "sentiment": "Neutral"
-        },
-        "phone": {
-            "data": {
+            "phone": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -2190,13 +2415,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "92": {
-        "store": {
-            "data": {
+        "id": 93,
+        "review": "The store was chaotic, with long lines and unhelpful staff.",
+        "date": "2024-11-16",
+        "aspect": {
+            "store": {
                 "ADJ": [
                     [
                         [
@@ -2224,10 +2452,7 @@
                     ]
                 ]
             },
-            "sentiment": "Negative"
-        },
-        "staff": {
-            "data": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [],
                 "OTHER": [
@@ -2240,10 +2465,7 @@
                     ]
                 ]
             },
-            "sentiment": "Neutral"
-        },
-        "long lines": {
-            "data": {
+            "long lines": {
                 "ADJ": [],
                 "VERB": [],
                 "OTHER": [
@@ -2255,13 +2477,16 @@
                         "Negative"
                     ]
                 ]
-            },
-            "sentiment": "Negative"
-        }
+            }
+        },
+        "sentiment": "Negative"
     },
     "93": {
-        "store": {
-            "data": {
+        "id": 94,
+        "review": "They didn\u2019t even have the phone I wanted in stock after promising me it was available.",
+        "date": "2024-11-16",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -2280,13 +2505,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Positive"
-        }
+            }
+        },
+        "sentiment": "Positive"
     },
     "94": {
-        "store": {
-            "data": {
+        "id": 95,
+        "review": "Terrible follow-up, they lost my repair order, and I had to start over.",
+        "date": "2024-11-17",
+        "aspect": {
+            "store": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -2298,13 +2526,16 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
     "95": {
-        "staff": {
-            "data": {
+        "id": 96,
+        "review": "I felt overcharged for a simple screen repair.",
+        "date": "2024-11-17",
+        "aspect": {
+            "staff": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -2316,14 +2547,23 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
-    "96": {},
+    "96": {
+        "id": 97,
+        "review": "Bought a refurbished phone that had several issues they didn\u2019t disclose.",
+        "date": "2024-11-17",
+        "aspect": {},
+        "sentiment": "Neutral"
+    },
     "97": {
-        "technician": {
-            "data": {
+        "id": 98,
+        "review": "The technician damaged my phone during the repair, and they didn\u2019t take responsibility.",
+        "date": "2024-11-17",
+        "aspect": {
+            "technician": {
                 "ADJ": [],
                 "VERB": [
                     [
@@ -2342,9 +2582,15 @@
                     ]
                 ],
                 "OTHER": []
-            },
-            "sentiment": "Neutral"
-        }
+            }
+        },
+        "sentiment": "Neutral"
     },
-    "98": {}
+    "98": {
+        "id": 99,
+        "review": "I\u2019m extremely disappointed, will not be coming back here again.",
+        "date": "2024-11-17",
+        "aspect": {},
+        "sentiment": "Neutral"
+    }
 }

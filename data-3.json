@@ -10,18 +10,26 @@
                         [
                             "helpful"
                         ],
-                        "staff were helpful."
+                        "staff were helpful.",
+                        "Neutral"
                     ],
                     [
                         [
                             "patient"
                         ],
-                        "staff were patient."
+                        "staff were patient.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6150000095367432,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "1": {
@@ -35,18 +43,26 @@
                         [
                             "quick"
                         ],
-                        "process was quick."
+                        "process was quick.",
+                        "Positive"
                     ],
                     [
                         [
                             "smooth"
                         ],
-                        "process was smooth."
+                        "process was smooth.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6103000044822693,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "2": {
@@ -60,7 +76,8 @@
                         [
                             "amazing"
                         ],
-                        "selection is amazing."
+                        "selection is amazing.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
@@ -72,12 +89,19 @@
                         [
                             "competitive"
                         ],
-                        "price are competitive."
+                        "price are competitive.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.7455000281333923,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "3": {
@@ -93,18 +117,26 @@
                             "appreciate",
                             "walk"
                         ],
-                        "I appreciate walked me."
+                        "I appreciate walked me.",
+                        "Neutral"
                     ],
                     [
                         [
                             "appreciate",
                             "walk"
                         ],
-                        "I appreciate walked through setting new device."
+                        "I appreciate walked through setting new device.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7651000022888184,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "4": {
@@ -119,11 +151,18 @@
                         [
                             "answer"
                         ],
-                        "question answered."
+                        "question answered.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.6252999901771545,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "5": {
@@ -139,17 +178,25 @@
                             "resist",
                             "offer"
                         ],
-                        "I could not resist offer amazing deals on phones."
+                        "I could not resist offer amazing deals on phones.",
+                        "Positive"
                     ],
                     [
                         [
                             "resist"
                         ],
-                        "I could not resist upgrading."
+                        "I could not resist upgrading.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.4323999881744385,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "6": {
@@ -164,13 +211,15 @@
                         [
                             "fix"
                         ],
-                        "technician fixed faster."
+                        "technician fixed faster.",
+                        "Positive"
                     ],
                     [
                         [
                             "fix"
                         ],
-                        "technician fixed phones issue."
+                        "technician fixed phones issue.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
@@ -182,11 +231,18 @@
                         [
                             "fix"
                         ],
-                        "technician fixed phones issue."
+                        "technician fixed phones issue.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.7358999848365784,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "7": {
@@ -201,11 +257,18 @@
                         [
                             "know"
                         ],
-                        "experience really know stuff."
+                        "experience really know stuff.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.5684999823570251,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "8": {
@@ -219,19 +282,32 @@
                         [
                             "impressive"
                         ],
-                        "variety was impressive."
+                        "variety was impressive.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7077999711036682,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "9": {
         "id": 10,
         "review": "Upgrading my phone was a breeze thanks to their professional service.",
         "date": "2024-11-01",
-        "aspect": {}
+        "aspect": {},
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.40149998664855957,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
+        }
     },
     "10": {
         "id": 11,
@@ -244,12 +320,19 @@
                         [
                             "knowledgeable"
                         ],
-                        "staff was knowledgeable."
+                        "staff was knowledgeable.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6011000275611877,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "11": {
@@ -263,12 +346,19 @@
                         [
                             "reasonable"
                         ],
-                        "price were reasonable."
+                        "price were reasonable.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.5030999779701233,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "12": {
@@ -283,11 +373,18 @@
                         [
                             "go"
                         ],
-                        "staff really went mile."
+                        "staff really went mile.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6010000109672546,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "13": {
@@ -301,12 +398,19 @@
                         [
                             "excellent"
                         ],
-                        "service be excellent."
+                        "service be excellent.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7067000269889832,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "14": {
@@ -320,7 +424,8 @@
                         [
                             "friendly"
                         ],
-                        "deal was friendly."
+                        "deal was friendly.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
@@ -332,12 +437,19 @@
                         [
                             "friendly"
                         ],
-                        "staff was friendly."
+                        "staff was friendly.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7020000219345093,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "15": {
@@ -353,7 +465,8 @@
                         [
                             "experience"
                         ],
-                        "buying be experience."
+                        "buying be experience.",
+                        "Neutral"
                     ]
                 ]
             },
@@ -365,10 +478,17 @@
                         [
                             "experience"
                         ],
-                        "fixing be experience."
+                        "fixing be experience.",
+                        "Neutral"
                     ]
                 ]
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.7172999978065491,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "16": {
@@ -383,11 +503,18 @@
                         [
                             "get"
                         ],
-                        "I got good deal on old phone."
+                        "I got good deal on old phone.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.5996000170707703,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "17": {
@@ -401,18 +528,26 @@
                         [
                             "quick"
                         ],
-                        "service are quick."
+                        "service are quick.",
+                        "Positive"
                     ],
                     [
                         [
                             "reliable"
                         ],
-                        "service are reliable."
+                        "service are reliable.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.5436999797821045,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "18": {
@@ -426,7 +561,8 @@
                         [
                             "helpful"
                         ],
-                        "staff was helpful in setting phone."
+                        "staff was helpful in setting phone.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
@@ -438,12 +574,19 @@
                         [
                             "helpful"
                         ],
-                        "staff was helpful in setting phone."
+                        "staff was helpful in setting phone.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.4796999990940094,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "19": {
@@ -458,11 +601,18 @@
                         [
                             "m"
                         ],
-                        "I m satisfied."
+                        "I m satisfied.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.5587000250816345,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "20": {
@@ -476,7 +626,8 @@
                         [
                             "patient"
                         ],
-                        "staff was patient with questions."
+                        "staff was patient with questions.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
@@ -488,12 +639,19 @@
                         [
                             "patient"
                         ],
-                        "variety was patient with questions."
+                        "variety was patient with questions.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.534600019454956,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "21": {
@@ -507,12 +665,19 @@
                         [
                             "simple"
                         ],
-                        "process was simple."
+                        "process was simple.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6927000284194946,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "22": {
@@ -528,18 +693,26 @@
                             "help",
                             "choose"
                         ],
-                        "they helped choose within budget."
+                        "they helped choose within budget.",
+                        "Neutral"
                     ],
                     [
                         [
                             "help",
                             "choose"
                         ],
-                        "they helped choose phone."
+                        "they helped choose phone.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.5077000260353088,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "23": {
@@ -554,11 +727,18 @@
                         [
                             "fix"
                         ],
-                        "phone was fixed in minutes."
+                        "phone was fixed in minutes.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.7124999761581421,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "24": {
@@ -572,12 +752,19 @@
                         [
                             "outstanding"
                         ],
-                        "service is outstanding."
+                        "service is outstanding.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.49230000376701355,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "25": {
@@ -592,11 +779,18 @@
                         [
                             "hand"
                         ],
-                        "store hands."
+                        "store hands.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.6021999716758728,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "26": {
@@ -611,11 +805,18 @@
                         [
                             "make"
                         ],
-                        "staff made."
+                        "staff made.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.6974999904632568,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "27": {
@@ -631,7 +832,8 @@
                             "find",
                             "need"
                         ],
-                        "I found needed what."
+                        "I found needed what.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
@@ -644,11 +846,18 @@
                             "help",
                             "get"
                         ],
-                        "they helped get great deal."
+                        "they helped get great deal.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.7093999981880188,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "28": {
@@ -663,7 +872,8 @@
                         [
                             "have"
                         ],
-                        "store has fantastic warranty service."
+                        "store has fantastic warranty service.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
@@ -675,11 +885,18 @@
                         [
                             "have"
                         ],
-                        "store has fantastic warranty service."
+                        "store has fantastic warranty service.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7488999962806702,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "29": {
@@ -693,12 +910,19 @@
                         [
                             "informative"
                         ],
-                        "staff was informative."
+                        "staff was informative.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.6934000253677368,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "30": {
@@ -712,7 +936,8 @@
                         [
                             "excellent"
                         ],
-                        "variety be excellent."
+                        "variety be excellent.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
@@ -724,19 +949,32 @@
                         [
                             "excellent"
                         ],
-                        "store be excellent."
+                        "store be excellent.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7236999869346619,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "31": {
         "id": 32,
         "review": "The phone I bought here is working perfectly, couldn\u2019t be happier.",
         "date": "2024-11-04",
-        "aspect": {}
+        "aspect": {},
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.40149998664855957,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
+        }
     },
     "32": {
         "id": 33,
@@ -749,19 +987,32 @@
                         [
                             "quick"
                         ],
-                        "they were quick in setting phone."
+                        "they were quick in setting phone.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.6705999970436096,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "33": {
         "id": 34,
         "review": "Always come here for upgrades, they never disappoint!",
         "date": "2024-11-04",
-        "aspect": {}
+        "aspect": {},
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.40149998664855957,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
+        }
     },
     "34": {
         "id": 35,
@@ -774,7 +1025,8 @@
                         [
                             "easy"
                         ],
-                        "layout is easy."
+                        "layout is easy.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
@@ -786,12 +1038,19 @@
                         [
                             "ready"
                         ],
-                        "staff are ready."
+                        "staff are ready.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7512000203132629,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "35": {
@@ -807,11 +1066,18 @@
                             "help",
                             "save"
                         ],
-                        "they helped save lot."
+                        "they helped save lot.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7348999977111816,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "36": {
@@ -826,7 +1092,8 @@
                         [
                             "provide"
                         ],
-                        "one provides best service."
+                        "one provides best service.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
@@ -838,11 +1105,18 @@
                         [
                             "provide"
                         ],
-                        "one provides best service."
+                        "one provides best service.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7523000240325928,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "37": {
@@ -856,7 +1130,8 @@
                         [
                             "notch"
                         ],
-                        "service is notch."
+                        "service is notch.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
@@ -865,10 +1140,17 @@
                         [
                             "notch"
                         ],
-                        "service is notch."
+                        "service is notch.",
+                        "Neutral"
                     ]
                 ]
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7006000280380249,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "38": {
@@ -884,25 +1166,34 @@
                             "fail",
                             "recommend"
                         ],
-                        "they not fail recommend to family."
+                        "they not fail recommend to family.",
+                        "Positive"
                     ],
                     [
                         [
                             "fail",
                             "recommend"
                         ],
-                        "they not fail recommend store."
+                        "they not fail recommend store.",
+                        "Positive"
                     ],
                     [
                         [
                             "fail",
                             "recommend"
                         ],
-                        "they not fail recommend to friends."
+                        "they not fail recommend to friends.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.7024999856948853,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "39": {
@@ -917,7 +1208,8 @@
                         [
                             "take"
                         ],
-                        "staff took time."
+                        "staff took time.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
@@ -929,11 +1221,18 @@
                         [
                             "take"
                         ],
-                        "staff took time."
+                        "staff took time.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.5236999988555908,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "40": {
@@ -947,12 +1246,19 @@
                         [
                             "amazing"
                         ],
-                        "place be amazing."
+                        "place be amazing.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6916000247001648,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "41": {
@@ -966,12 +1272,19 @@
                         [
                             "worth"
                         ],
-                        "plan is worth."
+                        "plan is worth.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.6154999732971191,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "42": {
@@ -985,7 +1298,8 @@
                         [
                             "able"
                         ],
-                        "they were able."
+                        "they were able.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
@@ -999,18 +1313,31 @@
                             "appreciate",
                             "be"
                         ],
-                        "I appreciate were able."
+                        "I appreciate were able.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.6980999708175659,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "43": {
         "id": 44,
         "review": "Got a great deal on my new phone and an awesome case as well!",
         "date": "2024-11-07",
-        "aspect": {}
+        "aspect": {},
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.40149998664855957,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
+        }
     },
     "44": {
         "id": 45,
@@ -1023,12 +1350,19 @@
                         [
                             "accommodating"
                         ],
-                        "staff was accommodating."
+                        "staff was accommodating.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.6934000253677368,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "45": {
@@ -1043,11 +1377,18 @@
                         [
                             "have"
                         ],
-                        "I had great experience with program."
+                        "I had great experience with program.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.723800003528595,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "46": {
@@ -1061,18 +1402,26 @@
                         [
                             "quick"
                         ],
-                        "service was quick."
+                        "service was quick.",
+                        "Positive"
                     ],
                     [
                         [
                             "efficient"
                         ],
-                        "service was efficient."
+                        "service was efficient.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7379000186920166,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "47": {
@@ -1088,25 +1437,34 @@
                             "help",
                             "transfer"
                         ],
-                        "they even helped transfer contacts."
+                        "they even helped transfer contacts.",
+                        "Neutral"
                     ],
                     [
                         [
                             "help",
                             "transfer"
                         ],
-                        "they even helped transfer without extra charge."
+                        "they even helped transfer without extra charge.",
+                        "Neutral"
                     ],
                     [
                         [
                             "help",
                             "transfer"
                         ],
-                        "they even helped transfer data."
+                        "they even helped transfer data.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7339000105857849,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "48": {
@@ -1121,11 +1479,18 @@
                         [
                             "work"
                         ],
-                        "phone has working flawlessly."
+                        "phone has working flawlessly.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.680400013923645,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "49": {
@@ -1140,23 +1505,32 @@
                         [
                             "give"
                         ],
-                        "they even gave discount on repair."
+                        "they even gave discount on repair.",
+                        "Neutral"
                     ],
                     [
                         [
                             "fix"
                         ],
-                        "they fixed perfectly."
+                        "they fixed perfectly.",
+                        "Positive"
                     ],
                     [
                         [
                             "fix"
                         ],
-                        "they fixed screen."
+                        "they fixed screen.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6729000210762024,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "50": {
@@ -1170,12 +1544,19 @@
                         [
                             "reliable"
                         ],
-                        "this is reliable."
+                        "this is reliable.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.5602999925613403,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "51": {
@@ -1190,17 +1571,25 @@
                         [
                             "offer"
                         ],
-                        "they offer fantastic promotions."
+                        "they offer fantastic promotions.",
+                        "Positive"
                     ],
                     [
                         [
                             "offer"
                         ],
-                        "they offer discounts."
+                        "they offer discounts.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7225000262260437,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "52": {
@@ -1214,7 +1603,8 @@
                         [
                             "great"
                         ],
-                        "selection be great."
+                        "selection be great.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
@@ -1223,7 +1613,8 @@
                         [
                             "phone"
                         ],
-                        "selection be phone."
+                        "selection be phone.",
+                        "Neutral"
                     ]
                 ]
             },
@@ -1233,7 +1624,8 @@
                         [
                             "great"
                         ],
-                        "service be great."
+                        "service be great.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
@@ -1242,10 +1634,17 @@
                         [
                             "phone"
                         ],
-                        "service be phone."
+                        "service be phone.",
+                        "Neutral"
                     ]
                 ]
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6230999827384949,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "53": {
@@ -1260,23 +1659,32 @@
                         [
                             "resolve"
                         ],
-                        "they resolved professionally."
+                        "they resolved professionally.",
+                        "Positive"
                     ],
                     [
                         [
                             "resolve"
                         ],
-                        "they resolved very quickly."
+                        "they resolved very quickly.",
+                        "Positive"
                     ],
                     [
                         [
                             "resolve"
                         ],
-                        "they resolved issue."
+                        "they resolved issue.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.5146999955177307,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "54": {
@@ -1290,12 +1698,19 @@
                         [
                             "organize"
                         ],
-                        "store is organized."
+                        "store is organized.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.6948999762535095,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "55": {
@@ -1310,11 +1725,18 @@
                         [
                             "look"
                         ],
-                        "you re looking for good deals."
+                        "you re looking for good deals.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7299000024795532,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "56": {
@@ -1329,17 +1751,25 @@
                         [
                             "leave"
                         ],
-                        "I always leave store."
+                        "I always leave store.",
+                        "Neutral"
                     ],
                     [
                         [
                             "make"
                         ],
-                        "I made right purchase."
+                        "I made right purchase.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7670999765396118,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "57": {
@@ -1355,17 +1785,25 @@
                             "know",
                             "receive"
                         ],
-                        "they really know received excellent advice from sales team."
+                        "they really know received excellent advice from sales team.",
+                        "Positive"
                     ],
                     [
                         [
                             "know"
                         ],
-                        "they really know products."
+                        "they really know products.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.652999997138977,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "58": {
@@ -1380,11 +1818,18 @@
                         [
                             "look"
                         ],
-                        "phone looks new."
+                        "phone looks new.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.682699978351593,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "59": {
@@ -1398,19 +1843,32 @@
                         [
                             "apologetic"
                         ],
-                        "staff was not apologetic."
+                        "staff was not apologetic.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.49410000443458557,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "60": {
         "id": 61,
         "review": "Bought a phone here that stopped working within a week, very disappointing.",
         "date": "2024-11-10",
-        "aspect": {}
+        "aspect": {},
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.40149998664855957,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
+        }
     },
     "61": {
         "id": 62,
@@ -1423,7 +1881,8 @@
                         [
                             "high"
                         ],
-                        "price are high."
+                        "price are high.",
+                        "Positive"
                     ]
                 ],
                 "VERB": [],
@@ -1435,12 +1894,19 @@
                         [
                             "limited"
                         ],
-                        "selection is limited."
+                        "selection is limited.",
+                        "Negative"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Negative",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.7444000244140625,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "62": {
@@ -1456,7 +1922,8 @@
                             "seem",
                             "be"
                         ],
-                        "one seemed is poor."
+                        "one seemed is poor.",
+                        "Negative"
                     ]
                 ],
                 "OTHER": []
@@ -1467,12 +1934,19 @@
                         [
                             "poor"
                         ],
-                        "service is poor."
+                        "service is poor.",
+                        "Negative"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Negative",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7172999978065491,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "63": {
@@ -1486,12 +1960,19 @@
                         [
                             "defective"
                         ],
-                        "phone was defective."
+                        "phone was defective.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6730999946594238,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "64": {
@@ -1505,18 +1986,26 @@
                         [
                             "rude"
                         ],
-                        "staff was rude."
+                        "staff was rude.",
+                        "Negative"
                     ],
                     [
                         [
                             "unhelpful"
                         ],
-                        "staff was unhelpful."
+                        "staff was unhelpful.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7110999822616577,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "65": {
@@ -1531,23 +2020,32 @@
                         [
                             "charge"
                         ],
-                        "they charged me."
+                        "they charged me.",
+                        "Neutral"
                     ],
                     [
                         [
                             "feel"
                         ],
-                        "they felt like scam."
+                        "they felt like scam.",
+                        "Neutral"
                     ],
                     [
                         [
                             "charge"
                         ],
-                        "they charged extra for services."
+                        "they charged extra for services.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6116999983787537,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "66": {
@@ -1563,18 +2061,26 @@
                             "have",
                             "take"
                         ],
-                        "I had took too long."
+                        "I had took too long.",
+                        "Negative"
                     ],
                     [
                         [
                             "have",
                             "take"
                         ],
-                        "I had took way."
+                        "I had took way.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7039999961853027,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "67": {
@@ -1589,13 +2095,15 @@
                         [
                             "inform"
                         ],
-                        "they did not inform me."
+                        "they did not inform me.",
+                        "Neutral"
                     ],
                     [
                         [
                             "inform"
                         ],
-                        "they did not inform of hidden fees."
+                        "they did not inform of hidden fees.",
+                        "Negative"
                     ]
                 ],
                 "OTHER": []
@@ -1607,11 +2115,18 @@
                         [
                             "buy"
                         ],
-                        "I bought phone."
+                        "I bought phone.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.6541000008583069,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "68": {
@@ -1626,13 +2141,15 @@
                         [
                             "seem"
                         ],
-                        "staff seemed."
+                        "staff seemed.",
+                        "Neutral"
                     ],
                     [
                         [
                             "give"
                         ],
-                        "staff gave incorrect information about phone plan."
+                        "staff gave incorrect information about phone plan.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
@@ -1644,11 +2161,18 @@
                         [
                             "give"
                         ],
-                        "staff gave incorrect information about phone plan."
+                        "staff gave incorrect information about phone plan.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7663000226020813,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "69": {
@@ -1662,12 +2186,19 @@
                         [
                             "useless"
                         ],
-                        "warranty is useless."
+                        "warranty is useless.",
+                        "Negative"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Negative",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7002999782562256,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "70": {
@@ -1682,7 +2213,8 @@
                         [
                             "give"
                         ],
-                        "they twice gave refund."
+                        "they twice gave refund.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
@@ -1695,11 +2227,18 @@
                             "have",
                             "return"
                         ],
-                        "I had to return faulty phone."
+                        "I had to return faulty phone.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7469000220298767,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "71": {
@@ -1714,18 +2253,31 @@
                         [
                             "wait"
                         ],
-                        "I very disorganized waited forever."
+                        "I very disorganized waited forever.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.6575999855995178,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "72": {
         "id": 73,
         "review": "The phone I purchased here was overpriced compared to other stores.",
         "date": "2024-11-13",
-        "aspect": {}
+        "aspect": {},
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.40149998664855957,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
+        }
     },
     "73": {
         "id": 74,
@@ -1740,11 +2292,18 @@
                             "refuse",
                             "honor"
                         ],
-                        "they refused to honor promotion."
+                        "they refused to honor promotion.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.738099992275238,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "74": {
@@ -1759,11 +2318,18 @@
                         [
                             "feel"
                         ],
-                        "I felt pressured."
+                        "I felt pressured.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.6230999827384949,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "75": {
@@ -1778,7 +2344,8 @@
                         [
                             "do"
                         ],
-                        "repair was done poorly."
+                        "repair was done poorly.",
+                        "Negative"
                     ]
                 ],
                 "OTHER": []
@@ -1790,17 +2357,25 @@
                         [
                             "break"
                         ],
-                        "phone broke again."
+                        "phone broke again.",
+                        "Neutral"
                     ],
                     [
                         [
                             "break"
                         ],
-                        "phone broke within week."
+                        "phone broke within week.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.7335000038146973,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "76": {
@@ -1814,12 +2389,19 @@
                         [
                             "slow"
                         ],
-                        "service was slow."
+                        "service was slow.",
+                        "Negative"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Negative",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.49219998717308044,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "77": {
@@ -1834,11 +2416,18 @@
                         [
                             "work"
                         ],
-                        "phone was working after repair."
+                        "phone was working after repair.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.7178999781608582,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "78": {
@@ -1853,7 +2442,8 @@
                         [
                             "have"
                         ],
-                        "phone still has same issue after getting."
+                        "phone still has same issue after getting.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
@@ -1865,11 +2455,18 @@
                         [
                             "have"
                         ],
-                        "phone still has same issue after getting."
+                        "phone still has same issue after getting.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.7168999910354614,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "79": {
@@ -1884,17 +2481,25 @@
                         [
                             "upsold"
                         ],
-                        "they upsold on phone plan."
+                        "they upsold on phone plan.",
+                        "Neutral"
                     ],
                     [
                         [
                             "upsold"
                         ],
-                        "they upsold me."
+                        "they upsold me.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.571399986743927,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "80": {
@@ -1908,12 +2513,19 @@
                         [
                             "unprofessional"
                         ],
-                        "staff was unprofessional."
+                        "staff was unprofessional.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.49399998784065247,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "81": {
@@ -1927,12 +2539,19 @@
                         [
                             "awful"
                         ],
-                        "policy is awful."
+                        "policy is awful.",
+                        "Negative"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Negative",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7081999778747559,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "82": {
@@ -1947,11 +2566,18 @@
                         [
                             "apply"
                         ],
-                        "they did not apply discount."
+                        "they did not apply discount.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6834999918937683,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "83": {
@@ -1965,18 +2591,26 @@
                         [
                             "understaffed"
                         ],
-                        "store was understaffed."
+                        "store was understaffed.",
+                        "Neutral"
                     ],
                     [
                         [
                             "messy"
                         ],
-                        "store was messy."
+                        "store was messy.",
+                        "Negative"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Negative",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.6488999724388123,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "84": {
@@ -1991,7 +2625,8 @@
                         [
                             "expire"
                         ],
-                        "warranty just expired."
+                        "warranty just expired.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
@@ -2003,11 +2638,18 @@
                         [
                             "break"
                         ],
-                        "phone broke."
+                        "phone broke.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6876999735832214,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "85": {
@@ -2023,11 +2665,18 @@
                             "keep",
                             "try"
                         ],
-                        "they kept trying."
+                        "they kept trying.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.7081999778747559,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "86": {
@@ -2041,12 +2690,19 @@
                         [
                             "incomplete"
                         ],
-                        "job was incomplete."
+                        "job was incomplete.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6915000081062317,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "87": {
@@ -2060,12 +2716,19 @@
                         [
                             "rude"
                         ],
-                        "representative were rude on phone."
+                        "representative were rude on phone.",
+                        "Negative"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Negative",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6869000196456909,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "88": {
@@ -2081,11 +2744,18 @@
                             "have",
                             "call"
                         ],
-                        "I had to call multiple times."
+                        "I had to call multiple times.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.722000002861023,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "89": {
@@ -2100,29 +2770,39 @@
                         [
                             "explain"
                         ],
-                        "they did not explain anything."
+                        "they did not explain anything.",
+                        "Neutral"
                     ],
                     [
                         [
                             "rush"
                         ],
-                        "they rushed me."
+                        "they rushed me.",
+                        "Neutral"
                     ],
                     [
                         [
                             "rush"
                         ],
-                        "they rushed through purchase."
+                        "they rushed through purchase.",
+                        "Neutral"
                     ],
                     [
                         [
                             "explain"
                         ],
-                        "they did not explain clearly."
+                        "they did not explain clearly.",
+                        "Positive"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6952999830245972,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "90": {
@@ -2136,12 +2816,19 @@
                         [
                             "non"
                         ],
-                        "support is non."
+                        "support is non.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6915000081062317,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "91": {
@@ -2157,7 +2844,8 @@
                             "stop",
                             "work"
                         ],
-                        "phone stopped working outside return window."
+                        "phone stopped working outside return window.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
@@ -2170,17 +2858,25 @@
                             "stop",
                             "work"
                         ],
-                        "phone stopped working outside return window."
+                        "phone stopped working outside return window.",
+                        "Neutral"
                     ],
                     [
                         [
                             "stop"
                         ],
-                        "phone stopped quality."
+                        "phone stopped quality.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.633899986743927,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
         }
     },
     "92": {
@@ -2194,7 +2890,8 @@
                         [
                             "chaotic"
                         ],
-                        "store was chaotic."
+                        "store was chaotic.",
+                        "Neutral"
                     ]
                 ],
                 "VERB": [],
@@ -2203,13 +2900,15 @@
                         [
                             "staff"
                         ],
-                        "store was with unhelpful staff."
+                        "store was with unhelpful staff.",
+                        "Neutral"
                     ],
                     [
                         [
                             "lines"
                         ],
-                        "store was with long lines."
+                        "store was with long lines.",
+                        "Negative"
                     ]
                 ]
             },
@@ -2221,7 +2920,8 @@
                         [
                             "staff"
                         ],
-                        "store was with unhelpful staff."
+                        "store was with unhelpful staff.",
+                        "Neutral"
                     ]
                 ]
             },
@@ -2233,10 +2933,17 @@
                         [
                             "lines"
                         ],
-                        "store was with long lines."
+                        "store was with long lines.",
+                        "Negative"
                     ]
                 ]
             }
+        },
+        "sentiment": "Negative",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.6322000026702881,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "93": {
@@ -2251,17 +2958,25 @@
                         [
                             "have"
                         ],
-                        "they did not even have after promising me."
+                        "they did not even have after promising me.",
+                        "Positive"
                     ],
                     [
                         [
                             "have"
                         ],
-                        "they did not even have phone."
+                        "they did not even have phone.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Positive",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.6729999780654907,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "94": {
@@ -2276,11 +2991,18 @@
                         [
                             "lose"
                         ],
-                        "they lost repair order."
+                        "they lost repair order.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.7215999960899353,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "95": {
@@ -2295,18 +3017,31 @@
                         [
                             "feel"
                         ],
-                        "I felt overcharged."
+                        "I felt overcharged.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 1,
+            "topic_contribution": 0.6230999827384949,
+            "term": "store, reliable, feel, question, satisfied, resolve, plan, upsold, unprofessional, apologetic, slow, outstanding, hand, pressured, overcharge, worth, reasonable, answer, inform, choose"
         }
     },
     "96": {
         "id": 97,
         "review": "Bought a refurbished phone that had several issues they didn\u2019t disclose.",
         "date": "2024-11-17",
-        "aspect": {}
+        "aspect": {},
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.40149998664855957,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
+        }
     },
     "97": {
         "id": 98,
@@ -2320,23 +3055,37 @@
                         [
                             "damage"
                         ],
-                        "technician damaged during repair."
+                        "technician damaged during repair.",
+                        "Neutral"
                     ],
                     [
                         [
                             "damage"
                         ],
-                        "technician damaged phone."
+                        "technician damaged phone.",
+                        "Neutral"
                     ]
                 ],
                 "OTHER": []
             }
+        },
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 3,
+            "topic_contribution": 0.7235999703407288,
+            "term": "phone, fix, work, repair, experience, get, great, selection, process, break, technician, amazing, issue, helpful, price, staff, time, discount, defective, promise"
         }
     },
     "98": {
         "id": 99,
         "review": "I\u2019m extremely disappointed, will not be coming back here again.",
         "date": "2024-11-17",
-        "aspect": {}
+        "aspect": {},
+        "sentiment": "Neutral",
+        "topic": {
+            "topic_dominant": 2,
+            "topic_contribution": 0.40149998664855957,
+            "term": "staff, service, excellent, quick, take, store, good, set, make, look, help, variety, warranty, give, deal, wait, offer, new, appreciate, friendly"
+        }
     }
 }
