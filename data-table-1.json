@@ -5,7 +5,8 @@
         "date": "2024-11-01",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.6150000095367432
+        "topic_contribution": 0.6150000095367432,
+        "aspect_based_sentiment": "\u25cf staff - helpful : Neutral\n\u25cf staff - patient : Neutral\n"
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "date": "2024-11-01",
         "sentiment": "Positive",
         "topic_dominant": 3,
-        "topic_contribution": 0.6103000044822693
+        "topic_contribution": 0.6103000044822693,
+        "aspect_based_sentiment": "\u25cf process - quick : Positive\n\u25cf process - smooth : Positive\n"
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "date": "2024-11-01",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.7455000281333923
+        "topic_contribution": 0.7455000281333923,
+        "aspect_based_sentiment": "\u25cf price - competitive : Neutral\n"
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "date": "2024-11-01",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.7651000022888184
+        "topic_contribution": 0.7651000022888184,
+        "aspect_based_sentiment": "\u25cf staff - appreciate, walk : Neutral\n\u25cf staff - appreciate, walk : Positive\n"
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "date": "2024-11-01",
         "sentiment": "Neutral",
         "topic_dominant": 1,
-        "topic_contribution": 0.6252999901771545
+        "topic_contribution": 0.6252999901771545,
+        "aspect_based_sentiment": "\u25cf question - answer : Neutral\n"
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "date": "2024-11-01",
         "sentiment": "Positive",
         "topic_dominant": 1,
-        "topic_contribution": 0.4323999881744385
+        "topic_contribution": 0.4323999881744385,
+        "aspect_based_sentiment": "\u25cf staff - resist, offer : Positive\n\u25cf staff - resist : Neutral\n"
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "date": "2024-11-01",
         "sentiment": "Positive",
         "topic_dominant": 3,
-        "topic_contribution": 0.7358999848365784
+        "topic_contribution": 0.7358999848365784,
+        "aspect_based_sentiment": "\u25cf phones issue - fix : Positive\n"
     },
     {
         "id": 8,
@@ -61,7 +68,8 @@
         "date": "2024-11-01",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.5684999823570251
+        "topic_contribution": 0.5684999823570251,
+        "aspect_based_sentiment": "\u25cf experience - know : Positive\n"
     },
     {
         "id": 9,
@@ -69,7 +77,8 @@
         "date": "2024-11-01",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.7077999711036682
+        "topic_contribution": 0.7077999711036682,
+        "aspect_based_sentiment": "\u25cf variety - impressive : Positive\n"
     },
     {
         "id": 10,
@@ -77,7 +86,8 @@
         "date": "2024-11-01",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.40149998664855957
+        "topic_contribution": 0.40149998664855957,
+        "aspect_based_sentiment": "\u25cf variety - impressive : Positive\n"
     },
     {
         "id": 11,
@@ -85,7 +95,8 @@
         "date": "2024-11-01",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.6011000275611877
+        "topic_contribution": 0.6011000275611877,
+        "aspect_based_sentiment": "\u25cf staff - knowledgeable : Neutral\n"
     },
     {
         "id": 12,
@@ -93,7 +104,8 @@
         "date": "2024-11-01",
         "sentiment": "Positive",
         "topic_dominant": 1,
-        "topic_contribution": 0.5030999779701233
+        "topic_contribution": 0.5030999779701233,
+        "aspect_based_sentiment": "\u25cf price - reasonable : Positive\n"
     },
     {
         "id": 13,
@@ -101,7 +113,8 @@
         "date": "2024-11-01",
         "sentiment": "Positive",
         "topic_dominant": 3,
-        "topic_contribution": 0.6010000109672546
+        "topic_contribution": 0.6010000109672546,
+        "aspect_based_sentiment": "\u25cf staff - go : Positive\n"
     },
     {
         "id": 14,
@@ -109,7 +122,8 @@
         "date": "2024-11-01",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.7067000269889832
+        "topic_contribution": 0.7067000269889832,
+        "aspect_based_sentiment": "\u25cf service - excellent : Positive\n"
     },
     {
         "id": 15,
@@ -117,7 +131,8 @@
         "date": "2024-11-01",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.7020000219345093
+        "topic_contribution": 0.7020000219345093,
+        "aspect_based_sentiment": "\u25cf staff - friendly : Positive\n"
     },
     {
         "id": 16,
@@ -125,7 +140,8 @@
         "date": "2024-11-02",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.7172999978065491
+        "topic_contribution": 0.7172999978065491,
+        "aspect_based_sentiment": "\u25cf fixing - experience : Neutral\n"
     },
     {
         "id": 17,
@@ -133,7 +149,8 @@
         "date": "2024-11-02",
         "sentiment": "Positive",
         "topic_dominant": 3,
-        "topic_contribution": 0.5996000170707703
+        "topic_contribution": 0.5996000170707703,
+        "aspect_based_sentiment": "\u25cf staff - get : Positive\n"
     },
     {
         "id": 18,
@@ -141,7 +158,8 @@
         "date": "2024-11-02",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.5436999797821045
+        "topic_contribution": 0.5436999797821045,
+        "aspect_based_sentiment": "\u25cf service - quick : Positive\n\u25cf service - reliable : Neutral\n"
     },
     {
         "id": 19,
@@ -149,7 +167,8 @@
         "date": "2024-11-02",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.4796999990940094
+        "topic_contribution": 0.4796999990940094,
+        "aspect_based_sentiment": "\u25cf staff - helpful : Neutral\n"
     },
     {
         "id": 20,
@@ -157,7 +176,8 @@
         "date": "2024-11-02",
         "sentiment": "Positive",
         "topic_dominant": 1,
-        "topic_contribution": 0.5587000250816345
+        "topic_contribution": 0.5587000250816345,
+        "aspect_based_sentiment": "\u25cf staff - m : Positive\n"
     },
     {
         "id": 21,
@@ -165,7 +185,8 @@
         "date": "2024-11-03",
         "sentiment": "Neutral",
         "topic_dominant": 1,
-        "topic_contribution": 0.534600019454956
+        "topic_contribution": 0.534600019454956,
+        "aspect_based_sentiment": "\u25cf variety - patient : Neutral\n"
     },
     {
         "id": 22,
@@ -173,7 +194,8 @@
         "date": "2024-11-03",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.6927000284194946
+        "topic_contribution": 0.6927000284194946,
+        "aspect_based_sentiment": "\u25cf process - simple : Neutral\n"
     },
     {
         "id": 23,
@@ -181,7 +203,8 @@
         "date": "2024-11-03",
         "sentiment": "Neutral",
         "topic_dominant": 1,
-        "topic_contribution": 0.5077000260353088
+        "topic_contribution": 0.5077000260353088,
+        "aspect_based_sentiment": "\u25cf store - help, choose : Neutral\n\u25cf store - help, choose : Neutral\n"
     },
     {
         "id": 24,
@@ -189,7 +212,8 @@
         "date": "2024-11-03",
         "sentiment": "Positive",
         "topic_dominant": 3,
-        "topic_contribution": 0.7124999761581421
+        "topic_contribution": 0.7124999761581421,
+        "aspect_based_sentiment": "\u25cf phone - fix : Positive\n"
     },
     {
         "id": 25,
@@ -197,7 +221,8 @@
         "date": "2024-11-03",
         "sentiment": "Positive",
         "topic_dominant": 1,
-        "topic_contribution": 0.49230000376701355
+        "topic_contribution": 0.49230000376701355,
+        "aspect_based_sentiment": "\u25cf service - outstanding : Positive\n"
     },
     {
         "id": 26,
@@ -205,7 +230,8 @@
         "date": "2024-11-04",
         "sentiment": "Neutral",
         "topic_dominant": 1,
-        "topic_contribution": 0.6021999716758728
+        "topic_contribution": 0.6021999716758728,
+        "aspect_based_sentiment": "\u25cf store - hand : Neutral\n"
     },
     {
         "id": 27,
@@ -213,7 +239,8 @@
         "date": "2024-11-04",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.6974999904632568
+        "topic_contribution": 0.6974999904632568,
+        "aspect_based_sentiment": "\u25cf staff - make : Neutral\n"
     },
     {
         "id": 28,
@@ -221,7 +248,8 @@
         "date": "2024-11-04",
         "sentiment": "Positive",
         "topic_dominant": 3,
-        "topic_contribution": 0.7093999981880188
+        "topic_contribution": 0.7093999981880188,
+        "aspect_based_sentiment": "\u25cf store - help, get : Positive\n"
     },
     {
         "id": 29,
@@ -229,7 +257,8 @@
         "date": "2024-11-04",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.7488999962806702
+        "topic_contribution": 0.7488999962806702,
+        "aspect_based_sentiment": "\u25cf store - have : Positive\n"
     },
     {
         "id": 30,
@@ -237,7 +266,8 @@
         "date": "2024-11-04",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.6934000253677368
+        "topic_contribution": 0.6934000253677368,
+        "aspect_based_sentiment": "\u25cf staff - informative : Neutral\n"
     },
     {
         "id": 31,
@@ -245,7 +275,8 @@
         "date": "2024-11-04",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.7236999869346619
+        "topic_contribution": 0.7236999869346619,
+        "aspect_based_sentiment": "\u25cf store - excellent : Positive\n"
     },
     {
         "id": 32,
@@ -253,7 +284,8 @@
         "date": "2024-11-04",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.40149998664855957
+        "topic_contribution": 0.40149998664855957,
+        "aspect_based_sentiment": "\u25cf store - excellent : Positive\n"
     },
     {
         "id": 33,
@@ -261,7 +293,8 @@
         "date": "2024-11-04",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.6705999970436096
+        "topic_contribution": 0.6705999970436096,
+        "aspect_based_sentiment": "\u25cf store - quick : Positive\n"
     },
     {
         "id": 34,
@@ -269,7 +302,8 @@
         "date": "2024-11-04",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.40149998664855957
+        "topic_contribution": 0.40149998664855957,
+        "aspect_based_sentiment": "\u25cf store - quick : Positive\n"
     },
     {
         "id": 35,
@@ -277,7 +311,8 @@
         "date": "2024-11-05",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.7512000203132629
+        "topic_contribution": 0.7512000203132629,
+        "aspect_based_sentiment": "\u25cf staff - ready : Positive\n"
     },
     {
         "id": 36,
@@ -285,7 +320,8 @@
         "date": "2024-11-05",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.7348999977111816
+        "topic_contribution": 0.7348999977111816,
+        "aspect_based_sentiment": "\u25cf store - help, save : Neutral\n"
     },
     {
         "id": 37,
@@ -293,7 +329,8 @@
         "date": "2024-11-05",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.7523000240325928
+        "topic_contribution": 0.7523000240325928,
+        "aspect_based_sentiment": "\u25cf one - provide : Positive\n"
     },
     {
         "id": 38,
@@ -301,7 +338,8 @@
         "date": "2024-11-05",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.7006000280380249
+        "topic_contribution": 0.7006000280380249,
+        "aspect_based_sentiment": "\u25cf service - notch : Neutral\n\u25cf service - notch : Neutral\n"
     },
     {
         "id": 39,
@@ -309,7 +347,8 @@
         "date": "2024-11-06",
         "sentiment": "Positive",
         "topic_dominant": 3,
-        "topic_contribution": 0.7024999856948853
+        "topic_contribution": 0.7024999856948853,
+        "aspect_based_sentiment": "\u25cf store - fail, recommend : Positive\n\u25cf store - fail, recommend : Positive\n\u25cf store - fail, recommend : Positive\n"
     },
     {
         "id": 40,
@@ -317,7 +356,8 @@
         "date": "2024-11-06",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.5236999988555908
+        "topic_contribution": 0.5236999988555908,
+        "aspect_based_sentiment": "\u25cf staff - take : Neutral\n"
     },
     {
         "id": 41,
@@ -325,7 +365,8 @@
         "date": "2024-11-06",
         "sentiment": "Positive",
         "topic_dominant": 3,
-        "topic_contribution": 0.6916000247001648
+        "topic_contribution": 0.6916000247001648,
+        "aspect_based_sentiment": "\u25cf place - amazing : Positive\n"
     },
     {
         "id": 42,
@@ -333,7 +374,8 @@
         "date": "2024-11-06",
         "sentiment": "Positive",
         "topic_dominant": 1,
-        "topic_contribution": 0.6154999732971191
+        "topic_contribution": 0.6154999732971191,
+        "aspect_based_sentiment": "\u25cf plan - worth : Positive\n"
     },
     {
         "id": 43,
@@ -341,7 +383,8 @@
         "date": "2024-11-06",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.6980999708175659
+        "topic_contribution": 0.6980999708175659,
+        "aspect_based_sentiment": "\u25cf staff - appreciate, be : Positive\n"
     },
     {
         "id": 44,
@@ -349,7 +392,8 @@
         "date": "2024-11-07",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.40149998664855957
+        "topic_contribution": 0.40149998664855957,
+        "aspect_based_sentiment": "\u25cf staff - appreciate, be : Positive\n"
     },
     {
         "id": 45,
@@ -357,7 +401,8 @@
         "date": "2024-11-07",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.6934000253677368
+        "topic_contribution": 0.6934000253677368,
+        "aspect_based_sentiment": "\u25cf staff - accommodating : Neutral\n"
     },
     {
         "id": 46,
@@ -365,7 +410,8 @@
         "date": "2024-11-07",
         "sentiment": "Positive",
         "topic_dominant": 3,
-        "topic_contribution": 0.723800003528595
+        "topic_contribution": 0.723800003528595,
+        "aspect_based_sentiment": "\u25cf staff - have : Positive\n"
     },
     {
         "id": 47,
@@ -373,7 +419,8 @@
         "date": "2024-11-07",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.7379000186920166
+        "topic_contribution": 0.7379000186920166,
+        "aspect_based_sentiment": "\u25cf service - quick : Positive\n\u25cf service - efficient : Neutral\n"
     },
     {
         "id": 48,
@@ -381,7 +428,8 @@
         "date": "2024-11-08",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.7339000105857849
+        "topic_contribution": 0.7339000105857849,
+        "aspect_based_sentiment": "\u25cf store - help, transfer : Neutral\n\u25cf store - help, transfer : Neutral\n\u25cf store - help, transfer : Neutral\n"
     },
     {
         "id": 49,
@@ -389,7 +437,8 @@
         "date": "2024-11-08",
         "sentiment": "Positive",
         "topic_dominant": 3,
-        "topic_contribution": 0.680400013923645
+        "topic_contribution": 0.680400013923645,
+        "aspect_based_sentiment": "\u25cf phone - work : Positive\n"
     },
     {
         "id": 50,
@@ -397,7 +446,8 @@
         "date": "2024-11-08",
         "sentiment": "Positive",
         "topic_dominant": 3,
-        "topic_contribution": 0.6729000210762024
+        "topic_contribution": 0.6729000210762024,
+        "aspect_based_sentiment": "\u25cf store - give : Neutral\n\u25cf store - fix : Positive\n\u25cf store - fix : Positive\n"
     },
     {
         "id": 51,
@@ -405,7 +455,8 @@
         "date": "2024-11-08",
         "sentiment": "Neutral",
         "topic_dominant": 1,
-        "topic_contribution": 0.5602999925613403
+        "topic_contribution": 0.5602999925613403,
+        "aspect_based_sentiment": "\u25cf staff - reliable : Neutral\n"
     },
     {
         "id": 52,
@@ -413,7 +464,8 @@
         "date": "2024-11-09",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.7225000262260437
+        "topic_contribution": 0.7225000262260437,
+        "aspect_based_sentiment": "\u25cf store - offer : Positive\n\u25cf store - offer : Neutral\n"
     },
     {
         "id": 53,
@@ -421,7 +473,8 @@
         "date": "2024-11-09",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.6230999827384949
+        "topic_contribution": 0.6230999827384949,
+        "aspect_based_sentiment": "\u25cf service - great : Positive\n\u25cf service - phone : Neutral\n"
     },
     {
         "id": 54,
@@ -429,7 +482,8 @@
         "date": "2024-11-10",
         "sentiment": "Positive",
         "topic_dominant": 1,
-        "topic_contribution": 0.5146999955177307
+        "topic_contribution": 0.5146999955177307,
+        "aspect_based_sentiment": "\u25cf store - resolve : Positive\n\u25cf store - resolve : Positive\n\u25cf store - resolve : Neutral\n"
     },
     {
         "id": 55,
@@ -437,7 +491,8 @@
         "date": "2024-11-10",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.6948999762535095
+        "topic_contribution": 0.6948999762535095,
+        "aspect_based_sentiment": "\u25cf store - organize : Neutral\n"
     },
     {
         "id": 56,
@@ -445,7 +500,8 @@
         "date": "2024-11-10",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.7299000024795532
+        "topic_contribution": 0.7299000024795532,
+        "aspect_based_sentiment": "\u25cf store - look : Positive\n"
     },
     {
         "id": 57,
@@ -453,7 +509,8 @@
         "date": "2024-11-10",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.7670999765396118
+        "topic_contribution": 0.7670999765396118,
+        "aspect_based_sentiment": "\u25cf staff - leave : Neutral\n\u25cf staff - make : Positive\n"
     },
     {
         "id": 58,
@@ -461,7 +518,8 @@
         "date": "2024-11-10",
         "sentiment": "Positive",
         "topic_dominant": 1,
-        "topic_contribution": 0.652999997138977
+        "topic_contribution": 0.652999997138977,
+        "aspect_based_sentiment": "\u25cf store - know, receive : Positive\n\u25cf store - know : Positive\n"
     },
     {
         "id": 59,
@@ -469,7 +527,8 @@
         "date": "2024-11-10",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.682699978351593
+        "topic_contribution": 0.682699978351593,
+        "aspect_based_sentiment": "\u25cf phone - look : Positive\n"
     },
     {
         "id": 60,
@@ -477,7 +536,8 @@
         "date": "2024-11-10",
         "sentiment": "Neutral",
         "topic_dominant": 1,
-        "topic_contribution": 0.49410000443458557
+        "topic_contribution": 0.49410000443458557,
+        "aspect_based_sentiment": "\u25cf staff - apologetic : Neutral\n"
     },
     {
         "id": 61,
@@ -485,7 +545,8 @@
         "date": "2024-11-10",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.40149998664855957
+        "topic_contribution": 0.40149998664855957,
+        "aspect_based_sentiment": "\u25cf staff - apologetic : Neutral\n"
     },
     {
         "id": 62,
@@ -493,7 +554,8 @@
         "date": "2024-11-11",
         "sentiment": "Negative",
         "topic_dominant": 3,
-        "topic_contribution": 0.7444000244140625
+        "topic_contribution": 0.7444000244140625,
+        "aspect_based_sentiment": "\u25cf selection - limited : Negative\n"
     },
     {
         "id": 63,
@@ -501,7 +563,8 @@
         "date": "2024-11-11",
         "sentiment": "Negative",
         "topic_dominant": 2,
-        "topic_contribution": 0.7172999978065491
+        "topic_contribution": 0.7172999978065491,
+        "aspect_based_sentiment": "\u25cf service - poor : Negative\n"
     },
     {
         "id": 64,
@@ -509,7 +572,8 @@
         "date": "2024-11-11",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.6730999946594238
+        "topic_contribution": 0.6730999946594238,
+        "aspect_based_sentiment": "\u25cf phone - defective : Neutral\n"
     },
     {
         "id": 65,
@@ -517,7 +581,8 @@
         "date": "2024-11-11",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.7110999822616577
+        "topic_contribution": 0.7110999822616577,
+        "aspect_based_sentiment": "\u25cf staff - rude : Negative\n\u25cf staff - unhelpful : Neutral\n"
     },
     {
         "id": 66,
@@ -525,7 +590,8 @@
         "date": "2024-11-11",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.6116999983787537
+        "topic_contribution": 0.6116999983787537,
+        "aspect_based_sentiment": "\u25cf store - charge : Neutral\n\u25cf store - feel : Neutral\n\u25cf store - charge : Neutral\n"
     },
     {
         "id": 67,
@@ -533,7 +599,8 @@
         "date": "2024-11-12",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.7039999961853027
+        "topic_contribution": 0.7039999961853027,
+        "aspect_based_sentiment": "\u25cf staff - have, take : Negative\n\u25cf staff - have, take : Neutral\n"
     },
     {
         "id": 68,
@@ -541,7 +608,8 @@
         "date": "2024-11-12",
         "sentiment": "Neutral",
         "topic_dominant": 1,
-        "topic_contribution": 0.6541000008583069
+        "topic_contribution": 0.6541000008583069,
+        "aspect_based_sentiment": "\u25cf staff - buy : Neutral\n"
     },
     {
         "id": 69,
@@ -549,7 +617,8 @@
         "date": "2024-11-12",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.7663000226020813
+        "topic_contribution": 0.7663000226020813,
+        "aspect_based_sentiment": "\u25cf phone plan - give : Neutral\n"
     },
     {
         "id": 70,
@@ -557,7 +626,8 @@
         "date": "2024-11-12",
         "sentiment": "Negative",
         "topic_dominant": 2,
-        "topic_contribution": 0.7002999782562256
+        "topic_contribution": 0.7002999782562256,
+        "aspect_based_sentiment": "\u25cf warranty - useless : Negative\n"
     },
     {
         "id": 71,
@@ -565,7 +635,8 @@
         "date": "2024-11-13",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.7469000220298767
+        "topic_contribution": 0.7469000220298767,
+        "aspect_based_sentiment": "\u25cf staff - have, return : Neutral\n"
     },
     {
         "id": 72,
@@ -573,7 +644,8 @@
         "date": "2024-11-13",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.6575999855995178
+        "topic_contribution": 0.6575999855995178,
+        "aspect_based_sentiment": "\u25cf staff - wait : Positive\n"
     },
     {
         "id": 73,
@@ -581,7 +653,8 @@
         "date": "2024-11-13",
         "sentiment": "Positive",
         "topic_dominant": 2,
-        "topic_contribution": 0.40149998664855957
+        "topic_contribution": 0.40149998664855957,
+        "aspect_based_sentiment": "\u25cf staff - wait : Positive\n"
     },
     {
         "id": 74,
@@ -589,7 +662,8 @@
         "date": "2024-11-13",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.738099992275238
+        "topic_contribution": 0.738099992275238,
+        "aspect_based_sentiment": "\u25cf store - refuse, honor : Neutral\n"
     },
     {
         "id": 75,
@@ -597,7 +671,8 @@
         "date": "2024-11-13",
         "sentiment": "Neutral",
         "topic_dominant": 1,
-        "topic_contribution": 0.6230999827384949
+        "topic_contribution": 0.6230999827384949,
+        "aspect_based_sentiment": "\u25cf staff - feel : Neutral\n"
     },
     {
         "id": 76,
@@ -605,7 +680,8 @@
         "date": "2024-11-13",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.7335000038146973
+        "topic_contribution": 0.7335000038146973,
+        "aspect_based_sentiment": "\u25cf phone - break : Neutral\n\u25cf phone - break : Neutral\n"
     },
     {
         "id": 77,
@@ -613,7 +689,8 @@
         "date": "2024-11-13",
         "sentiment": "Negative",
         "topic_dominant": 1,
-        "topic_contribution": 0.49219998717308044
+        "topic_contribution": 0.49219998717308044,
+        "aspect_based_sentiment": "\u25cf service - slow : Negative\n"
     },
     {
         "id": 78,
@@ -621,7 +698,8 @@
         "date": "2024-11-13",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.7178999781608582
+        "topic_contribution": 0.7178999781608582,
+        "aspect_based_sentiment": "\u25cf phone - work : Neutral\n"
     },
     {
         "id": 79,
@@ -629,7 +707,8 @@
         "date": "2024-11-14",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.7168999910354614
+        "topic_contribution": 0.7168999910354614,
+        "aspect_based_sentiment": "\u25cf phone - have : Neutral\n"
     },
     {
         "id": 80,
@@ -637,7 +716,8 @@
         "date": "2024-11-14",
         "sentiment": "Neutral",
         "topic_dominant": 1,
-        "topic_contribution": 0.571399986743927
+        "topic_contribution": 0.571399986743927,
+        "aspect_based_sentiment": "\u25cf store - upsold : Neutral\n\u25cf store - upsold : Neutral\n"
     },
     {
         "id": 81,
@@ -645,7 +725,8 @@
         "date": "2024-11-14",
         "sentiment": "Neutral",
         "topic_dominant": 1,
-        "topic_contribution": 0.49399998784065247
+        "topic_contribution": 0.49399998784065247,
+        "aspect_based_sentiment": "\u25cf staff - unprofessional : Neutral\n"
     },
     {
         "id": 82,
@@ -653,7 +734,8 @@
         "date": "2024-11-14",
         "sentiment": "Negative",
         "topic_dominant": 2,
-        "topic_contribution": 0.7081999778747559
+        "topic_contribution": 0.7081999778747559,
+        "aspect_based_sentiment": "\u25cf policy - awful : Negative\n"
     },
     {
         "id": 83,
@@ -661,7 +743,8 @@
         "date": "2024-11-14",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.6834999918937683
+        "topic_contribution": 0.6834999918937683,
+        "aspect_based_sentiment": "\u25cf store - apply : Neutral\n"
     },
     {
         "id": 84,
@@ -669,7 +752,8 @@
         "date": "2024-11-14",
         "sentiment": "Negative",
         "topic_dominant": 1,
-        "topic_contribution": 0.6488999724388123
+        "topic_contribution": 0.6488999724388123,
+        "aspect_based_sentiment": "\u25cf store - understaffed : Neutral\n\u25cf store - messy : Negative\n"
     },
     {
         "id": 85,
@@ -677,7 +761,8 @@
         "date": "2024-11-14",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.6876999735832214
+        "topic_contribution": 0.6876999735832214,
+        "aspect_based_sentiment": "\u25cf phone - break : Neutral\n"
     },
     {
         "id": 86,
@@ -685,7 +770,8 @@
         "date": "2024-11-14",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.7081999778747559
+        "topic_contribution": 0.7081999778747559,
+        "aspect_based_sentiment": "\u25cf store - keep, try : Neutral\n"
     },
     {
         "id": 87,
@@ -693,7 +779,8 @@
         "date": "2024-11-15",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.6915000081062317
+        "topic_contribution": 0.6915000081062317,
+        "aspect_based_sentiment": "\u25cf job - incomplete : Neutral\n"
     },
     {
         "id": 88,
@@ -701,7 +788,8 @@
         "date": "2024-11-15",
         "sentiment": "Negative",
         "topic_dominant": 3,
-        "topic_contribution": 0.6869000196456909
+        "topic_contribution": 0.6869000196456909,
+        "aspect_based_sentiment": "\u25cf representative - rude : Negative\n"
     },
     {
         "id": 89,
@@ -709,7 +797,8 @@
         "date": "2024-11-15",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.722000002861023
+        "topic_contribution": 0.722000002861023,
+        "aspect_based_sentiment": "\u25cf staff - have, call : Neutral\n"
     },
     {
         "id": 90,
@@ -717,7 +806,8 @@
         "date": "2024-11-15",
         "sentiment": "Positive",
         "topic_dominant": 3,
-        "topic_contribution": 0.6952999830245972
+        "topic_contribution": 0.6952999830245972,
+        "aspect_based_sentiment": "\u25cf store - explain : Neutral\n\u25cf store - rush : Neutral\n\u25cf store - rush : Neutral\n\u25cf store - explain : Positive\n"
     },
     {
         "id": 91,
@@ -725,7 +815,8 @@
         "date": "2024-11-15",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.6915000081062317
+        "topic_contribution": 0.6915000081062317,
+        "aspect_based_sentiment": "\u25cf support - non : Neutral\n"
     },
     {
         "id": 92,
@@ -733,7 +824,8 @@
         "date": "2024-11-16",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.633899986743927
+        "topic_contribution": 0.633899986743927,
+        "aspect_based_sentiment": "\u25cf phone - stop, work : Neutral\n\u25cf phone - stop : Neutral\n"
     },
     {
         "id": 93,
@@ -741,7 +833,8 @@
         "date": "2024-11-16",
         "sentiment": "Negative",
         "topic_dominant": 1,
-        "topic_contribution": 0.6322000026702881
+        "topic_contribution": 0.6322000026702881,
+        "aspect_based_sentiment": "\u25cf long lines - lines : Negative\n"
     },
     {
         "id": 94,
@@ -749,7 +842,8 @@
         "date": "2024-11-16",
         "sentiment": "Positive",
         "topic_dominant": 3,
-        "topic_contribution": 0.6729999780654907
+        "topic_contribution": 0.6729999780654907,
+        "aspect_based_sentiment": "\u25cf store - have : Positive\n\u25cf store - have : Neutral\n"
     },
     {
         "id": 95,
@@ -757,7 +851,8 @@
         "date": "2024-11-17",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.7215999960899353
+        "topic_contribution": 0.7215999960899353,
+        "aspect_based_sentiment": "\u25cf store - lose : Neutral\n"
     },
     {
         "id": 96,
@@ -765,7 +860,8 @@
         "date": "2024-11-17",
         "sentiment": "Neutral",
         "topic_dominant": 1,
-        "topic_contribution": 0.6230999827384949
+        "topic_contribution": 0.6230999827384949,
+        "aspect_based_sentiment": "\u25cf staff - feel : Neutral\n"
     },
     {
         "id": 97,
@@ -773,7 +869,8 @@
         "date": "2024-11-17",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.40149998664855957
+        "topic_contribution": 0.40149998664855957,
+        "aspect_based_sentiment": "\u25cf staff - feel : Neutral\n"
     },
     {
         "id": 98,
@@ -781,7 +878,8 @@
         "date": "2024-11-17",
         "sentiment": "Neutral",
         "topic_dominant": 3,
-        "topic_contribution": 0.7235999703407288
+        "topic_contribution": 0.7235999703407288,
+        "aspect_based_sentiment": "\u25cf technician - damage : Neutral\n\u25cf technician - damage : Neutral\n"
     },
     {
         "id": 99,
@@ -789,6 +887,7 @@
         "date": "2024-11-17",
         "sentiment": "Neutral",
         "topic_dominant": 2,
-        "topic_contribution": 0.40149998664855957
+        "topic_contribution": 0.40149998664855957,
+        "aspect_based_sentiment": "\u25cf technician - damage : Neutral\n\u25cf technician - damage : Neutral\n"
     }
 ]
