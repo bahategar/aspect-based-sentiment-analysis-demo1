@@ -1,0 +1,4131 @@
+{
+    "0": {
+        "reviewer_id": 1,
+        "review_time": "2024-09-04",
+        "rating": 1,
+        "review_processed": "I had a normal transaction, everyone was calm and polite, but now I don't want to eat this. I'm trying not to think about what this milky white/clear substance is all over my food, and I'm sure I'm not coming back.",
+        "aspect_sentiment": [
+            {
+                "term": "food",
+                "class": "negative",
+                "probability": [
+                    0.9815933108329773,
+                    0.015454968437552452,
+                    0.002951699076220393
+                ],
+                "context": [
+                    "I'm trying not to think about what this milky white/clear substance is all over my food, and I'm sure I'm not coming back."
+                ]
+            },
+            {
+                "term": "substance",
+                "class": "negative",
+                "probability": [
+                    0.5997273921966553,
+                    0.004296493716537952,
+                    0.39597612619400024
+                ],
+                "context": [
+                    "I'm trying not to think about what this milky white/clear substance is all over my food, and I'm sure I'm not coming back."
+                ]
+            }
+        ]
+    },
+    "1": {
+        "reviewer_id": 2,
+        "review_time": "2024-11-29",
+        "rating": 4,
+        "review_processed": "The staff at McDonald's are friendly, accommodating and always smiling. It is what it is as far as the food and atmosphere go; it's what it's always been. It makes for a more pleasant experience than many other fast food places in the area.",
+        "aspect_sentiment": [
+            {
+                "term": "fast food",
+                "class": "postive",
+                "probability": [
+                    0.006815647706389427,
+                    0.03166038542985916,
+                    0.9615239500999451
+                ],
+                "context": [
+                    "It makes for a more pleasant experience than many other fast food places in the area."
+                ]
+            },
+            {
+                "term": "atmosphere",
+                "class": "postive",
+                "probability": [
+                    0.0012359353713691235,
+                    0.0019914235454052687,
+                    0.9967727065086365
+                ],
+                "context": [
+                    "It is what it is as far as the food and atmosphere go; it's what it's always been."
+                ]
+            },
+            {
+                "term": "food",
+                "class": "postive",
+                "probability": [
+                    0.002793692983686924,
+                    0.004679643549025059,
+                    0.992526650428772
+                ],
+                "context": [
+                    "It is what it is as far as the food and atmosphere go; it's what it's always been.",
+                    "It makes for a more pleasant experience than many other fast food places in the area."
+                ]
+            },
+            {
+                "term": "staff",
+                "class": "postive",
+                "probability": [
+                    0.00021674683375749737,
+                    0.0003625940880738199,
+                    0.9994207620620728
+                ],
+                "context": [
+                    "The staff at McDonald's are friendly, accommodating and always smiling."
+                ]
+            }
+        ]
+    },
+    "2": {
+        "reviewer_id": 3,
+        "review_time": "2024-11-29",
+        "rating": 1,
+        "review_processed": "I made a mobile order got to the speaker and checked it in, but the line was not moving, so I had to leave. I never got the refund in the app. I called them and they said I could only get my money back in person because it was stuck in the system.",
+        "aspect_sentiment": [
+            {
+                "term": "speaker",
+                "class": "neutral",
+                "probability": [
+                    0.33699119091033936,
+                    0.65718674659729,
+                    0.005822065286338329
+                ],
+                "context": [
+                    "I made a mobile order got to the speaker and checked it in, but the line was not moving, so I had to leave."
+                ]
+            }
+        ]
+    },
+    "3": {
+        "reviewer_id": 4,
+        "review_time": "2024-11-04",
+        "rating": 5,
+        "review_processed": "Crispy chicken sandwich was delicious, and customer service was quick and efficient. My mc. was correct: My sandwich was crisp, but the service was fast and friendly. 'My mc. is correct': My sandwich is delicious, but my customer service is fast, friendly, and professional.",
+        "aspect_sentiment": [
+            {
+                "term": "sandwich",
+                "class": "postive",
+                "probability": [
+                    0.11512675136327744,
+                    0.007394721265882254,
+                    0.8774785399436951
+                ],
+                "context": [
+                    "Crispy chicken sandwich was delicious, and customer service was quick and efficient.",
+                    "was correct: My sandwich was crisp, but the service was fast and friendly.",
+                    "is correct': My sandwich is delicious, but my customer service is fast, friendly, and professional."
+                ]
+            },
+            {
+                "term": "service",
+                "class": "postive",
+                "probability": [
+                    0.06365323811769485,
+                    0.0026424317620694637,
+                    0.9337043166160583
+                ],
+                "context": [
+                    "Crispy chicken sandwich was delicious, and customer service was quick and efficient.",
+                    "was correct: My sandwich was crisp, but the service was fast and friendly.",
+                    "is correct': My sandwich is delicious, but my customer service is fast, friendly, and professional."
+                ]
+            },
+            {
+                "term": "customer",
+                "class": "postive",
+                "probability": [
+                    0.0929778441786766,
+                    0.00539865018799901,
+                    0.901623547077179
+                ],
+                "context": [
+                    "Crispy chicken sandwich was delicious, and customer service was quick and efficient.",
+                    "is correct': My sandwich is delicious, but my customer service is fast, friendly, and professional."
+                ]
+            },
+            {
+                "term": "crispy chicken sandwich",
+                "class": "postive",
+                "probability": [
+                    0.04437816143035889,
+                    0.002110624685883522,
+                    0.9535112977027893
+                ],
+                "context": [
+                    "Crispy chicken sandwich was delicious, and customer service was quick and efficient."
+                ]
+            }
+        ]
+    },
+    "4": {
+        "reviewer_id": 5,
+        "review_time": "2024-10-04",
+        "rating": 1,
+        "review_processed": "I repeat my order three times in the drive thru, and she still manages to mess it up. It was suppose to be a large meal double filet of fish with large fries, but it was all wrong. They either need to pay close attention to the order being made, or they need not to work at a drive thru.",
+        "aspect_sentiment": [
+            {
+                "term": "fries",
+                "class": "negative",
+                "probability": [
+                    0.8274237513542175,
+                    0.03699015825986862,
+                    0.13558609783649445
+                ],
+                "context": [
+                    "It was suppose to be a large meal double filet of fish with large fries, but it was all wrong."
+                ]
+            },
+            {
+                "term": "filet of fish",
+                "class": "neutral",
+                "probability": [
+                    0.3450517952442169,
+                    0.6001273989677429,
+                    0.05482081323862076
+                ],
+                "context": [
+                    "It was suppose to be a large meal double filet of fish with large fries, but it was all wrong."
+                ]
+            },
+            {
+                "term": "meal",
+                "class": "negative",
+                "probability": [
+                    0.5714789628982544,
+                    0.3977477252483368,
+                    0.03077329508960247
+                ],
+                "context": [
+                    "It was suppose to be a large meal double filet of fish with large fries, but it was all wrong."
+                ]
+            }
+        ]
+    },
+    "5": {
+        "reviewer_id": 6,
+        "review_time": "2024-12-01",
+        "rating": 1,
+        "review_processed": "I work for door dash and they locked us all out to wait in a long line for no reason at 10. I tried to beg them to open it because I'm door dash, but they refused. Covid is over; I'm getting a new job.",
+        "aspect_sentiment": [
+            {
+                "term": "wait",
+                "class": "negative",
+                "probability": [
+                    0.9932532906532288,
+                    0.006253655068576336,
+                    0.0004929883871227503
+                ],
+                "context": [
+                    "I work for door dash and they locked us all out to wait in a long line for no reason at 10."
+                ]
+            },
+            {
+                "term": "door",
+                "class": "negative",
+                "probability": [
+                    0.9924323558807373,
+                    0.0022597189527004957,
+                    0.005308002699166536
+                ],
+                "context": [
+                    "I work for door dash and they locked us all out to wait in a long line for no reason at 10.",
+                    "I tried to beg them to open it because I'm door dash, but they refused."
+                ]
+            }
+        ]
+    },
+    "6": {
+        "reviewer_id": 7,
+        "review_time": "2024-09-04",
+        "rating": 1,
+        "review_processed": "If I could give this location a zero on customer service, I would. It's a horrible experience every time as you can see by other reviews. After getting home, I had no regular hamburg but had cookies. Don't even bother going to this location again.",
+        "aspect_sentiment": [
+            {
+                "term": "cookies",
+                "class": "postive",
+                "probability": [
+                    0.15484055876731873,
+                    0.015986056998372078,
+                    0.8291733860969543
+                ],
+                "context": [
+                    "After getting home, I had no regular hamburg but had cookies."
+                ]
+            },
+            {
+                "term": "hamburg",
+                "class": "negative",
+                "probability": [
+                    0.998023509979248,
+                    0.0009887544438242912,
+                    0.0009877586271613836
+                ],
+                "context": [
+                    "After getting home, I had no regular hamburg but had cookies."
+                ]
+            },
+            {
+                "term": "customer service",
+                "class": "negative",
+                "probability": [
+                    0.9984126091003418,
+                    0.0005393950268626213,
+                    0.0010479566408321261
+                ],
+                "context": [
+                    "If I could give this location a zero on customer service, I would."
+                ]
+            }
+        ]
+    },
+    "7": {
+        "reviewer_id": 8,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "I asked the employee if they could give me a Large coffee w/no ice and she said no. I always get a large sweet tea with no ice and it always tastes good. They handed me a cup that was less than half way full. I was willing to pay more to get a full cup.",
+        "aspect_sentiment": [
+            {
+                "term": "cup",
+                "class": "postive",
+                "probability": [
+                    0.14494062960147858,
+                    0.2756275236606598,
+                    0.5794318318367004
+                ],
+                "context": [
+                    "They handed me a cup that was less than half way full.",
+                    "I was willing to pay more to get a full cup."
+                ]
+            },
+            {
+                "term": "tea",
+                "class": "postive",
+                "probability": [
+                    0.16581080853939056,
+                    0.07779897004365921,
+                    0.7563902735710144
+                ],
+                "context": [
+                    "I always get a large sweet tea with no ice and it always tastes good."
+                ]
+            },
+            {
+                "term": "sweet",
+                "class": "postive",
+                "probability": [
+                    0.16649764776229858,
+                    0.22194929420948029,
+                    0.6115531325340271
+                ],
+                "context": [
+                    "I always get a large sweet tea with no ice and it always tastes good."
+                ]
+            },
+            {
+                "term": "coffee",
+                "class": "postive",
+                "probability": [
+                    0.1834869384765625,
+                    0.08739488571882248,
+                    0.7291181087493896
+                ],
+                "context": [
+                    "I asked the employee if they could give me a Large coffee w/no ice and she said no."
+                ]
+            }
+        ]
+    },
+    "8": {
+        "reviewer_id": 9,
+        "review_time": "2024-09-04",
+        "rating": 1,
+        "review_processed": "My 10 pieces of chicken were missing. The restaurant gave me a hard time about extra sauce. I was very unhappy with the service at the restaurant. The manager was very unsympathetic to my request to get the chicken McNuggets back. The customer was also very unhappy.",
+        "aspect_sentiment": [
+            {
+                "term": "chicken mcnuggets",
+                "class": "postive",
+                "probability": [
+                    0.31099334359169006,
+                    0.16668684780597687,
+                    0.5223197937011719
+                ],
+                "context": [
+                    "The manager was very unsympathetic to my request to get the chicken McNuggets back."
+                ]
+            },
+            {
+                "term": "manager",
+                "class": "negative",
+                "probability": [
+                    0.9987077713012695,
+                    0.0004580307868309319,
+                    0.0008342147921212018
+                ],
+                "context": [
+                    "The manager was very unsympathetic to my request to get the chicken McNuggets back."
+                ]
+            },
+            {
+                "term": "service",
+                "class": "negative",
+                "probability": [
+                    0.9980725049972534,
+                    0.0016530909342691302,
+                    0.0002743771765381098
+                ],
+                "context": [
+                    "I was very unhappy with the service at the restaurant."
+                ]
+            },
+            {
+                "term": "sauce",
+                "class": "negative",
+                "probability": [
+                    0.9985558390617371,
+                    0.0011071250773966312,
+                    0.00033698396873660386
+                ],
+                "context": [
+                    "The restaurant gave me a hard time about extra sauce."
+                ]
+            },
+            {
+                "term": "chicken",
+                "class": "negative",
+                "probability": [
+                    0.9976153373718262,
+                    0.002048772294074297,
+                    0.0003359100373927504
+                ],
+                "context": [
+                    "My 10 pieces of chicken were missing.",
+                    "The manager was very unsympathetic to my request to get the chicken McNuggets back."
+                ]
+            }
+        ]
+    },
+    "9": {
+        "reviewer_id": 10,
+        "review_time": "2024-09-04",
+        "rating": 4,
+        "review_processed": "I'm not a huge fan of fast food, but I have two teenage daughters who enjoy McD's. The staff here is always friendly and always get their orders correct. I always enjoy and appreciate quality service from quality people, and you'll definitely find it here.",
+        "aspect_sentiment": [
+            {
+                "term": "service",
+                "class": "postive",
+                "probability": [
+                    0.001063541043549776,
+                    0.00024696311447769403,
+                    0.998689591884613
+                ],
+                "context": [
+                    "I always enjoy and appreciate quality service from quality people, and you'll definitely find it here."
+                ]
+            },
+            {
+                "term": "staff",
+                "class": "postive",
+                "probability": [
+                    0.0011739794863387942,
+                    0.00024848702014423907,
+                    0.9985775947570801
+                ],
+                "context": [
+                    "The staff here is always friendly and always get their orders correct."
+                ]
+            },
+            {
+                "term": "fast food",
+                "class": "postive",
+                "probability": [
+                    0.34771257638931274,
+                    0.014774005860090256,
+                    0.6375134587287903
+                ],
+                "context": [
+                    "I'm not a huge fan of fast food, but I have two teenage daughters who enjoy McD's."
+                ]
+            }
+        ]
+    },
+    "10": {
+        "reviewer_id": 11,
+        "review_time": "2024-09-04",
+        "rating": 1,
+        "review_processed": "The best McDonald's is the worst McDonald's, says the chain's owner. It's the only McDonald's in the U.S.; it's the worst in the world. It is the world's only fast food chain, and it's a terrible one.",
+        "aspect_sentiment": [
+            {
+                "term": "fast food",
+                "class": "negative",
+                "probability": [
+                    0.9725459814071655,
+                    0.006914272904396057,
+                    0.020539719611406326
+                ],
+                "context": [
+                    "It is the world's only fast food chain, and it's a terrible one."
+                ]
+            }
+        ]
+    },
+    "11": {
+        "reviewer_id": 12,
+        "review_time": "2024-06-04",
+        "rating": 2,
+        "review_processed": "Our order was supposed to have 3 food items and 2 drinks, but they missed a food item. The lady ignored me when I told her. My husband went to get it, she finished her task then handed it to him without a word or a smile or anything.",
+        "aspect_sentiment": [
+            {
+                "term": "food",
+                "class": "neutral",
+                "probability": [
+                    0.03177140653133392,
+                    0.9670061469078064,
+                    0.0012224643724039197
+                ],
+                "context": [
+                    "Our order was supposed to have 3 food items and 2 drinks, but they missed a food item."
+                ]
+            },
+            {
+                "term": "drinks",
+                "class": "neutral",
+                "probability": [
+                    0.006546773482114077,
+                    0.9927389025688171,
+                    0.0007143780821934342
+                ],
+                "context": [
+                    "Our order was supposed to have 3 food items and 2 drinks, but they missed a food item."
+                ]
+            },
+            {
+                "term": "food items",
+                "class": "neutral",
+                "probability": [
+                    0.014800053089857101,
+                    0.9838448166847229,
+                    0.0013551837764680386
+                ],
+                "context": [
+                    "Our order was supposed to have 3 food items and 2 drinks, but they missed a food item."
+                ]
+            }
+        ]
+    },
+    "12": {
+        "reviewer_id": 13,
+        "review_time": "2024-06-04",
+        "rating": 1,
+        "review_processed": "The morning crew seems fast and efficient, but the night crew is a whole different experience. The staff is so rude you leave wanting to crash your car through the building. Don't forget they will mistake your order almost every single time as well and serve it to you cold.",
+        "aspect_sentiment": [
+            {
+                "term": "staff",
+                "class": "negative",
+                "probability": [
+                    0.9865595102310181,
+                    0.0008878746884875,
+                    0.012552599422633648
+                ],
+                "context": [
+                    "The staff is so rude you leave wanting to crash your car through the building."
+                ]
+            },
+            {
+                "term": "night crew",
+                "class": "postive",
+                "probability": [
+                    0.1201997622847557,
+                    0.0037240320816636086,
+                    0.8760762810707092
+                ],
+                "context": [
+                    "The morning crew seems fast and efficient, but the night crew is a whole different experience."
+                ]
+            },
+            {
+                "term": "morning crew",
+                "class": "postive",
+                "probability": [
+                    0.04071913659572601,
+                    0.0013627063017338514,
+                    0.9579181671142578
+                ],
+                "context": [
+                    "The morning crew seems fast and efficient, but the night crew is a whole different experience."
+                ]
+            }
+        ]
+    },
+    "13": {
+        "reviewer_id": 14,
+        "review_time": "2023-12-04",
+        "rating": 3,
+        "review_processed": "I was disappointed that the restaurant did not get me my full order, meaning I did not receive my condiments for my big breakfast with hot cakes. No butter, no syrup, and no utensils. Oh, and the egg was half the size of the sausage.",
+        "aspect_sentiment": [
+            {
+                "term": "sausage",
+                "class": "negative",
+                "probability": [
+                    0.9789081811904907,
+                    0.019984861835837364,
+                    0.0011069513857364655
+                ],
+                "context": [
+                    "Oh, and the egg was half the size of the sausage."
+                ]
+            },
+            {
+                "term": "egg",
+                "class": "negative",
+                "probability": [
+                    0.9930011034011841,
+                    0.002290455624461174,
+                    0.00470846937969327
+                ],
+                "context": [
+                    "Oh, and the egg was half the size of the sausage."
+                ]
+            },
+            {
+                "term": "##ensils",
+                "class": "negative",
+                "probability": [
+                    0.8582509160041809,
+                    0.07489224523305893,
+                    0.06685690581798553
+                ],
+                "context": []
+            },
+            {
+                "term": "ut",
+                "class": "negative",
+                "probability": [
+                    0.9965523481369019,
+                    0.002759113209322095,
+                    0.0006885712500661612
+                ],
+                "context": []
+            },
+            {
+                "term": "syrup",
+                "class": "negative",
+                "probability": [
+                    0.9983137845993042,
+                    0.0005611283122561872,
+                    0.0011251039104536176
+                ],
+                "context": [
+                    "No butter, no syrup, and no utensils."
+                ]
+            },
+            {
+                "term": "butter",
+                "class": "negative",
+                "probability": [
+                    0.9982079267501831,
+                    0.0008565931930206716,
+                    0.0009354839567095041
+                ],
+                "context": [
+                    "No butter, no syrup, and no utensils."
+                ]
+            },
+            {
+                "term": "breakfast with hot cakes",
+                "class": "neutral",
+                "probability": [
+                    0.10337114334106445,
+                    0.8078848719596863,
+                    0.08874398469924927
+                ],
+                "context": [
+                    "I was disappointed that the restaurant did not get me my full order, meaning I did not receive my condiments for my big breakfast with hot cakes."
+                ]
+            },
+            {
+                "term": "##diments",
+                "class": "negative",
+                "probability": [
+                    0.89311683177948,
+                    0.05806119740009308,
+                    0.04882201552391052
+                ],
+                "context": []
+            },
+            {
+                "term": "con",
+                "class": "negative",
+                "probability": [
+                    0.9474828839302063,
+                    0.04992890730500221,
+                    0.0025881922338157892
+                ],
+                "context": []
+            }
+        ]
+    },
+    "14": {
+        "reviewer_id": 15,
+        "review_time": "2024-07-04",
+        "rating": 1,
+        "review_processed": "Ordered food wrong and left out part of the order also. One of the drink cups were not filled; poor service girl handed the order at the window on January 7, 2023 at 1 p.m. correct: Ordered food burger wrong, left out some of the orders also.",
+        "aspect_sentiment": [
+            {
+                "term": "food burger",
+                "class": "negative",
+                "probability": [
+                    0.9960941672325134,
+                    0.003144483547657728,
+                    0.0007613926427438855
+                ],
+                "context": [
+                    "One of the drink cups were not filled; poor service girl handed the order at the window on January 7, 2023 at 1 p.m. correct: Ordered food burger wrong, left out some of the orders also."
+                ]
+            },
+            {
+                "term": "drink cups",
+                "class": "negative",
+                "probability": [
+                    0.9877892732620239,
+                    0.011494306847453117,
+                    0.0007163902628235519
+                ],
+                "context": [
+                    "One of the drink cups were not filled; poor service girl handed the order at the window on January 7, 2023 at 1 p.m. correct: Ordered food burger wrong, left out some of the orders also."
+                ]
+            },
+            {
+                "term": "food",
+                "class": "negative",
+                "probability": [
+                    0.994797945022583,
+                    0.004450373817235231,
+                    0.0007516511250287294
+                ],
+                "context": [
+                    "Ordered food wrong and left out part of the order also.",
+                    "One of the drink cups were not filled; poor service girl handed the order at the window on January 7, 2023 at 1 p.m. correct: Ordered food burger wrong, left out some of the orders also."
+                ]
+            }
+        ]
+    },
+    "15": {
+        "reviewer_id": 16,
+        "review_time": "2024-10-04",
+        "rating": 2,
+        "review_processed": "This was a dine in experience. The tables were all dirty, and we did not get our food after waiting 35 minutes. Chicken sandwich was burnt; tables were dirty and we didn't receive our food until after 35 minutes had passed; and the food was uneaten.",
+        "aspect_sentiment": [
+            {
+                "term": "chicken sandwich",
+                "class": "negative",
+                "probability": [
+                    0.9991394281387329,
+                    0.00037128617987036705,
+                    0.0004893332370556891
+                ],
+                "context": [
+                    "Chicken sandwich was burnt; tables were dirty and we didn't receive our food until after 35 minutes had passed; and the food was uneaten."
+                ]
+            },
+            {
+                "term": "food",
+                "class": "negative",
+                "probability": [
+                    0.9963996410369873,
+                    0.003311085281893611,
+                    0.00028918657335452735
+                ],
+                "context": [
+                    "The tables were all dirty, and we did not get our food after waiting 35 minutes.",
+                    "Chicken sandwich was burnt; tables were dirty and we didn't receive our food until after 35 minutes had passed; and the food was uneaten."
+                ]
+            },
+            {
+                "term": "tables",
+                "class": "negative",
+                "probability": [
+                    0.9990373849868774,
+                    0.0005781945656053722,
+                    0.0003844642487820238
+                ],
+                "context": [
+                    "The tables were all dirty, and we did not get our food after waiting 35 minutes.",
+                    "Chicken sandwich was burnt; tables were dirty and we didn't receive our food until after 35 minutes had passed; and the food was uneaten."
+                ]
+            }
+        ]
+    },
+    "16": {
+        "reviewer_id": 17,
+        "review_time": "2023-12-04",
+        "rating": 4,
+        "review_processed": "The line was extremely big and was moving very slowly, plus they were out of apples and strawberries, but they gave me a substitute cookie. The staff were very apologetic for being slow, but it was the middle of the night and they were extremely under-staffed.",
+        "aspect_sentiment": [
+            {
+                "term": "staff",
+                "class": "negative",
+                "probability": [
+                    0.9847680926322937,
+                    0.0013101707445457578,
+                    0.013921706937253475
+                ],
+                "context": [
+                    "The staff were very apologetic for being slow, but it was the middle of the night and they were extremely under-staffed."
+                ]
+            },
+            {
+                "term": "cookie",
+                "class": "negative",
+                "probability": [
+                    0.9897438883781433,
+                    0.0049213538877666,
+                    0.00533474562689662
+                ],
+                "context": [
+                    "The line was extremely big and was moving very slowly, plus they were out of apples and strawberries, but they gave me a substitute cookie."
+                ]
+            },
+            {
+                "term": "apples strawberries",
+                "class": "neutral",
+                "probability": [
+                    0.07545929402112961,
+                    0.9139658808708191,
+                    0.0105748837813735
+                ],
+                "context": []
+            }
+        ]
+    },
+    "17": {
+        "reviewer_id": 18,
+        "review_time": "2024-10-04",
+        "rating": 1,
+        "review_processed": "The boy who attended me made me wait, and when he saw that the drink was wrong he threw the bag of food at me with a grimace. He was so disappointed, he was so angry! The boy was making me wait; he didn't want me to wait.",
+        "aspect_sentiment": [
+            {
+                "term": "bag of food",
+                "class": "neutral",
+                "probability": [
+                    0.11328613013029099,
+                    0.8842231035232544,
+                    0.002490766579285264
+                ],
+                "context": [
+                    "The boy who attended me made me wait, and when he saw that the drink was wrong he threw the bag of food at me with a grimace."
+                ]
+            },
+            {
+                "term": "drink",
+                "class": "negative",
+                "probability": [
+                    0.7699991464614868,
+                    0.2245049625635147,
+                    0.005495852790772915
+                ],
+                "context": [
+                    "The boy who attended me made me wait, and when he saw that the drink was wrong he threw the bag of food at me with a grimace."
+                ]
+            }
+        ]
+    },
+    "18": {
+        "reviewer_id": 19,
+        "review_time": "2024-05-04",
+        "rating": 1,
+        "review_processed": "I went and bought 4 Strawberry Banana smoothies and and 2 hash browns and my smoothies tasted like straight ice and water. I am very disappointed in there service. My smoothie should never taste like that, especially the fact I bought it for not only me but my kids.",
+        "aspect_sentiment": [
+            {
+                "term": "smoothie",
+                "class": "negative",
+                "probability": [
+                    0.5565332174301147,
+                    0.05360134318470955,
+                    0.3898654580116272
+                ],
+                "context": [
+                    "My smoothie should never taste like that, especially the fact I bought it for not only me but my kids."
+                ]
+            },
+            {
+                "term": "service",
+                "class": "negative",
+                "probability": [
+                    0.9974496960639954,
+                    0.0014037463115528226,
+                    0.00114648905582726
+                ],
+                "context": [
+                    "I am very disappointed in there service."
+                ]
+            },
+            {
+                "term": "water",
+                "class": "postive",
+                "probability": [
+                    0.08196575194597244,
+                    0.034085072576999664,
+                    0.8839491009712219
+                ],
+                "context": [
+                    "I went and bought 4 Strawberry Banana smoothies and and 2 hash browns and my smoothies tasted like straight ice and water."
+                ]
+            },
+            {
+                "term": "hash brownsies",
+                "class": "postive",
+                "probability": [
+                    0.04074759781360626,
+                    0.006972364149987698,
+                    0.9522801041603088
+                ],
+                "context": []
+            },
+            {
+                "term": "strawberry banana smoothies",
+                "class": "postive",
+                "probability": [
+                    0.27268412709236145,
+                    0.0066567654721438885,
+                    0.7206591367721558
+                ],
+                "context": [
+                    "I went and bought 4 Strawberry Banana smoothies and and 2 hash browns and my smoothies tasted like straight ice and water."
+                ]
+            }
+        ]
+    },
+    "19": {
+        "reviewer_id": 20,
+        "review_time": "2024-05-04",
+        "rating": 4,
+        "review_processed": "The staff seems to always be different, which makes ordering sometimes a little difficult because they are in a state of perpetual learning. The lobby is always clean as well as the bathrooms, but the wait is always longer due to their constant changes in appearance. The staff are always different, making ordering difficult.",
+        "aspect_sentiment": [
+            {
+                "term": "appearance",
+                "class": "negative",
+                "probability": [
+                    0.9731659889221191,
+                    0.024411581456661224,
+                    0.0024223667569458485
+                ],
+                "context": [
+                    "The lobby is always clean as well as the bathrooms, but the wait is always longer due to their constant changes in appearance."
+                ]
+            },
+            {
+                "term": "wait",
+                "class": "negative",
+                "probability": [
+                    0.9962146878242493,
+                    0.0017749888356775045,
+                    0.0020102967973798513
+                ],
+                "context": [
+                    "The lobby is always clean as well as the bathrooms, but the wait is always longer due to their constant changes in appearance."
+                ]
+            },
+            {
+                "term": "bathrooms",
+                "class": "neutral",
+                "probability": [
+                    0.07573594897985458,
+                    0.6802747249603271,
+                    0.24398933351039886
+                ],
+                "context": [
+                    "The lobby is always clean as well as the bathrooms, but the wait is always longer due to their constant changes in appearance."
+                ]
+            },
+            {
+                "term": "lobby",
+                "class": "postive",
+                "probability": [
+                    0.16022616624832153,
+                    0.0077795060351490974,
+                    0.831994354724884
+                ],
+                "context": [
+                    "The lobby is always clean as well as the bathrooms, but the wait is always longer due to their constant changes in appearance."
+                ]
+            },
+            {
+                "term": "staff",
+                "class": "negative",
+                "probability": [
+                    0.7863964438438416,
+                    0.013776720501482487,
+                    0.19982686638832092
+                ],
+                "context": [
+                    "The staff seems to always be different, which makes ordering sometimes a little difficult because they are in a state of perpetual learning.",
+                    "The staff are always different, making ordering difficult."
+                ]
+            }
+        ]
+    },
+    "20": {
+        "reviewer_id": 21,
+        "review_time": "2024-02-04",
+        "rating": 1,
+        "review_processed": "Can't believe experience with order taker. Went from drive thru and employee directly asked what do you want. He keeps rushing while taking order with no other cars placing order. We wanted to add one more item and asked for a minute. When I said we are ready - no response.",
+        "aspect_sentiment": [
+            {
+                "term": "order taker",
+                "class": "negative",
+                "probability": [
+                    0.9969251751899719,
+                    0.0028428477235138416,
+                    0.0002319530030945316
+                ],
+                "context": [
+                    "Can't believe experience with order taker."
+                ]
+            }
+        ]
+    },
+    "21": {
+        "reviewer_id": 22,
+        "review_time": "2020-12-04",
+        "rating": 1,
+        "review_processed": "I only go here when they are not busy, in hope that my order is correct when I go to leave. When I finally get the correct order, it is generally tasty. The evening staff is pleasant, but the morning staff leaves a lot to be desired. The morning staff thinks they can talk negatively about people in Spanish out in the open.",
+        "aspect_sentiment": [
+            {
+                "term": "morning staff",
+                "class": "postive",
+                "probability": [
+                    0.29298898577690125,
+                    0.004363544750958681,
+                    0.7026475071907043
+                ],
+                "context": [
+                    "The evening staff is pleasant, but the morning staff leaves a lot to be desired.",
+                    "The morning staff thinks they can talk negatively about people in Spanish out in the open."
+                ]
+            },
+            {
+                "term": "evening staff",
+                "class": "postive",
+                "probability": [
+                    0.18166635930538177,
+                    0.0032298490405082703,
+                    0.8151037693023682
+                ],
+                "context": [
+                    "The evening staff is pleasant, but the morning staff leaves a lot to be desired."
+                ]
+            }
+        ]
+    },
+    "22": {
+        "reviewer_id": 23,
+        "review_time": "2024-11-04",
+        "rating": 2,
+        "review_processed": "The staff at the drive thru just shoved the drink in my hands. It's not very professional. I just needed caffeine; I'm not a big fan of fast food. The food was good, but the service was unappetiteful and unprofessional.",
+        "aspect_sentiment": [
+            {
+                "term": "service",
+                "class": "negative",
+                "probability": [
+                    0.9968095421791077,
+                    0.0007321911980397999,
+                    0.0024582671467214823
+                ],
+                "context": [
+                    "The food was good, but the service was unappetiteful and unprofessional."
+                ]
+            },
+            {
+                "term": "food",
+                "class": "neutral",
+                "probability": [
+                    0.07116822898387909,
+                    0.6706492304801941,
+                    0.25818249583244324
+                ],
+                "context": [
+                    "I just needed caffeine; I'm not a big fan of fast food.",
+                    "The food was good, but the service was unappetiteful and unprofessional."
+                ]
+            },
+            {
+                "term": "fast food",
+                "class": "neutral",
+                "probability": [
+                    0.102867990732193,
+                    0.4722709655761719,
+                    0.4248610734939575
+                ],
+                "context": [
+                    "I just needed caffeine; I'm not a big fan of fast food."
+                ]
+            },
+            {
+                "term": "##feine",
+                "class": "negative",
+                "probability": [
+                    0.8221876621246338,
+                    0.008761527948081493,
+                    0.16905087232589722
+                ],
+                "context": []
+            },
+            {
+                "term": "caf",
+                "class": "neutral",
+                "probability": [
+                    0.033860109746456146,
+                    0.9015904664993286,
+                    0.06454944610595703
+                ],
+                "context": []
+            },
+            {
+                "term": "drink",
+                "class": "neutral",
+                "probability": [
+                    0.01874767430126667,
+                    0.9803789854049683,
+                    0.0008733723079785705
+                ],
+                "context": [
+                    "The staff at the drive thru just shoved the drink in my hands."
+                ]
+            },
+            {
+                "term": "staff",
+                "class": "negative",
+                "probability": [
+                    0.9944396018981934,
+                    0.000629544083494693,
+                    0.004930817522108555
+                ],
+                "context": [
+                    "The staff at the drive thru just shoved the drink in my hands."
+                ]
+            }
+        ]
+    },
+    "23": {
+        "reviewer_id": 24,
+        "review_time": "2024-04-04",
+        "rating": 1,
+        "review_processed": "Microwaved nuggets, cold fries and a 30 minute wait? What more can you ask for? Don't go there ever! You're better off going hungry or giving the meal you paid for to the homeless by the donation box behind the drive thru.",
+        "aspect_sentiment": [
+            {
+                "term": "meal",
+                "class": "negative",
+                "probability": [
+                    0.9807120561599731,
+                    0.004715777467936277,
+                    0.014572146348655224
+                ],
+                "context": [
+                    "You're better off going hungry or giving the meal you paid for to the homeless by the donation box behind the drive thru."
+                ]
+            },
+            {
+                "term": "wait",
+                "class": "negative",
+                "probability": [
+                    0.9969077706336975,
+                    0.0026386796962469816,
+                    0.0004534372710622847
+                ],
+                "context": [
+                    "Microwaved nuggets, cold fries and a 30 minute wait?"
+                ]
+            },
+            {
+                "term": "fries",
+                "class": "postive",
+                "probability": [
+                    0.02401219867169857,
+                    0.2507196068763733,
+                    0.7252681851387024
+                ],
+                "context": [
+                    "Microwaved nuggets, cold fries and a 30 minute wait?"
+                ]
+            }
+        ]
+    },
+    "24": {
+        "reviewer_id": 25,
+        "review_time": "2024-08-04",
+        "rating": 1,
+        "review_processed": "Didn't take a card. But didn't have any money on her. It's not true. No, it wasn't true. It wasn't there. It didn't exist. It doesn't exist at all. It never existed at all; it never existed.",
+        "aspect_sentiment": [
+            {
+                "term": "money",
+                "class": "negative",
+                "probability": [
+                    0.9988659620285034,
+                    0.0006195291643962264,
+                    0.0005145296454429626
+                ],
+                "context": [
+                    "But didn't have any money on her."
+                ]
+            },
+            {
+                "term": "card",
+                "class": "negative",
+                "probability": [
+                    0.9989323019981384,
+                    0.0006905178306624293,
+                    0.0003770860203076154
+                ],
+                "context": [
+                    "Didn't take a card."
+                ]
+            }
+        ]
+    },
+    "25": {
+        "reviewer_id": 26,
+        "review_time": "2024-06-04",
+        "rating": 1,
+        "review_processed": "McDonald's is proud to own the most broken ice cream machines on the planet. When I asked at the drive through if they had ice cream, the lady replied that they didn't have any ice cream at all. It's a shame, because they have some of the best ice cream in the world.",
+        "aspect_sentiment": [
+            {
+                "term": "ice cream",
+                "class": "negative",
+                "probability": [
+                    0.8867460489273071,
+                    0.07630795985460281,
+                    0.036946043372154236
+                ],
+                "context": [
+                    "McDonald's is proud to own the most broken ice cream machines on the planet.",
+                    "When I asked at the drive through if they had ice cream, the lady replied that they didn't have any ice cream at all.",
+                    "It's a shame, because they have some of the best ice cream in the world."
+                ]
+            }
+        ]
+    },
+    "26": {
+        "reviewer_id": 27,
+        "review_time": "2024-11-04",
+        "rating": 4,
+        "review_processed": "With all the new upgrades, everything looks great and is clean and neat. The staff are great and have a great staff. correct: With all the upgrades, the staff are very clean and well-mannered. incorrect: The staff is very friendly and friendly.",
+        "aspect_sentiment": [
+            {
+                "term": "staff",
+                "class": "postive",
+                "probability": [
+                    0.00019963973318226635,
+                    0.00026557687669992447,
+                    0.9995348453521729
+                ],
+                "context": [
+                    "The staff are great and have a great staff.",
+                    "correct: With all the upgrades, the staff are very clean and well-mannered.",
+                    "incorrect: The staff is very friendly and friendly."
+                ]
+            }
+        ]
+    },
+    "27": {
+        "reviewer_id": 28,
+        "review_time": "2024-11-04",
+        "rating": 2,
+        "review_processed": "This article has been updated since it was published in the spring of 2012. It is the first published version of this article to feature a corrected spelling of the word 'taste' The error occurred due to misbelief that the word \"taste\" referred to the food.",
+        "aspect_sentiment": [
+            {
+                "term": "food",
+                "class": "neutral",
+                "probability": [
+                    0.25921422243118286,
+                    0.7359218001365662,
+                    0.004863974172621965
+                ],
+                "context": [
+                    "It is the first published version of this article to feature a corrected spelling of the word 'taste' The error occurred due to misbelief that the word \"taste\" referred to the food."
+                ]
+            },
+            {
+                "term": "\"",
+                "class": "neutral",
+                "probability": [
+                    0.4206438362598419,
+                    0.5757195353507996,
+                    0.0036366696003824472
+                ],
+                "context": []
+            },
+            {
+                "term": "taste",
+                "class": "negative",
+                "probability": [
+                    0.8525221347808838,
+                    0.14425751566886902,
+                    0.0032203206792473793
+                ],
+                "context": [
+                    "It is the first published version of this article to feature a corrected spelling of the word 'taste' The error occurred due to misbelief that the word \"taste\" referred to the food."
+                ]
+            },
+            {
+                "term": "'",
+                "class": "neutral",
+                "probability": [
+                    0.40049421787261963,
+                    0.5950559377670288,
+                    0.004449840169399977
+                ],
+                "context": []
+            }
+        ]
+    },
+    "28": {
+        "reviewer_id": 29,
+        "review_time": "2024-09-04",
+        "rating": 1,
+        "review_processed": "A McDonald's with horrible service and lazy employees. I mean, do they intentionally hire unqualified people? It's yet another McDonald's where the service is horrible and the employees are unqualified. It's ridiculous! It's like a movie! It doesn't get any worse.",
+        "aspect_sentiment": [
+            {
+                "term": "employees",
+                "class": "negative",
+                "probability": [
+                    0.9987545013427734,
+                    0.0008405973203480244,
+                    0.0004048882401548326
+                ],
+                "context": [
+                    "A McDonald's with horrible service and lazy employees.",
+                    "It's yet another McDonald's where the service is horrible and the employees are unqualified."
+                ]
+            },
+            {
+                "term": "service",
+                "class": "negative",
+                "probability": [
+                    0.9988682270050049,
+                    0.000763076706789434,
+                    0.00036880504922010005
+                ],
+                "context": [
+                    "A McDonald's with horrible service and lazy employees.",
+                    "It's yet another McDonald's where the service is horrible and the employees are unqualified."
+                ]
+            }
+        ]
+    },
+    "29": {
+        "reviewer_id": 30,
+        "review_time": "2021-12-04",
+        "rating": 1,
+        "review_processed": "First and last time I went to this location. Look at my receipt and what I got. That's a plain sausage biscuit and a double quarter pounder. I didn't go there before; it's the first and last place I've ever been.",
+        "aspect_sentiment": [
+            {
+                "term": "pounder",
+                "class": "postive",
+                "probability": [
+                    0.006075546611100435,
+                    0.005678566638380289,
+                    0.9882458448410034
+                ],
+                "context": [
+                    "That's a plain sausage biscuit and a double quarter pounder."
+                ]
+            },
+            {
+                "term": "quarter",
+                "class": "postive",
+                "probability": [
+                    0.007255909498780966,
+                    0.02992238849401474,
+                    0.9628216624259949
+                ],
+                "context": [
+                    "That's a plain sausage biscuit and a double quarter pounder."
+                ]
+            },
+            {
+                "term": "double",
+                "class": "postive",
+                "probability": [
+                    0.006429081317037344,
+                    0.006671649869531393,
+                    0.9868992567062378
+                ],
+                "context": [
+                    "That's a plain sausage biscuit and a double quarter pounder."
+                ]
+            },
+            {
+                "term": "sausage biscuit",
+                "class": "postive",
+                "probability": [
+                    0.012622660025954247,
+                    0.004381369799375534,
+                    0.9829960465431213
+                ],
+                "context": [
+                    "That's a plain sausage biscuit and a double quarter pounder."
+                ]
+            }
+        ]
+    },
+    "30": {
+        "reviewer_id": 31,
+        "review_time": "2022-12-04",
+        "rating": 1,
+        "review_processed": "A 20 minute wait in the drive through for a room temperature caramel mocha that was less than 2/3 full. This was exactly what I ordered! It's what I had ordered, and it's exactly where I ordered it to be. It's perfect!",
+        "aspect_sentiment": [
+            {
+                "term": "caramel mocha",
+                "class": "postive",
+                "probability": [
+                    0.031187569722533226,
+                    0.004736708477139473,
+                    0.9640757441520691
+                ],
+                "context": [
+                    "A 20 minute wait in the drive through for a room temperature caramel mocha that was less than 2/3 full."
+                ]
+            },
+            {
+                "term": "wait",
+                "class": "negative",
+                "probability": [
+                    0.9422491788864136,
+                    0.01572427712380886,
+                    0.042026620358228683
+                ],
+                "context": [
+                    "A 20 minute wait in the drive through for a room temperature caramel mocha that was less than 2/3 full."
+                ]
+            }
+        ]
+    },
+    "31": {
+        "reviewer_id": 32,
+        "review_time": "2024-03-04",
+        "rating": 2,
+        "review_processed": "They will literally stop taking orders and make people sit in the parking lot for 12 minutes until 3 a.m. so that they don't get to order dinner. We have gone multiple times right after leaving the pinball arcade just to wait in the drive-thru line while they do nothing but wait for the order menu to change.",
+        "aspect_sentiment": [
+            {
+                "term": "order menu",
+                "class": "negative",
+                "probability": [
+                    0.9835450053215027,
+                    0.015292356722056866,
+                    0.0011626201448962092
+                ],
+                "context": [
+                    "We have gone multiple times right after leaving the pinball arcade just to wait in the drive-thru line while they do nothing but wait for the order menu to change."
+                ]
+            },
+            {
+                "term": "thru line",
+                "class": "negative",
+                "probability": [
+                    0.9862879514694214,
+                    0.004368256777524948,
+                    0.009343740530312061
+                ],
+                "context": [
+                    "We have gone multiple times right after leaving the pinball arcade just to wait in the drive-thru line while they do nothing but wait for the order menu to change."
+                ]
+            },
+            {
+                "term": "-",
+                "class": "neutral",
+                "probability": [
+                    0.37977904081344604,
+                    0.6033185720443726,
+                    0.016902383416891098
+                ],
+                "context": [
+                    "We have gone multiple times right after leaving the pinball arcade just to wait in the drive-thru line while they do nothing but wait for the order menu to change."
+                ]
+            },
+            {
+                "term": "drive",
+                "class": "neutral",
+                "probability": [
+                    0.09000447392463684,
+                    0.9051740169525146,
+                    0.00482152309268713
+                ],
+                "context": [
+                    "We have gone multiple times right after leaving the pinball arcade just to wait in the drive-thru line while they do nothing but wait for the order menu to change."
+                ]
+            },
+            {
+                "term": "pinball arcade",
+                "class": "neutral",
+                "probability": [
+                    0.06662467122077942,
+                    0.9219281077384949,
+                    0.011447218246757984
+                ],
+                "context": [
+                    "We have gone multiple times right after leaving the pinball arcade just to wait in the drive-thru line while they do nothing but wait for the order menu to change."
+                ]
+            },
+            {
+                "term": "dinner",
+                "class": "neutral",
+                "probability": [
+                    0.02694079652428627,
+                    0.9721358418464661,
+                    0.0009233492310158908
+                ],
+                "context": [
+                    "They will literally stop taking orders and make people sit in the parking lot for 12 minutes until 3 a.m. so that they don't get to order dinner."
+                ]
+            },
+            {
+                "term": "orders",
+                "class": "negative",
+                "probability": [
+                    0.99802565574646,
+                    0.0013995227636769414,
+                    0.0005749202100560069
+                ],
+                "context": [
+                    "They will literally stop taking orders and make people sit in the parking lot for 12 minutes until 3 a.m. so that they don't get to order dinner."
+                ]
+            }
+        ]
+    },
+    "32": {
+        "reviewer_id": 33,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "They did not honor there advertised price. This is extra pickles; they did not pay the advertised price for them. They did not have any leftovers from the previous batch of food. It's not their fault; they didn't pay the price they were promised.",
+        "aspect_sentiment": [
+            {
+                "term": "food",
+                "class": "negative",
+                "probability": [
+                    0.982486367225647,
+                    0.016986140981316566,
+                    0.0005274800350889564
+                ],
+                "context": [
+                    "They did not have any leftovers from the previous batch of food."
+                ]
+            },
+            {
+                "term": "pickles",
+                "class": "negative",
+                "probability": [
+                    0.9961330890655518,
+                    0.002983743092045188,
+                    0.0008831787272356451
+                ],
+                "context": [
+                    "This is extra pickles; they did not pay the advertised price for them."
+                ]
+            },
+            {
+                "term": "price",
+                "class": "negative",
+                "probability": [
+                    0.9990266561508179,
+                    0.0005869690212421119,
+                    0.00038637255784124136
+                ],
+                "context": [
+                    "They did not honor there advertised price.",
+                    "This is extra pickles; they did not pay the advertised price for them.",
+                    "It's not their fault; they didn't pay the price they were promised."
+                ]
+            }
+        ]
+    },
+    "33": {
+        "reviewer_id": 34,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "Just spent 10 minutes waiting at this McDonald's. According to Google they're open 24/7. One employee was seated in the lobby and another at the window. Whoever these two are, they need to be replaced. 0/10 would not recommend this location for a meal.",
+        "aspect_sentiment": [
+            {
+                "term": "meal",
+                "class": "neutral",
+                "probability": [
+                    0.045597657561302185,
+                    0.9524163603782654,
+                    0.001985999057069421
+                ],
+                "context": [
+                    "0/10 would not recommend this location for a meal."
+                ]
+            },
+            {
+                "term": "google",
+                "class": "neutral",
+                "probability": [
+                    0.4669345021247864,
+                    0.5241920948028564,
+                    0.00887339934706688
+                ],
+                "context": [
+                    "According to Google they're open 24/7."
+                ]
+            }
+        ]
+    },
+    "34": {
+        "reviewer_id": 35,
+        "review_time": "2024-02-04",
+        "rating": 2,
+        "review_processed": "In the beginning everything was great, but that didn't last long. The service is fast but with attitude, and the service is very friendly and friendly. We hit it off pretty well in the beginning, but it didn'tLast week, we had a fight.",
+        "aspect_sentiment": [
+            {
+                "term": "service",
+                "class": "postive",
+                "probability": [
+                    0.007160842884331942,
+                    0.0008863030816428363,
+                    0.9919528365135193
+                ],
+                "context": [
+                    "The service is fast but with attitude, and the service is very friendly and friendly."
+                ]
+            }
+        ]
+    },
+    "35": {
+        "reviewer_id": 36,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "This location is a horrible store to work for. The General Manger doesn't know how to run a store efficiently. The Supervisor, Eduardo, doesn't care how its ran either. As someone who used to work here at the store, I can relate to this situation.",
+        "aspect_sentiment": [
+            {
+                "term": "supervisor",
+                "class": "negative",
+                "probability": [
+                    0.9990584254264832,
+                    0.00034282912383787334,
+                    0.0005986870964989066
+                ],
+                "context": [
+                    "The Supervisor, Eduardo, doesn't care how its ran either."
+                ]
+            },
+            {
+                "term": "general",
+                "class": "negative",
+                "probability": [
+                    0.9989423155784607,
+                    0.0003922644827980548,
+                    0.000665473286062479
+                ],
+                "context": [
+                    "The General Manger doesn't know how to run a store efficiently."
+                ]
+            }
+        ]
+    },
+    "36": {
+        "reviewer_id": 37,
+        "review_time": "2024-05-04",
+        "rating": 1,
+        "review_processed": "This is the third time I've received this letter; this is the first time I got this letter. correct: This is the 3rd time I get this letter, and the last time I'm getting this letter is in the mail. It's a gift.",
+        "aspect_sentiment": []
+    },
+    "37": {
+        "reviewer_id": 38,
+        "review_time": "2024-08-04",
+        "rating": 5,
+        "review_processed": "The staff are very friendly and they do their job perfectly. correct: The staff are friendly, and they are doing their jobs perfectly. The students are friendly and doing their job well.correct: The student is friendly and the student is doing his job properly.",
+        "aspect_sentiment": [
+            {
+                "term": "staff",
+                "class": "postive",
+                "probability": [
+                    0.00024570926325395703,
+                    0.00013594975462183356,
+                    0.9996182918548584
+                ],
+                "context": [
+                    "The staff are very friendly and they do their job perfectly.",
+                    "correct: The staff are friendly, and they are doing their jobs perfectly."
+                ]
+            }
+        ]
+    },
+    "38": {
+        "reviewer_id": 39,
+        "review_time": "2024-09-04",
+        "rating": 5,
+        "review_processed": "Great service, food hot, and good food are the best things ever. correct: Awesome service, great food, and great service. Wrong: Amazing service, amazing food, amazing service, and best service ever. \"Best ever\"? It's amazing. It's perfect.",
+        "aspect_sentiment": [
+            {
+                "term": "food",
+                "class": "postive",
+                "probability": [
+                    0.000191781873581931,
+                    0.00014328377437777817,
+                    0.9996650218963623
+                ],
+                "context": [
+                    "Great service, food hot, and good food are the best things ever.",
+                    "correct: Awesome service, great food, and great service.",
+                    "Wrong: Amazing service, amazing food, amazing service, and best service ever."
+                ]
+            },
+            {
+                "term": "service",
+                "class": "postive",
+                "probability": [
+                    0.00018787728913594037,
+                    0.00013917651085648686,
+                    0.9996728897094727
+                ],
+                "context": [
+                    "Great service, food hot, and good food are the best things ever.",
+                    "correct: Awesome service, great food, and great service.",
+                    "Wrong: Amazing service, amazing food, amazing service, and best service ever."
+                ]
+            }
+        ]
+    },
+    "39": {
+        "reviewer_id": 40,
+        "review_time": "2024-03-04",
+        "rating": 1,
+        "review_processed": "I ordered a large fry and two chicken sandwiches, but they read it back as two spicey chicken sandwiches. They said they would fix it after having to pay a second time for the lettuce and tomato. When I got the order, it was still a spicy chicken sandwich inside a deluxe crispy chicken sandwich.",
+        "aspect_sentiment": [
+            {
+                "term": "crispy chicken sandwich",
+                "class": "negative",
+                "probability": [
+                    0.8380516767501831,
+                    0.12650436162948608,
+                    0.0354439914226532
+                ],
+                "context": [
+                    "When I got the order, it was still a spicy chicken sandwich inside a deluxe crispy chicken sandwich."
+                ]
+            },
+            {
+                "term": "deluxe",
+                "class": "negative",
+                "probability": [
+                    0.975402295589447,
+                    0.010478089563548565,
+                    0.014119605533778667
+                ],
+                "context": [
+                    "When I got the order, it was still a spicy chicken sandwich inside a deluxe crispy chicken sandwich."
+                ]
+            },
+            {
+                "term": "spicy chicken sandwich",
+                "class": "negative",
+                "probability": [
+                    0.9181748628616333,
+                    0.04561581835150719,
+                    0.036209311336278915
+                ],
+                "context": [
+                    "When I got the order, it was still a spicy chicken sandwich inside a deluxe crispy chicken sandwich."
+                ]
+            },
+            {
+                "term": "##tuce and tomato",
+                "class": "negative",
+                "probability": [
+                    0.8694651126861572,
+                    0.09339189529418945,
+                    0.03714299947023392
+                ],
+                "context": []
+            },
+            {
+                "term": "let",
+                "class": "negative",
+                "probability": [
+                    0.8370802402496338,
+                    0.13040561974048615,
+                    0.032514121383428574
+                ],
+                "context": []
+            },
+            {
+                "term": "spicey chicken sandwiches",
+                "class": "negative",
+                "probability": [
+                    0.8035503625869751,
+                    0.1727941334247589,
+                    0.023655526340007782
+                ],
+                "context": [
+                    "I ordered a large fry and two chicken sandwiches, but they read it back as two spicey chicken sandwiches."
+                ]
+            },
+            {
+                "term": "chicken sandwiches",
+                "class": "negative",
+                "probability": [
+                    0.8585094213485718,
+                    0.08467184752225876,
+                    0.05681872367858887
+                ],
+                "context": [
+                    "I ordered a large fry and two chicken sandwiches, but they read it back as two spicey chicken sandwiches."
+                ]
+            },
+            {
+                "term": "fry",
+                "class": "negative",
+                "probability": [
+                    0.798550009727478,
+                    0.1947571039199829,
+                    0.006692869123071432
+                ],
+                "context": [
+                    "I ordered a large fry and two chicken sandwiches, but they read it back as two spicey chicken sandwiches."
+                ]
+            },
+            {
+                "term": "large",
+                "class": "neutral",
+                "probability": [
+                    0.2733920216560364,
+                    0.7219765782356262,
+                    0.004631462506949902
+                ],
+                "context": [
+                    "I ordered a large fry and two chicken sandwiches, but they read it back as two spicey chicken sandwiches."
+                ]
+            }
+        ]
+    },
+    "40": {
+        "reviewer_id": 41,
+        "review_time": "2024-01-04",
+        "rating": 1,
+        "review_processed": "If you didn't take 15 minutes to take a few orders, you'd be able to order off your normal menu instead of the disgusting br. correct: If you took 15 minutes, you wouldn't have to order from the disgusting menu at all; instead, you would have to choose from the normal menu.",
+        "aspect_sentiment": [
+            {
+                "term": "br",
+                "class": "negative",
+                "probability": [
+                    0.994648277759552,
+                    0.002557209925726056,
+                    0.002794495318084955
+                ],
+                "context": [
+                    "If you didn't take 15 minutes to take a few orders, you'd be able to order off your normal menu instead of the disgusting br."
+                ]
+            },
+            {
+                "term": "menu",
+                "class": "negative",
+                "probability": [
+                    0.9295580387115479,
+                    0.06474950909614563,
+                    0.0056923758238554
+                ],
+                "context": [
+                    "If you didn't take 15 minutes to take a few orders, you'd be able to order off your normal menu instead of the disgusting br.",
+                    "correct: If you took 15 minutes, you wouldn't have to order from the disgusting menu at all; instead, you would have to choose from the normal menu."
+                ]
+            }
+        ]
+    },
+    "41": {
+        "reviewer_id": 42,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "I don't come to McDonald's often because my order is wrong every time. Today, the drive thru person could barely hear me, and I was almost yelling. The entire staff were confused and confused as if I had just dropped out of the sky. The cooks had the worst leadership I've ever seen.",
+        "aspect_sentiment": [
+            {
+                "term": "cooks",
+                "class": "negative",
+                "probability": [
+                    0.9986716508865356,
+                    0.000253151694778353,
+                    0.0010752874659374356
+                ],
+                "context": [
+                    "The cooks had the worst leadership I've ever seen."
+                ]
+            },
+            {
+                "term": "staff",
+                "class": "negative",
+                "probability": [
+                    0.9991720914840698,
+                    0.0004112469614483416,
+                    0.0004166713624726981
+                ],
+                "context": [
+                    "The entire staff were confused and confused as if I had just dropped out of the sky."
+                ]
+            }
+        ]
+    },
+    "42": {
+        "reviewer_id": 43,
+        "review_time": "2023-12-04",
+        "rating": 3,
+        "review_processed": "McDonald's needs a better system if you are walking on foot. The food tasted great, and I loved the McDonald's deal ordering from the app. Me and my girlfriend came tonight to pick up our food after 11 p.m. for a mobile order.",
+        "aspect_sentiment": [
+            {
+                "term": "mcdonald",
+                "class": "postive",
+                "probability": [
+                    0.12154240161180496,
+                    0.23519617319107056,
+                    0.6432613730430603
+                ],
+                "context": [
+                    "McDonald's needs a better system if you are walking on foot.",
+                    "The food tasted great, and I loved the McDonald's deal ordering from the app."
+                ]
+            },
+            {
+                "term": "food",
+                "class": "postive",
+                "probability": [
+                    0.004668821580708027,
+                    0.002785895485430956,
+                    0.9925453066825867
+                ],
+                "context": [
+                    "The food tasted great, and I loved the McDonald's deal ordering from the app.",
+                    "Me and my girlfriend came tonight to pick up our food after 11 p.m. for a mobile order."
+                ]
+            }
+        ]
+    },
+    "43": {
+        "reviewer_id": 44,
+        "review_time": "2024-05-04",
+        "rating": 5,
+        "review_processed": "The food is always hot, fresh and served with a smile. Have been frequenting this location for a few years; it's always fresh, hot, and delicious. It's a must for breakfast, lunch, and dinner. For more information, visit www.tasteofeat.com.",
+        "aspect_sentiment": [
+            {
+                "term": "dinner",
+                "class": "postive",
+                "probability": [
+                    0.0006707909051328897,
+                    0.0013770174700766802,
+                    0.9979521632194519
+                ],
+                "context": [
+                    "It's a must for breakfast, lunch, and dinner."
+                ]
+            },
+            {
+                "term": "lunch",
+                "class": "postive",
+                "probability": [
+                    0.0005014009075239301,
+                    0.0012557158479467034,
+                    0.998242974281311
+                ],
+                "context": [
+                    "It's a must for breakfast, lunch, and dinner."
+                ]
+            },
+            {
+                "term": "breakfast",
+                "class": "postive",
+                "probability": [
+                    0.00041802902705967426,
+                    0.0014194381656125188,
+                    0.998162567615509
+                ],
+                "context": [
+                    "It's a must for breakfast, lunch, and dinner."
+                ]
+            },
+            {
+                "term": "served",
+                "class": "postive",
+                "probability": [
+                    0.00040556926978752017,
+                    0.001457128906622529,
+                    0.9981372356414795
+                ],
+                "context": [
+                    "The food is always hot, fresh and served with a smile."
+                ]
+            },
+            {
+                "term": "food",
+                "class": "postive",
+                "probability": [
+                    0.0003525374922901392,
+                    0.0006597369210794568,
+                    0.9989877343177795
+                ],
+                "context": [
+                    "The food is always hot, fresh and served with a smile."
+                ]
+            }
+        ]
+    },
+    "44": {
+        "reviewer_id": 45,
+        "review_time": "2024-08-04",
+        "rating": 1,
+        "review_processed": "The drinks were watered down and the employee was rude when asked to replace the drinks. correct: The drink was watered down; the employee had been rude to the customer when asking for the drink back. The drinks were too sweet; the drink was too cold; and the drink had gone cold.",
+        "aspect_sentiment": [
+            {
+                "term": "drink",
+                "class": "negative",
+                "probability": [
+                    0.8530836701393127,
+                    0.08840253204107285,
+                    0.05851372703909874
+                ],
+                "context": [
+                    "correct: The drink was watered down; the employee had been rude to the customer when asking for the drink back.",
+                    "The drinks were too sweet; the drink was too cold; and the drink had gone cold."
+                ]
+            },
+            {
+                "term": "employee",
+                "class": "negative",
+                "probability": [
+                    0.9740812182426453,
+                    0.01523934118449688,
+                    0.010679539293050766
+                ],
+                "context": [
+                    "The drinks were watered down and the employee was rude when asked to replace the drinks.",
+                    "correct: The drink was watered down; the employee had been rude to the customer when asking for the drink back."
+                ]
+            },
+            {
+                "term": "drinks",
+                "class": "negative",
+                "probability": [
+                    0.8356883525848389,
+                    0.0794743150472641,
+                    0.08483732491731644
+                ],
+                "context": [
+                    "The drinks were watered down and the employee was rude when asked to replace the drinks.",
+                    "The drinks were too sweet; the drink was too cold; and the drink had gone cold."
+                ]
+            }
+        ]
+    },
+    "45": {
+        "reviewer_id": 46,
+        "review_time": "2023-12-04",
+        "rating": 2,
+        "review_processed": "When ordering a large, customers expect to get what should come in a large. After arriving at their destination, they did not fill the carton up. They gave me a small portion for what I paid for. This is not right and management needs to correct this.",
+        "aspect_sentiment": [
+            {
+                "term": "management",
+                "class": "negative",
+                "probability": [
+                    0.9979313611984253,
+                    0.0018019460840150714,
+                    0.0002666866057552397
+                ],
+                "context": [
+                    "This is not right and management needs to correct this."
+                ]
+            },
+            {
+                "term": "portion",
+                "class": "negative",
+                "probability": [
+                    0.9985322952270508,
+                    0.0012086683418601751,
+                    0.00025902994093485177
+                ],
+                "context": [
+                    "They gave me a small portion for what I paid for."
+                ]
+            },
+            {
+                "term": "carton",
+                "class": "negative",
+                "probability": [
+                    0.9104200005531311,
+                    0.08583216369152069,
+                    0.0037479333113878965
+                ],
+                "context": [
+                    "After arriving at their destination, they did not fill the carton up."
+                ]
+            }
+        ]
+    },
+    "46": {
+        "reviewer_id": 47,
+        "review_time": "2024-07-04",
+        "rating": 1,
+        "review_processed": "Messed up my order four times in an hour! Will not answer my call. Will not respond to my phone call. Messed up their order fourtimes in and hour! It's a joke. It's all a ruse to get their attention.",
+        "aspect_sentiment": [
+            {
+                "term": "messed",
+                "class": "negative",
+                "probability": [
+                    0.9991140961647034,
+                    0.0005012999172322452,
+                    0.000384557613870129
+                ],
+                "context": [
+                    "Messed up my order four times in an hour!",
+                    "Messed up their order fourtimes in and hour!"
+                ]
+            }
+        ]
+    },
+    "47": {
+        "reviewer_id": 48,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "No one ever has a smile or a warm welcome at McDonald's. If you say something's wrong, you get a major attitude from the shift manager. Slow always has to wait for my food and have to go back in to get it fixed. No welcome to McDonald's or have a great day especially in drive through.",
+        "aspect_sentiment": [
+            {
+                "term": "food",
+                "class": "negative",
+                "probability": [
+                    0.8020365834236145,
+                    0.16168007254600525,
+                    0.03628338873386383
+                ],
+                "context": [
+                    "Slow always has to wait for my food and have to go back in to get it fixed."
+                ]
+            },
+            {
+                "term": "shift manager",
+                "class": "negative",
+                "probability": [
+                    0.9948509335517883,
+                    0.0003246262203902006,
+                    0.004824522417038679
+                ],
+                "context": [
+                    "If you say something's wrong, you get a major attitude from the shift manager."
+                ]
+            }
+        ]
+    },
+    "48": {
+        "reviewer_id": 49,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "A terrible service worker with a stank attitude for no reason is working at the window mute with an attitude because she is miserable at work. They mess up the order and then don't answer the phone. It's ridiculous. Found a long hair in my daughter's fries and then the extra fry was missing from her meal and she was mad because it was gone.",
+        "aspect_sentiment": [
+            {
+                "term": "meal",
+                "class": "negative",
+                "probability": [
+                    0.648137092590332,
+                    0.34849777817726135,
+                    0.003365179058164358
+                ],
+                "context": [
+                    "Found a long hair in my daughter's fries and then the extra fry was missing from her meal and she was mad because it was gone."
+                ]
+            },
+            {
+                "term": "fry",
+                "class": "negative",
+                "probability": [
+                    0.995139479637146,
+                    0.004153896123170853,
+                    0.0007065649260766804
+                ],
+                "context": [
+                    "Found a long hair in my daughter's fries and then the extra fry was missing from her meal and she was mad because it was gone."
+                ]
+            },
+            {
+                "term": "extra",
+                "class": "negative",
+                "probability": [
+                    0.9896277189254761,
+                    0.008980999700725079,
+                    0.001391304424032569
+                ],
+                "context": [
+                    "Found a long hair in my daughter's fries and then the extra fry was missing from her meal and she was mad because it was gone."
+                ]
+            },
+            {
+                "term": "fries",
+                "class": "negative",
+                "probability": [
+                    0.9874874353408813,
+                    0.009601233527064323,
+                    0.002911303425207734
+                ],
+                "context": [
+                    "Found a long hair in my daughter's fries and then the extra fry was missing from her meal and she was mad because it was gone."
+                ]
+            },
+            {
+                "term": "service",
+                "class": "negative",
+                "probability": [
+                    0.9989916682243347,
+                    0.0004340362793300301,
+                    0.0005742651410400867
+                ],
+                "context": [
+                    "A terrible service worker with a stank attitude for no reason is working at the window mute with an attitude because she is miserable at work."
+                ]
+            }
+        ]
+    },
+    "49": {
+        "reviewer_id": 50,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "Last night, I sat in the drive thru for almost an hour waiting to get my order taken. The line was wrapped almost twice around the building. When I got to the window, they told me they couldn't take it and I'd have to go back around. I've never received such deplorable customer service in my life.",
+        "aspect_sentiment": [
+            {
+                "term": "customer service",
+                "class": "negative",
+                "probability": [
+                    0.9255821108818054,
+                    0.0026073141489177942,
+                    0.07181060314178467
+                ],
+                "context": [
+                    "I've never received such deplorable customer service in my life."
+                ]
+            }
+        ]
+    },
+    "50": {
+        "reviewer_id": 51,
+        "review_time": "2024-02-04",
+        "rating": 1,
+        "review_processed": "I went to this location tonight to see if they could give me the Oreo Mcflurry that a different McDonald's had forgotten earlier, but they completely refused. Unbelievable! It's ice cream. It's not ice cream at this location.",
+        "aspect_sentiment": [
+            {
+                "term": "cream",
+                "class": "negative",
+                "probability": [
+                    0.9985059499740601,
+                    0.0009532862459309399,
+                    0.0005407336284406483
+                ],
+                "context": [
+                    "It's ice cream.",
+                    "It's not ice cream at this location."
+                ]
+            },
+            {
+                "term": "ice",
+                "class": "negative",
+                "probability": [
+                    0.9954187870025635,
+                    0.0035891197621822357,
+                    0.0009921740274876356
+                ],
+                "context": [
+                    "It's ice cream.",
+                    "It's not ice cream at this location."
+                ]
+            },
+            {
+                "term": "ice cream",
+                "class": "negative",
+                "probability": [
+                    0.9981714487075806,
+                    0.001252309768460691,
+                    0.0005762864020653069
+                ],
+                "context": [
+                    "It's ice cream.",
+                    "It's not ice cream at this location."
+                ]
+            },
+            {
+                "term": "oreo mcry",
+                "class": "neutral",
+                "probability": [
+                    0.3291003406047821,
+                    0.6498746275901794,
+                    0.021025005728006363
+                ],
+                "context": []
+            }
+        ]
+    },
+    "51": {
+        "reviewer_id": 52,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "I don't understand how you can keep your job when there are so many negative reviews. I would rather eat a cold can of baked beans than eat there. rude customer service, unprofessional attitude, overcooked food, and no complimentary items for screwing up our orders.",
+        "aspect_sentiment": [
+            {
+                "term": "food",
+                "class": "negative",
+                "probability": [
+                    0.9973530769348145,
+                    0.002028568647801876,
+                    0.0006184139056131244
+                ],
+                "context": [
+                    "rude customer service, unprofessional attitude, overcooked food, and no complimentary items for screwing up our orders."
+                ]
+            },
+            {
+                "term": "customer service",
+                "class": "negative",
+                "probability": [
+                    0.9990392923355103,
+                    0.0003842934384010732,
+                    0.0005764269735664129
+                ],
+                "context": [
+                    "rude customer service, unprofessional attitude, overcooked food, and no complimentary items for screwing up our orders."
+                ]
+            },
+            {
+                "term": " baked beans",
+                "class": "negative",
+                "probability": [
+                    0.9868040680885315,
+                    0.004837245214730501,
+                    0.008358811028301716
+                ],
+                "context": [
+                    "I would rather eat a cold can of baked beans than eat there."
+                ]
+            }
+        ]
+    },
+    "52": {
+        "reviewer_id": 53,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "The representative was very rude and disrespectful, refused fulfilling my order and simply hung up on me on the drive through window. Never was I so disappointed at that location before. Manager pretended like nothing had happened; they acted as if nothing had even happened at all.",
+        "aspect_sentiment": [
+            {
+                "term": "manager",
+                "class": "negative",
+                "probability": [
+                    0.9982543587684631,
+                    0.0006083669723011553,
+                    0.0011373083107173443
+                ],
+                "context": [
+                    "Manager pretended like nothing had happened; they acted as if nothing had even happened at all."
+                ]
+            },
+            {
+                "term": "representative",
+                "class": "negative",
+                "probability": [
+                    0.9988588094711304,
+                    0.00040463905315846205,
+                    0.0007366432109847665
+                ],
+                "context": [
+                    "The representative was very rude and disrespectful, refused fulfilling my order and simply hung up on me on the drive through window."
+                ]
+            }
+        ]
+    },
+    "53": {
+        "reviewer_id": 54,
+        "review_time": "2023-12-04",
+        "rating": 3,
+        "review_processed": "I don't know if it gets any better than that at a fast food place anymore. They got our order correct and didn't cut me off before I had finished ordering our food at the speaker. I could actually understand our order taker; it's amazing.",
+        "aspect_sentiment": [
+            {
+                "term": "speaker",
+                "class": "postive",
+                "probability": [
+                    0.15719576179981232,
+                    0.09660681337118149,
+                    0.7461974024772644
+                ],
+                "context": [
+                    "They got our order correct and didn't cut me off before I had finished ordering our food at the speaker."
+                ]
+            },
+            {
+                "term": "food",
+                "class": "neutral",
+                "probability": [
+                    0.02806073985993862,
+                    0.9706017374992371,
+                    0.0013375289272516966
+                ],
+                "context": [
+                    "I don't know if it gets any better than that at a fast food place anymore.",
+                    "They got our order correct and didn't cut me off before I had finished ordering our food at the speaker."
+                ]
+            },
+            {
+                "term": "fast food",
+                "class": "neutral",
+                "probability": [
+                    0.050386443734169006,
+                    0.7795971632003784,
+                    0.17001639306545258
+                ],
+                "context": [
+                    "I don't know if it gets any better than that at a fast food place anymore."
+                ]
+            }
+        ]
+    },
+    "54": {
+        "reviewer_id": 55,
+        "review_time": "2024-05-04",
+        "rating": 4,
+        "review_processed": "It was a long line, but it went quickly. It was a good quick drive through service; it went very quickly. correct: It was very quick, it was a very long line; the service was very efficient and fast. It's a good sign.",
+        "aspect_sentiment": [
+            {
+                "term": "service",
+                "class": "postive",
+                "probability": [
+                    0.2592926025390625,
+                    0.02007213607430458,
+                    0.7206352353096008
+                ],
+                "context": [
+                    "It was a good quick drive through service; it went very quickly.",
+                    "correct: It was very quick, it was a very long line; the service was very efficient and fast."
+                ]
+            }
+        ]
+    },
+    "55": {
+        "reviewer_id": 56,
+        "review_time": "2024-07-04",
+        "rating": 3,
+        "review_processed": "It's McDonna. Yup. It's McDonald's. It was the last meal of the meal. The last meal was McDonni. It wasn't a good one. It didn't taste good. It tasted terrible. It tastes like chicken.",
+        "aspect_sentiment": [
+            {
+                "term": "chicken",
+                "class": "negative",
+                "probability": [
+                    0.9757015705108643,
+                    0.0034300077240914106,
+                    0.02086830697953701
+                ],
+                "context": [
+                    "It tastes like chicken."
+                ]
+            },
+            {
+                "term": "meal",
+                "class": "negative",
+                "probability": [
+                    0.7069789171218872,
+                    0.11886683851480484,
+                    0.17415426671504974
+                ],
+                "context": [
+                    "It was the last meal of the meal.",
+                    "The last meal was McDonni."
+                ]
+            }
+        ]
+    },
+    "56": {
+        "reviewer_id": 57,
+        "review_time": "2023-12-04",
+        "rating": 4,
+        "review_processed": "I go to this restaurant all the time. It's just always a line wrapped around. Most def customer service is better than the food, but I just go there for my kids because they love it, so why not? Good customer service makes all the difference.",
+        "aspect_sentiment": [
+            {
+                "term": "customer service",
+                "class": "negative",
+                "probability": [
+                    0.6870929598808289,
+                    0.0046232291497290134,
+                    0.30828380584716797
+                ],
+                "context": [
+                    "Most def customer service is better than the food, but I just go there for my kids because they love it, so why not?",
+                    "Good customer service makes all the difference."
+                ]
+            },
+            {
+                "term": "food",
+                "class": "negative",
+                "probability": [
+                    0.9660221338272095,
+                    0.021071819588541985,
+                    0.012906011193990707
+                ],
+                "context": [
+                    "Most def customer service is better than the food, but I just go there for my kids because they love it, so why not?"
+                ]
+            },
+            {
+                "term": " service",
+                "class": "negative",
+                "probability": [
+                    0.5943593382835388,
+                    0.005062125623226166,
+                    0.4005785584449768
+                ],
+                "context": [
+                    "Most def customer service is better than the food, but I just go there for my kids because they love it, so why not?",
+                    "Good customer service makes all the difference."
+                ]
+            }
+        ]
+    },
+    "57": {
+        "reviewer_id": 58,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "I went to pick up food from the restaurant at late night through drive through. I was told to wait near the door and I will be getting the order but even after waiting 15 minutes no one came with the food. Even after coming through drivethrough it takes more than half an hour to get it which is not good.",
+        "aspect_sentiment": [
+            {
+                "term": "food",
+                "class": "neutral",
+                "probability": [
+                    0.011230509728193283,
+                    0.9839625954627991,
+                    0.004806885961443186
+                ],
+                "context": [
+                    "I went to pick up food from the restaurant at late night through drive through.",
+                    "I was told to wait near the door and I will be getting the order but even after waiting 15 minutes no one came with the food."
+                ]
+            }
+        ]
+    },
+    "58": {
+        "reviewer_id": 59,
+        "review_time": "2023-12-04",
+        "rating": 4,
+        "review_processed": "If there are 24 hours in every day and then 7 days in a week, then that means this place is open 17 million hours a year. I don't know how they find people to work here. How do they shower or brush their teeth or change clothes if they are always there? I think I may have an idea: they are robots.",
+        "aspect_sentiment": [
+            {
+                "term": "robots",
+                "class": "negative",
+                "probability": [
+                    0.8919758200645447,
+                    0.002554488368332386,
+                    0.10546962916851044
+                ],
+                "context": [
+                    "I think I may have an idea: they are robots."
+                ]
+            }
+        ]
+    },
+    "59": {
+        "reviewer_id": 60,
+        "review_time": "2024-08-04",
+        "rating": 4,
+        "review_processed": "It was late, the order was wrong, and the person taking the order needed to slow down, so the person took too much time to complete the order. correct: It was late; it was wrong; the order had been wrong; and it was too late.",
+        "aspect_sentiment": [
+            {
+                "term": "order",
+                "class": "negative",
+                "probability": [
+                    0.9977940320968628,
+                    0.0011143330484628677,
+                    0.0010916430037468672
+                ],
+                "context": [
+                    "It was late, the order was wrong, and the person taking the order needed to slow down, so the person took too much time to complete the order.",
+                    "correct: It was late; it was wrong; the order had been wrong; and it was too late."
+                ]
+            }
+        ]
+    },
+    "60": {
+        "reviewer_id": 61,
+        "review_time": "2024-02-04",
+        "rating": 1,
+        "review_processed": "The manager is rude at 13749 183 research Blvd. in north Austin, Texas. We had to go back to the restaurant three times, and the third time the manager didn't even know we were there. The manager is about 5ft tall and had long blonde hair pulled back into a ponytail.",
+        "aspect_sentiment": [
+            {
+                "term": "manager",
+                "class": "negative",
+                "probability": [
+                    0.9982829093933105,
+                    0.0010181721299886703,
+                    0.0006988908280618489
+                ],
+                "context": [
+                    "The manager is rude at 13749 183 research Blvd.",
+                    "We had to go back to the restaurant three times, and the third time the manager didn't even know we were there.",
+                    "The manager is about 5ft tall and had long blonde hair pulled back into a ponytail."
+                ]
+            }
+        ]
+    },
+    "61": {
+        "reviewer_id": 62,
+        "review_time": "2024-05-04",
+        "rating": 1,
+        "review_processed": "My mother was asking for a Coke and the woman became rude and said to her coworker in Spanish that she was too fat. It hurt me that she said that, and we know what she said, so teach your employees how to spell properly in front of people.",
+        "aspect_sentiment": [
+            {
+                "term": "employees",
+                "class": "negative",
+                "probability": [
+                    0.9292759895324707,
+                    0.06596046686172485,
+                    0.00476348539814353
+                ],
+                "context": [
+                    "It hurt me that she said that, and we know what she said, so teach your employees how to spell properly in front of people."
+                ]
+            },
+            {
+                "term": "coke",
+                "class": "neutral",
+                "probability": [
+                    0.14428706467151642,
+                    0.8534802198410034,
+                    0.002232697792351246
+                ],
+                "context": [
+                    "My mother was asking for a Coke and the woman became rude and said to her coworker in Spanish that she was too fat."
+                ]
+            }
+        ]
+    },
+    "62": {
+        "reviewer_id": 63,
+        "review_time": "2022-12-04",
+        "rating": 2,
+        "review_processed": "The young lady at the drive thru kept having issues getting the order correctly. After I received the fries, the manager dismissed me with a condescending\u00a0disappointment\u00a0in the situation. I didn't realize my receipt was in the bag to confirm my order; found it and gave it to the second lady.",
+        "aspect_sentiment": [
+            {
+                "term": "manager",
+                "class": "negative",
+                "probability": [
+                    0.9990376234054565,
+                    0.000693709880579263,
+                    0.00026869901921600103
+                ],
+                "context": [
+                    "After I received the fries, the manager dismissed me with a condescending\u00a0disappointment\u00a0in the situation."
+                ]
+            },
+            {
+                "term": "fries",
+                "class": "neutral",
+                "probability": [
+                    0.04432454705238342,
+                    0.9510653018951416,
+                    0.004610205069184303
+                ],
+                "context": [
+                    "After I received the fries, the manager dismissed me with a condescending\u00a0disappointment\u00a0in the situation."
+                ]
+            },
+            {
+                "term": "order",
+                "class": "negative",
+                "probability": [
+                    0.9805266857147217,
+                    0.018816210329532623,
+                    0.0006569913821294904
+                ],
+                "context": [
+                    "The young lady at the drive thru kept having issues getting the order correctly.",
+                    "I didn't realize my receipt was in the bag to confirm my order; found it and gave it to the second lady."
+                ]
+            }
+        ]
+    },
+    "63": {
+        "reviewer_id": 64,
+        "review_time": "2023-12-04",
+        "rating": 5,
+        "review_processed": "I never get my orders wrong, and the employees are always quick and nice. The prices here are lower than other locations. I don't know why, but it's a total welcome change to the normal price range. It's a great addition to the area.",
+        "aspect_sentiment": [
+            {
+                "term": "area",
+                "class": "negative",
+                "probability": [
+                    0.6670852899551392,
+                    0.024512317031621933,
+                    0.3084023892879486
+                ],
+                "context": [
+                    "It's a great addition to the area."
+                ]
+            },
+            {
+                "term": "price range",
+                "class": "negative",
+                "probability": [
+                    0.9782870411872864,
+                    0.0038055155891925097,
+                    0.017907394096255302
+                ],
+                "context": [
+                    "I don't know why, but it's a total welcome change to the normal price range."
+                ]
+            },
+            {
+                "term": "prices",
+                "class": "negative",
+                "probability": [
+                    0.9742138981819153,
+                    0.0019160701194778085,
+                    0.023870009928941727
+                ],
+                "context": [
+                    "The prices here are lower than other locations."
+                ]
+            },
+            {
+                "term": "employees",
+                "class": "negative",
+                "probability": [
+                    0.7489420175552368,
+                    0.011400620453059673,
+                    0.23965737223625183
+                ],
+                "context": [
+                    "I never get my orders wrong, and the employees are always quick and nice."
+                ]
+            }
+        ]
+    },
+    "64": {
+        "reviewer_id": 65,
+        "review_time": "2022-12-04",
+        "rating": 3,
+        "review_processed": "Dining room is closed for some reason, so have fun getting back in line for a sauce. Sometimes the fries aren't great, which is a huge part of McDonald's. They run out of fry containers and constantly forget sauces. Come on guys, come on!",
+        "aspect_sentiment": [
+            {
+                "term": "fry containerss",
+                "class": "negative",
+                "probability": [
+                    0.9698629975318909,
+                    0.005240702070295811,
+                    0.02489628456532955
+                ],
+                "context": []
+            },
+            {
+                "term": "mcdonald",
+                "class": "negative",
+                "probability": [
+                    0.8510828018188477,
+                    0.03967765346169472,
+                    0.10923953354358673
+                ],
+                "context": [
+                    "Sometimes the fries aren't great, which is a huge part of McDonald's."
+                ]
+            },
+            {
+                "term": "fries",
+                "class": "negative",
+                "probability": [
+                    0.9946249127388,
+                    0.0006187757244333625,
+                    0.004756215028464794
+                ],
+                "context": [
+                    "Sometimes the fries aren't great, which is a huge part of McDonald's."
+                ]
+            },
+            {
+                "term": "sauce",
+                "class": "negative",
+                "probability": [
+                    0.8262349963188171,
+                    0.018533164635300636,
+                    0.1552318036556244
+                ],
+                "context": [
+                    "Dining room is closed for some reason, so have fun getting back in line for a sauce."
+                ]
+            }
+        ]
+    },
+    "65": {
+        "reviewer_id": 66,
+        "review_time": "2021-12-04",
+        "rating": 2,
+        "review_processed": "Driving through has issues. They constantly get order wrong. Ask you to pull forward to fix and leave you hanging. Their tea as of late has tasted like dish soap. Their fountain drinks have a funky taste to them. Numerous times their fries have been under cooked.",
+        "aspect_sentiment": [
+            {
+                "term": "fries",
+                "class": "negative",
+                "probability": [
+                    0.9972423315048218,
+                    0.0006771462503820658,
+                    0.002080576028674841
+                ],
+                "context": [
+                    "Numerous times their fries have been under cooked."
+                ]
+            },
+            {
+                "term": "fountain drinks",
+                "class": "postive",
+                "probability": [
+                    0.007356415968388319,
+                    0.0005814064061269164,
+                    0.9920622110366821
+                ],
+                "context": [
+                    "Their fountain drinks have a funky taste to them."
+                ]
+            },
+            {
+                "term": "dish soap",
+                "class": "postive",
+                "probability": [
+                    0.06448038667440414,
+                    0.006688782945275307,
+                    0.9288308024406433
+                ],
+                "context": [
+                    "Their tea as of late has tasted like dish soap."
+                ]
+            },
+            {
+                "term": "tea",
+                "class": "postive",
+                "probability": [
+                    0.12656135857105255,
+                    0.005162021145224571,
+                    0.8682765960693359
+                ],
+                "context": [
+                    "Their tea as of late has tasted like dish soap."
+                ]
+            }
+        ]
+    },
+    "66": {
+        "reviewer_id": 67,
+        "review_time": "2024-08-04",
+        "rating": 1,
+        "review_processed": "Got the wrong order? It's a no, it's a yes. It's not a yes; it's an 'no' The answer is \"yes\"; the answer is no, there's no, because it's not the right answer. Got the right order?",
+        "aspect_sentiment": []
+    },
+    "67": {
+        "reviewer_id": 68,
+        "review_time": "2023-12-04",
+        "rating": 2,
+        "review_processed": "McDonald's is usually pretty bad about inventory. The BBQ sauce, it's just a conspiracy. I don't see myself going back to McDonald's anytime soon; they tend to forget the BBQ sauce. Any other sauce and it's in there; it's always there.",
+        "aspect_sentiment": [
+            {
+                "term": "sauce",
+                "class": "negative",
+                "probability": [
+                    0.9989249110221863,
+                    0.0006283138645812869,
+                    0.00044677473488263786
+                ],
+                "context": [
+                    "The BBQ sauce, it's just a conspiracy.",
+                    "I don't see myself going back to McDonald's anytime soon; they tend to forget the BBQ sauce.",
+                    "Any other sauce and it's in there; it's always there."
+                ]
+            },
+            {
+                "term": "mcdonald",
+                "class": "negative",
+                "probability": [
+                    0.9988394379615784,
+                    0.0008623645408079028,
+                    0.00029830841231159866
+                ],
+                "context": [
+                    "McDonald's is usually pretty bad about inventory.",
+                    "I don't see myself going back to McDonald's anytime soon; they tend to forget the BBQ sauce."
+                ]
+            },
+            {
+                "term": "bbq sauce",
+                "class": "negative",
+                "probability": [
+                    0.9989442229270935,
+                    0.0005610859952867031,
+                    0.0004946912522427738
+                ],
+                "context": [
+                    "The BBQ sauce, it's just a conspiracy.",
+                    "I don't see myself going back to McDonald's anytime soon; they tend to forget the BBQ sauce."
+                ]
+            }
+        ]
+    },
+    "68": {
+        "reviewer_id": 69,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "I know places are short staffed, but you can't just ignore people. When I called McDonald's to try and address the issue, they answered and then ignored me. They must have left their phone off the hook because any attempt to call them after this got me only dial tone.",
+        "aspect_sentiment": [
+            {
+                "term": "mcdonald",
+                "class": "negative",
+                "probability": [
+                    0.9972941279411316,
+                    0.0018591454718261957,
+                    0.0008466835133731365
+                ],
+                "context": [
+                    "When I called McDonald's to try and address the issue, they answered and then ignored me."
+                ]
+            },
+            {
+                "term": "staffed",
+                "class": "negative",
+                "probability": [
+                    0.9956753849983215,
+                    0.00254397327080369,
+                    0.001780660473741591
+                ],
+                "context": [
+                    "I know places are short staffed, but you can't just ignore people."
+                ]
+            }
+        ]
+    },
+    "69": {
+        "reviewer_id": 70,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "If I paid for a large-sized meal, and I asked for both a large fry and a large drink, please don't argue with me that the ticket says medium drink. I just wanted to spend a little bit of money on unhealthy food for wasting my hard-earned money.",
+        "aspect_sentiment": [
+            {
+                "term": "food",
+                "class": "negative",
+                "probability": [
+                    0.9952765703201294,
+                    0.0034005327615886927,
+                    0.001322882599197328
+                ],
+                "context": [
+                    "I just wanted to spend a little bit of money on unhealthy food for wasting my hard-earned money."
+                ]
+            },
+            {
+                "term": "drink",
+                "class": "neutral",
+                "probability": [
+                    0.007838020101189613,
+                    0.9873332977294922,
+                    0.004828606266528368
+                ],
+                "context": [
+                    "If I paid for a large-sized meal, and I asked for both a large fry and a large drink, please don't argue with me that the ticket says medium drink."
+                ]
+            },
+            {
+                "term": "fry",
+                "class": "neutral",
+                "probability": [
+                    0.05114859342575073,
+                    0.6422994136810303,
+                    0.3065520226955414
+                ],
+                "context": [
+                    "If I paid for a large-sized meal, and I asked for both a large fry and a large drink, please don't argue with me that the ticket says medium drink."
+                ]
+            },
+            {
+                "term": "meal",
+                "class": "neutral",
+                "probability": [
+                    0.11270510405302048,
+                    0.8779423236846924,
+                    0.009352556429803371
+                ],
+                "context": [
+                    "If I paid for a large-sized meal, and I asked for both a large fry and a large drink, please don't argue with me that the ticket says medium drink."
+                ]
+            }
+        ]
+    },
+    "70": {
+        "reviewer_id": 71,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "The staff play games as if I'm there to pay my money to see them horsing around. The management are a jock; they don't answer the phone. My next visit to Austin will not be to a McDonald's; instead, I'll go to the beach.",
+        "aspect_sentiment": [
+            {
+                "term": "mcdonald",
+                "class": "negative",
+                "probability": [
+                    0.55145263671875,
+                    0.35091063380241394,
+                    0.09763677418231964
+                ],
+                "context": [
+                    "My next visit to Austin will not be to a McDonald's; instead, I'll go to the beach."
+                ]
+            },
+            {
+                "term": "management",
+                "class": "negative",
+                "probability": [
+                    0.9533290266990662,
+                    0.0016582828247919679,
+                    0.045012686401605606
+                ],
+                "context": [
+                    "The management are a jock; they don't answer the phone."
+                ]
+            },
+            {
+                "term": "staff",
+                "class": "negative",
+                "probability": [
+                    0.997882068157196,
+                    0.0004806178039871156,
+                    0.0016372747486457229
+                ],
+                "context": [
+                    "The staff play games as if I'm there to pay my money to see them horsing around."
+                ]
+            }
+        ]
+    },
+    "71": {
+        "reviewer_id": 72,
+        "review_time": "2023-12-04",
+        "rating": 3,
+        "review_processed": "My nuggets were too salty and crunchy, which means I had been sitting there for a while. The cashier cut me off in the middle of my order, but was nice and polite when I addressed it. The fries where kinda cold, but it's a good place to get food at an affordable price.",
+        "aspect_sentiment": [
+            {
+                "term": "price",
+                "class": "postive",
+                "probability": [
+                    0.021285314112901688,
+                    0.0030805827118456364,
+                    0.9756341576576233
+                ],
+                "context": [
+                    "The fries where kinda cold, but it's a good place to get food at an affordable price."
+                ]
+            },
+            {
+                "term": "food",
+                "class": "postive",
+                "probability": [
+                    0.013739150017499924,
+                    0.012898480519652367,
+                    0.9733624458312988
+                ],
+                "context": [
+                    "The fries where kinda cold, but it's a good place to get food at an affordable price."
+                ]
+            },
+            {
+                "term": "fries",
+                "class": "negative",
+                "probability": [
+                    0.9560824632644653,
+                    0.0035894522443413734,
+                    0.040328122675418854
+                ],
+                "context": [
+                    "The fries where kinda cold, but it's a good place to get food at an affordable price."
+                ]
+            },
+            {
+                "term": "cashier",
+                "class": "negative",
+                "probability": [
+                    0.8492622971534729,
+                    0.03738555312156677,
+                    0.11335209012031555
+                ],
+                "context": [
+                    "The cashier cut me off in the middle of my order, but was nice and polite when I addressed it."
+                ]
+            },
+            {
+                "term": "##ggets",
+                "class": "neutral",
+                "probability": [
+                    0.22870340943336487,
+                    0.6191745400428772,
+                    0.15212200582027435
+                ],
+                "context": []
+            },
+            {
+                "term": "nu",
+                "class": "negative",
+                "probability": [
+                    0.9517830014228821,
+                    0.04262148216366768,
+                    0.005595616530627012
+                ],
+                "context": []
+            }
+        ]
+    },
+    "72": {
+        "reviewer_id": 73,
+        "review_time": "2022-12-04",
+        "rating": 3,
+        "review_processed": "It was odd pulling up to the machine and total silence. We had to say \"hello?\" before he came on and asked what we wanted. You do not have to sound peppy and full of life at 5am, but at least be nice. It was 5:25 a.m. and the worker was probably tired as hell.",
+        "aspect_sentiment": [
+            {
+                "term": "worker",
+                "class": "negative",
+                "probability": [
+                    0.9964404702186584,
+                    0.0010274950182065368,
+                    0.0025319643318653107
+                ],
+                "context": [
+                    "It was 5:25 a.m. and the worker was probably tired as hell."
+                ]
+            }
+        ]
+    },
+    "73": {
+        "reviewer_id": 74,
+        "review_time": "2019-12-04",
+        "rating": 1,
+        "review_processed": "All I got for my trouble was a \"sorry for the wait,\" not even an explanation. It's not the first time I've had bad service. I once pulled up and they just said we're not serving right now, even though it was smack dab in the middle of the day hours.",
+        "aspect_sentiment": [
+            {
+                "term": "serving",
+                "class": "negative",
+                "probability": [
+                    0.9976341724395752,
+                    0.0007335192640312016,
+                    0.0016323176678270102
+                ],
+                "context": [
+                    "I once pulled up and they just said we're not serving right now, even though it was smack dab in the middle of the day hours."
+                ]
+            },
+            {
+                "term": "service",
+                "class": "negative",
+                "probability": [
+                    0.9972473978996277,
+                    0.000651685637421906,
+                    0.0021009102929383516
+                ],
+                "context": [
+                    "It's not the first time I've had bad service."
+                ]
+            },
+            {
+                "term": "wait",
+                "class": "negative",
+                "probability": [
+                    0.9953987002372742,
+                    0.0009515871643088758,
+                    0.003649807069450617
+                ],
+                "context": [
+                    "All I got for my trouble was a \"sorry for the wait,\" not even an explanation."
+                ]
+            }
+        ]
+    },
+    "74": {
+        "reviewer_id": 75,
+        "review_time": "2022-12-04",
+        "rating": 1,
+        "review_processed": "When you specifically say, plain and dry, and then just to make sure they understood, you add nothing but the meat and buns. Then you get home, open the bag, and immediately see the cheese through the hamburger wrapper. I mean for crying out loud.",
+        "aspect_sentiment": [
+            {
+                "term": "hamburger wrapper",
+                "class": "neutral",
+                "probability": [
+                    0.11376747488975525,
+                    0.6576440930366516,
+                    0.22858846187591553
+                ],
+                "context": [
+                    "Then you get home, open the bag, and immediately see the cheese through the hamburger wrapper."
+                ]
+            },
+            {
+                "term": "cheese",
+                "class": "postive",
+                "probability": [
+                    0.02008971944451332,
+                    0.31917497515678406,
+                    0.6607353091239929
+                ],
+                "context": [
+                    "Then you get home, open the bag, and immediately see the cheese through the hamburger wrapper."
+                ]
+            },
+            {
+                "term": "bag",
+                "class": "neutral",
+                "probability": [
+                    0.015611781738698483,
+                    0.973478376865387,
+                    0.01090988703072071
+                ],
+                "context": [
+                    "Then you get home, open the bag, and immediately see the cheese through the hamburger wrapper."
+                ]
+            },
+            {
+                "term": "buns",
+                "class": "postive",
+                "probability": [
+                    0.04182428494095802,
+                    0.011362061835825443,
+                    0.9468136429786682
+                ],
+                "context": [
+                    "When you specifically say, plain and dry, and then just to make sure they understood, you add nothing but the meat and buns."
+                ]
+            },
+            {
+                "term": "meat",
+                "class": "neutral",
+                "probability": [
+                    0.19276322424411774,
+                    0.7584388256072998,
+                    0.04879792407155037
+                ],
+                "context": [
+                    "When you specifically say, plain and dry, and then just to make sure they understood, you add nothing but the meat and buns."
+                ]
+            }
+        ]
+    },
+    "75": {
+        "reviewer_id": 76,
+        "review_time": "2022-12-04",
+        "rating": 1,
+        "review_processed": "If you love to be consistently let down, this is the place to frequent. 100% of the time your order will be missing something. It takes forever to get them to correct their mistakes, so take into consideration that the rest of your food will be cold and soggy by the time you get there.",
+        "aspect_sentiment": [
+            {
+                "term": "food",
+                "class": "negative",
+                "probability": [
+                    0.9940641522407532,
+                    0.005391775164753199,
+                    0.0005440202658064663
+                ],
+                "context": [
+                    "It takes forever to get them to correct their mistakes, so take into consideration that the rest of your food will be cold and soggy by the time you get there."
+                ]
+            }
+        ]
+    },
+    "76": {
+        "reviewer_id": 77,
+        "review_time": "2023-12-04",
+        "rating": 4,
+        "review_processed": "It's a good place to grab a quick bite near Lake Creek. Service is slow, but I get all of my items with no errors, and it's a bit smaller than most locations. It's not perfect, but it's good for a quick meal.",
+        "aspect_sentiment": [
+            {
+                "term": "meal",
+                "class": "postive",
+                "probability": [
+                    0.016513116657733917,
+                    0.007521378342062235,
+                    0.9759654998779297
+                ],
+                "context": [
+                    "It's not perfect, but it's good for a quick meal."
+                ]
+            },
+            {
+                "term": "service",
+                "class": "negative",
+                "probability": [
+                    0.9952813982963562,
+                    0.001340603455901146,
+                    0.0033780396915972233
+                ],
+                "context": [
+                    "Service is slow, but I get all of my items with no errors, and it's a bit smaller than most locations."
+                ]
+            },
+            {
+                "term": "bite",
+                "class": "postive",
+                "probability": [
+                    0.007070532068610191,
+                    0.0018394609214738011,
+                    0.9910900592803955
+                ],
+                "context": [
+                    "It's a good place to grab a quick bite near Lake Creek."
+                ]
+            }
+        ]
+    },
+    "77": {
+        "reviewer_id": 78,
+        "review_time": "2023-12-04",
+        "rating": 5,
+        "review_processed": "The cashier's are very nice. It's very clean on the inside, and they get your food done quickly. The food is very tasty, and the service is very friendly and efficient. The restaurant is very clean and friendly, too; it's very well run.",
+        "aspect_sentiment": [
+            {
+                "term": "service",
+                "class": "postive",
+                "probability": [
+                    0.0037154569290578365,
+                    0.001463450724259019,
+                    0.9948210716247559
+                ],
+                "context": [
+                    "The food is very tasty, and the service is very friendly and efficient."
+                ]
+            },
+            {
+                "term": "food",
+                "class": "postive",
+                "probability": [
+                    0.02452794834971428,
+                    0.006030266173183918,
+                    0.9694417715072632
+                ],
+                "context": [
+                    "It's very clean on the inside, and they get your food done quickly.",
+                    "The food is very tasty, and the service is very friendly and efficient."
+                ]
+            },
+            {
+                "term": "cashier",
+                "class": "postive",
+                "probability": [
+                    0.0062153758481144905,
+                    0.0027640322223305702,
+                    0.9910206198692322
+                ],
+                "context": [
+                    "The cashier's are very nice."
+                ]
+            }
+        ]
+    },
+    "78": {
+        "reviewer_id": 79,
+        "review_time": "2023-12-04",
+        "rating": 4,
+        "review_processed": "He went out of his way to make me a satisfied customer. Great customer service. correct: Manager waited on me; correct: He went to great lengths to make the customer happy. The manager was very attentive and kind. The restaurant was very well run and friendly.",
+        "aspect_sentiment": [
+            {
+                "term": "manager",
+                "class": "postive",
+                "probability": [
+                    0.008990151807665825,
+                    0.0010646161390468478,
+                    0.9899452328681946
+                ],
+                "context": [
+                    "correct: Manager waited on me; correct: He went to great lengths to make the customer happy.",
+                    "The manager was very attentive and kind."
+                ]
+            },
+            {
+                "term": "customer service",
+                "class": "postive",
+                "probability": [
+                    0.003095714608207345,
+                    0.0004227570607326925,
+                    0.9964815378189087
+                ],
+                "context": [
+                    "Great customer service."
+                ]
+            }
+        ]
+    },
+    "79": {
+        "reviewer_id": 80,
+        "review_time": "2024-05-04",
+        "rating": 1,
+        "review_processed": "It's 2:42 a.m. on a Saturday and they just stopped answering the drive through. They're just sitting in there chilling. It's amazing. They are just sitting there and not moving at all. It is amazing. It really is amazing! It's unbelievable.",
+        "aspect_sentiment": []
+    },
+    "80": {
+        "reviewer_id": 81,
+        "review_time": "2021-12-04",
+        "rating": 4,
+        "review_processed": "The evening manager is the nicest person I have seen. She is in charge of training her crew with constantly new help. Despite this, every time I have to return an order she goes back to the kitchen and explains the proper way to make the sandwich. You can tell the children she works with respect her and look up to her.",
+        "aspect_sentiment": [
+            {
+                "term": "sandwich",
+                "class": "postive",
+                "probability": [
+                    0.0037601767107844353,
+                    0.04072390869259834,
+                    0.9555159211158752
+                ],
+                "context": [
+                    "Despite this, every time I have to return an order she goes back to the kitchen and explains the proper way to make the sandwich."
+                ]
+            },
+            {
+                "term": "crew",
+                "class": "postive",
+                "probability": [
+                    0.001793903880752623,
+                    0.0018777813529595733,
+                    0.9963282942771912
+                ],
+                "context": [
+                    "She is in charge of training her crew with constantly new help."
+                ]
+            },
+            {
+                "term": "manager",
+                "class": "postive",
+                "probability": [
+                    0.0020677654538303614,
+                    0.001315710716880858,
+                    0.996616542339325
+                ],
+                "context": [
+                    "The evening manager is the nicest person I have seen."
+                ]
+            }
+        ]
+    },
+    "81": {
+        "reviewer_id": 82,
+        "review_time": "2022-12-04",
+        "rating": 4,
+        "review_processed": "The staff are very kind and the food is usually prepared in a timely manner. The drive thru line can sometimes be an inconvenience as it can get very long and at times block entrances. For this reason, it's one of my preferred places to go to eat.",
+        "aspect_sentiment": [
+            {
+                "term": "places",
+                "class": "postive",
+                "probability": [
+                    0.00555642694234848,
+                    0.0022062601055949926,
+                    0.992237389087677
+                ],
+                "context": [
+                    "For this reason, it's one of my preferred places to go to eat."
+                ]
+            },
+            {
+                "term": "entrances",
+                "class": "negative",
+                "probability": [
+                    0.9983271956443787,
+                    0.00040818285197019577,
+                    0.001264599384739995
+                ],
+                "context": [
+                    "The drive thru line can sometimes be an inconvenience as it can get very long and at times block entrances."
+                ]
+            },
+            {
+                "term": "drive thru line",
+                "class": "negative",
+                "probability": [
+                    0.843591570854187,
+                    0.002631925279274583,
+                    0.15377649664878845
+                ],
+                "context": [
+                    "The drive thru line can sometimes be an inconvenience as it can get very long and at times block entrances."
+                ]
+            },
+            {
+                "term": "food",
+                "class": "postive",
+                "probability": [
+                    0.0022219084203243256,
+                    0.0004872146528214216,
+                    0.9972909092903137
+                ],
+                "context": [
+                    "The staff are very kind and the food is usually prepared in a timely manner."
+                ]
+            },
+            {
+                "term": "staff",
+                "class": "postive",
+                "probability": [
+                    0.0008788902196101844,
+                    0.0002287954994244501,
+                    0.9988923668861389
+                ],
+                "context": [
+                    "The staff are very kind and the food is usually prepared in a timely manner."
+                ]
+            }
+        ]
+    },
+    "82": {
+        "reviewer_id": 83,
+        "review_time": "2022-12-04",
+        "rating": 1,
+        "review_processed": "Driving thru attendants are rude, untrained, and unprofessional. When asked for a manager, they lie and say that there isn't one on duty. One specific attendant screamed and cursed at me, which led me to contact corporate. It's impossible for every shift not to have a manager.",
+        "aspect_sentiment": [
+            {
+                "term": "attendant",
+                "class": "negative",
+                "probability": [
+                    0.9989306330680847,
+                    0.00032499709050171077,
+                    0.0007443635840900242
+                ],
+                "context": [
+                    "One specific attendant screamed and cursed at me, which led me to contact corporate."
+                ]
+            },
+            {
+                "term": "manager",
+                "class": "negative",
+                "probability": [
+                    0.9989641904830933,
+                    0.0005861826939508319,
+                    0.00044962967513129115
+                ],
+                "context": [
+                    "When asked for a manager, they lie and say that there isn't one on duty.",
+                    "It's impossible for every shift not to have a manager."
+                ]
+            },
+            {
+                "term": "attendants",
+                "class": "negative",
+                "probability": [
+                    0.9989448189735413,
+                    0.0003629347193054855,
+                    0.0006921794847585261
+                ],
+                "context": [
+                    "Driving thru attendants are rude, untrained, and unprofessional."
+                ]
+            }
+        ]
+    },
+    "83": {
+        "reviewer_id": 84,
+        "review_time": "2019-12-04",
+        "rating": 3,
+        "review_processed": "Driving through the drive thru can get pretty backed up during normal meal periods, so often it is better to go inside. Make sure you go close to regular meal periods for fresher food; the ones under the heat lamp for a while are fresher. The store is always clean.",
+        "aspect_sentiment": [
+            {
+                "term": "heat lamp",
+                "class": "postive",
+                "probability": [
+                    0.18143102526664734,
+                    0.019938530400395393,
+                    0.79863041639328
+                ],
+                "context": [
+                    "Make sure you go close to regular meal periods for fresher food; the ones under the heat lamp for a while are fresher."
+                ]
+            },
+            {
+                "term": "food",
+                "class": "postive",
+                "probability": [
+                    0.1646251231431961,
+                    0.01999957486987114,
+                    0.8153753280639648
+                ],
+                "context": [
+                    "Make sure you go close to regular meal periods for fresher food; the ones under the heat lamp for a while are fresher."
+                ]
+            },
+            {
+                "term": "meal periods",
+                "class": "negative",
+                "probability": [
+                    0.6217173337936401,
+                    0.363298237323761,
+                    0.01498443353921175
+                ],
+                "context": [
+                    "Driving through the drive thru can get pretty backed up during normal meal periods, so often it is better to go inside.",
+                    "Make sure you go close to regular meal periods for fresher food; the ones under the heat lamp for a while are fresher."
+                ]
+            }
+        ]
+    },
+    "84": {
+        "reviewer_id": 85,
+        "review_time": "2023-12-04",
+        "rating": 5,
+        "review_processed": "Frappes are always on point and the machine is always working. Always get me to work on time with fast workers. Hashbrowns were on fire today; they were always on the perfect end of the line. It's always a good sign when the coffee is on point.",
+        "aspect_sentiment": [
+            {
+                "term": "coffee",
+                "class": "postive",
+                "probability": [
+                    0.009373420849442482,
+                    0.0028391845989972353,
+                    0.9877874255180359
+                ],
+                "context": [
+                    "It's always a good sign when the coffee is on point."
+                ]
+            },
+            {
+                "term": "workers",
+                "class": "postive",
+                "probability": [
+                    0.000749895058106631,
+                    0.00023644225439056754,
+                    0.9990136623382568
+                ],
+                "context": [
+                    "Always get me to work on time with fast workers."
+                ]
+            }
+        ]
+    },
+    "85": {
+        "reviewer_id": 86,
+        "review_time": "2021-12-04",
+        "rating": 3,
+        "review_processed": "When I order during the day, I have no issues. They are listed as a 24 hour location, so they show up on Uber Eats late at night. Anytime I order after midnight, they will accept my order and then sit around for an hour before canceling it.",
+        "aspect_sentiment": [
+            {
+                "term": "uber",
+                "class": "neutral",
+                "probability": [
+                    0.001879181363619864,
+                    0.9919121265411377,
+                    0.006208683829754591
+                ],
+                "context": [
+                    "They are listed as a 24 hour location, so they show up on Uber Eats late at night."
+                ]
+            }
+        ]
+    },
+    "86": {
+        "reviewer_id": 87,
+        "review_time": "2022-12-04",
+        "rating": 1,
+        "review_processed": "I ordered four happy meals with plain cheeseburgers. All the burgers were wrong. Do you know what it's like to have four grandkids that can eat all the food you ordered? It's not fair. It's just not fair! It's the way it is.",
+        "aspect_sentiment": [
+            {
+                "term": "food",
+                "class": "postive",
+                "probability": [
+                    0.2917945384979248,
+                    0.32830333709716797,
+                    0.3799021244049072
+                ],
+                "context": [
+                    "Do you know what it's like to have four grandkids that can eat all the food you ordered?"
+                ]
+            },
+            {
+                "term": "burgers",
+                "class": "negative",
+                "probability": [
+                    0.9946276545524597,
+                    0.004160794895142317,
+                    0.0012115460122004151
+                ],
+                "context": [
+                    "All the burgers were wrong."
+                ]
+            },
+            {
+                "term": "##burgers",
+                "class": "negative",
+                "probability": [
+                    0.6617902517318726,
+                    0.14209651947021484,
+                    0.1961132436990738
+                ],
+                "context": []
+            },
+            {
+                "term": "cheese",
+                "class": "neutral",
+                "probability": [
+                    0.03235480934381485,
+                    0.7476292252540588,
+                    0.2200159877538681
+                ],
+                "context": []
+            },
+            {
+                "term": "meals",
+                "class": "postive",
+                "probability": [
+                    0.021736709401011467,
+                    0.009722050279378891,
+                    0.9685413241386414
+                ],
+                "context": [
+                    "I ordered four happy meals with plain cheeseburgers."
+                ]
+            }
+        ]
+    },
+    "87": {
+        "reviewer_id": 88,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "McDonald's is not a fast food company anymore. They're just a food company now. There's always a line wrapped around the building that never moves. When are robots going to replace the kitchen staff who hate their jobs? It's not going to happen soon.",
+        "aspect_sentiment": [
+            {
+                "term": "kitchen staff",
+                "class": "negative",
+                "probability": [
+                    0.9988484382629395,
+                    0.0003263555117882788,
+                    0.0008251780527643859
+                ],
+                "context": [
+                    "When are robots going to replace the kitchen staff who hate their jobs?"
+                ]
+            },
+            {
+                "term": "fast food",
+                "class": "negative",
+                "probability": [
+                    0.6209200620651245,
+                    0.37634900212287903,
+                    0.002730959327891469
+                ],
+                "context": [
+                    "McDonald's is not a fast food company anymore."
+                ]
+            }
+        ]
+    },
+    "88": {
+        "reviewer_id": 89,
+        "review_time": "2021-12-04",
+        "rating": 1,
+        "review_processed": "This McDonald's constantly gets orders wrong. We have ordered at the window and over the phone and every time we don't get a complete order. Today we went back to get our fries and the manager gave us a new one, but the girl at the front window shoved the bag in our hands and when I asked her to stop, she made a rude face and turned away.",
+        "aspect_sentiment": [
+            {
+                "term": "manager",
+                "class": "negative",
+                "probability": [
+                    0.9913186430931091,
+                    0.0016886949306353927,
+                    0.006992637179791927
+                ],
+                "context": [
+                    "Today we went back to get our fries and the manager gave us a new one, but the girl at the front window shoved the bag in our hands and when I asked her to stop, she made a rude face and turned away."
+                ]
+            },
+            {
+                "term": "fries",
+                "class": "postive",
+                "probability": [
+                    0.20578721165657043,
+                    0.34283310174942017,
+                    0.4513796865940094
+                ],
+                "context": [
+                    "Today we went back to get our fries and the manager gave us a new one, but the girl at the front window shoved the bag in our hands and when I asked her to stop, she made a rude face and turned away."
+                ]
+            }
+        ]
+    },
+    "89": {
+        "reviewer_id": 90,
+        "review_time": "2023-12-04",
+        "rating": 1,
+        "review_processed": "I ordered a meal with an extra fry, but when I got to the food window, was only given the fry with the meal. I offered to pay the difference for the extra fry but was told I needed to drive back around and order again. Seriously? That's the response? Will not be returning.",
+        "aspect_sentiment": [
+            {
+                "term": "food window",
+                "class": "neutral",
+                "probability": [
+                    0.038910411298274994,
+                    0.9590328931808472,
+                    0.002056698314845562
+                ],
+                "context": [
+                    "I ordered a meal with an extra fry, but when I got to the food window, was only given the fry with the meal."
+                ]
+            },
+            {
+                "term": "fry",
+                "class": "neutral",
+                "probability": [
+                    0.13860642910003662,
+                    0.8576528429985046,
+                    0.003740777028724551
+                ],
+                "context": [
+                    "I ordered a meal with an extra fry, but when I got to the food window, was only given the fry with the meal.",
+                    "I offered to pay the difference for the extra fry but was told I needed to drive back around and order again."
+                ]
+            },
+            {
+                "term": "meal",
+                "class": "neutral",
+                "probability": [
+                    0.0832051932811737,
+                    0.914055585861206,
+                    0.002739212941378355
+                ],
+                "context": [
+                    "I ordered a meal with an extra fry, but when I got to the food window, was only given the fry with the meal."
+                ]
+            }
+        ]
+    },
+    "90": {
+        "reviewer_id": 91,
+        "review_time": "2019-12-04",
+        "rating": 1,
+        "review_processed": "This is the 3rd time in a row that we've been burned going through the drive thru. You'd think by now that I would have learned my lesson, but I thought this would be quick and easy. This location sucks. I tried calling the number in the receipt but no one answers.",
+        "aspect_sentiment": []
+    },
+    "91": {
+        "reviewer_id": 92,
+        "review_time": "2021-12-04",
+        "rating": 1,
+        "review_processed": "All I asked for was a regular size coffee. Coffee was full of coffee grounds to the point I was spitting them out. Also asked for 3 splendas and 4 creamers on the side and received 3 regular sugars and 2 creamers. And as a little plus there was a piece of plastic! Never again!",
+        "aspect_sentiment": [
+            {
+                "term": "sugars",
+                "class": "negative",
+                "probability": [
+                    0.9795821905136108,
+                    0.015034454874694347,
+                    0.005383349489420652
+                ],
+                "context": [
+                    "Also asked for 3 splendas and 4 creamers on the side and received 3 regular sugars and 2 creamers."
+                ]
+            },
+            {
+                "term": "creamers",
+                "class": "negative",
+                "probability": [
+                    0.9829748272895813,
+                    0.013136506080627441,
+                    0.0038886505644768476
+                ],
+                "context": [
+                    "Also asked for 3 splendas and 4 creamers on the side and received 3 regular sugars and 2 creamers."
+                ]
+            },
+            {
+                "term": "##lendas",
+                "class": "negative",
+                "probability": [
+                    0.9824161529541016,
+                    0.014306364580988884,
+                    0.003277549287304282
+                ],
+                "context": []
+            },
+            {
+                "term": "sp",
+                "class": "neutral",
+                "probability": [
+                    0.3061542809009552,
+                    0.6778585314750671,
+                    0.01598716713488102
+                ],
+                "context": []
+            },
+            {
+                "term": "coffee grounds",
+                "class": "negative",
+                "probability": [
+                    0.7095144391059875,
+                    0.27448341250419617,
+                    0.016002189368009567
+                ],
+                "context": [
+                    "Coffee was full of coffee grounds to the point I was spitting them out."
+                ]
+            },
+            {
+                "term": "coffee",
+                "class": "negative",
+                "probability": [
+                    0.8361466526985168,
+                    0.1547451764345169,
+                    0.009108172729611397
+                ],
+                "context": [
+                    "All I asked for was a regular size coffee.",
+                    "Coffee was full of coffee grounds to the point I was spitting them out."
+                ]
+            }
+        ]
+    },
+    "92": {
+        "reviewer_id": 93,
+        "review_time": "2019-12-04",
+        "rating": 1,
+        "review_processed": "I tried to go through the drive thru at 430 a. It said it was 24 hours, but no one seemed to be taking orders. I drove around twice just in case and tried again but still no answer. I saw one employee in the kitchen but couldn't get his attention. It's very bad business.",
+        "aspect_sentiment": [
+            {
+                "term": "kitchen",
+                "class": "negative",
+                "probability": [
+                    0.5457109212875366,
+                    0.45042192935943604,
+                    0.003867190098389983
+                ],
+                "context": [
+                    "I saw one employee in the kitchen but couldn't get his attention."
+                ]
+            }
+        ]
+    },
+    "93": {
+        "reviewer_id": 94,
+        "review_time": "2020-12-04",
+        "rating": 3,
+        "review_processed": "I ordered a frozen lemonade, paid for it, then sat down. I was there for a bit before someone came and told me they were out. It was too much trouble to get a refund for the difference. I'm not sure I like this new way.",
+        "aspect_sentiment": [
+            {
+                "term": "frozen lemonade",
+                "class": "negative",
+                "probability": [
+                    0.4706272482872009,
+                    0.38040411472320557,
+                    0.14896859228610992
+                ],
+                "context": [
+                    "I ordered a frozen lemonade, paid for it, then sat down."
+                ]
+            }
+        ]
+    },
+    "94": {
+        "reviewer_id": 95,
+        "review_time": "2021-12-04",
+        "rating": 1,
+        "review_processed": "My burger was completely raw in the middle, and when I took it back in to get it remade, the lady behind the counter treated me like I was some stuck up brat for not wanting to eat a raw burger. I will never eat there again.",
+        "aspect_sentiment": [
+            {
+                "term": "lady",
+                "class": "negative",
+                "probability": [
+                    0.9987659454345703,
+                    0.00045107313781045377,
+                    0.0007829025271348655
+                ],
+                "context": [
+                    "My burger was completely raw in the middle, and when I took it back in to get it remade, the lady behind the counter treated me like I was some stuck up brat for not wanting to eat a raw burger."
+                ]
+            },
+            {
+                "term": "burger",
+                "class": "negative",
+                "probability": [
+                    0.9936532974243164,
+                    0.005539106670767069,
+                    0.000807653705123812
+                ],
+                "context": [
+                    "My burger was completely raw in the middle, and when I took it back in to get it remade, the lady behind the counter treated me like I was some stuck up brat for not wanting to eat a raw burger."
+                ]
+            }
+        ]
+    },
+    "95": {
+        "reviewer_id": 96,
+        "review_time": "2020-12-04",
+        "rating": 1,
+        "review_processed": "Every single time I go they f up my order! Then give attitude when they need to correct their mistakes. The staff is horrible. Corporate needs to send all their staff over to a week of training at chic-fil-A college to learn about work ethic, time management, teamwork and basic manors.",
+        "aspect_sentiment": [
+            {
+                "term": "manors",
+                "class": "negative",
+                "probability": [
+                    0.9981818199157715,
+                    0.0011882988037541509,
+                    0.000629953108727932
+                ],
+                "context": [
+                    "Corporate needs to send all their staff over to a week of training at chic-fil-A college to learn about work ethic, time management, teamwork and basic manors."
+                ]
+            },
+            {
+                "term": "teamwork",
+                "class": "negative",
+                "probability": [
+                    0.9969677329063416,
+                    0.001958282431587577,
+                    0.0010740001453086734
+                ],
+                "context": [
+                    "Corporate needs to send all their staff over to a week of training at chic-fil-A college to learn about work ethic, time management, teamwork and basic manors."
+                ]
+            },
+            {
+                "term": "time management",
+                "class": "negative",
+                "probability": [
+                    0.9895713329315186,
+                    0.009903143160045147,
+                    0.0005255448049865663
+                ],
+                "context": [
+                    "Corporate needs to send all their staff over to a week of training at chic-fil-A college to learn about work ethic, time management, teamwork and basic manors."
+                ]
+            },
+            {
+                "term": "work",
+                "class": "negative",
+                "probability": [
+                    0.959642767906189,
+                    0.0379057452082634,
+                    0.0024514507967978716
+                ],
+                "context": [
+                    "Corporate needs to send all their staff over to a week of training at chic-fil-A college to learn about work ethic, time management, teamwork and basic manors."
+                ]
+            },
+            {
+                "term": "staff",
+                "class": "negative",
+                "probability": [
+                    0.9991330504417419,
+                    0.000503927527461201,
+                    0.0003630200808402151
+                ],
+                "context": [
+                    "The staff is horrible.",
+                    "Corporate needs to send all their staff over to a week of training at chic-fil-A college to learn about work ethic, time management, teamwork and basic manors."
+                ]
+            }
+        ]
+    },
+    "96": {
+        "reviewer_id": 97,
+        "review_time": "2022-12-04",
+        "rating": 1,
+        "review_processed": "When ordering food, the employees forgot to turn off their microphones and were talking messily about all the food we had ordered. This is very unprofessional and honestly uncalled for. When I asked for a receipt, they said it was in the bad and it was not in there.",
+        "aspect_sentiment": [
+            {
+                "term": "employees",
+                "class": "negative",
+                "probability": [
+                    0.9987253546714783,
+                    0.0005044877761974931,
+                    0.000770182756241411
+                ],
+                "context": [
+                    "When ordering food, the employees forgot to turn off their microphones and were talking messily about all the food we had ordered."
+                ]
+            },
+            {
+                "term": "food",
+                "class": "negative",
+                "probability": [
+                    0.9288522005081177,
+                    0.06959313899278641,
+                    0.0015547084622085094
+                ],
+                "context": [
+                    "When ordering food, the employees forgot to turn off their microphones and were talking messily about all the food we had ordered."
+                ]
+            }
+        ]
+    },
+    "97": {
+        "reviewer_id": 98,
+        "review_time": "2021-12-04",
+        "rating": 1,
+        "review_processed": "I don't usually review places, but this location has ridiculously rude service and consistently gets the orders wrong. Even when not busy, they are rude. If I were rude, I wouldn't be able to enjoy the experience at this location. It's ridiculous.",
+        "aspect_sentiment": [
+            {
+                "term": "orders",
+                "class": "negative",
+                "probability": [
+                    0.9989007711410522,
+                    0.0005099655245430768,
+                    0.0005892295157536864
+                ],
+                "context": [
+                    "I don't usually review places, but this location has ridiculously rude service and consistently gets the orders wrong."
+                ]
+            },
+            {
+                "term": "service",
+                "class": "negative",
+                "probability": [
+                    0.9983295798301697,
+                    0.0003267021384090185,
+                    0.0013437323505058885
+                ],
+                "context": [
+                    "I don't usually review places, but this location has ridiculously rude service and consistently gets the orders wrong."
+                ]
+            }
+        ]
+    },
+    "98": {
+        "reviewer_id": 99,
+        "review_time": "2024-06-04",
+        "rating": 5,
+        "review_processed": "Allways has the best fries and ice cream in the world; it's the best in the whole world! correct: It has the world's best fries, and the best ice cream anywhere! It's very tasty. It's amazing. It is the best!",
+        "aspect_sentiment": [
+            {
+                "term": "ice cream",
+                "class": "postive",
+                "probability": [
+                    0.0001824156061047688,
+                    0.0002252057456644252,
+                    0.9995923638343811
+                ],
+                "context": [
+                    "Allways has the best fries and ice cream in the world; it's the best in the whole world!",
+                    "correct: It has the world's best fries, and the best ice cream anywhere!"
+                ]
+            },
+            {
+                "term": "fries",
+                "class": "postive",
+                "probability": [
+                    0.00017211318481713533,
+                    0.00021300360094755888,
+                    0.999614953994751
+                ],
+                "context": [
+                    "Allways has the best fries and ice cream in the world; it's the best in the whole world!",
+                    "correct: It has the world's best fries, and the best ice cream anywhere!"
+                ]
+            }
+        ]
+    },
+    "99": {
+        "reviewer_id": 100,
+        "review_time": "2023-12-04",
+        "rating": 4,
+        "review_processed": "McDonald's is great, but they need to hire people who understand both English and Spanish. The people are really nice, but be smarter about who you put in the drive thru and lobby to take orders. The staff are all Spanish speakers trying to take English orders.",
+        "aspect_sentiment": [
+            {
+                "term": "staff",
+                "class": "postive",
+                "probability": [
+                    0.02162514440715313,
+                    0.06668327003717422,
+                    0.9116915464401245
+                ],
+                "context": [
+                    "The staff are all Spanish speakers trying to take English orders."
+                ]
+            }
+        ]
+    }
+}
