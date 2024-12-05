@@ -32,7 +32,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 2,
+            "probability": 0.9146000146865845,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "1": {
         "reviewer_id": 2,
@@ -97,7 +102,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9120000004768372,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "2": {
         "reviewer_id": 3,
@@ -120,7 +130,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 4,
+            "probability": 0.9196000099182129,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "3": {
         "reviewer_id": 4,
@@ -193,7 +208,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9114999771118164,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "4": {
         "reviewer_id": 5,
@@ -244,7 +264,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 6,
+            "probability": 0.9243000149726868,
+            "terms": "amazing, drink, service, food, attitude, great, answer, last, wrong, beginning, drive, try, price, make, boy, welcome, double, leave, order, customer"
+        }
     },
     "5": {
         "reviewer_id": 6,
@@ -281,7 +306,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 4,
+            "probability": 0.9108999967575073,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "6": {
         "reviewer_id": 7,
@@ -335,7 +365,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9133999943733215,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "7": {
         "reviewer_id": 8,
@@ -404,7 +439,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 4,
+            "probability": 0.9221000075340271,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "8": {
         "reviewer_id": 9,
@@ -493,7 +533,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9139999747276306,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "9": {
         "reviewer_id": 10,
@@ -544,7 +589,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 1,
+            "probability": 0.916100025177002,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "10": {
         "reviewer_id": 11,
@@ -567,7 +617,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 1,
+            "probability": 0.8999999761581421,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "11": {
         "reviewer_id": 12,
@@ -618,7 +673,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 4,
+            "probability": 0.9153000116348267,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "12": {
         "reviewer_id": 13,
@@ -669,7 +729,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 4,
+            "probability": 0.9280999898910522,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "13": {
         "reviewer_id": 14,
@@ -776,7 +841,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9211999773979187,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "14": {
         "reviewer_id": 15,
@@ -824,7 +894,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 6,
+            "probability": 0.9176999926567078,
+            "terms": "amazing, drink, service, food, attitude, great, answer, last, wrong, beginning, drive, try, price, make, boy, welcome, double, leave, order, customer"
+        }
     },
     "15": {
         "reviewer_id": 16,
@@ -875,7 +950,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 1,
+            "probability": 0.910099983215332,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "16": {
         "reviewer_id": 17,
@@ -923,7 +1003,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9172000288963318,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "17": {
         "reviewer_id": 18,
@@ -960,7 +1045,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 6,
+            "probability": 0.9053000211715698,
+            "terms": "amazing, drink, service, food, attitude, great, answer, last, wrong, beginning, drive, try, price, make, boy, welcome, double, leave, order, customer"
+        }
     },
     "18": {
         "reviewer_id": 19,
@@ -1035,7 +1125,12 @@
                 "context": []
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9045000076293945,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "19": {
         "reviewer_id": 20,
@@ -1114,7 +1209,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 2,
+            "probability": 0.9192000031471252,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "20": {
         "reviewer_id": 21,
@@ -1139,7 +1239,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 4,
+            "probability": 0.9251000285148621,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "21": {
         "reviewer_id": 22,
@@ -1178,7 +1283,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9200000166893005,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "22": {
         "reviewer_id": 23,
@@ -1277,7 +1387,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 2,
+            "probability": 0.9180999994277954,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "23": {
         "reviewer_id": 24,
@@ -1331,7 +1446,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 5,
+            "probability": 0.9157999753952026,
+            "terms": "order, letter, eat, thru, drive, store, wait, minute, lady, time, confuse, raw, receipt, situation, publish, article, issue, burger, caramel, temperature"
+        }
     },
     "24": {
         "reviewer_id": 25,
@@ -1378,7 +1498,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 1,
+            "probability": 0.8464999794960022,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "25": {
         "reviewer_id": 26,
@@ -1401,7 +1526,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 2,
+            "probability": 0.8963000178337097,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "26": {
         "reviewer_id": 27,
@@ -1425,7 +1555,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 3,
+            "probability": 0.8998000025749207,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "27": {
         "reviewer_id": 28,
@@ -1460,7 +1595,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 5,
+            "probability": 0.9114999771118164,
+            "terms": "order, letter, eat, thru, drive, store, wait, minute, lady, time, confuse, raw, receipt, situation, publish, article, issue, burger, caramel, temperature"
+        }
     },
     "28": {
         "reviewer_id": 29,
@@ -1503,7 +1643,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 4,
+            "probability": 0.9042999744415283,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "29": {
         "reviewer_id": 30,
@@ -1572,7 +1717,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 6,
+            "probability": 0.90829998254776,
+            "terms": "amazing, drink, service, food, attitude, great, answer, last, wrong, beginning, drive, try, price, make, boy, welcome, double, leave, order, customer"
+        }
     },
     "30": {
         "reviewer_id": 31,
@@ -1611,7 +1761,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 5,
+            "probability": 0.8992000222206116,
+            "terms": "order, letter, eat, thru, drive, store, wait, minute, lady, time, confuse, raw, receipt, situation, publish, article, issue, burger, caramel, temperature"
+        }
     },
     "31": {
         "reviewer_id": 32,
@@ -1698,7 +1853,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 5,
+            "probability": 0.926800012588501,
+            "terms": "order, letter, eat, thru, drive, store, wait, minute, lady, time, confuse, raw, receipt, situation, publish, article, issue, burger, caramel, temperature"
+        }
     },
     "32": {
         "reviewer_id": 33,
@@ -1752,7 +1912,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 6,
+            "probability": 0.9045000076293945,
+            "terms": "amazing, drink, service, food, attitude, great, answer, last, wrong, beginning, drive, try, price, make, boy, welcome, double, leave, order, customer"
+        }
     },
     "33": {
         "reviewer_id": 34,
@@ -1793,7 +1958,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9172000288963318,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "34": {
         "reviewer_id": 35,
@@ -1816,7 +1986,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 6,
+            "probability": 0.8960000276565552,
+            "terms": "amazing, drink, service, food, attitude, great, answer, last, wrong, beginning, drive, try, price, make, boy, welcome, double, leave, order, customer"
+        }
     },
     "35": {
         "reviewer_id": 36,
@@ -1855,7 +2030,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 5,
+            "probability": 0.9056000113487244,
+            "terms": "order, letter, eat, thru, drive, store, wait, minute, lady, time, confuse, raw, receipt, situation, publish, article, issue, burger, caramel, temperature"
+        }
     },
     "36": {
         "reviewer_id": 37,
@@ -1863,7 +2043,12 @@
         "rating": 1,
         "review_processed": "This is the third time I've received this letter; this is the first time I got this letter. correct: This is the 3rd time I get this letter, and the last time I'm getting this letter is in the mail. It's a gift.",
         "aspect_sentiment": [],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 5,
+            "probability": 0.8758999705314636,
+            "terms": "order, letter, eat, thru, drive, store, wait, minute, lady, time, confuse, raw, receipt, situation, publish, article, issue, burger, caramel, temperature"
+        }
     },
     "37": {
         "reviewer_id": 38,
@@ -1886,7 +2071,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 2,
+            "probability": 0.8496999740600586,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "38": {
         "reviewer_id": 39,
@@ -1929,7 +2119,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 6,
+            "probability": 0.8907999992370605,
+            "terms": "amazing, drink, service, food, attitude, great, answer, last, wrong, beginning, drive, try, price, make, boy, welcome, double, leave, order, customer"
+        }
     },
     "39": {
         "reviewer_id": 40,
@@ -2050,7 +2245,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9089000225067139,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "40": {
         "reviewer_id": 41,
@@ -2085,7 +2285,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 2,
+            "probability": 0.885200023651123,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "41": {
         "reviewer_id": 42,
@@ -2124,7 +2329,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 5,
+            "probability": 0.916700005531311,
+            "terms": "order, letter, eat, thru, drive, store, wait, minute, lady, time, confuse, raw, receipt, situation, publish, article, issue, burger, caramel, temperature"
+        }
     },
     "42": {
         "reviewer_id": 43,
@@ -2161,7 +2371,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 2,
+            "probability": 0.9239000082015991,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "43": {
         "reviewer_id": 44,
@@ -2245,7 +2460,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 2,
+            "probability": 0.9111999869346619,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "44": {
         "reviewer_id": 45,
@@ -2296,7 +2516,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 6,
+            "probability": 0.8758000135421753,
+            "terms": "amazing, drink, service, food, attitude, great, answer, last, wrong, beginning, drive, try, price, make, boy, welcome, double, leave, order, customer"
+        }
     },
     "45": {
         "reviewer_id": 46,
@@ -2350,7 +2575,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 4,
+            "probability": 0.9187999963760376,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "46": {
         "reviewer_id": 47,
@@ -2376,7 +2606,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9093999862670898,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "47": {
         "reviewer_id": 48,
@@ -2415,7 +2650,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 6,
+            "probability": 0.9176999926567078,
+            "terms": "amazing, drink, service, food, attitude, great, answer, last, wrong, beginning, drive, try, price, make, boy, welcome, double, leave, order, customer"
+        }
     },
     "48": {
         "reviewer_id": 49,
@@ -2499,7 +2739,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 6,
+            "probability": 0.9296000003814697,
+            "terms": "amazing, drink, service, food, attitude, great, answer, last, wrong, beginning, drive, try, price, make, boy, welcome, double, leave, order, customer"
+        }
     },
     "49": {
         "reviewer_id": 50,
@@ -2523,7 +2768,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 2,
+            "probability": 0.923799991607666,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "50": {
         "reviewer_id": 51,
@@ -2587,7 +2837,12 @@
                 "context": []
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 2,
+            "probability": 0.9071999788284302,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "51": {
         "reviewer_id": 52,
@@ -2638,7 +2893,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 2,
+            "probability": 0.9253000020980835,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "52": {
         "reviewer_id": 53,
@@ -2675,7 +2935,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 2,
+            "probability": 0.910099983215332,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "53": {
         "reviewer_id": 54,
@@ -2726,7 +2991,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 4,
+            "probability": 0.9132999777793884,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "54": {
         "reviewer_id": 55,
@@ -2750,7 +3020,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 4,
+            "probability": 0.890500009059906,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "55": {
         "reviewer_id": 56,
@@ -2799,7 +3074,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 4,
+            "probability": 0.894599974155426,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "56": {
         "reviewer_id": 57,
@@ -2853,7 +3133,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 6,
+            "probability": 0.9092000126838684,
+            "terms": "amazing, drink, service, food, attitude, great, answer, last, wrong, beginning, drive, try, price, make, boy, welcome, double, leave, order, customer"
+        }
     },
     "57": {
         "reviewer_id": 58,
@@ -2876,7 +3161,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 3,
+            "probability": 0.91839998960495,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "58": {
         "reviewer_id": 59,
@@ -2900,7 +3190,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9275000095367432,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "59": {
         "reviewer_id": 60,
@@ -2922,7 +3217,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 4,
+            "probability": 0.8937000036239624,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "60": {
         "reviewer_id": 61,
@@ -2946,7 +3246,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 1,
+            "probability": 0.923799991607666,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "61": {
         "reviewer_id": 62,
@@ -2981,7 +3286,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9200999736785889,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "62": {
         "reviewer_id": 63,
@@ -3032,7 +3342,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 5,
+            "probability": 0.9246000051498413,
+            "terms": "order, letter, eat, thru, drive, store, wait, minute, lady, time, confuse, raw, receipt, situation, publish, article, issue, burger, caramel, temperature"
+        }
     },
     "63": {
         "reviewer_id": 64,
@@ -3101,7 +3416,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9222000241279602,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "64": {
         "reviewer_id": 65,
@@ -3165,7 +3485,12 @@
                 "context": []
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9243000149726868,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "65": {
         "reviewer_id": 66,
@@ -3242,7 +3567,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 4,
+            "probability": 0.9261000156402588,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "66": {
         "reviewer_id": 67,
@@ -3250,7 +3580,12 @@
         "rating": 1,
         "review_processed": "Got the wrong order? It's a no, it's a yes. It's not a yes; it's an 'no' The answer is \"yes\"; the answer is no, there's no, because it's not the right answer. Got the right order?",
         "aspect_sentiment": [],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 2,
+            "probability": 0.8632000088691711,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "67": {
         "reviewer_id": 68,
@@ -3304,7 +3639,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 2,
+            "probability": 0.8845000267028809,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "68": {
         "reviewer_id": 69,
@@ -3341,7 +3681,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 6,
+            "probability": 0.917900025844574,
+            "terms": "amazing, drink, service, food, attitude, great, answer, last, wrong, beginning, drive, try, price, make, boy, welcome, double, leave, order, customer"
+        }
     },
     "69": {
         "reviewer_id": 70,
@@ -3402,7 +3747,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9257000088691711,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "70": {
         "reviewer_id": 71,
@@ -3453,7 +3803,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 1,
+            "probability": 0.921500027179718,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "71": {
         "reviewer_id": 72,
@@ -3532,7 +3887,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9273999929428101,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "72": {
         "reviewer_id": 73,
@@ -3557,7 +3917,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9280999898910522,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "73": {
         "reviewer_id": 74,
@@ -3608,7 +3973,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9180999994277954,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "74": {
         "reviewer_id": 75,
@@ -3687,7 +4057,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 5,
+            "probability": 0.9212999939918518,
+            "terms": "order, letter, eat, thru, drive, store, wait, minute, lady, time, confuse, raw, receipt, situation, publish, article, issue, burger, caramel, temperature"
+        }
     },
     "75": {
         "reviewer_id": 76,
@@ -3710,7 +4085,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9154000282287598,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "76": {
         "reviewer_id": 77,
@@ -3761,7 +4141,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9182999730110168,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "77": {
         "reviewer_id": 78,
@@ -3815,7 +4200,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9072999954223633,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "78": {
         "reviewer_id": 79,
@@ -3856,7 +4246,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9204999804496765,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "79": {
         "reviewer_id": 80,
@@ -3864,7 +4259,12 @@
         "rating": 1,
         "review_processed": "It's 2:42 a.m. on a Saturday and they just stopped answering the drive through. They're just sitting in there chilling. It's amazing. They are just sitting there and not moving at all. It is amazing. It really is amazing! It's unbelievable.",
         "aspect_sentiment": [],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 6,
+            "probability": 0.8898000121116638,
+            "terms": "amazing, drink, service, food, attitude, great, answer, last, wrong, beginning, drive, try, price, make, boy, welcome, double, leave, order, customer"
+        }
     },
     "80": {
         "reviewer_id": 81,
@@ -3918,7 +4318,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 1,
+            "probability": 0.934499979019165,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "81": {
         "reviewer_id": 82,
@@ -3997,7 +4402,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 5,
+            "probability": 0.9182000160217285,
+            "terms": "order, letter, eat, thru, drive, store, wait, minute, lady, time, confuse, raw, receipt, situation, publish, article, issue, burger, caramel, temperature"
+        }
     },
     "82": {
         "reviewer_id": 83,
@@ -4051,7 +4461,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9211000204086304,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "83": {
         "reviewer_id": 84,
@@ -4102,7 +4517,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9144999980926514,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "84": {
         "reviewer_id": 85,
@@ -4141,7 +4561,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9204999804496765,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "85": {
         "reviewer_id": 86,
@@ -4164,7 +4589,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 5,
+            "probability": 0.9106000065803528,
+            "terms": "order, letter, eat, thru, drive, store, wait, minute, lady, time, confuse, raw, receipt, situation, publish, article, issue, burger, caramel, temperature"
+        }
     },
     "86": {
         "reviewer_id": 87,
@@ -4241,7 +4671,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9064000248908997,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "87": {
         "reviewer_id": 88,
@@ -4282,7 +4717,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 2,
+            "probability": 0.9093000292778015,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "88": {
         "reviewer_id": 89,
@@ -4319,7 +4759,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 4,
+            "probability": 0.9325000047683716,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "89": {
         "reviewer_id": 90,
@@ -4376,7 +4821,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 4,
+            "probability": 0.911899983882904,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "90": {
         "reviewer_id": 91,
@@ -4384,7 +4834,12 @@
         "rating": 1,
         "review_processed": "This is the 3rd time in a row that we've been burned going through the drive thru. You'd think by now that I would have learned my lesson, but I thought this would be quick and easy. This location sucks. I tried calling the number in the receipt but no one answers.",
         "aspect_sentiment": [],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 2,
+            "probability": 0.9215999841690063,
+            "terms": "cream, job, ice, happen, food, mcdonald, take, location, answer, student, think, order, staff, sauce, company, got, menu, different, normal, eat"
+        }
     },
     "91": {
         "reviewer_id": 92,
@@ -4473,7 +4928,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9187999963760376,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "92": {
         "reviewer_id": 93,
@@ -4498,7 +4958,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 6,
+            "probability": 0.9172999858856201,
+            "terms": "amazing, drink, service, food, attitude, great, answer, last, wrong, beginning, drive, try, price, make, boy, welcome, double, leave, order, customer"
+        }
     },
     "93": {
         "reviewer_id": 94,
@@ -4522,7 +4987,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 4,
+            "probability": 0.9187999963760376,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "94": {
         "reviewer_id": 95,
@@ -4557,7 +5027,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 5,
+            "probability": 0.9021000266075134,
+            "terms": "order, letter, eat, thru, drive, store, wait, minute, lady, time, confuse, raw, receipt, situation, publish, article, issue, burger, caramel, temperature"
+        }
     },
     "95": {
         "reviewer_id": 96,
@@ -4641,7 +5116,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 3,
+            "probability": 0.9316999912261963,
+            "terms": "staff, chicken, time, get, restaurant, say, location, wait, smoothie, meal, sandwich, food, pleasant, unhappy, service, clean, place, take, upgrade, period"
+        }
     },
     "96": {
         "reviewer_id": 97,
@@ -4678,7 +5158,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 5,
+            "probability": 0.9063000082969666,
+            "terms": "order, letter, eat, thru, drive, store, wait, minute, lady, time, confuse, raw, receipt, situation, publish, article, issue, burger, caramel, temperature"
+        }
     },
     "97": {
         "reviewer_id": 98,
@@ -4717,7 +5202,12 @@
                 ]
             }
         ],
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "topic": {
+            "topic": 4,
+            "probability": 0.9031000137329102,
+            "terms": "order, get, taste, rude, late, wrong, meal, large, good, fry, long, line, item, person, finish, ask, pay, taker, tell, service"
+        }
     },
     "98": {
         "reviewer_id": 99,
@@ -4758,7 +5248,12 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 1,
+            "probability": 0.8967999815940857,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     },
     "99": {
         "reviewer_id": 100,
@@ -4781,6 +5276,11 @@
                 ]
             }
         ],
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "topic": {
+            "topic": 1,
+            "probability": 0.9217000007629395,
+            "terms": "nice, friendly, world, good, sandwich, manager, exist, food, great, fry, price, customer, money, coffee, fast, point, hour, mcdonald, fair, run"
+        }
     }
 }
