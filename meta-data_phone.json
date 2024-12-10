@@ -1,0 +1,2846 @@
+{
+    "1": {
+        "review_id": 1,
+        "review_time": "2019-08-02",
+        "review": "Pixel 3 has frequent display defects.I like this phone model. I bought this phone as a gift to my wife. Unfortunately, the phone turned out to be defective. There is a pink tint on the screen. Amazon does not want to properly help customers who are not in the USA. This is very sad.",
+        "rating": 3,
+        "helpfulVotes": 20.0,
+        "review_processed": "There is a pink tint on the screen. Amazon does not want to properly help customers who are not in the U.S. This is very sad. I like this phone model, but it has frequent display defects. I bought it as a gift for my wife, but the phone is defective.",
+        "aspect_sentiment": [
+            {
+                "term": "display",
+                "class": "negative",
+                "probability": [
+                    0.9978808760643005,
+                    0.0004631515475921333,
+                    0.0016559597570449114
+                ],
+                "context": [
+                    "I like this phone model, but it has frequent display defects."
+                ]
+            },
+            {
+                "term": "screen",
+                "class": "negative",
+                "probability": [
+                    0.9974362254142761,
+                    0.0015799833927303553,
+                    0.0009838086552917957
+                ],
+                "context": [
+                    "There is a pink tint on the screen."
+                ]
+            }
+        ]
+    },
+    "2": {
+        "review_id": 2,
+        "review_time": "2018-04-30",
+        "review": "the lower left corner of the phone doesnt work with ....the lower left corner of the phone doesnt work with the stylus. im just so sick of having to return and then wait for my money to come back that im over it",
+        "rating": 2,
+        "helpfulVotes": 1.0,
+        "review_processed": "The lower left corner of the phone doesn't work with the stylus. I'm so sick of having to return and then wait for my money to come back that I'm over it. correct: The lower left corners of the phones do not work with either of the styluses.",
+        "aspect_sentiment": [
+            {
+                "term": "styluses",
+                "class": "negative",
+                "probability": [
+                    0.9983789920806885,
+                    0.0011824928224086761,
+                    0.0004384743224363774
+                ],
+                "context": [
+                    "correct: The lower left corners of the phones do not work with either of the styluses."
+                ]
+            }
+        ]
+    },
+    "3": {
+        "review_id": 3,
+        "review_time": "2017-01-16",
+        "review": "Great phone, be careful with the sellers.The phone is wonderful, if you're considering it, go for it, it's awesome. However my seller marked my phone as \"like new\" but the phone has scuffs on the corners (literally all four corners) and a scuff on the lock button that makes it feel gummy (no positive click like the volume buttons) and it has to be pressed hard, sometimes twice. I can live with it but I wish if I paid for like new I got like new.",
+        "rating": 3,
+        "helpfulVotes": 10.0,
+        "review_processed": "The phone is wonderful, if you're considering it, go for it, it's awesome. However my seller marked my phone as \"like new\" but the phone has scuffs on the corners and a scuff on the lock button that makes it feel gummy.",
+        "aspect_sentiment": [
+            {
+                "term": "lock button",
+                "class": "negative",
+                "probability": [
+                    0.9952892065048218,
+                    0.0019350533839315176,
+                    0.002775801345705986
+                ],
+                "context": [
+                    "However my seller marked my phone as \"like new\" but the phone has scuffs on the corners and a scuff on the lock button that makes it feel gummy."
+                ]
+            },
+            {
+                "term": "scuf",
+                "class": "positive",
+                "probability": [
+                    0.03130223602056503,
+                    0.0015745747368782759,
+                    0.9671230912208557
+                ],
+                "context": []
+            }
+        ]
+    },
+    "4": {
+        "review_id": 4,
+        "review_time": "2019-06-22",
+        "review": "U had no issue with the seller they were great and very helpful!.I was very disappointed in the way this phone worked it was dropping calls constantly and losing service. Not to mention it was slow. It did take very nice photos. Not worth the $120 plus price tag.",
+        "rating": 1,
+        "helpfulVotes": 3.0,
+        "review_processed": "I was very disappointed in the way this phone worked. It was dropping calls constantly and losing service. It did take very nice photos, but it wasn't worth the $120 plus price tag. I had no issue with the seller; they were great and very helpful.",
+        "aspect_sentiment": [
+            {
+                "term": "seller",
+                "class": "positive",
+                "probability": [
+                    0.21370655298233032,
+                    0.004163434728980064,
+                    0.7821300029754639
+                ],
+                "context": [
+                    "I had no issue with the seller; they were great and very helpful."
+                ]
+            },
+            {
+                "term": "price tag",
+                "class": "negative",
+                "probability": [
+                    0.9818782210350037,
+                    0.0008549572667106986,
+                    0.017266880720853806
+                ],
+                "context": [
+                    "It did take very nice photos, but it wasn't worth the $120 plus price tag."
+                ]
+            },
+            {
+                "term": "service",
+                "class": "negative",
+                "probability": [
+                    0.9973047971725464,
+                    0.0021815213840454817,
+                    0.0005137272528372705
+                ],
+                "context": [
+                    "It was dropping calls constantly and losing service."
+                ]
+            }
+        ]
+    },
+    "5": {
+        "review_id": 6,
+        "review_time": "2019-08-12",
+        "review": "Good phone!.I personally think this phone is near perfect. Delivery was quick but not teleportation quick. The box came with - Galaxy A50 - Case - Sim tool - Quick charge American adapter and cable type c - low quality headphones I have used this phone for a while now and its really almost flagship level. For the price it's perfect. It will work 4g lte GSM for most providers in the States. I'll update if it works on Cricket. Performance great. UI great. Camera great. The security is great as well. But the finger scanner in the screen is not the best but it gets the job done. It looks amazing as well! Overall good phone. Edit: It works perfectly with Cricket with 4g lte.",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "I have used this phone for a while now and it's really almost flagship level. It will work with most providers in the States. The security is great as well. The finger scanner in the screen is not the best but it gets the job done. Overall good phone.",
+        "aspect_sentiment": [
+            {
+                "term": "screen",
+                "class": "negative",
+                "probability": [
+                    0.9859954714775085,
+                    0.004074217285960913,
+                    0.00993030983954668
+                ],
+                "context": [
+                    "The finger scanner in the screen is not the best but it gets the job done."
+                ]
+            },
+            {
+                "term": "finger scanner",
+                "class": "negative",
+                "probability": [
+                    0.9718100428581238,
+                    0.0016591259045526385,
+                    0.02653084695339203
+                ],
+                "context": [
+                    "The finger scanner in the screen is not the best but it gets the job done."
+                ]
+            },
+            {
+                "term": "security",
+                "class": "positive",
+                "probability": [
+                    0.0031617097556591034,
+                    0.0007629881729371846,
+                    0.9960752129554749
+                ],
+                "context": [
+                    "The security is great as well."
+                ]
+            }
+        ]
+    },
+    "6": {
+        "review_id": 7,
+        "review_time": "2018-02-12",
+        "review": "Poorly fitted glass + bad reception = return.The phone I received was indeed an AT&T phone. The front and back glass had both been replaced and the finish was flawless. That, unfortunately, is where the good ends and the bad begins. I had to return this phone. I have extremely poor reception, which I suspect is a problem with the device I received rather than a problem inherent to the S6. The other issue is that, although the glass had been replaced, it was not seated properly or flush with the edges. I could get my thumb nail underneath the glass and see the dust/lint that had collected inside. Obviously does not have the water-resistant properties that it would have had from the factory. Thank god for amazon's return policy.",
+        "rating": 2,
+        "helpfulVotes": 1.0,
+        "review_processed": "The phone I received was indeed an AT&T phone. The front and back glass had both been replaced and the finish was flawless. I have extremely poor reception, which I suspect is a problem with the device I received rather than a problem inherent to the S6. Although the glass had been replaced, it was not seated properly or flush with the edges.",
+        "aspect_sentiment": [
+            {
+                "term": "edges",
+                "class": "negative",
+                "probability": [
+                    0.8723764419555664,
+                    0.12564514577388763,
+                    0.001978424610570073
+                ],
+                "context": [
+                    "Although the glass had been replaced, it was not seated properly or flush with the edges."
+                ]
+            },
+            {
+                "term": "reception",
+                "class": "negative",
+                "probability": [
+                    0.9978173971176147,
+                    0.0007023980724625289,
+                    0.0014801444485783577
+                ],
+                "context": [
+                    "I have extremely poor reception, which I suspect is a problem with the device I received rather than a problem inherent to the S6."
+                ]
+            },
+            {
+                "term": "finish",
+                "class": "positive",
+                "probability": [
+                    0.25340479612350464,
+                    0.010210279375314713,
+                    0.736384928226471
+                ],
+                "context": [
+                    "The front and back glass had both been replaced and the finish was flawless."
+                ]
+            },
+            {
+                "term": "glass",
+                "class": "negative",
+                "probability": [
+                    0.9925585985183716,
+                    0.0027330471202731133,
+                    0.004708368796855211
+                ],
+                "context": [
+                    "The front and back glass had both been replaced and the finish was flawless.",
+                    "Although the glass had been replaced, it was not seated properly or flush with the edges."
+                ]
+            },
+            {
+                "term": "back",
+                "class": "negative",
+                "probability": [
+                    0.9950007796287537,
+                    0.0031445794738829136,
+                    0.0018546401988714933
+                ],
+                "context": [
+                    "The front and back glass had both been replaced and the finish was flawless."
+                ]
+            },
+            {
+                "term": "front",
+                "class": "negative",
+                "probability": [
+                    0.9964497089385986,
+                    0.002303581451997161,
+                    0.001246716594323516
+                ],
+                "context": [
+                    "The front and back glass had both been replaced and the finish was flawless."
+                ]
+            }
+        ]
+    },
+    "7": {
+        "review_id": 8,
+        "review_time": "2017-09-20",
+        "review": "Five Stars.Awesome phone, great value. Runs all apps smoothly, takes really good photos and it's overall comfortable to use.",
+        "rating": 5,
+        "helpfulVotes": 2.0,
+        "review_processed": "Five Stars.Awesome phone, great value. Runs all apps smoothly, takes really good photos and it's overall comfortable to use.",
+        "aspect_sentiment": [
+            {
+                "term": "use",
+                "class": "positive",
+                "probability": [
+                    0.00016045288066379726,
+                    0.00014816246402915567,
+                    0.9996914863586426
+                ],
+                "context": [
+                    "Runs all apps smoothly, takes really good photos and it's overall comfortable to use."
+                ]
+            },
+            {
+                "term": "apps",
+                "class": "positive",
+                "probability": [
+                    0.0002296001766808331,
+                    0.00022023693600203842,
+                    0.9995501637458801
+                ],
+                "context": [
+                    "Runs all apps smoothly, takes really good photos and it's overall comfortable to use."
+                ]
+            },
+            {
+                "term": "value",
+                "class": "positive",
+                "probability": [
+                    8.514922228641808e-05,
+                    0.00012196737225167453,
+                    0.9997929930686951
+                ],
+                "context": [
+                    "Five Stars.Awesome phone, great value."
+                ]
+            },
+            {
+                "term": "phone",
+                "class": "positive",
+                "probability": [
+                    0.00011155570246046409,
+                    0.00013744400348514318,
+                    0.9997510313987732
+                ],
+                "context": [
+                    "Five Stars.Awesome phone, great value."
+                ]
+            }
+        ]
+    },
+    "8": {
+        "review_id": 9,
+        "review_time": "2019-04-02",
+        "review": "cheap and useful.huawei always gives us surprise! This price phone is amazing:D",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "cheap and useful.huawei always gives us surprise! This price phone is amazing:D",
+        "aspect_sentiment": [
+            {
+                "term": "price",
+                "class": "positive",
+                "probability": [
+                    6.544005736941472e-05,
+                    0.00012854386295657605,
+                    0.9998059868812561
+                ],
+                "context": [
+                    "This price phone is amazing:D"
+                ]
+            }
+        ]
+    },
+    "9": {
+        "review_id": 10,
+        "review_time": "2019-11-06",
+        "review": "Item came defective.The iphone is in good condition externally. But internally there was a serious issue with the battery and Face id would never work. Make sure to check the phone battery and Face id feature working.",
+        "rating": 1,
+        "helpfulVotes": 1.0,
+        "review_processed": "The iPhone is in good condition externally, but internally there was a serious issue with the battery and Face ID would never work. Make sure to check the phone battery and the Face ID feature are working before you buy it. correct: Item came defective, but the battery was working.",
+        "aspect_sentiment": [
+            {
+                "term": "battery",
+                "class": "negative",
+                "probability": [
+                    0.9983965754508972,
+                    0.0012508630752563477,
+                    0.000352513074176386
+                ],
+                "context": [
+                    "The iPhone is in good condition externally, but internally there was a serious issue with the battery and Face ID would never work.",
+                    "Make sure to check the phone battery and the Face ID feature are working before you buy it.",
+                    "correct: Item came defective, but the battery was working."
+                ]
+            },
+            {
+                "term": "iphone",
+                "class": "negative",
+                "probability": [
+                    0.841728150844574,
+                    0.0666457861661911,
+                    0.09162605553865433
+                ],
+                "context": [
+                    "The iPhone is in good condition externally, but internally there was a serious issue with the battery and Face ID would never work."
+                ]
+            }
+        ]
+    },
+    "10": {
+        "review_id": 11,
+        "review_time": "2019-05-17",
+        "review": "iPhone.So far, so good.",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "iPhone.So far, so good.",
+        "aspect_sentiment": [
+            {
+                "term": "iphone",
+                "class": "positive",
+                "probability": [
+                    7.36923684598878e-05,
+                    0.00013474002480506897,
+                    0.9997915625572205
+                ],
+                "context": [
+                    "iPhone.So far, so good."
+                ]
+            }
+        ]
+    },
+    "11": {
+        "review_id": 12,
+        "review_time": "2016-10-20",
+        "review": "Mobile not working.I am not able switch on my mobile since today morning. The last used yesterday night and when I woke up in morning I found my mobile was totally dead even not charging also. Kindly help me to find the solution.",
+        "rating": 1,
+        "helpfulVotes": 4.0,
+        "review_processed": "I am not able to switch on my mobile since today morning. I last used yesterday night and when I woke up in morning I found my mobile was totally dead even not charging also. Kindly help me to find the solution. correct: Mobile not working;.",
+        "aspect_sentiment": [
+            {
+                "term": "charging",
+                "class": "negative",
+                "probability": [
+                    0.9969907999038696,
+                    0.002695516450330615,
+                    0.00031370462966151536
+                ],
+                "context": [
+                    "I last used yesterday night and when I woke up in morning I found my mobile was totally dead even not charging also."
+                ]
+            }
+        ]
+    },
+    "12": {
+        "review_id": 13,
+        "review_time": "2016-11-23",
+        "review": "very disappointed.One month after purchasing the pone, it stop working. Samsung people in chile told me that it cannot be fix and that it has a turkish software and has been internaly manipulated. i'm very disappointed.",
+        "rating": 1,
+        "helpfulVotes": 4.0,
+        "review_processed": "One month after purchasing the phone, it stopped working. Samsung people in Chile told me that it cannot be fix and that it has a Turkish software and has been manipulated. I'm very disappointed. correct: very disappointed, but it's not going to work.",
+        "aspect_sentiment": [
+            {
+                "term": "samsung",
+                "class": "negative",
+                "probability": [
+                    0.9969571828842163,
+                    0.0028177674394100904,
+                    0.00022506553796119988
+                ],
+                "context": [
+                    "Samsung people in Chile told me that it cannot be fix and that it has a Turkish software and has been manipulated."
+                ]
+            }
+        ]
+    },
+    "13": {
+        "review_id": 14,
+        "review_time": "2019-11-14",
+        "review": "Its awesome.Wonderful phone",
+        "rating": 5,
+        "helpfulVotes": 2.0,
+        "review_processed": "Its awesome.Wonderful phone",
+        "aspect_sentiment": [
+            {
+                "term": "phone",
+                "class": "positive",
+                "probability": [
+                    8.548454206902534e-05,
+                    0.00011841457308037207,
+                    0.9997960925102234
+                ],
+                "context": [
+                    "Its awesome.Wonderful phone"
+                ]
+            }
+        ]
+    },
+    "14": {
+        "review_id": 15,
+        "review_time": "2019-02-22",
+        "review": "good phone, functions as advertised.decent phone for the price, wish it didnt have as much uninstallable bloatware, but will likely just root and reimage it in a few months.",
+        "rating": 5,
+        "helpfulVotes": 4.0,
+        "review_processed": "Good phone, functions as advertised. Wish it didn't have as much uninstallable bloatware, but will likely just root and reimage it in a few months. It's a decent phone for the price, but it has too many unnecessary bloatwalls.",
+        "aspect_sentiment": [
+            {
+                "term": "price",
+                "class": "positive",
+                "probability": [
+                    0.4104076027870178,
+                    0.01319515984505415,
+                    0.5763972401618958
+                ],
+                "context": [
+                    "It's a decent phone for the price, but it has too many unnecessary bloatwalls."
+                ]
+            },
+            {
+                "term": "bloatware",
+                "class": "negative",
+                "probability": [
+                    0.9675319194793701,
+                    0.006529992911964655,
+                    0.025938106700778008
+                ],
+                "context": [
+                    "Wish it didn't have as much uninstallable bloatware, but will likely just root and reimage it in a few months."
+                ]
+            }
+        ]
+    },
+    "15": {
+        "review_id": 16,
+        "review_time": "2019-08-11",
+        "review": "Doesn't work..The phone I received came with with wifi broken. After numerous attempts to connect to multiple wifi connections, the phone refuses to actually connect. The wifi status is stuck in a connecting limbo, then immediately disconnects. I thought that since this was a Amazon Renewed product it would work, but I was wrong. Even after multiple factory resets, it still refuses to work.",
+        "rating": 1,
+        "helpfulVotes": 3.0,
+        "review_processed": "The phone I received came with with wifi broken. After numerous attempts to connect to multiple wifi connections, the phone refuses to actually connect. The wifi status is stuck in a connecting limbo, then immediately disconnects. I thought that since this was a Amazon Renewed product it would work, but I was wrong.",
+        "aspect_sentiment": [
+            {
+                "term": "amazon",
+                "class": "positive",
+                "probability": [
+                    0.25986987352371216,
+                    0.016586273908615112,
+                    0.7235438227653503
+                ],
+                "context": [
+                    "I thought that since this was a Amazon Renewed product it would work, but I was wrong."
+                ]
+            },
+            {
+                "term": "wifi",
+                "class": "negative",
+                "probability": [
+                    0.9944055080413818,
+                    0.005171680357307196,
+                    0.0004228518810123205
+                ],
+                "context": [
+                    "The phone I received came with with wifi broken.",
+                    "After numerous attempts to connect to multiple wifi connections, the phone refuses to actually connect.",
+                    "The wifi status is stuck in a connecting limbo, then immediately disconnects."
+                ]
+            }
+        ]
+    },
+    "16": {
+        "review_id": 17,
+        "review_time": "2019-01-28",
+        "review": "Honest disclosure was expected. Didn't happen..Tech Ventures lied to me. After being very cooperate exchanging iPhone for a Note 5, then assuring me a GOOD Note 5, I learned that the rep on the phone has NO IMPUT as to which Note 5 would sent to me. Her call goes to a warehouse where the cell is simply removed from the storage location. I received the first model of the Note 5. Trust me, NOT TECH VENTURES...this Note 5 is a mess except for e-audio books; no email/gmail & it changes words at will. They really dropped the ball.",
+        "rating": 1,
+        "helpfulVotes": 1.0,
+        "review_processed": "After being very cooperative exchanging an iPhone for a Note 5, I learned that the rep on the phone has no clue as to which model will be sent to me. The rep's call goes to a warehouse where the cell is simply removed from the storage location. Trust me, NOT Tech Ventures. This Note 5 is a mess except for e-audio books; no email, and it changes words at will.",
+        "aspect_sentiment": [
+            {
+                "term": "iphone",
+                "class": "neutral",
+                "probability": [
+                    0.0010808227816596627,
+                    0.9985997080802917,
+                    0.0003194342425558716
+                ],
+                "context": [
+                    "After being very cooperative exchanging an iPhone for a Note 5, I learned that the rep on the phone has no clue as to which model will be sent to me."
+                ]
+            }
+        ]
+    },
+    "17": {
+        "review_id": 18,
+        "review_time": "2017-05-04",
+        "review": "Five Stars.Like a brand new phone. No issues found. Seems to be pretty friendly customer service.",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "Five Stars.Like a brand new phone. No issues found. Seems to be pretty friendly customer service.",
+        "aspect_sentiment": [
+            {
+                "term": "customer service",
+                "class": "positive",
+                "probability": [
+                    0.00040400621946901083,
+                    0.00015193696890491992,
+                    0.9994440674781799
+                ],
+                "context": [
+                    "Seems to be pretty friendly customer service."
+                ]
+            },
+            {
+                "term": "phone",
+                "class": "positive",
+                "probability": [
+                    0.002528076060116291,
+                    0.0010908853728324175,
+                    0.9963811039924622
+                ],
+                "context": [
+                    "Five Stars.Like a brand new phone."
+                ]
+            }
+        ]
+    },
+    "18": {
+        "review_id": 19,
+        "review_time": "2013-12-19",
+        "review": "Broke after one month.Piece of crap. worked for about a month then it quit 'ringing' ( or making any kind of noise at all) and YES we checked to see if it was on silent or turned down. also will just randomly cut me off and start blinking weird stuff on the screen, going 'in and out' (no its not the server, def the phone). Says the battery is fully charged and then 20 minutes later shows battery as drained. DO NOT WASTE YOUR MONEY ON THIS PHONE!",
+        "rating": 1,
+        "helpfulVotes": 4.0,
+        "review_processed": "It stopped 'ringing' or making any kind of noise at all. It will randomly cut me off and start blinking weird things on the screen. Says the battery is fully charged and then 20 minutes later shows battery as drained. Do not waste your money on this piece of crap.",
+        "aspect_sentiment": [
+            {
+                "term": "battery",
+                "class": "negative",
+                "probability": [
+                    0.7760448455810547,
+                    0.054542843252420425,
+                    0.16941235959529877
+                ],
+                "context": [
+                    "Says the battery is fully charged and then 20 minutes later shows battery as drained."
+                ]
+            }
+        ]
+    },
+    "19": {
+        "review_id": 20,
+        "review_time": "2019-02-26",
+        "review": "Phone is unusable.Phone came with zero instructions or paperwork. Device cannot be activated because it does NOT have a SIM card. Am returning this embarrassing excuse for a quality product. if you read every line of the description you will find a snippet that indicates there is no SIM card. Very clever! Please note that you will have to get a modern nano SIM card to use this phone. Every refurbished Verizon phone I have purchased always came with activation instructions and a Verizon SIM card. Look for another phone that is ready to be activated.",
+        "rating": 1,
+        "helpfulVotes": 24.0,
+        "review_processed": "Phone came with no instructions or paperwork. Device cannot be activated because it does not have a SIM card. If you read every line of the description, you will find a snippet that indicates there is no SIM card; you will have to get a modern nano SIM card to use this phone.",
+        "aspect_sentiment": [
+            {
+                "term": "sim card card",
+                "class": "negative",
+                "probability": [
+                    0.9968390464782715,
+                    0.0017008555587381124,
+                    0.001460083993151784
+                ],
+                "context": [
+                    "Device cannot be activated because it does not have a SIM card.",
+                    "If you read every line of the description, you will find a snippet that indicates there is no SIM card; you will have to get a modern nano SIM card to use this phone."
+                ]
+            },
+            {
+                "term": "sim card",
+                "class": "negative",
+                "probability": [
+                    0.9987397789955139,
+                    0.0007322317687794566,
+                    0.0005280786426737905
+                ],
+                "context": [
+                    "Device cannot be activated because it does not have a SIM card.",
+                    "If you read every line of the description, you will find a snippet that indicates there is no SIM card; you will have to get a modern nano SIM card to use this phone."
+                ]
+            }
+        ]
+    },
+    "20": {
+        "review_id": 21,
+        "review_time": "2017-11-03",
+        "review": "Not a happy.I bought this in July and it died completely in October. Not a happy camper",
+        "rating": 4,
+        "helpfulVotes": 1.0,
+        "review_processed": "Not a happy.I bought this in July and it died completely in October. Not a happy camper",
+        "aspect_sentiment": [
+            {
+                "term": "camper",
+                "class": "negative",
+                "probability": [
+                    0.9979231953620911,
+                    0.0011672629043459892,
+                    0.0009096102439798415
+                ],
+                "context": [
+                    "Not a happy camper"
+                ]
+            }
+        ]
+    },
+    "21": {
+        "review_id": 23,
+        "review_time": "2018-12-29",
+        "review": "Moto G6 2018 phone. Very nice good quality and nice camera.This is a very nice phone. Purchase two as a gift. nicely made, modern look good camera. For the price it\u2019s an awsum phone. Call quality from the receiver side is clear and nice. From caller side I\u2019ve been told no issues. I cannot comment on the battery life as of yet, I\u2019ve received no feed back. Over all phone was not loaded with all the bloatware. Clean phone with just the google apps. Not an iPhone by any means but a great android phone.",
+        "rating": 4,
+        "helpfulVotes": 1.0,
+        "review_processed": "Moto G6 is a very nice phone. Nice good quality and a nice camera. Not an iPhone by any means, but a great android phone. Phone was not loaded with all the bloatware. Clean phone with just the Google apps is a great phone.",
+        "aspect_sentiment": [
+            {
+                "term": "google",
+                "class": "positive",
+                "probability": [
+                    0.20237621665000916,
+                    0.03529717028141022,
+                    0.7623265385627747
+                ],
+                "context": [
+                    "Clean phone with just the Google apps is a great phone."
+                ]
+            },
+            {
+                "term": "iphone",
+                "class": "negative",
+                "probability": [
+                    0.7870500087738037,
+                    0.18427148461341858,
+                    0.02867848612368107
+                ],
+                "context": [
+                    "Not an iPhone by any means, but a great android phone."
+                ]
+            }
+        ]
+    },
+    "22": {
+        "review_id": 24,
+        "review_time": "2015-11-02",
+        "review": "Four Stars.The product itself is great as I already have one.",
+        "rating": 4,
+        "helpfulVotes": 1.0,
+        "review_processed": "Four Stars.The product itself is great as I already have one.",
+        "aspect_sentiment": [
+            {
+                "term": "stars",
+                "class": "positive",
+                "probability": [
+                    0.000770610524341464,
+                    0.0017972952919080853,
+                    0.9974320530891418
+                ],
+                "context": [
+                    "Four Stars.The product itself is great as I already have one."
+                ]
+            }
+        ]
+    },
+    "23": {
+        "review_id": 25,
+        "review_time": "2017-01-06",
+        "review": "review of Samsung Galaxy 6 - refurbished 9by whom?).phone/charger seem good, lack of ANY documentation was a disappointment. Samsungs' changing SIM size caused a slight problem. My problem is to find time setting up features utilizing info from the additional books I have subsequently acquired. Formerly wore out 2 Samsung Galaxy G3s (and an LG G3 (thanks, T-Mobile)).",
+        "rating": 4,
+        "helpfulVotes": 5.0,
+        "review_processed": "Review of Samsung Galaxy 6 - refurbished by whom? Phone and charger seem good, but lack of documentation was a disappointment. My problem is to find time setting up features utilizing info from the additional books I have acquired. Formerly wore out 2 Samsung Galaxy G3s and an LG G3.",
+        "aspect_sentiment": [
+            {
+                "term": "features",
+                "class": "neutral",
+                "probability": [
+                    0.0031589814461767673,
+                    0.9926379919052124,
+                    0.004203055519610643
+                ],
+                "context": [
+                    "My problem is to find time setting up features utilizing info from the additional books I have acquired."
+                ]
+            }
+        ]
+    },
+    "24": {
+        "review_id": 26,
+        "review_time": "2016-07-31",
+        "review": "Five Stars.THE PHONE CAME FAST AND WPRKS GREAT",
+        "rating": 5,
+        "helpfulVotes": 2.0,
+        "review_processed": "Five Stars.THE PHONE CAME FAST AND WPRKS GREAT",
+        "aspect_sentiment": [
+            {
+                "term": "phone",
+                "class": "positive",
+                "probability": [
+                    0.0001047503828885965,
+                    0.00012726445856969804,
+                    0.9997679591178894
+                ],
+                "context": [
+                    "Five Stars.THE PHONE CAME FAST AND WPRKS GREAT"
+                ]
+            }
+        ]
+    },
+    "25": {
+        "review_id": 27,
+        "review_time": "2019-06-13",
+        "review": "awesome phone.The battery is 4000mAh . For all day , average use . This miui is pretty cool The android is updated The camera is fine Good, pretty and cheap Global model with LTE bands . Work good",
+        "rating": 5,
+        "helpfulVotes": 5.0,
+        "review_processed": "The battery is 4000mAh for all day, average use. The android is updated and the camera is fine. It is a global model with LTE bands, and it works well. It's pretty, pretty, and cheap. The battery lasts all day for all days, but it's not perfect.",
+        "aspect_sentiment": [
+            {
+                "term": "lt",
+                "class": "neutral",
+                "probability": [
+                    0.04710131883621216,
+                    0.5448805093765259,
+                    0.40801817178726196
+                ],
+                "context": []
+            },
+            {
+                "term": "camera",
+                "class": "positive",
+                "probability": [
+                    0.009092384949326515,
+                    0.09197957813739777,
+                    0.8989280462265015
+                ],
+                "context": [
+                    "The android is updated and the camera is fine."
+                ]
+            },
+            {
+                "term": "android",
+                "class": "positive",
+                "probability": [
+                    0.008778801187872887,
+                    0.006166320759803057,
+                    0.9850548505783081
+                ],
+                "context": [
+                    "The android is updated and the camera is fine."
+                ]
+            },
+            {
+                "term": "use",
+                "class": "neutral",
+                "probability": [
+                    0.1291670948266983,
+                    0.46200549602508545,
+                    0.40882739424705505
+                ],
+                "context": [
+                    "The battery is 4000mAh for all day, average use."
+                ]
+            },
+            {
+                "term": "battery",
+                "class": "positive",
+                "probability": [
+                    0.07083655148744583,
+                    0.33704209327697754,
+                    0.5921213626861572
+                ],
+                "context": [
+                    "The battery is 4000mAh for all day, average use.",
+                    "The battery lasts all day for all days, but it's not perfect."
+                ]
+            }
+        ]
+    },
+    "26": {
+        "review_id": 29,
+        "review_time": "2019-02-06",
+        "review": "Love this phone!.I like the phone, it does Band71, the extra battery is wonderful. I usually am on 100% charge all day, with only the external battery cycling -- which means I can replace that when it eventually wears out and still have full battery life on the internal battery. I really like the moto mods also - just wish there was more of them.",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "I like the phone, it does Band 71, and the extra battery is wonderful. I usually am on 100% charge all day, with only the external battery cycling. I really like the moto mods also - just wish there was more of them. correct: Love this phone!",
+        "aspect_sentiment": [
+            {
+                "term": "external battery",
+                "class": "negative",
+                "probability": [
+                    0.667422890663147,
+                    0.3238303065299988,
+                    0.008746846579015255
+                ],
+                "context": [
+                    "I usually am on 100% charge all day, with only the external battery cycling."
+                ]
+            },
+            {
+                "term": "charge",
+                "class": "positive",
+                "probability": [
+                    0.23532609641551971,
+                    0.012200957164168358,
+                    0.7524729371070862
+                ],
+                "context": [
+                    "I usually am on 100% charge all day, with only the external battery cycling."
+                ]
+            },
+            {
+                "term": "extra battery",
+                "class": "positive",
+                "probability": [
+                    0.001049226731993258,
+                    0.00027243344811722636,
+                    0.9986783862113953
+                ],
+                "context": [
+                    "I like the phone, it does Band 71, and the extra battery is wonderful."
+                ]
+            },
+            {
+                "term": "moto",
+                "class": "positive",
+                "probability": [
+                    0.0012464229948818684,
+                    0.00035622704308480024,
+                    0.9983972907066345
+                ],
+                "context": [
+                    "I really like the moto mods also - just wish there was more of them."
+                ]
+            }
+        ]
+    },
+    "27": {
+        "review_id": 30,
+        "review_time": "2016-08-21",
+        "review": "Mediocre at best. Design is not very attractive not innovative.Mediocre at best. Design is not very attractive not innovative. The one and only reason to buy this phone is for the camera which is exceptional. Yes, it'd fast but there are plenty of other high end phones that blown this out of the water including the OnePlus Three that can basically be had for 3/4 the price. I reverted back to my Nexus 6P. That said, I've heard better things about the S7 edge and Note 7 but the note costs about 800 on contract and that is just absurd. Buy the 5x while the eBay sale is going on. You can get it for 200 new. If you want a bigger phone both the 6P and IPhone 6S are better. For a decent smaller sized the Oneplus Three is insanely fast with no bloat ware.",
+        "rating": 2,
+        "helpfulVotes": 1.0,
+        "review_processed": "The one and only reason to buy this phone is for the camera, which is exceptional. For a decent smaller size, the Oneplus Three is insanely fast with no bloatware. I've heard better things about the S7 edge and Note 7 but the Note 7 costs about 800 on contract and that is just absurd.",
+        "aspect_sentiment": [
+            {
+                "term": "costs",
+                "class": "neutral",
+                "probability": [
+                    0.06345465779304504,
+                    0.6499525904655457,
+                    0.2865927219390869
+                ],
+                "context": [
+                    "I've heard better things about the S7 edge and Note 7 but the Note 7 costs about 800 on contract and that is just absurd."
+                ]
+            },
+            {
+                "term": "note 7",
+                "class": "positive",
+                "probability": [
+                    0.05528873950242996,
+                    0.26834526658058167,
+                    0.6763660311698914
+                ],
+                "context": [
+                    "I've heard better things about the S7 edge and Note 7 but the Note 7 costs about 800 on contract and that is just absurd."
+                ]
+            },
+            {
+                "term": "edge",
+                "class": "positive",
+                "probability": [
+                    0.05910756438970566,
+                    0.050861041992902756,
+                    0.8900313973426819
+                ],
+                "context": [
+                    "I've heard better things about the S7 edge and Note 7 but the Note 7 costs about 800 on contract and that is just absurd."
+                ]
+            },
+            {
+                "term": "s",
+                "class": "positive",
+                "probability": [
+                    0.037462830543518066,
+                    0.28410425782203674,
+                    0.6784328818321228
+                ],
+                "context": []
+            },
+            {
+                "term": "size",
+                "class": "positive",
+                "probability": [
+                    0.25263217091560364,
+                    0.048821814358234406,
+                    0.6985460519790649
+                ],
+                "context": [
+                    "For a decent smaller size, the Oneplus Three is insanely fast with no bloatware."
+                ]
+            },
+            {
+                "term": "camera",
+                "class": "positive",
+                "probability": [
+                    0.004302327986806631,
+                    0.008188104256987572,
+                    0.987509548664093
+                ],
+                "context": [
+                    "The one and only reason to buy this phone is for the camera, which is exceptional."
+                ]
+            },
+            {
+                "term": "bloatware",
+                "class": "positive",
+                "probability": [
+                    0.11796636134386063,
+                    0.06670020520687103,
+                    0.8153334856033325
+                ],
+                "context": [
+                    "For a decent smaller size, the Oneplus Three is insanely fast with no bloatware."
+                ]
+            }
+        ]
+    },
+    "30": {
+        "review_id": 33,
+        "review_time": "2018-01-29",
+        "review": "Phone only lasted one month. Seller does not respond. Samsung warranty not valid..BUYER BEWARE. I ordered a \"brand new\" Samsung Galaxy S7 from TimeToCell for my father for Christmas from the seller and within a month the screen started going purple and no longer worked. Because I didn't give it to him until Christmas, it was outside of the 30 day return window. However, having bought it \"brand new\", I figured the Samsung one year manufacturer warranty would be good, but NOPE! When I contacted Samsung they took my IMEI number and told me the one year warranty had expired in August 2017.... I bought the phone in November 2017.... I have tried contacting the seller two times and both times received no response. Do not buy from this dealer.",
+        "rating": 1,
+        "helpfulVotes": 142.0,
+        "review_processed": "Within a month the screen started going purple and no longer worked. Because I didn't give it to him until Christmas, it was outside of the 30 day return window. I have tried contacting the seller two times and both times received no response. Do not buy from this dealer.",
+        "aspect_sentiment": [
+            {
+                "term": "seller",
+                "class": "negative",
+                "probability": [
+                    0.9990149736404419,
+                    0.0004011685959994793,
+                    0.0005837372154928744
+                ],
+                "context": [
+                    "I have tried contacting the seller two times and both times received no response."
+                ]
+            },
+            {
+                "term": "screen",
+                "class": "negative",
+                "probability": [
+                    0.999222993850708,
+                    0.0004124452534597367,
+                    0.0003645032411441207
+                ],
+                "context": [
+                    "Within a month the screen started going purple and no longer worked."
+                ]
+            }
+        ]
+    },
+    "31": {
+        "review_id": 34,
+        "review_time": "2019-10-08",
+        "review": "Great camera.I bought this phone beacuse of camera. And it does not make me disappointed. It works amazing! I am also a kpop fan so cant wait to use it during the concert!",
+        "rating": 5,
+        "helpfulVotes": 2.0,
+        "review_processed": "I bought this phone because of its camera. It works amazing! I can't wait to use it during the concert. It doesn't make me feel disappointed. It's a great phone! It's amazing. It has a great camera. I'm also a kpop fan, so I'm excited about the concert!",
+        "aspect_sentiment": [
+            {
+                "term": "camera",
+                "class": "positive",
+                "probability": [
+                    0.000247280957410112,
+                    0.00015552577679045498,
+                    0.9995972514152527
+                ],
+                "context": [
+                    "I bought this phone because of its camera.",
+                    "It has a great camera."
+                ]
+            },
+            {
+                "term": "kpop",
+                "class": "positive",
+                "probability": [
+                    0.00031663579284213483,
+                    0.0002963732404168695,
+                    0.9993869066238403
+                ],
+                "context": [
+                    "I'm also a kpop fan, so I'm excited about the concert!"
+                ]
+            }
+        ]
+    },
+    "32": {
+        "review_id": 35,
+        "review_time": "2019-11-05",
+        "review": "Not the latest version of Samsung phone but the A50 does everthing expected..I was hesitant originally to order an unlocked phone due to problems from other's experiences. This purchase was without any issues and worked perfectly out of the box.",
+        "rating": 5,
+        "helpfulVotes": 8.0,
+        "review_processed": "Not the latest version of the Samsung phone, but the A50 does everything expected. I was hesitant to order an unlocked phone due to previous experiences, but this purchase was without any issues and worked perfectly out of the box. The A50 is not the latest Samsung phone but it does anything expected.",
+        "aspect_sentiment": [
+            {
+                "term": "samsung",
+                "class": "negative",
+                "probability": [
+                    0.9243978261947632,
+                    0.05048852041363716,
+                    0.025113578885793686
+                ],
+                "context": [
+                    "Not the latest version of the Samsung phone, but the A50 does everything expected.",
+                    "The A50 is not the latest Samsung phone but it does anything expected."
+                ]
+            }
+        ]
+    },
+    "34": {
+        "review_id": 37,
+        "review_time": "2017-09-26",
+        "review": "Sony Returns to Form.With the XZ1, Sony's Xperia line returns to form. After wandering in the cel phone wilderness for the last year or so, the electronics giant pulled their collective heads out of their collective hindquarters and have delivered a very good (if not quite great) flagship mobile device. The past 12-16 months gave us the X, the X Compact, the X Performance, the XZ, the XZS, the XA1, and a gaggle of other mid-tier offerings from Sony. Of them, only the XZS and the XZ Premium could come close to laying claim to flagship status, with the latter coming with one of the finest 4K displays in the business. Unfortunately XZS didn't come with a battery big enough to power the nice phone specs, and the XZ Premium was an exceptionally large phone, at an exceptionally large price. The XZ1 sees the company step up it's game. As of this writing, it's one of the few devices shipping with Android 8 / Oreo out of the box, running the latest Snapdragon 835 processor, with a beautiful 1080 display and a slightly-refined physical design and sturdy-feeling build-quality. And for nearly $700, it certainly should have a premium feel to it. Even the best phones are balancing acts of compromise, so while there's certainly something here for everyone, it's also unlikely to appeal to absolutely everyone. Most people either love or hate Sony's take on industrial design. Some bemoan the size of the top and bottom bezels. In a world where the S8 strives to give customers nothing-but-screen, Sony certainly isn't following the fashion train. But they sure as heck are following the functional-device-train. Having owned an S8, I certainly see the appeal. It's a beautiful looking device. But at the end of the day, I found the lack of bezels to be a problem in day to day use. With no edge on which to rest fingertips, I was constantly accidentally activating various apps, or accidentally hitting the wrong onscreen area within a given app. Nice to look at...but darn if it's not a pain to actually use. So, here's a subjective run down of Pros and Cons: PRO - Great screen. In addition to it's Triluminous setting, Sony has added a new video color-saturating setting. Honestly, it looks like they're taking a stab at the popping colors and deep blacks on OLED devices like the S8. And they've done a good job...this is one of the sharpest, most color popping screens out there at the moment. - Great processor. The new Snapdragon is great. Everything runs smoothly. - Headphone jack / Audio processing. Yay for hanging on to this bit of tech, the old headphone jack. Bluetooth headphones are well and good, but they eat up a battery, and they can't deliver the same quality of audio as a wired set. If how your music sounds on your device is important to you, wired is still the way to go. For now at least. And Sony's DESS audio processing sounds pretty great to my ears. Pick up a third party audio player like Neutron if you'd like even more control of the sound. CON - Physical design. This really doesn't belong in the \"con\" column, but the fact is either you like what Sony is doing here, or you don't. - Price. Sony offers a handful of budget models, but their flagship line has never been anything but pricey. Especially in America where the brand isn't known for it's mobile devices, the average android user might be hard pressed to pay $699 to a company they normally associate with televisions. In Europe and Asia, though, Sony remains a popular contender with Samsung and Apple for high end devices. - Battery. This also might not be a negative, as the new Snapdragon and Oreo are alleged to be more efficient with their power use. Running some benchmarks seem to bear this out, as while it leads in most areas, there are some processes they've scaled back. So far, I don't see any penalty in processing power, but I've also not had it long enough to take a firm stance on battery life. But anecdotally, it does seem to be an improvement over the XZS and XZ Performance.",
+        "rating": 5,
+        "helpfulVotes": 46.0,
+        "review_processed": "With the XZ1, Sony's Xperia line returns to form. It's one of the few devices shipping with Android 8 / Oreo out of the box, running the latest Snapdragon 835 processor. It has a beautiful 1080p display and a slightly-refined physical design and sturdy build-quality.",
+        "aspect_sentiment": [
+            {
+                "term": "- quality",
+                "class": "positive",
+                "probability": [
+                    0.0009918345604091883,
+                    0.001636503729969263,
+                    0.9973716735839844
+                ],
+                "context": [
+                    "It has a beautiful 1080p display and a slightly-refined physical design and sturdy build-quality."
+                ]
+            },
+            {
+                "term": "build",
+                "class": "positive",
+                "probability": [
+                    0.0013608508743345737,
+                    0.0009667701087892056,
+                    0.9976723790168762
+                ],
+                "context": [
+                    "It has a beautiful 1080p display and a slightly-refined physical design and sturdy build-quality."
+                ]
+            },
+            {
+                "term": "physical design",
+                "class": "positive",
+                "probability": [
+                    0.0016902409261092544,
+                    0.00034630956361070275,
+                    0.9979634284973145
+                ],
+                "context": [
+                    "It has a beautiful 1080p display and a slightly-refined physical design and sturdy build-quality."
+                ]
+            },
+            {
+                "term": "processor",
+                "class": "positive",
+                "probability": [
+                    0.010837522335350513,
+                    0.012014076113700867,
+                    0.9771484136581421
+                ],
+                "context": [
+                    "It's one of the few devices shipping with Android 8 / Oreo out of the box, running the latest Snapdragon 835 processor."
+                ]
+            },
+            {
+                "term": "android 8",
+                "class": "positive",
+                "probability": [
+                    0.004603555426001549,
+                    0.05904342979192734,
+                    0.9363530278205872
+                ],
+                "context": [
+                    "It's one of the few devices shipping with Android 8 / Oreo out of the box, running the latest Snapdragon 835 processor."
+                ]
+            },
+            {
+                "term": "1080p display",
+                "class": "positive",
+                "probability": [
+                    0.0012104312190786004,
+                    0.0008494762005284429,
+                    0.9979400038719177
+                ],
+                "context": [
+                    "It has a beautiful 1080p display and a slightly-refined physical design and sturdy build-quality."
+                ]
+            },
+            {
+                "term": "snapdragon 835",
+                "class": "positive",
+                "probability": [
+                    0.006027171388268471,
+                    0.004147117957472801,
+                    0.9898257851600647
+                ],
+                "context": [
+                    "It's one of the few devices shipping with Android 8 / Oreo out of the box, running the latest Snapdragon 835 processor."
+                ]
+            }
+        ]
+    },
+    "35": {
+        "review_id": 38,
+        "review_time": "2016-11-29",
+        "review": "Five Stars.Perfect, almost near perfect condition. No complaints",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "Five Stars.Perfect, almost near perfect condition. No complaints",
+        "aspect_sentiment": [
+            {
+                "term": "condition",
+                "class": "positive",
+                "probability": [
+                    0.0007771471282467246,
+                    0.0002754932502284646,
+                    0.9989474415779114
+                ],
+                "context": [
+                    "Five Stars.Perfect, almost near perfect condition."
+                ]
+            }
+        ]
+    },
+    "36": {
+        "review_id": 39,
+        "review_time": "2019-08-27",
+        "review": "Not worth the money!.This was a relatively low quality phone. The sound on it is poor at best. You can hardly hear it ring. I missed several phone calls until I figured it out. I decided to keep it, simply because it was easier then sending it back. I already sent back the first phone I got, and didn't want to do it again. I will not buy from this company again in the future. Their products just aren't worth the money.",
+        "rating": 3,
+        "helpfulVotes": 5.0,
+        "review_processed": "The sound on it is poor at best. I missed several phone calls until I figured it out. I already sent back the first phone I got, and didn't want to do it again. I will not buy from this company again in the future. Their products aren't worth the money.",
+        "aspect_sentiment": [
+            {
+                "term": "sound",
+                "class": "negative",
+                "probability": [
+                    0.9987841248512268,
+                    0.0003000061842612922,
+                    0.0009158214670605958
+                ],
+                "context": [
+                    "The sound on it is poor at best."
+                ]
+            }
+        ]
+    },
+    "37": {
+        "review_id": 40,
+        "review_time": "2019-08-28",
+        "review": "Came broken.The phone does not turn on at all, I bought a new USB cable to test and still does not turn on.",
+        "rating": 1,
+        "helpfulVotes": 1.0,
+        "review_processed": "Came broken.The phone does not turn on at all, I bought a new USB cable to test and still does not turn on.",
+        "aspect_sentiment": [
+            {
+                "term": "usb cable",
+                "class": "negative",
+                "probability": [
+                    0.9811831712722778,
+                    0.014654407277703285,
+                    0.004162310156971216
+                ],
+                "context": [
+                    "Came broken.The phone does not turn on at all, I bought a new USB cable to test and still does not turn on."
+                ]
+            }
+        ]
+    },
+    "38": {
+        "review_id": 41,
+        "review_time": "2014-10-03",
+        "review": "Awesome phone. best on market..Best phone. Things you should know. 1. Best battery life than any other Android phone I have had. 2. Most features that are exclusive for this phone I thought I would use. I do not. For example I do not use the stylus as much as I did. The recent update killed the ease of use and coverting text from handwriting to text. So I do not use it anymore. 3. Fast response. Have had this phone for about 9 months. Still just as fast responding to touch and opening apps as day one. 4. Can only be used with a max mini SD card of 64gb. This is a minor complaint only. 5. Does not get hot. Unless you are doing a lot of stuff while charging this device does not get hot to the touch. The normal running temp is about 100 degrees Fahrenheit but you can not feel it. 6. Charges fast from dead to full charge. This is based on stock charger that comes with phone which pushes 2.1 amps. I also use a 3.5 amp car charger which it charges faster with. 7. The IR ability I use a lot for controlling my TV and dvr. The app the phone comes with is the best app but the app does need improvement though this is not the phones fault. 8. WiFi is fast. My Internet speed tops at 40mb/s and the phone WiFi can do it. Unlike most phones WiFi usually cap at 20mb/s no matter what. 9. I have the Verizon 4G lte and the lte I have seen push 60mb/s for speeds so again the phone ability for strong and fast signal is impressive. A bunch of other things positive and negative. I am disappointed in Samsung and their lack more rather restrictions of app abilities but this is not the phone fault. Great phone and best I have had.",
+        "rating": 5,
+        "helpfulVotes": 2.0,
+        "review_processed": "Most features that are exclusive for this phone I thought I would use, I do not. The app the phone comes with is the best app but the app does need improvement. WiFi is fast. My Internet speed tops at 40mb/s and the phone WiFi can do it.",
+        "aspect_sentiment": [
+            {
+                "term": "internet speed",
+                "class": "positive",
+                "probability": [
+                    0.049121178686618805,
+                    0.006447046063840389,
+                    0.944431722164154
+                ],
+                "context": [
+                    "My Internet speed tops at 40mb/s and the phone WiFi can do it."
+                ]
+            },
+            {
+                "term": "app",
+                "class": "positive",
+                "probability": [
+                    0.03255374729633331,
+                    0.002981303259730339,
+                    0.9644650220870972
+                ],
+                "context": [
+                    "The app the phone comes with is the best app but the app does need improvement."
+                ]
+            },
+            {
+                "term": "features",
+                "class": "positive",
+                "probability": [
+                    0.051998890936374664,
+                    0.00527061615139246,
+                    0.9427304863929749
+                ],
+                "context": [
+                    "Most features that are exclusive for this phone I thought I would use, I do not."
+                ]
+            },
+            {
+                "term": "wifi",
+                "class": "positive",
+                "probability": [
+                    0.019440751522779465,
+                    0.003471167990937829,
+                    0.9770880937576294
+                ],
+                "context": [
+                    "WiFi is fast.",
+                    "My Internet speed tops at 40mb/s and the phone WiFi can do it."
+                ]
+            }
+        ]
+    },
+    "39": {
+        "review_id": 42,
+        "review_time": "2019-03-27",
+        "review": "Arrived damaged.Phone arrived with a number of damages: a crack in the screen, the top right corner damaged and separating from the body, and dents and scrapes on all corners. Completely unacceptable \"refurbished\" condition.",
+        "rating": 1,
+        "helpfulVotes": 30.0,
+        "review_processed": "A phone arrived with a number of damages, including a crack in the screen, the top right corner damaged and separating from the body, and dents and scrapes on all corners. It was in a completely unacceptable \"refurbished\" condition. correct:",
+        "aspect_sentiment": [
+            {
+                "term": "screen",
+                "class": "negative",
+                "probability": [
+                    0.9985598921775818,
+                    0.001165490597486496,
+                    0.0002746211248449981
+                ],
+                "context": [
+                    "A phone arrived with a number of damages, including a crack in the screen, the top right corner damaged and separating from the body, and dents and scrapes on all corners."
+                ]
+            },
+            {
+                "term": "the",
+                "class": "negative",
+                "probability": [
+                    0.9958735108375549,
+                    0.003595885820686817,
+                    0.0005307246465235949
+                ],
+                "context": [
+                    "A phone arrived with a number of damages, including a crack in the screen, the top right corner damaged and separating from the body, and dents and scrapes on all corners."
+                ]
+            }
+        ]
+    },
+    "40": {
+        "review_id": 43,
+        "review_time": "2018-02-27",
+        "review": "Not a good choice for at&t.....I got this phone to because iPhone 7 plus unlocked had gotten slow after ios 11. This phone is nice but i use At&t and i just found out that when At&t checks your phone on the network they disable wifi calling and edge calling. I found out when my phone started dropping calls at the office about a month and a half after buying it. I didn't see anything about this issue when i bought the phone and now it's too late to return the phone. One more reason to leave At&t!!! Bad job Amazon!!!",
+        "rating": 2,
+        "helpfulVotes": 2.0,
+        "review_processed": "I got this phone because iPhone 7 plus unlocked had gotten slow after iOS 11. This phone is nice but I use At&t and I just found out that when At&T checks your phone on the network they disable wifi calling and edge calling. I didn't see anything about this issue when I bought the phone and now it's too late to return the phone.",
+        "aspect_sentiment": [
+            {
+                "term": "iphone",
+                "class": "positive",
+                "probability": [
+                    0.018374528735876083,
+                    0.33492347598075867,
+                    0.646701991558075
+                ],
+                "context": [
+                    "I got this phone because iPhone 7 plus unlocked had gotten slow after iOS 11."
+                ]
+            }
+        ]
+    },
+    "41": {
+        "review_id": 44,
+        "review_time": "2016-03-01",
+        "review": "Imei 35861.... is locked doesnt match ....Imei 35861....is locked doesnt match with unlock code .Please send me the correcta code",
+        "rating": 1,
+        "helpfulVotes": 1.0,
+        "review_processed": "Imei 35861.... is locked doesnt match ....Imei 35861....is locked doesnt match with unlock code .Please send me the correcta code",
+        "aspect_sentiment": [
+            {
+                "term": "unlock",
+                "class": "negative",
+                "probability": [
+                    0.9987099170684814,
+                    0.00029873347375541925,
+                    0.0009913493413478136
+                ],
+                "context": [
+                    "Imei 35861.... is locked doesnt match ....Imei 35861....is locked doesnt match with unlock code .Please send me the correcta code"
+                ]
+            }
+        ]
+    },
+    "42": {
+        "review_id": 45,
+        "review_time": "2018-12-03",
+        "review": "Terrible screen durability.Battery life is very short,it hasn't been a week and already microscratches.Save your money and get a phone with decent durability,and every accessory for the phone is just garbage.",
+        "rating": 1,
+        "helpfulVotes": 3.0,
+        "review_processed": "It hasn't been a week and already there are some scratches. Save your money and get a phone with decent durability. Every accessory for the phone is just garbage. It's very short battery life is very short, and it's not very durable at all.",
+        "aspect_sentiment": [
+            {
+                "term": "battery life",
+                "class": "negative",
+                "probability": [
+                    0.9931318163871765,
+                    0.0005692113190889359,
+                    0.006298988126218319
+                ],
+                "context": [
+                    "It's very short battery life is very short, and it's not very durable at all."
+                ]
+            },
+            {
+                "term": "durability",
+                "class": "positive",
+                "probability": [
+                    0.0592222586274147,
+                    0.005716919898986816,
+                    0.9350607991218567
+                ],
+                "context": [
+                    "Save your money and get a phone with decent durability."
+                ]
+            }
+        ]
+    },
+    "43": {
+        "review_id": 46,
+        "review_time": "2019-03-13",
+        "review": "Sadly, have to return.This phone was great. Until I took the model number and discovered it ABSOLUTELY does not have band 71 (600MHZ) AS DESCRIBED in the listing. I do not think it was intentional, but the dual sim version G7 POWER does NOT have B71 as listed, only the mono-SIM G7 Power, USA version will have it. It is the reason I got the phone, so a terrible disappointment to find this out. ### EDIT ### They have updated the listing to reflect that band 71 (600 Mhz) is not on this variant. I am raising my rating to a 4 star as the specs combined with battery provide outstanding value, especially for dual SIM",
+        "rating": 4,
+        "helpfulVotes": 93.0,
+        "review_processed": "The G7 Power does not have band 71 as listed in the listing. It is the reason I got the phone, so a terrible disappointment to find this out. I am raising my rating to a 4 star as the specs combined with battery provide outstanding value, especially for dual SIM.",
+        "aspect_sentiment": [
+            {
+                "term": "sim",
+                "class": "negative",
+                "probability": [
+                    0.9071378111839294,
+                    0.03287539258599281,
+                    0.05998678132891655
+                ],
+                "context": [
+                    "I am raising my rating to a 4 star as the specs combined with battery provide outstanding value, especially for dual SIM."
+                ]
+            },
+            {
+                "term": "dual",
+                "class": "positive",
+                "probability": [
+                    0.2008826732635498,
+                    0.04410136491060257,
+                    0.7550159692764282
+                ],
+                "context": [
+                    "I am raising my rating to a 4 star as the specs combined with battery provide outstanding value, especially for dual SIM."
+                ]
+            },
+            {
+                "term": "value",
+                "class": "positive",
+                "probability": [
+                    0.021160606294870377,
+                    0.001646959688514471,
+                    0.9771924614906311
+                ],
+                "context": [
+                    "I am raising my rating to a 4 star as the specs combined with battery provide outstanding value, especially for dual SIM."
+                ]
+            },
+            {
+                "term": "battery",
+                "class": "positive",
+                "probability": [
+                    0.007904553785920143,
+                    0.0008493156637996435,
+                    0.9912461638450623
+                ],
+                "context": [
+                    "I am raising my rating to a 4 star as the specs combined with battery provide outstanding value, especially for dual SIM."
+                ]
+            },
+            {
+                "term": "specs",
+                "class": "positive",
+                "probability": [
+                    0.004078599624335766,
+                    0.0005363621166907251,
+                    0.9953851103782654
+                ],
+                "context": [
+                    "I am raising my rating to a 4 star as the specs combined with battery provide outstanding value, especially for dual SIM."
+                ]
+            }
+        ]
+    },
+    "44": {
+        "review_id": 47,
+        "review_time": "2019-02-24",
+        "review": "Descontento.Hola No recib\u00ed lo que compr\u00e9 Deber\u00eda tener 4GB de RAM , lo que me mandaron es 3 GB de RAM y lo quiero devolver las 10 unidades O ME PUEDEN BAJAR EL PRECIO Y ME QUEDARE CON LA MERCANC\u00cdA Gracias",
+        "rating": 1,
+        "helpfulVotes": 2.0,
+        "review_processed": "No, I don't receive anything that's been sent to me. My computer needs 4GB of RAM; the one I received is 3GB. I want to get 10 unidades; I'm not satisfied with what's being sent. I've already bought a book.",
+        "aspect_sentiment": [
+            {
+                "term": "ram",
+                "class": "negative",
+                "probability": [
+                    0.7524941563606262,
+                    0.24530230462551117,
+                    0.002203484997153282
+                ],
+                "context": [
+                    "My computer needs 4GB of RAM; the one I received is 3GB."
+                ]
+            },
+            {
+                "term": "4",
+                "class": "negative",
+                "probability": [
+                    0.7632245421409607,
+                    0.22794337570667267,
+                    0.008831995539367199
+                ],
+                "context": []
+            }
+        ]
+    },
+    "45": {
+        "review_id": 48,
+        "review_time": "2017-12-03",
+        "review": "wifi problems.This phone like other sony phones has serious wifi issues. Even non flagship products from htc, samsung, huwaie don't have problems with wifi. It will connect but will not have internet while other devices on my network have no issues.",
+        "rating": 1,
+        "helpfulVotes": 3.0,
+        "review_processed": "This phone like other sony phones has serious wifi issues. It will connect but will not have internet while other devices on my network have no issues. Even non flagship products from HTC, Samsung, and Sony don't have problems with wifi issues with these phones.",
+        "aspect_sentiment": [
+            {
+                "term": "internet",
+                "class": "negative",
+                "probability": [
+                    0.8620423078536987,
+                    0.13223621249198914,
+                    0.005721437744796276
+                ],
+                "context": [
+                    "It will connect but will not have internet while other devices on my network have no issues."
+                ]
+            },
+            {
+                "term": "wifi",
+                "class": "negative",
+                "probability": [
+                    0.9949256181716919,
+                    0.0015506126219406724,
+                    0.003523709950968623
+                ],
+                "context": [
+                    "This phone like other sony phones has serious wifi issues.",
+                    "Even non flagship products from HTC, Samsung, and Sony don't have problems with wifi issues with these phones."
+                ]
+            }
+        ]
+    },
+    "46": {
+        "review_id": 50,
+        "review_time": "2019-05-15",
+        "review": "At $199 (at time of purchase) it is a steal.My Samsung Galaxy S7 was dying. I wanted a Galaxy S10, but didn't want to drop $1000. So I found this phone. It works for what I need it for. Still trying to get used to not having a physical \"back button\" like my S7. 64 GB RAM for the price is a steal. It did take many updates to update the phone to current (which is normal for any phone as well as computers).",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "I wanted a Galaxy S10, but didn't want to drop $1000, so I found this phone. It works for what I need it for. Still trying to get used to not having a physical \"back button\" like my S7. At $199 (at time of purchase), it is a steal.",
+        "aspect_sentiment": [
+            {
+                "term": "back button",
+                "class": "negative",
+                "probability": [
+                    0.9985101819038391,
+                    0.0007975745247676969,
+                    0.0006921415915712714
+                ],
+                "context": [
+                    "Still trying to get used to not having a physical \"back button\" like my S7."
+                ]
+            }
+        ]
+    },
+    "47": {
+        "review_id": 52,
+        "review_time": "2019-12-08",
+        "review": "Only disappointment.Phone screen was in pretty rough shape when we got it. Expected much more but spent $200 on a new screen and then found out that the phone was warped. Not in the condition that it was promised, very disappointed. Will not buy from here again.",
+        "rating": 1,
+        "helpfulVotes": 2.0,
+        "review_processed": "The phone screen was in pretty rough shape when we got it. Expected much more but spent $200 on a new screen and then found out that the phone was warped. Not in the condition that it was promised, very disappointed. Will not buy from here again.",
+        "aspect_sentiment": [
+            {
+                "term": "screen",
+                "class": "negative",
+                "probability": [
+                    0.9986894726753235,
+                    0.0008457974181510508,
+                    0.00046480921446345747
+                ],
+                "context": [
+                    "The phone screen was in pretty rough shape when we got it.",
+                    "Expected much more but spent $200 on a new screen and then found out that the phone was warped."
+                ]
+            }
+        ]
+    },
+    "49": {
+        "review_id": 55,
+        "review_time": "2017-07-27",
+        "review": "Great phones!.I purchased two of these for a couple of over seas friends, and according to them, the phones are working fine. Couldn't be happier!",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "Great phones!.I purchased two of these for a couple of over seas friends, and according to them, the phones are working fine. Couldn't be happier!",
+        "aspect_sentiment": [
+            {
+                "term": "phones",
+                "class": "positive",
+                "probability": [
+                    0.000458569877082482,
+                    0.0008908203453756869,
+                    0.9986506104469299
+                ],
+                "context": [
+                    "Great phones!.I purchased two of these for a couple of over seas friends, and according to them, the phones are working fine."
+                ]
+            }
+        ]
+    },
+    "50": {
+        "review_id": 56,
+        "review_time": "2018-04-03",
+        "review": "One Star.They say it was new but it wasn't it was used \ud83d\ude44",
+        "rating": 1,
+        "helpfulVotes": 1.0,
+        "review_processed": "One Star.They say it was new but it wasn't it was used ",
+        "aspect_sentiment": [
+            {
+                "term": "star",
+                "class": "neutral",
+                "probability": [
+                    0.03839884698390961,
+                    0.9383297562599182,
+                    0.023271363228559494
+                ],
+                "context": [
+                    "One Star.They say it was new but it wasn't it was used"
+                ]
+            }
+        ]
+    },
+    "51": {
+        "review_id": 57,
+        "review_time": "2019-02-01",
+        "review": "Switched from iPhone and absolutely loving it!!.This is an absolutely amazing phone! I exclusively used iPhone for the past 5 years and recently switched to the Huawei Mate 20 Pro after my iPhone screen cracked and ran out of memory space. I've been unimpressed by Apple's lack of innovation in recent years and decided to try the mate 20 Pro after doing a lot of research and reading a lot of reviews. This phone lives up to the hype and has exceeded all of my expectations! The camera is amazing, the resolution of the screen is beautiful, and the operating system took a little getting used to but the EMUI skin that Huawei utilises seems to be slightly inspired by iOS. I haven't noticed any of the green screen bleed that some people mention and I also can't attest to the overall security of the phone (alleged Chinese malware and spying). This phone is honestly so amazing that even if the spying allegations are true I'd still own/use this phone!",
+        "rating": 5,
+        "helpfulVotes": 78.0,
+        "review_processed": "I've been unimpressed with Apple's lack of innovation in recent years and decided to try the mate 20 Pro after doing a lot of research and reading reviews. The camera is amazing, the resolution of the screen is beautiful, and the operating system took a little getting used to but the EMUI skin seems to be inspired by iOS.",
+        "aspect_sentiment": [
+            {
+                "term": "ios",
+                "class": "positive",
+                "probability": [
+                    0.005011686123907566,
+                    0.005212164018303156,
+                    0.9897762537002563
+                ],
+                "context": [
+                    "The camera is amazing, the resolution of the screen is beautiful, and the operating system took a little getting used to but the EMUI skin seems to be inspired by iOS."
+                ]
+            },
+            {
+                "term": "operating system",
+                "class": "negative",
+                "probability": [
+                    0.9836480021476746,
+                    0.015523849986493587,
+                    0.0008281601476483047
+                ],
+                "context": [
+                    "The camera is amazing, the resolution of the screen is beautiful, and the operating system took a little getting used to but the EMUI skin seems to be inspired by iOS."
+                ]
+            },
+            {
+                "term": "resolution of the screen",
+                "class": "positive",
+                "probability": [
+                    0.0024361410178244114,
+                    0.0008067493909038603,
+                    0.9967570900917053
+                ],
+                "context": [
+                    "The camera is amazing, the resolution of the screen is beautiful, and the operating system took a little getting used to but the EMUI skin seems to be inspired by iOS."
+                ]
+            },
+            {
+                "term": "camera",
+                "class": "positive",
+                "probability": [
+                    0.0020341146737337112,
+                    0.000980461947619915,
+                    0.9969853758811951
+                ],
+                "context": [
+                    "The camera is amazing, the resolution of the screen is beautiful, and the operating system took a little getting used to but the EMUI skin seems to be inspired by iOS."
+                ]
+            },
+            {
+                "term": "emui skin",
+                "class": "negative",
+                "probability": [
+                    0.5520643591880798,
+                    0.011791396886110306,
+                    0.4361442029476166
+                ],
+                "context": [
+                    "The camera is amazing, the resolution of the screen is beautiful, and the operating system took a little getting used to but the EMUI skin seems to be inspired by iOS."
+                ]
+            }
+        ]
+    },
+    "52": {
+        "review_id": 58,
+        "review_time": "2013-04-18",
+        "review": "Okay.Meets expectations...in case if somebody does not want to use an i-phone....this could be an ideal set...try it out..otherwise it is just to receive and make calls",
+        "rating": 3,
+        "helpfulVotes": 3.0,
+        "review_processed": "In case someone doesn't want to use an i-phone, this could be an ideal set. Otherwise it is just to receive and make calls. It meets expectations. Try it out, and if you like it, you can buy it. It's a good buy.",
+        "aspect_sentiment": [
+            {
+                "term": "phone",
+                "class": "positive",
+                "probability": [
+                    0.017026163637638092,
+                    0.008765471167862415,
+                    0.9742083549499512
+                ],
+                "context": [
+                    "In case someone doesn't want to use an i-phone, this could be an ideal set."
+                ]
+            },
+            {
+                "term": "i",
+                "class": "positive",
+                "probability": [
+                    0.0015565736684948206,
+                    0.001695946673862636,
+                    0.9967474937438965
+                ],
+                "context": [
+                    "In case someone doesn't want to use an i-phone, this could be an ideal set."
+                ]
+            }
+        ]
+    },
+    "53": {
+        "review_id": 59,
+        "review_time": "2019-11-08",
+        "review": "Greatest phone ever. Beats the iPhone..Great so far. Get lots of comments about speed. Does everything expected and more.",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "Greatest phone ever. Beats the iPhone..Great so far. Get lots of comments about speed. Does everything expected and more.",
+        "aspect_sentiment": [
+            {
+                "term": "iphone",
+                "class": "positive",
+                "probability": [
+                    0.0006793064530938864,
+                    0.0010784732876345515,
+                    0.9982422590255737
+                ],
+                "context": [
+                    "Beats the iPhone..Great so far."
+                ]
+            }
+        ]
+    },
+    "54": {
+        "review_id": 60,
+        "review_time": "2019-10-13",
+        "review": "Super fast and reliable.Amazing phone! I was skeptical as I've only ever had the Galaxy series of phones, but they've gotten so expensive that I had to make a change. I'm so glad I did. This phone has all the features I wanted from a Samsung and has nothing I don't need. I like the type of charger and the weight of the phone, I like the size of the screen and the speed of the fingerprint and facial recognition",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "I like the size of the screen and the speed of the fingerprint and facial recognition. I like the type of charger and the weight of the phone. It has all the features I wanted from a Samsung and has nothing I don't need. I was skeptical as I've only ever had the Galaxy series of phones.",
+        "aspect_sentiment": [
+            {
+                "term": "features",
+                "class": "positive",
+                "probability": [
+                    0.011742689646780491,
+                    0.002090699039399624,
+                    0.9861665964126587
+                ],
+                "context": [
+                    "It has all the features I wanted from a Samsung and has nothing I don't need."
+                ]
+            },
+            {
+                "term": "facial",
+                "class": "positive",
+                "probability": [
+                    0.005265371408313513,
+                    0.006554885301738977,
+                    0.9881798028945923
+                ],
+                "context": [
+                    "I like the size of the screen and the speed of the fingerprint and facial recognition."
+                ]
+            },
+            {
+                "term": "speed",
+                "class": "positive",
+                "probability": [
+                    0.002739332616329193,
+                    0.0015130031388252974,
+                    0.9957477450370789
+                ],
+                "context": [
+                    "I like the size of the screen and the speed of the fingerprint and facial recognition."
+                ]
+            },
+            {
+                "term": "screen",
+                "class": "positive",
+                "probability": [
+                    0.0033508972264826298,
+                    0.0011220963206142187,
+                    0.9955269694328308
+                ],
+                "context": [
+                    "I like the size of the screen and the speed of the fingerprint and facial recognition."
+                ]
+            },
+            {
+                "term": "size the",
+                "class": "positive",
+                "probability": [
+                    0.004932602401822805,
+                    0.0016199143137782812,
+                    0.993447482585907
+                ],
+                "context": [
+                    "I like the size of the screen and the speed of the fingerprint and facial recognition."
+                ]
+            },
+            {
+                "term": "charger",
+                "class": "positive",
+                "probability": [
+                    0.004607514478266239,
+                    0.0009710425511002541,
+                    0.9944215416908264
+                ],
+                "context": [
+                    "I like the type of charger and the weight of the phone."
+                ]
+            }
+        ]
+    },
+    "55": {
+        "review_id": 62,
+        "review_time": "2015-06-18",
+        "review": "Five Stars.is perfect for the price!!! wonderful buy!",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "Five Stars.is perfect for the price!!! wonderful buy!",
+        "aspect_sentiment": [
+            {
+                "term": "price",
+                "class": "positive",
+                "probability": [
+                    7.225887384265661e-05,
+                    0.00012243924720678478,
+                    0.9998053908348083
+                ],
+                "context": [
+                    "Five Stars.is perfect for the price!!!"
+                ]
+            },
+            {
+                "term": "stars",
+                "class": "positive",
+                "probability": [
+                    7.408305100398138e-05,
+                    0.0001350468664895743,
+                    0.9997908473014832
+                ],
+                "context": [
+                    "Five Stars.is perfect for the price!!!"
+                ]
+            }
+        ]
+    },
+    "56": {
+        "review_id": 63,
+        "review_time": "2017-07-29",
+        "review": "Five Stars.Very good",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "Five Stars.Very good",
+        "aspect_sentiment": [
+            {
+                "term": "stars",
+                "class": "positive",
+                "probability": [
+                    7.124132389435545e-05,
+                    0.00013469411351252347,
+                    0.999794065952301
+                ],
+                "context": [
+                    "Five Stars.Very good"
+                ]
+            },
+            {
+                "term": "five",
+                "class": "positive",
+                "probability": [
+                    7.113568426575512e-05,
+                    0.00013389557716436684,
+                    0.9997950196266174
+                ],
+                "context": [
+                    "Five Stars.Very good"
+                ]
+            }
+        ]
+    },
+    "58": {
+        "review_id": 65,
+        "review_time": "2018-06-20",
+        "review": "See The Phone In Person. . ..I am interested in a all weather phone, so I began with this Convoy. . . Verizon does not offered coverage for the phones entire range of functions. . . The shift to LTE systems in 2019 might be the reason. . . That being stated; the phone appears durable, difficult to text with, and limited contact preset numbers. It does access bluetooth function, my age prevents me from gaining good audiblefrom the speakers. . . It gets further testing in Monterrey Bay, kayaking. . .",
+        "rating": 3,
+        "helpfulVotes": 2.0,
+        "review_processed": "I am interested in an all weather phone, so I began with this Convoy. Verizon does not offered coverage for the phones entire range of functions. The shift to LTE systems in 2019 might be the reason. The phone appears durable, difficult to text with, and limited contact numbers.",
+        "aspect_sentiment": [
+            {
+                "term": "lte systems",
+                "class": "negative",
+                "probability": [
+                    0.5542991757392883,
+                    0.272257536649704,
+                    0.1734432578086853
+                ],
+                "context": [
+                    "The shift to LTE systems in 2019 might be the reason."
+                ]
+            }
+        ]
+    },
+    "59": {
+        "review_id": 66,
+        "review_time": "2014-07-27",
+        "review": "Great simple phone.Switching from iPhone 5 to this phone. Simple, long battery, good looking. iPhone took too much of my time and health, really.",
+        "rating": 5,
+        "helpfulVotes": 2.0,
+        "review_processed": "Great simple phone.Switching from iPhone 5 to this phone. Simple, long battery, good looking. iPhone took too much of my time and health, really.",
+        "aspect_sentiment": [
+            {
+                "term": "iphone",
+                "class": "positive",
+                "probability": [
+                    0.0004882804350927472,
+                    0.0009556440054439008,
+                    0.9985560774803162
+                ],
+                "context": [
+                    "Great simple phone.Switching from iPhone 5 to this phone.",
+                    "iPhone took too much of my time and health, really."
+                ]
+            }
+        ]
+    },
+    "60": {
+        "review_id": 67,
+        "review_time": "2019-03-16",
+        "review": "Not compatible for any sim..Not compatible with the sim we have. Says it is unlocked. Verizon sim not recognized and it does not specify what carrier it is unlocked for...",
+        "rating": 1,
+        "helpfulVotes": 3.0,
+        "review_processed": "Not compatible with the sim we have. Verizon sim not recognized, and it does not specify what carrier it is unlocked for. correct: Not compatible for any sim; says it's unlocked, but it doesn't specify which carrier it's not compatible with. wrong: It doesn't recognize any sim.",
+        "aspect_sentiment": [
+            {
+                "term": "sim",
+                "class": "negative",
+                "probability": [
+                    0.9979677796363831,
+                    0.0017825131071731448,
+                    0.00024972151732072234
+                ],
+                "context": [
+                    "Not compatible with the sim we have.",
+                    "Verizon sim not recognized, and it does not specify what carrier it is unlocked for.",
+                    "correct: Not compatible for any sim; says it's unlocked, but it doesn't specify which carrier it's not compatible with.",
+                    "wrong: It doesn't recognize any sim."
+                ]
+            }
+        ]
+    },
+    "61": {
+        "review_id": 68,
+        "review_time": "2017-07-20",
+        "review": "Excellent phone.Good design, high-end product feel. No issues with the sim cards, reception and wifi. Overall a very good phone in this price range.",
+        "rating": 5,
+        "helpfulVotes": 3.0,
+        "review_processed": "Excellent phone.Good design, high-end product feel. No issues with the sim cards, reception and wifi. Overall a very good phone in this price range.",
+        "aspect_sentiment": [
+            {
+                "term": "price range",
+                "class": "positive",
+                "probability": [
+                    0.00018839786935131997,
+                    0.00019365183834452182,
+                    0.9996179342269897
+                ],
+                "context": [
+                    "Overall a very good phone in this price range."
+                ]
+            },
+            {
+                "term": "reception",
+                "class": "positive",
+                "probability": [
+                    0.0003504945198073983,
+                    0.0003947156947106123,
+                    0.9992547631263733
+                ],
+                "context": [
+                    "No issues with the sim cards, reception and wifi."
+                ]
+            },
+            {
+                "term": "sim cards",
+                "class": "positive",
+                "probability": [
+                    0.008604896254837513,
+                    0.0007584612467326224,
+                    0.9906366467475891
+                ],
+                "context": [
+                    "No issues with the sim cards, reception and wifi."
+                ]
+            },
+            {
+                "term": "design",
+                "class": "positive",
+                "probability": [
+                    0.00015936211275402457,
+                    0.00017643446335569024,
+                    0.9996641874313354
+                ],
+                "context": [
+                    "Excellent phone.Good design, high-end product feel."
+                ]
+            },
+            {
+                "term": "wifi",
+                "class": "positive",
+                "probability": [
+                    0.0006103144842199981,
+                    0.0008945732843130827,
+                    0.9984951019287109
+                ],
+                "context": [
+                    "No issues with the sim cards, reception and wifi."
+                ]
+            }
+        ]
+    },
+    "62": {
+        "review_id": 69,
+        "review_time": "2017-03-25",
+        "review": "Five Stars.great",
+        "rating": 5,
+        "helpfulVotes": 3.0,
+        "review_processed": "Five Stars.great",
+        "aspect_sentiment": [
+            {
+                "term": "stars",
+                "class": "positive",
+                "probability": [
+                    7.418153836624697e-05,
+                    0.0001348402292933315,
+                    0.9997910857200623
+                ],
+                "context": [
+                    "Five Stars.great"
+                ]
+            }
+        ]
+    },
+    "63": {
+        "review_id": 70,
+        "review_time": "2013-12-08",
+        "review": "LOVE THIS Phone! Beautiful, light, fast ... Android users can't go wrong with this..Well, since I'm far from the first review of this phone I won't go into all the features (which I've only scratched the surface of anyway!). Instead I'll just give my overall impressions. I LOVE this phone. It looks great, fantastic screen and size, it's thin and light. The speed is excellent on just about every app and feature I've used. I really have no complaints after about 2 weeks of using it. Oh, battery life ... having had the S2 before this with battery life of - maybe - half a day this is a pleasure. For example, as I write this at about 11pm after an admittedly light usage day, the battery is still at 74% I'm not saying this is the norm but so far I have not had a day where the phone would have died before the end of the day if I hadn't charged it. We'll see how that holds up over time but for now, battery life is excellent. BATTERY UPDATE: Have had the phone close to 2 weeks now and I must say that battery life has been more than acceptable. Today is a fairly typical day I think. As I write this around 3:30pm I'm at close to 70% battery life. Considering that it was fully charged at 6:30am I'd say that's not too bad. Hope this is helpful. Oh, and as a kicker, I managed to snag this for $0.01 thanks to an unannounced (as far as I know) Amazon sale so that makes this phone even sweeter. Thanks Samsung ... thanks Amazon [it pays to poke around the site on Thanksgiving night!! lol] If you're an android user or switching to it, get this phone!! Hope this is helpful to some of you.",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "Since I'm far from the first review, I won't go into all the features, but I'll just give my overall impressions. I really have no complaints after about 2 weeks of using it. The speed is excellent on just about every app and feature I've used. If you're an android user or switching to it, get this phone!!",
+        "aspect_sentiment": [
+            {
+                "term": "android",
+                "class": "positive",
+                "probability": [
+                    0.04053262621164322,
+                    0.39693373441696167,
+                    0.5625336170196533
+                ],
+                "context": [
+                    "If you're an android user or switching to it, get this phone!"
+                ]
+            },
+            {
+                "term": "feature",
+                "class": "neutral",
+                "probability": [
+                    0.009086517617106438,
+                    0.6435592770576477,
+                    0.3473542034626007
+                ],
+                "context": [
+                    "The speed is excellent on just about every app and feature I've used."
+                ]
+            },
+            {
+                "term": "app",
+                "class": "positive",
+                "probability": [
+                    0.013235998339951038,
+                    0.011438951827585697,
+                    0.9753249287605286
+                ],
+                "context": [
+                    "The speed is excellent on just about every app and feature I've used."
+                ]
+            },
+            {
+                "term": "speed",
+                "class": "positive",
+                "probability": [
+                    0.0008389067952521145,
+                    0.004900651052594185,
+                    0.9942604303359985
+                ],
+                "context": [
+                    "The speed is excellent on just about every app and feature I've used."
+                ]
+            },
+            {
+                "term": "features",
+                "class": "neutral",
+                "probability": [
+                    0.01281156949698925,
+                    0.9817736744880676,
+                    0.005414758808910847
+                ],
+                "context": [
+                    "Since I'm far from the first review, I won't go into all the features, but I'll just give my overall impressions."
+                ]
+            }
+        ]
+    },
+    "64": {
+        "review_id": 72,
+        "review_time": "2017-07-20",
+        "review": "Works like a charm.Works like a charm. Great condition. Like new. Took it to the Samsung Store at Best Buy to have it updated.",
+        "rating": 5,
+        "helpfulVotes": 2.0,
+        "review_processed": "Works like a charm.Works like a charm. Great condition. Like new. Took it to the Samsung Store at Best Buy to have it updated.",
+        "aspect_sentiment": [
+            {
+                "term": "samsung",
+                "class": "positive",
+                "probability": [
+                    0.002408612286671996,
+                    0.04409051313996315,
+                    0.9535008668899536
+                ],
+                "context": [
+                    "Took it to the Samsung Store at Best Buy to have it updated."
+                ]
+            }
+        ]
+    },
+    "65": {
+        "review_id": 74,
+        "review_time": "2018-08-31",
+        "review": "Love this phone!!!.Fast phone and easy setup. Very intuitive and easy to use. So glad I switched from a Samsung!! Already have Pi installed and there were no install errors or slow down of apps after install.",
+        "rating": 5,
+        "helpfulVotes": 2.0,
+        "review_processed": "Fast phone and easy setup. Very intuitive and easy to use. So glad I switched from a Samsung. Already have Pi installed and there were no install errors or slow down of apps after install. correct: Love this phone!!!. Back to Mail Online home. Back To the page you came from.",
+        "aspect_sentiment": [
+            {
+                "term": "apps",
+                "class": "negative",
+                "probability": [
+                    0.9397193789482117,
+                    0.02135019563138485,
+                    0.03893040493130684
+                ],
+                "context": [
+                    "Already have Pi installed and there were no install errors or slow down of apps after install."
+                ]
+            },
+            {
+                "term": "use",
+                "class": "positive",
+                "probability": [
+                    0.0007452142308466136,
+                    0.0012662746012210846,
+                    0.9979884624481201
+                ],
+                "context": [
+                    "Very intuitive and easy to use."
+                ]
+            },
+            {
+                "term": "setup",
+                "class": "positive",
+                "probability": [
+                    0.0011993972584605217,
+                    0.0016554106259718537,
+                    0.9971452355384827
+                ],
+                "context": [
+                    "Fast phone and easy setup."
+                ]
+            }
+        ]
+    },
+    "66": {
+        "review_id": 75,
+        "review_time": "2019-12-14",
+        "review": "Phone can only be unlocked by factory reset.I purchased this phone before my trip to Ireland. I took hundreds of pictures - only one picture from the entire trip backed up to google, and it was a picture from the middle of the trip! When I returned to the states, the phone locked and will only unlock with a factory reset, which will lose all my pictures that are on it. I called Google Help, Verizon Help, Pixel Help and after hours of attempts from these technicians - the phone would still not get out of the unlock loop. I now have a very expensive paperweight and no pictures from a once in a lifetime trip!",
+        "rating": 1,
+        "helpfulVotes": 1.0,
+        "review_processed": "I purchased this phone before my trip to Ireland. I took hundreds of pictures, but only one from the entire trip backed up to Google. When I returned to the states, the phone locked and will only unlock with a factory reset, which will lose all my pictures that are on it.",
+        "aspect_sentiment": [
+            {
+                "term": "google",
+                "class": "neutral",
+                "probability": [
+                    0.021404199302196503,
+                    0.977678656578064,
+                    0.0009171770652756095
+                ],
+                "context": [
+                    "I took hundreds of pictures, but only one from the entire trip backed up to Google."
+                ]
+            }
+        ]
+    },
+    "67": {
+        "review_id": 76,
+        "review_time": "2018-07-07",
+        "review": "Didn't works with boost mobile.Samsung Galaxy s8+ is a very good phone. My review is all about the description, it says unlocked, I tried to use it with boost Mobile and it didn't work, I try online, by phone, and in the store. Going to return it to Amazon",
+        "rating": 2,
+        "helpfulVotes": 1.0,
+        "review_processed": "Samsung Galaxy s8+ is a very good phone. My review is all about the description, it says unlocked. I tried to use it with boost Mobile and it didn't work. I try online, by phone, and in the store. Going to return it to Amazon.",
+        "aspect_sentiment": [
+            {
+                "term": "amazon",
+                "class": "neutral",
+                "probability": [
+                    0.005384247284382582,
+                    0.9806930422782898,
+                    0.013922741636633873
+                ],
+                "context": [
+                    "Going to return it to Amazon."
+                ]
+            }
+        ]
+    },
+    "68": {
+        "review_id": 77,
+        "review_time": "2018-08-31",
+        "review": "No me gusta.Muy peque\u00f1o",
+        "rating": 1,
+        "helpfulVotes": 1.0,
+        "review_processed": "No me gusta.Muy pequeo",
+        "aspect_sentiment": [
+            {
+                "term": "pequeo",
+                "class": "positive",
+                "probability": [
+                    0.00014236372953746468,
+                    0.00018740240193437785,
+                    0.999670147895813
+                ],
+                "context": [
+                    "No me gusta.Muy pequeo"
+                ]
+            }
+        ]
+    },
+    "69": {
+        "review_id": 78,
+        "review_time": "2019-06-05",
+        "review": "Samsung M10.Exelente",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "Samsung M10.Exelente",
+        "aspect_sentiment": [
+            {
+                "term": "samsung",
+                "class": "neutral",
+                "probability": [
+                    0.0013868215028196573,
+                    0.5226345658302307,
+                    0.4759785830974579
+                ],
+                "context": [
+                    "Samsung M10.Exelente"
+                ]
+            }
+        ]
+    },
+    "70": {
+        "review_id": 80,
+        "review_time": "2018-11-18",
+        "review": "It's Great.Works just as if it was new. Great condition.",
+        "rating": 5,
+        "helpfulVotes": 2.0,
+        "review_processed": "It's Great.Works just as if it was new. Great condition.",
+        "aspect_sentiment": [
+            {
+                "term": "works",
+                "class": "positive",
+                "probability": [
+                    9.059809963218868e-05,
+                    0.00011266827641520649,
+                    0.9997968077659607
+                ],
+                "context": [
+                    "It's Great.Works just as if it was new."
+                ]
+            }
+        ]
+    },
+    "71": {
+        "review_id": 81,
+        "review_time": "2019-04-03",
+        "review": "Excellent phone.Current phone was having issues and not what was expected. Got the Pixel 3 after using/having the original. No complaints and completely pleased with it's simplicity and user-friendliness. Easier to use than the Galaxy line. Would definitely recommend as a simple to use phone with ease of access features and a great camera.",
+        "rating": 5,
+        "helpfulVotes": 14.0,
+        "review_processed": "Current phone was having issues and not what was expected. Got the Pixel 3 after using and having the original. No complaints and completely pleased with it's simplicity and user-friendliness. Easier to use than the Galaxy line. Would definitely recommend as a simple to use phone with ease of access features and a great camera.",
+        "aspect_sentiment": [
+            {
+                "term": "camera",
+                "class": "positive",
+                "probability": [
+                    0.13577602803707123,
+                    0.04010072350502014,
+                    0.8241233229637146
+                ],
+                "context": [
+                    "Would definitely recommend as a simple to use phone with ease of access features and a great camera."
+                ]
+            },
+            {
+                "term": "friendliness features",
+                "class": "positive",
+                "probability": [
+                    0.1579986959695816,
+                    0.027839073911309242,
+                    0.8141621947288513
+                ],
+                "context": []
+            }
+        ]
+    },
+    "72": {
+        "review_id": 82,
+        "review_time": "2019-10-24",
+        "review": "You get what you pay for, but you do get a lot for the price w this phone..I don't think you could beat this for the price. I will say there is definitely a noticeable difference with processing compared to like an iPhone. when this does come into play is if you're using Google maps and you're trying to zoom in real fast or out. and sometimes the typing does not catch the proper letters and I think it has to do with this phone. Also sometimes when I use speak to text it's not responsive and I have to say the same thing twice which can definitely be annoying. but overall you cant complain too much with a phone like this for the price. It's funny, even while writing this review twice the speak to text did not respond. But again it takes pretty decent photos and it's impressive the low light photos that it takes. The phone seems to work okay and I've never really had a problem connecting to Wi-Fi etc. I'm definitely going back to the iPhone though I'll tell you that. I purchased this because I was in another country and I didn't have a choice. But it has done the job so if you're really really tight on money I would say this is a good option for you for sure or the newer Moto G7",
+        "rating": 4,
+        "helpfulVotes": 1.0,
+        "review_processed": "You get what you pay for, but you do get a lot for the price of this phone. I don't think you could beat this phone for its price. There is definitely a noticeable difference with processing compared to like an iPhone. It takes pretty decent photos and it's impressive the low light photos that it takes.",
+        "aspect_sentiment": [
+            {
+                "term": "iphone",
+                "class": "positive",
+                "probability": [
+                    0.3397318124771118,
+                    0.2228843718767166,
+                    0.43738383054733276
+                ],
+                "context": [
+                    "There is definitely a noticeable difference with processing compared to like an iPhone."
+                ]
+            },
+            {
+                "term": "processing",
+                "class": "negative",
+                "probability": [
+                    0.7972412705421448,
+                    0.005069831386208534,
+                    0.19768886268138885
+                ],
+                "context": [
+                    "There is definitely a noticeable difference with processing compared to like an iPhone."
+                ]
+            },
+            {
+                "term": "price",
+                "class": "positive",
+                "probability": [
+                    0.09009699523448944,
+                    0.0030959765426814556,
+                    0.906807005405426
+                ],
+                "context": [
+                    "You get what you pay for, but you do get a lot for the price of this phone.",
+                    "I don't think you could beat this phone for its price."
+                ]
+            }
+        ]
+    },
+    "73": {
+        "review_id": 84,
+        "review_time": "2019-01-07",
+        "review": "happy girl..i was so scared to order a $600 8 plus off amazon and after reading some of the reviews it made me a lil more scared. i just got my phone in the mail today and it came in a nice little assorted box with a charger and everything. i took the phone out it already had a screen protector on so that was a plus, i cut it on and activated it with no problem, and so far it\u2019s working perfectly fine, just like new. so far so great :) thank you buyspry or however u spell it lol \u2764\ufe0f",
+        "rating": 5,
+        "helpfulVotes": 109.0,
+        "review_processed": "I was so scared to order a $600 8 plus off Amazon, and after reading some of the reviews it made me a lil more scared. I just got my phone in the mail today and it came in a nice little assorted box with a charger and everything. It already had a screen protector on, so that was a plus, and so far its working perfectly fine, just like new.",
+        "aspect_sentiment": [
+            {
+                "term": "screen protector",
+                "class": "negative",
+                "probability": [
+                    0.7952927350997925,
+                    0.18517662584781647,
+                    0.01953054592013359
+                ],
+                "context": [
+                    "It already had a screen protector on, so that was a plus, and so far its working perfectly fine, just like new."
+                ]
+            },
+            {
+                "term": "charger",
+                "class": "positive",
+                "probability": [
+                    0.005791584961116314,
+                    0.003448265604674816,
+                    0.9907602071762085
+                ],
+                "context": [
+                    "I just got my phone in the mail today and it came in a nice little assorted box with a charger and everything."
+                ]
+            }
+        ]
+    },
+    "74": {
+        "review_id": 85,
+        "review_time": "2017-02-13",
+        "review": "Four Stars.old school still working in the new age",
+        "rating": 4,
+        "helpfulVotes": 1.0,
+        "review_processed": "Four Stars.old school still working in the new age",
+        "aspect_sentiment": [
+            {
+                "term": "stars",
+                "class": "positive",
+                "probability": [
+                    0.0026412212755531073,
+                    0.014355821534991264,
+                    0.9830029606819153
+                ],
+                "context": [
+                    "Four Stars.old school still working in the new age"
+                ]
+            }
+        ]
+    },
+    "75": {
+        "review_id": 87,
+        "review_time": "2019-08-26",
+        "review": "Drops mobile data.Bought this phone in March 2019 and after a few months it started dropping mobile data. After repeated checks with my service provider it was confirmed that the problem was with the phone and not the service. This was verified through various forums and chats by other persons in different countries with the S10 who had the same problem. Whenever I leave an area with wifi, I have to go to the sim card manager and change from 4g to 3g then back to 4g to get mobile data. As soon as I get a call I lose mobile data and have to go 3g then 4g again to get it back. Same thing if the signal gets weak or I go in and out of a wifi area. Huge risk if attempted while driving. I have reset the phone, reseated the sim card and tried other recommended fixes to no avail. No warranty so buyer beware. Very disappointed.",
+        "rating": 2,
+        "helpfulVotes": 3.0,
+        "review_processed": "After a few months it started dropping mobile data. After repeated checks with my service provider it was confirmed that the problem was with the phone and not the service. I have reset the phone, reseated the sim card and tried other recommended fixes to no avail. No warranty so buyer beware.",
+        "aspect_sentiment": [
+            {
+                "term": "sim card",
+                "class": "neutral",
+                "probability": [
+                    0.09152810275554657,
+                    0.8972421884536743,
+                    0.01122965570539236
+                ],
+                "context": [
+                    "I have reset the phone, reseated the sim card and tried other recommended fixes to no avail."
+                ]
+            },
+            {
+                "term": "service",
+                "class": "negative",
+                "probability": [
+                    0.8976816534996033,
+                    0.1012272760272026,
+                    0.001091059297323227
+                ],
+                "context": [
+                    "After repeated checks with my service provider it was confirmed that the problem was with the phone and not the service."
+                ]
+            },
+            {
+                "term": "phone",
+                "class": "negative",
+                "probability": [
+                    0.9882333874702454,
+                    0.011421257629990578,
+                    0.0003454487305134535
+                ],
+                "context": [
+                    "After repeated checks with my service provider it was confirmed that the problem was with the phone and not the service.",
+                    "I have reset the phone, reseated the sim card and tried other recommended fixes to no avail."
+                ]
+            },
+            {
+                "term": "service provider",
+                "class": "negative",
+                "probability": [
+                    0.7503181099891663,
+                    0.24703854322433472,
+                    0.002643325598910451
+                ],
+                "context": [
+                    "After repeated checks with my service provider it was confirmed that the problem was with the phone and not the service."
+                ]
+            },
+            {
+                "term": "warranty",
+                "class": "negative",
+                "probability": [
+                    0.9938024282455444,
+                    0.0013861049665138125,
+                    0.004811483435332775
+                ],
+                "context": [
+                    "No warranty so buyer beware."
+                ]
+            }
+        ]
+    },
+    "76": {
+        "review_id": 88,
+        "review_time": "2019-05-16",
+        "review": "Great value..Perfect phone.",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "Great value..Perfect phone.",
+        "aspect_sentiment": [
+            {
+                "term": "phone",
+                "class": "positive",
+                "probability": [
+                    7.842056947993115e-05,
+                    0.00012077036080881953,
+                    0.9998008608818054
+                ],
+                "context": [
+                    "Great value..Perfect phone."
+                ]
+            },
+            {
+                "term": "value",
+                "class": "positive",
+                "probability": [
+                    7.602128607686609e-05,
+                    0.00012241589138284326,
+                    0.9998015761375427
+                ],
+                "context": [
+                    "Great value..Perfect phone."
+                ]
+            }
+        ]
+    },
+    "77": {
+        "review_id": 89,
+        "review_time": "2016-11-07",
+        "review": "Great product.Excellent product, \"like new\". Really meant like new, no flaws or signs of use.Activated with no problems after getting sim card at Sprint dealer for no charge. Will buy from red cell again!",
+        "rating": 5,
+        "helpfulVotes": 1.0,
+        "review_processed": "Great product. \"Like new\" really meant like new, with no flaws or signs of use. Will buy from red cell again.Activated with no problems after getting a sim card at Sprint dealer for no charge; will buy from them again. correct:",
+        "aspect_sentiment": [
+            {
+                "term": "sim card",
+                "class": "positive",
+                "probability": [
+                    0.04450772702693939,
+                    0.008798858150839806,
+                    0.9466934204101562
+                ],
+                "context": [
+                    "Will buy from red cell again.Activated with no problems after getting a sim card at Sprint dealer for no charge; will buy from them again."
+                ]
+            }
+        ]
+    },
+    "78": {
+        "review_id": 91,
+        "review_time": "2016-10-06",
+        "review": "I got a bad phone, they don't have inventory so I have ....The phone doesn't work with T-Mobile SIM card, contacted Sony officials and they told me they do not know which carrier is compatible with Xperia and asked me to contact the seller. According the Amazon representatives, I got a bad phone, they don't have inventory so I have to get a refund. I don't know if I'm the only one experiencing this issue, but it's very annoying. Extra star for good looking",
+        "rating": 2,
+        "helpfulVotes": 15.0,
+        "review_processed": "I got a bad phone, they don't have inventory, so I have to get a refund. The phone doesn't work with T-Mobile SIM card. I don't know if I'm the only one experiencing this issue, but it's very annoying.",
+        "aspect_sentiment": [
+            {
+                "term": "mobile sim card",
+                "class": "negative",
+                "probability": [
+                    0.9980844259262085,
+                    0.001687114592641592,
+                    0.00022843283659312874
+                ],
+                "context": [
+                    "The phone doesn't work with T-Mobile SIM card."
+                ]
+            },
+            {
+                "term": "t",
+                "class": "negative",
+                "probability": [
+                    0.9986629486083984,
+                    0.0006547236698679626,
+                    0.0006822266150265932
+                ],
+                "context": [
+                    "I got a bad phone, they don't have inventory, so I have to get a refund.",
+                    "The phone doesn't work with T-Mobile SIM card.",
+                    "I don't know if I'm the only one experiencing this issue, but it's very annoying."
+                ]
+            }
+        ]
+    },
+    "79": {
+        "review_id": 92,
+        "review_time": "2019-10-13",
+        "review": "Received used phone...The phone I received was used. It has a screen protector that it shouldn't and a scuff mark on the back from the previous owner case..",
+        "rating": 1,
+        "helpfulVotes": 5.0,
+        "review_processed": "The phone I received was used. It has a screen protector that it shouldn't have, and a scuff mark on the back from the previous owner's case. correct: received used phone, not new one; it has screen protector on it that shouldn't be there.",
+        "aspect_sentiment": [
+            {
+                "term": "screen protector",
+                "class": "negative",
+                "probability": [
+                    0.9952345490455627,
+                    0.0030423616990447044,
+                    0.001723193796351552
+                ],
+                "context": [
+                    "It has a screen protector that it shouldn't have, and a scuff mark on the back from the previous owner's case.",
+                    "correct: received used phone, not new one; it has screen protector on it that shouldn't be there."
+                ]
+            }
+        ]
+    },
+    "80": {
+        "review_id": 93,
+        "review_time": "2019-10-27",
+        "review": "Loving it.The phone arrived in great condition no scratches. I have been wanting to get this phone for a while and I think preowned version is worth it if it is certified from amazon Onky things I don't like are USB C cable and the charger. Both are poorly made and cable broke on the first day. I would appreciate it if I recieved a high quality cable and charger. Other than that I am having great time owning a pre preowned samsung s10e",
+        "rating": 5,
+        "helpfulVotes": 2.0,
+        "review_processed": "I have been wanting to get this phone for a while and I think preowned version is worth it if it is certified from Amazon. I don't like the USB C cable and the charger. Both are poorly made and cable broke on the first day. Other than that I am having great time owning a pre preowned samsung s10e.",
+        "aspect_sentiment": [
+            {
+                "term": "samsung",
+                "class": "negative",
+                "probability": [
+                    0.9721375703811646,
+                    0.0015519793378189206,
+                    0.02631048858165741
+                ],
+                "context": [
+                    "Other than that I am having great time owning a pre preowned samsung s10e."
+                ]
+            },
+            {
+                "term": "usb c cable",
+                "class": "negative",
+                "probability": [
+                    0.9974429607391357,
+                    0.0003393786901142448,
+                    0.002217736328020692
+                ],
+                "context": [
+                    "I don't like the USB C cable and the charger."
+                ]
+            },
+            {
+                "term": "charger",
+                "class": "negative",
+                "probability": [
+                    0.9952196478843689,
+                    0.0006753102061338723,
+                    0.004104995168745518
+                ],
+                "context": [
+                    "I don't like the USB C cable and the charger."
+                ]
+            }
+        ]
+    },
+    "81": {
+        "review_id": 94,
+        "review_time": "2014-09-21",
+        "review": "Not happy that it was falsely advertised and window 7.This phone does not have window 8 as advertised. Not happy that it was falsely advertised and window 7.8 does not support what I need it to. I would not buy from this supplier.",
+        "rating": 1,
+        "helpfulVotes": 1.0,
+        "review_processed": "Not happy that it was falsely advertised and window 7.8 does not support what I need it to. I would not buy from this supplier. This phone does not have window 8 as advertised; I'm not happy with the quality of the phone. It's not worth buying.",
+        "aspect_sentiment": [
+            {
+                "term": "quality",
+                "class": "negative",
+                "probability": [
+                    0.9987316727638245,
+                    0.0005562265287153423,
+                    0.0007120571681298316
+                ],
+                "context": [
+                    "This phone does not have window 8 as advertised; I'm not happy with the quality of the phone."
+                ]
+            },
+            {
+                "term": "window 8",
+                "class": "negative",
+                "probability": [
+                    0.9979588985443115,
+                    0.0006963437772355974,
+                    0.001344773336313665
+                ],
+                "context": [
+                    "Not happy that it was falsely advertised and window 7.8 does not support what I need it to.",
+                    "This phone does not have window 8 as advertised; I'm not happy with the quality of the phone."
+                ]
+            },
+            {
+                "term": "window 7 . 8",
+                "class": "negative",
+                "probability": [
+                    0.9981350898742676,
+                    0.0005887879524379969,
+                    0.0012761394027620554
+                ],
+                "context": [
+                    "Not happy that it was falsely advertised and window 7.8 does not support what I need it to."
+                ]
+            }
+        ]
+    },
+    "84": {
+        "review_id": 97,
+        "review_time": "2019-12-12",
+        "review": "Just ok.I bought this phone for my dad and he hasn't had any complains with it except for the fingerprint reader. The fingerprint reader never works on the first try. May be it takes getting used to.",
+        "rating": 4,
+        "helpfulVotes": 1.0,
+        "review_processed": "I bought this phone for my dad and he hasn't had any problems with it except for the fingerprint reader. The fingerprint reader never works on the first try. May be it takes getting used to; it's a new experience for him. It's just ok.",
+        "aspect_sentiment": [
+            {
+                "term": "fingerprint reader",
+                "class": "negative",
+                "probability": [
+                    0.9972649812698364,
+                    0.0012121968902647495,
+                    0.0015228168340399861
+                ],
+                "context": [
+                    "I bought this phone for my dad and he hasn't had any problems with it except for the fingerprint reader.",
+                    "The fingerprint reader never works on the first try."
+                ]
+            }
+        ]
+    },
+    "85": {
+        "review_id": 98,
+        "review_time": "2018-02-17",
+        "review": "If it doesn't work on your network, ask your provider if they'll troubleshoot for you.I nearly returned the phone because it originally didn't want to work on my network (T-mobile) however Buyspry emailed me saying that the phone is unlocked and should work. I figured I'd give T-Mobile a call and see if they could help. They said I could take it in and they would troubleshoot it for me. They managed to fix it and didn't charge me anything. All in all, I'm glad I didn't return it because it is a beautiful phone. It works great and looks brand new. Really glad this worked out",
+        "rating": 4,
+        "helpfulVotes": 1.0,
+        "review_processed": "If it doesn't work on your network, ask your provider if they'll troubleshoot for you. I nearly returned the phone because it originally didn't want to work on my network. However Buyspry emailed me saying that the phone is unlocked and should work. I figured I'd give T-Mobile a call and see if they could help. They managed to fix it and didn't charge me anything.",
+        "aspect_sentiment": [
+            {
+                "term": "mobile",
+                "class": "negative",
+                "probability": [
+                    0.9468826055526733,
+                    0.0483524464070797,
+                    0.004764978773891926
+                ],
+                "context": [
+                    "I figured I'd give T-Mobile a call and see if they could help."
+                ]
+            },
+            {
+                "term": "provider",
+                "class": "negative",
+                "probability": [
+                    0.9969066977500916,
+                    0.0024578548036515713,
+                    0.0006354628130793571
+                ],
+                "context": [
+                    "If it doesn't work on your network, ask your provider if they'll troubleshoot for you."
+                ]
+            }
+        ]
+    },
+    "86": {
+        "review_id": 99,
+        "review_time": "2018-11-20",
+        "review": "Superb Seller not great product.I had two issues with the phone causing me to return it. 1) battery drained very quickly. Approximately 20% in an hour with the phone over heating, 2) Struggled to get cell signal(AT&T). Phone feels good (I have the Qualcomm US version) which I don't experience any of these issues. It might have been a bad unit or the Korean chip isn't as smooth as Qualcomm! Seller is impressive, responsive and the product was brand new sealed!",
+        "rating": 3,
+        "helpfulVotes": 2.0,
+        "review_processed": "I had two issues with the phone that caused me to return it. The battery drained very quickly. It might have been a bad unit or the Korean chip isn't as smooth as the US version. Seller is impressive, responsive and the product was brand new sealed!",
+        "aspect_sentiment": [
+            {
+                "term": "chip",
+                "class": "negative",
+                "probability": [
+                    0.998975396156311,
+                    0.0007515802280977368,
+                    0.0002730774285737425
+                ],
+                "context": [
+                    "It might have been a bad unit or the Korean chip isn't as smooth as the US version."
+                ]
+            },
+            {
+                "term": "korean",
+                "class": "negative",
+                "probability": [
+                    0.9976118803024292,
+                    0.0020922331605106592,
+                    0.000295888603432104
+                ],
+                "context": [
+                    "It might have been a bad unit or the Korean chip isn't as smooth as the US version."
+                ]
+            },
+            {
+                "term": "battery",
+                "class": "negative",
+                "probability": [
+                    0.9991017580032349,
+                    0.0005314857116900384,
+                    0.000366780674085021
+                ],
+                "context": [
+                    "The battery drained very quickly."
+                ]
+            }
+        ]
+    }
+}
